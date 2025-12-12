@@ -18,16 +18,16 @@ def host_assistant(state: AgentState) -> AgentState:
         available_sets = [s for s in state["RemainingSets"] if state["RemainingPlayers"].get(s)]
         logger.info(f"Available sets with players: {available_sets}")
         
+        
+        
+        # Update RemainingSets to only include available sets
+        state["RemainingSets"] = available_sets.copy()
+        logger.info(f"Updated RemainingSets to: {state['RemainingSets']}")
         if not available_sets:
             # No more players to auction
             logger.info("No more players available!")
             logger.info("="*60)
             return state
-        
-        # Update RemainingSets to only include available sets
-        state["RemainingSets"] = available_sets.copy()
-        logger.info(f"Updated RemainingSets to: {state['RemainingSets']}")
-        
         state["CurrentSet"] = random.choice(available_sets)
         state["RemainingPlayersInSet"] = state["RemainingPlayers"][state["CurrentSet"]].copy()
         state['RemainingSets'].remove(state["CurrentSet"])
