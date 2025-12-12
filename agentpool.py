@@ -6,6 +6,10 @@ from utils import AgentState, CompetitiveBidInfo
 from gemini import GeminiClient
 from langgraph.prebuilt import InjectedState
 
+import logging
+import random
+
+logger = logging.getLogger(__name__)
 
 def bidder(team_id: Literal["TeamA", "TeamB", "TeamC"], is_raise: bool, is_normal: Optional[bool], raised_amount: Optional[float], state: AgentState) -> CompetitiveBidInfo:
     """Generate a competitive bid info based on the provided arguments and current agent state.
@@ -68,17 +72,17 @@ def agent_pool(state: AgentState) -> AgentState:
     """
     current_player = state.get("CurrentPlayer")
     if not current_player:
-        print("\nAGENT POOL: No current player, skipping")
+        logger.info("AGENT POOL: No current player, skipping")
         return state
     
     current_bid = state.get("CurrentBid")
     current_bid_team = current_bid.team if current_bid else None
     
-    print("\n" + "="*60)
-    print("AGENT POOL - Bidding Round")
-    print(f"Player: {current_player.name}")
-    print(f"Current bid: {f'₹{current_bid.current_bid_amount:.2f} by {current_bid.team}' if current_bid else 'No bids yet'}")
-    print(f"Round: {state.get('Round')}")
+    logger.info("="*60)
+    logger.info("AGENT POOL - Bidding Round")
+    logger.info(f"Player: {current_player.name}")
+    logger.info(f"Current bid: {f'₹{current_bid.current_bid_amount:.2f} by {current_bid.team}' if current_bid else 'No bids yet'}")
+    logger.info(f"Round: {state.get('Round')}")
     
     # Initialize OtherTeamBidding if needed
     if state.get("OtherTeamBidding") is None:
@@ -91,19 +95,18 @@ def agent_pool(state: AgentState) -> AgentState:
     # For now, teams will bid with 50% probability and use normal raise
     teams = ["TeamA", "TeamB", "TeamC"]
     
-    print(f"Current bid holder: {current_bid_team if current_bid_team else 'None'}")
-    print("Teams evaluating bids:")
+    logger.info(f"Current bid holder: {current_bid_team if current_bid_team else 'None'}")
+    logger.info("Teams evaluating bids:")
     
     for team_id in teams:
         # Skip if this team is the current bid holder
         if current_bid_team == team_id:
-            print(f"  {team_id}: Skipped (current bid holder)")
+            logger.info(f"  {team_id}: Skipped (current bid holder)")
             continue
         
-        # Simple bidding logic: 20% chance to bid
-        import random
+        # Simple bidding logic: 45% chance to bid
         will_bid = random.random() > 0.55
-        print(f"  {team_id}: Budget=₹{state.get(f'{team_id}_Budget', 0):.2f} Cr, Will bid={will_bid}")
+        logger.info(f"  {team_id}: Budget=₹{state.get(f'{team_id}_Budget', 0):.2f} Cr, Will bid={will_bid}")
         
         if will_bid:
             try:
@@ -116,11 +119,11 @@ def agent_pool(state: AgentState) -> AgentState:
                     state=state
                 )
                 state["OtherTeamBidding"][team_id] = bid_info
-                print(f"    ✓ {team_id} placed a bid!")
+                logger.info(f"    ✓ {team_id} placed a bid!")
             except Exception as e:
-                print(f"    ✗ Error creating bid for {team_id}: {e}")
+                logger.error(f"    ✗ Error creating bid for {team_id}: {e}")
     
-    print(f"Total bids received: {len(state['OtherTeamBidding'])}")
-    print("="*60)
+    logger.info(f"Total bids received: {len(state['OtherTeamBidding'])}")
+    logger.info("="*60)
     return state
 

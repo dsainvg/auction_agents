@@ -1,9 +1,21 @@
+import logging
 from langgraph.graph import StateGraph, END
 from utils import *
 from host import host
 from host_assistant import host_assistant
 from agentpool import agent_pool
 from trade_master import trademaster
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('auction.log', mode='w'),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
 
 # Initialize agent state with proper values
 agent: AgentState = {
@@ -65,13 +77,13 @@ graph = graph_builder.compile()
 
 # Run the auction
 prettyprint(agent)
-print("\nStarting auction...\n")
+logger.info("Starting auction...\n")
 # Save the graph visualization
 with open('graph_visualization.png', 'wb') as f:
     f.write(graph.get_graph().draw_mermaid_png())
 # Run the graph with increased recursion limit
-result = graph.invoke(agent, {"recursion_limit": 10000})
+result = graph.invoke(agent, {"recursion_limit": 1000})
 
-print("\nFinal state:")
+logger.info("\nAuction completed!")
 prettyprint(result)
 

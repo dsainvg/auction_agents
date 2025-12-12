@@ -2,6 +2,9 @@ from typing import TypedDict, Optional, List, Dict, Union, Literal
 from dataclasses import dataclass
 import csv
 import os
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 
@@ -101,41 +104,41 @@ def load_player_data() -> dict[Literal['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC
                 players_by_set[player_set].append(player)
                 
     except FileNotFoundError:
-        print(f"Error: CSV file not found at {csv_path}")
+        logger.error(f"Error: CSV file not found at {csv_path}")
     except Exception as e:
-        print(f"Error loading player data: {e}")
+        logger.error(f"Error loading player data: {e}")
     
     return players_by_set
 
 def prettyprint(agent_state: AgentState) -> None:
     """Pretty print the agent state."""
-    print("\n" + "="*60)
-    print("AGENT STATE")
-    print("="*60)
+    logger.info("\n" + "="*60)
+    logger.info("AGENT STATE")
+    logger.info("="*60)
     for key, value in agent_state.items():
-        print(f"\n{key.upper()}:")
+        logger.info(f"\n{key.upper()}:")
         if isinstance(value, list):
             # Handle list of players (TeamA, TeamB, TeamC)
             if not value:
-                print("  (empty)")
+                logger.info("  (empty)")
             else:
                 for i, item in enumerate(value, 1):
                     if isinstance(item, Player):
-                        print(f"  {i}. {item.name} ({item.role}) - ₹{item.sold_price:.2f}Cr")
+                        logger.info(f"  {i}. {item.name} ({item.role}) - ₹{item.sold_price:.2f}Cr")
                     else:
-                        print(f"  {i}. {item}")
+                        logger.info(f"  {i}. {item}")
         elif isinstance(value, dict):
             # Handle dict of sets with player lists (RemainingPlayers)
             for set_name, players in value.items():
                 if isinstance(players, list) and players and isinstance(players[0], Player):
-                    print(f"  {set_name}: {len(players)} players")
+                    logger.info(f"  {set_name}: {len(players)} players")
                     for i, player in enumerate(players, 1):
-                        print(f"    {i}. {player.name} ({player.role}) - Base: ₹{player.base_price:.2f}Cr, Prev: ₹{player.previous_sold_price:.2f}Cr")
+                        logger.info(f"    {i}. {player.name} ({player.role}) - Base: ₹{player.base_price:.2f}Cr, Prev: ₹{player.previous_sold_price:.2f}Cr")
                 else:
-                    print(f"  {set_name}: {players}")
+                    logger.info(f"  {set_name}: {players}")
         else:
-            print(f"  {value}")
-    print("="*60 + "\n")
+            logger.info(f"  {value}")
+    logger.info("="*60 + "\n")
 
 def get_raise_amount(current_price: float) -> float:
     """Determine the raise amount based on current price."""

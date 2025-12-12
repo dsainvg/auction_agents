@@ -1,4 +1,7 @@
+import logging
 from utils import AgentState, CurrentBidInfo, get_raise_amount
+
+logger = logging.getLogger(__name__)
 
 def trademaster(state: AgentState) -> AgentState:
     """Trade master function to manage trades and update the agent state accordingly.
@@ -16,8 +19,8 @@ def trademaster(state: AgentState) -> AgentState:
     if not state:
         raise ValueError("State cannot be None or empty.")
     
-    print("\n" + "="*60)
-    print("TRADEMASTER - Processing Bids")
+    logger.info("\n" + "="*60)
+    logger.info("TRADEMASTER - Processing Bids")
     
     # Get current bidding information
     other_bids = state.get("OtherTeamBidding", {})  # Dict[team, CompetitiveBidInfo]
@@ -25,24 +28,24 @@ def trademaster(state: AgentState) -> AgentState:
     current_round = state.get("Round", 0)
     current_player = state.get("CurrentPlayer")
     
-    print(f"Player: {current_player.name if current_player else 'None'}")
-    print(f"Current Round: {current_round}")
-    print(f"Current Bid: {f'₹{current_bid_obj.current_bid_amount:.2f} by {current_bid_obj.team}' if current_bid_obj else 'None'}")
-    print(f"Other Bids Received: {len(other_bids)}")
+    logger.info(f"Player: {current_player.name if current_player else 'None'}")
+    logger.info(f"Current Round: {current_round}")
+    logger.info(f"Current Bid: {f'₹{current_bid_obj.current_bid_amount:.2f} by {current_bid_obj.team}' if current_bid_obj else 'None'}")
+    logger.info(f"Other Bids Received: {len(other_bids)}")
     for team, bid in other_bids.items():
-        print(f"  - {team}: is_raise={bid.is_raise}, is_normal={bid.is_normal}, raised_amount={bid.raised_amount}")
+        logger.info(f"  - {team}: is_raise={bid.is_raise}, is_normal={bid.is_normal}, raised_amount={bid.raised_amount}")
     
     if not current_player:
-        print("No current player, returning")
-        print("="*60)
+        logger.info("No current player, returning")
+        logger.info("="*60)
         return state
     
     # Case 1: No current bid AND no other bids → player goes directly to unsold
     if (current_bid_obj is None) and (not other_bids or len(other_bids) == 0):
-        print("\nCASE 1: No bids at all - Player UNSOLD")
+        logger.info("\nCASE 1: No bids at all - Player UNSOLD")
         # Player unsold - add to UnsoldPlayers
         state["UnsoldPlayers"].append(current_player)
-        print(f"Added {current_player.name} to UnsoldPlayers")
+        logger.info(f"Added {current_player.name} to UnsoldPlayers")
         
         # Move to next player
         state["CurrentPlayer"] = None
@@ -50,23 +53,23 @@ def trademaster(state: AgentState) -> AgentState:
         state["CurrentBid"] = None
         state["Round"] = 0
         state["OtherTeamBidding"] = {}
-        print("Reset state for next player")
-        print("="*60)
+        logger.info("Reset state for next player")
+        logger.info("="*60)
         
         return state
     
     # Case 2: Check if there are any new bids
     if not other_bids or len(other_bids) == 0:
-        print("\nCASE 2: No new bids this round")
+        logger.info("\nCASE 2: No new bids this round")
         # No bids received, increment round
         state["Round"] = current_round + 1
-        print(f"Incrementing round to {state['Round']}")
+        logger.info(f"Incrementing round to {state['Round']}")
         # Clear the bidding dict for next round
         state["OtherTeamBidding"] = {}
         
         # Check if round limit reached
         if state["Round"] > 3:
-            print("Round limit exceeded (>3)")
+            logger.info("Round limit exceeded (>3)")
             current_bid_final = state.get("CurrentBid")
             
             if current_player and current_bid_final and current_bid_final.team:
@@ -111,10 +114,10 @@ def trademaster(state: AgentState) -> AgentState:
     
     # Case 3: There are other bids to process
     else:
-        print("\nCASE 3: Processing new bids")
+        logger.info("\nCASE 3: Processing new bids")
         # Check if CurrentBid exists
         if current_bid_obj is None:
-            print("No current bid - selecting first bid")
+            logger.info("No current bid - selecting first bid")
             # No current bid, process bids starting from base price with priorities
             current_bid_amount = current_player.base_price
             
@@ -178,16 +181,16 @@ def trademaster(state: AgentState) -> AgentState:
                 )
                 state["CurrentBid"] = new_current_bid
                 state["Round"] = 0
-                print(f"First bid accepted: {best_team} bids ₹{best_bid_amount:.2f} Cr")
+                logger.info(f"First bid accepted: {best_team} bids ₹{best_bid_amount:.2f} Cr")
             else:
-                print("No valid bids found")
+                logger.info("No valid bids found")
             
             state["OtherTeamBidding"] = {}
-            print("="*60)
+            logger.info("="*60)
             return state
         
         else:
-            print(f"Current bid exists: ₹{current_bid_obj.current_bid_amount:.2f} by {current_bid_obj.team}")
+            logger.info(f"Current bid exists: ₹{current_bid_obj.current_bid_amount:.2f} by {current_bid_obj.team}")
             # Current bid exists, process the other bids (max 2)
             current_bid_amount = current_bid_obj.current_bid_amount
             
@@ -253,17 +256,18 @@ def trademaster(state: AgentState) -> AgentState:
                 )
                 state["CurrentBid"] = new_current_bid
                 state["Round"] = 0
-                print(f"Bid updated: {best_team} raises to ₹{best_bid_amount:.2f} Cr")
+                logger.info(f"Bid updated: {best_team} raises to ₹{best_bid_amount:.2f} Cr")
             else:
                 # Bids received but none were valid, increment round
                 state["Round"] = current_round + 1
-                print(f"No valid counter-bids, incrementing round to {state['Round']}")
+                logger.info(f"No valid counter-bids, incrementing round to {state['Round']}")
             
             # Clear the bidding dict for next round
             state["OtherTeamBidding"] = {}
-            print("="*60)
+            logger.info("="*60)
             
             return state
     
-    print("="*60)
+    logger.info("="*60)
     return state
+
