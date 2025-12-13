@@ -1,0 +1,67 @@
+================================================================================
+IPL PLAYER PROFILE: JOFRA ARCHER
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Jofra Archer
+  IPL Debut                : 2018
+  Date of Birth            : 01 April 1995
+  Total IPL Matches        : 52
+  Role                     : WK-Batter
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A skillful bowler who can bowl express pace, a hard-hitting lower-order
+  batter and, an excellent fielder, Jofra Archer is a livewire and a fierce
+  competitor on the field. Known for raw pace, Jofra made his IPL debut for
+  Rajasthan Royals in 2018. He continued to play for the franchise for three
+  years and perform impressively. In the 2020 edition, he picked up 20 wickets
+  at an impressive strike rate of 16.70. He contributed impressively with the
+  bat too in that edition with quick-fire finishes lower down the order which
+  earned him the MVP award in that year. He was bought by Mumbai Indians in
+  2022 but injuries have forced him to stay in and out of action in the last
+  2-3 years. It will be a homecoming for the England fast bowler as he was
+  picked up by Rajasthan Royals in IPL 2025 for a whopping INR 12.50 Crore.
+  With Jofra back, RR will look to build their pace attack around him and
+  similarly for Jofra, he will look mark his IPL return into a sweet
+  homecoming.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best strike rate: 16.70.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    52    |    13    |   262    |    30    |  13.79   |   178    |  147.19  |    0     |    0     |    14    |    18    |    11    |    0    
+    2025   |    12    |    1     |    63    |    30    |  10.50   |    50    |  126.00  |    0     |    0     |    3     |    4     |    1     |    0    
+    2023   |    5     |    2     |    4     |    3*    |    -     |    4     |  100.00  |    0     |    0     |    0     |    0     |    1     |    0    
+    2020   |    14    |    4     |   113    |   27*    |  18.83   |    63    |  179.36  |    0     |    0     |    5     |    10    |    5     |    0    
+    2019   |    11    |    3     |    67    |   27*    |  33.50   |    40    |  167.50  |    0     |    0     |    4     |    4     |    3     |    0    
+    2018   |    10    |    3     |    15    |    8     |   3.00   |    21    |  71.42   |    0     |    0     |    2     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    52    |   1218   |   1602   |    59    |   3/15   |  27.15   |   7.89   |  20.64   |    0     |    0    
+    2025   |    12    |   273    |   431    |    11    |   3/25   |  39.18   |   9.47   |  24.82   |    0     |    0    
+    2023   |    5     |   120    |   190    |    2     |   1/35   |  95.00   |   9.50   |  60.00   |    0     |    0    
+    2020   |    14    |   334    |   365    |    20    |   3/19   |  18.25   |   6.55   |  16.70   |    0     |    0    
+    2019   |    11    |   258    |   291    |    11    |   3/15   |  26.45   |   6.76   |  23.45   |    0     |    0    
+    2018   |    10    |   233    |   325    |    15    |   3/22   |  21.66   |   8.36   |  15.53   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/jofra-archer/3502
+================================================================================

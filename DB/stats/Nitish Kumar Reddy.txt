@@ -1,0 +1,55 @@
+================================================================================
+IPL PLAYER PROFILE: NITISH KUMAR REDDY
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Nitish Kumar Reddy
+  IPL Debut                : 2023
+  Date of Birth            : 26 May 2003
+  Total IPL Matches        : 28
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Nitish Kumar Reddy, a young and dynamic all-rounder from Andhra Pradesh,
+  has already built a remarkable career for himself at an early age. A
+  middle-order batter and a medium pacer, he first grabbed attention with a
+  stunning performance in the 2017-18 Vijay Merchant Trophy, where he started
+  with a triple-century for Andhra, followed by a 441 against Nagaland.
+  Nitish's impressive domestic form earned him a Test debut for India in
+  Australia, where he made an instant impact by scoring a century at the
+  Melbourne Cricket Ground (MCG). His all-round abilities have made him a
+  valuable asset, and he has been a part of Sunrisers Hyderabad since IPL
+  2023. Recognizing his potential, SRH has retained him for the TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    28    |    5     |   485    |   76*    |  28.53   |   365    |  132.88  |    0     |    2     |    31    |    25    |    12    |    0    
+    2025   |    13    |    3     |   182    |    32    |  22.75   |   153    |  118.95  |    0     |    0     |    16    |    4     |    6     |    0    
+    2024   |    13    |    2     |   303    |   76*    |  33.67   |   212    |  142.92  |    0     |    2     |    15    |    21    |    5     |    0    
+    2023   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    28    |   139    |   254    |    5     |   2/17   |  50.80   |  10.96   |  27.80   |    0     |    0    
+    2025   |    13    |    30    |    47    |    2     |   1/13   |  23.50   |   9.40   |  15.00   |    0     |    0    
+    2024   |    13    |    79    |   153    |    3     |   2/17   |  51.00   |  11.62   |  26.33   |    0     |    0    
+    2023   |    2     |    30    |    54    |    0     |   0/19   |    -     |  10.80   |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/nitish-kumar-reddy/5711
+================================================================================

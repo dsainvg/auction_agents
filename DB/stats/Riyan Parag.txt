@@ -1,0 +1,63 @@
+================================================================================
+IPL PLAYER PROFILE: RIYAN PARAG
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Riyan Parag
+  IPL Debut                : 2019
+  Date of Birth            : 10 November 2001
+  Total IPL Matches        : 84
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A member of India’s 2018 U19 World Cup-winning squad, Riyan Parag was
+  bought by Rajasthan Royals for INR 20 lakh in the third and final round of
+  the player auction before IPL 2019. Son of former Assam state cricketer
+  Parag Das and national record holder swimmer Mithu Baruah, Riyan can hit the
+  ball hard. The right-handed batsman made his IPL debut in 2019 and now holds
+  the record of being the youngest to score an IPL fifty. While he did not
+  score many runs in the IPL 2020 and even in 2021, RR have shown faith in his
+  abilities by buying him back at the mega auction for a whopping INR
+  3,80,00,000. Now that the two are reunited again, Riyan will be required to
+  play a bigger role.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    84    |    12    |   1566   |    95    |  26.10   |   1104   |  141.85  |    0     |    7     |   111    |    87    |    45    |    0    
+    2025   |    14    |    2     |   393    |    95    |  32.75   |   236    |  166.53  |    0     |    1     |    27    |    27    |    8     |    0    
+    2024   |    16    |    3     |   573    |   84*    |  52.09   |   384    |  149.22  |    0     |    4     |    40    |    33    |    7     |    0    
+    2023   |    7     |    1     |    78    |    20    |  13.00   |    66    |  118.18  |    0     |    0     |    4     |    5     |    1     |    0    
+    2022   |    17    |    3     |   183    |   56*    |  16.64   |   132    |  138.64  |    0     |    1     |    11    |    10    |    17    |    0    
+    2021   |    11    |    2     |    93    |    25    |  11.62   |    83    |  112.04  |    0     |    0     |    6     |    4     |    6     |    0    
+    2020   |    12    |    1     |    86    |   42*    |  12.28   |    77    |  111.68  |    0     |    0     |    6     |    3     |    1     |    0    
+    2019   |    7     |    0     |   160    |    50    |  32.00   |   126    |  126.98  |    0     |    1     |    17    |    5     |    5     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    84    |   295    |   477    |    7     |   1/10   |  68.14   |   9.70   |  42.14   |    0     |    0    
+    2025   |    14    |   120    |   170    |    3     |   1/12   |  56.67   |   8.50   |  40.00   |    0     |    0    
+    2024   |    16    |    18    |    27    |    0     |   0/10   |    -     |   9.00   |    -     |    0     |    0    
+    2023   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    17    |    24    |    59    |    1     |   1/12   |  59.00   |  14.75   |  24.00   |    0     |    0    
+    2021   |    11    |    37    |    73    |    1     |   1/7    |  73.00   |  11.83   |  37.00   |    0     |    0    
+    2020   |    12    |    12    |    27    |    0     |   0/13   |    -     |  13.50   |    -     |    0     |    0    
+    2019   |    7     |    84    |   121    |    2     |   1/10   |  60.50   |   8.64   |  42.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/riyan-parag/4445
+================================================================================

@@ -1,0 +1,62 @@
+================================================================================
+IPL PLAYER PROFILE: HEINRICH KLAASEN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Heinrich Klaasen
+  IPL Debut                : 2018
+  Date of Birth            : 30 July 1991
+  Total IPL Matches        : 49
+  Role                     : Wicketkeeper Batter
+  Nationality              : South African
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Heinrich Klaasen, one of the most aggressive white-ball batters from
+  South Africa, is known for his ability to smash bowlers all around the park.
+  The wicketkeeper-batter has consistently shown his power-hitting skills,
+  with his remarkable 174 off 83 balls against Australia in 2023 standing as
+  one of the highest scores by a No. 5 or lower batter in ODIs. Klaasen had
+  brief stints with RR and RCB before joining SRH in 2023, where he scored
+  400+ runs in both seasons, maintaining a strike rate of over 170 and even
+  registering a century. SRH retained him for TATA IPL 2025 owing to his
+  match-winning abilities in the middle order.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best strike rate: 170
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    48    |    8     |   1480   |   105*   |  40.00   |   872    |  169.72  |    2     |    7     |    98    |    89    |    21    |    7    
+    2025   |    13    |    2     |   487    |   105*   |  44.27   |   282    |  172.70  |    1     |    1     |    42    |    25    |    7     |    0    
+    2024   |    16    |    3     |   479    |   80*    |  39.92   |   280    |  171.07  |    0     |    4     |    19    |    38    |    8     |    2    
+    2023   |    12    |    2     |   448    |   104    |  49.78   |   253    |  177.08  |    1     |    2     |    32    |    25    |    3     |    1    
+    2019   |    3     |    0     |    9     |    6     |   4.50   |    10    |  90.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2018   |    4     |    1     |    57    |    32    |  19.00   |    47    |  121.27  |    0     |    0     |    5     |    1     |    3     |    4    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    48    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    3     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
+    2018   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/heinrich-klaasen/3869
+================================================================================

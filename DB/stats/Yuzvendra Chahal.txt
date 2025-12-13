@@ -1,0 +1,91 @@
+================================================================================
+IPL PLAYER PROFILE: YUZVENDRA CHAHAL
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Yuzvendra Chahal
+  IPL Debut                : 2013
+  Date of Birth            : 23 July 1990
+  Total IPL Matches        : 174
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    One of the premier leg-spinners going around in the world, Yuzvendra
+  Chahal, needs no introduction. Deception with flight, sharp turn, and luring
+  the batter to play a false shot will often be seen when Chahal spins his
+  magic. He has had a solid international career so far with the Indian team
+  in the limited-overs, picking up 121 wickets in ODIs and 96 wickets in
+  T20Is. Being the second-highest wicket-taker for India in T20Is shows his
+  quality as a game-changer of the highest quality. The crafty leg-spinner
+  began his IPL journey with Mumbai Indians in 2011, but it was with Royal
+  Challengers Bengaluru (RCB) from 2014 that he truly made his mark. He became
+  RCB’s leading wicket-taker over eight seasons, scalping 139 wickets in 113
+  matches. Chahal played a pivotal role in their 2016 final run, finishing as
+  the tournament’s second-highest wicket-taker with 21 scalps. After a stellar
+  stint, the Rajasthan Royals snapped him up ahead of the 2022 season, and
+  Chahal responded spectacularly, clinching the Purple Cap with 27 wickets
+  while guiding RR to the final. In 2023, he picked up 21 wickets, and in
+  2024, he added 18 more at an economy of 9.41, cementing his status as the
+  IPL’s all-time leading wicket-taker with 205 wickets by the end of that
+  season. He added another memorable milestone by becoming the first bowler to
+  reach 200 IPL wickets and was part of India’s ICC T20 World Cup-winning
+  squad in 2024. Ahead of IPL 2025, Punjab Kings secured his services for a
+  whopping INR 18 crore at the mega-auction, speaking volumes of his enduring
+  value. He joins PBKS as a core member, with the franchise banking on his
+  experience and wicket-taking ability to chase their maiden IPL title in
+  2025. With a career strike rate hovering around 17 in the IPL and a knack
+  for turning games, Punjab will look to their new spin spearhead to deliver
+  impactful performances in the season ahead.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   174    |    13    |    37    |    8*    |   5.29   |    86    |  43.02   |    0     |    0     |    0     |    0     |    32    |    0    
+    2025   |    14    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2024   |    15    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    5     |    0    
+    2023   |    14    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2022   |    17    |    1     |    5     |    5     |   5.00   |    8     |  62.50   |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    15    |    2     |    10    |    8*    |   0.00   |    27    |  37.03   |    0     |    0     |    0     |    0     |    4     |    0    
+    2020   |    15    |    1     |    1     |    1     |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    1     |    0    
+    2019   |    14    |    1     |    6     |    4     |   3.00   |    16    |  37.50   |    0     |    0     |    0     |    0     |    3     |    0    
+    2018   |    14    |    1     |    0     |    0*    |   0.00   |    4     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2017   |    13    |    3     |    13    |    4*    |   4.33   |    26    |  50.00   |    0     |    0     |    0     |    0     |    3     |    0    
+    2016   |    13    |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    4     |    0    
+    2015   |    15    |    2     |    1     |    1*    |   0.00   |    1     |  100.00  |    0     |    0     |    0     |    0     |    4     |    0    
+    2014   |    14    |    2     |    1     |    1*    |   0.00   |    1     |  100.00  |    0     |    0     |    0     |    0     |    3     |    0    
+    2013   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   174    |   3791   |   5032   |   221    |   5/40   |  22.77   |   7.96   |  17.15   |    8     |    1    
+    2025   |    14    |   270    |   430    |    16    |   4/28   |  26.88   |   9.56   |  16.88   |    2     |    0    
+    2024   |    15    |   348    |   546    |    18    |   3/11   |  30.33   |   9.41   |  19.33   |    0     |    0    
+    2023   |    14    |   317    |   432    |    21    |   4/17   |  20.57   |   8.18   |  15.10   |    3     |    0    
+    2022   |    17    |   408    |   527    |    27    |   5/40   |  19.52   |   7.75   |  15.11   |    1     |    1    
+    2021   |    15    |   318    |   374    |    18    |   3/11   |  20.77   |   7.05   |  17.66   |    0     |    0    
+    2020   |    15    |   343    |   405    |    21    |   3/18   |  19.28   |   7.08   |  16.33   |    0     |    0    
+    2019   |    14    |   296    |   386    |    18    |   4/38   |  21.44   |   7.82   |  16.44   |    1     |    0    
+    2018   |    14    |   300    |   363    |    12    |   2/22   |  30.25   |   7.26   |  25.00   |    0     |    0    
+    2017   |    13    |   261    |   333    |    14    |   3/16   |  23.78   |   7.65   |  18.64   |    0     |    0    
+    2016   |    13    |   295    |   401    |    21    |   4/25   |  19.09   |   8.15   |  14.04   |    1     |    0    
+    2015   |    15    |   281    |   415    |    23    |   3/40   |  18.04   |   8.86   |  12.21   |    0     |    0    
+    2014   |    14    |   330    |   386    |    12    |   2/17   |  32.16   |   7.01   |  27.50   |    0     |    0    
+    2013   |    1     |    24    |    34    |    0     |   0/34   |    -     |   8.50   |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/yuzvendra-chahal/111
+================================================================================

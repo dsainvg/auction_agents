@@ -1,0 +1,75 @@
+================================================================================
+IPL PLAYER PROFILE: ARSHDEEP SINGH
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Arshdeep Singh
+  IPL Debut                : 2019
+  Date of Birth            : 05 February 1999
+  Total IPL Matches        : 82
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    An astute and skillful left-arm pacer, Arshdeep Singh first burst onto
+  the IPL scene when Kings XI Punjab (now Punjab Kings) signed him for INR 20
+  lakh at the 2019 auction. Hailing from Guna, Madhya Pradesh, Arshdeep honed
+  his skills in Chandigarh. The left-arm pacer had already shone in Punjab’s
+  age-group cricket, while also playing a key role in India’s 2018 U19 World
+  Cup triumph with 7 wickets, including a frugal 1/7 in the final against
+  Australia. He made his first-class debut for Punjab in the 2018-19 Ranji
+  Trophy and debuted in T20s during the 2018 Syed Mushtaq Ali Trophy,
+  impressing with his swing and pace. His IPL breakthrough came in 2021,
+  taking 18 wickets in 12 matches, and he solidified his reputation in 2022
+  with 10 wickets, including a nerveless Super Over against Mumbai Indians.
+  Retained by PBKS for 2023 and 2024, he peaked in 2024 with 19 wickets in 14
+  matches, finishing as the joint third-highest wicket-taker with a standout
+  4/29 against Sunrisers Hyderabad. The year 2024 was a career-defining one
+  for the 26-year-old. Beyond his IPL heroics, Arshdeep starred in India’s T20
+  World Cup triumph, claiming 15 wickets, including a match-sealing 3/20 in
+  the final against South Africa and also won the ICC T20I Cricketer of the
+  Year. Ahead of IPL 2025, Punjab Kings bagged the left-armer for a whopping
+  INR 18 Crore, exhibiting the trust the franchise has on his abilities. As
+  Punjab chase their maiden IPL title in 2025 under Ricky Ponting’s guidance,
+  Arshdeep’s pinpoint yorkers, new-ball swing, and big-match temperament will
+  be pivotal to their campaign.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    82    |    8     |    31    |   10*    |   5.17   |    46    |  67.39   |    0     |    0     |    4     |    0     |    16    |    0    
+    2025   |    17    |    1     |    2     |    1     |   2.00   |    6     |  33.33   |    0     |    0     |    0     |    0     |    4     |    0    
+    2024   |    14    |    0     |    4     |    4     |   4.00   |    3     |  133.33  |    0     |    0     |    1     |    0     |    1     |    0    
+    2023   |    14    |    2     |    2     |    2*    |    -     |    2     |  100.00  |    0     |    0     |    0     |    0     |    1     |    0    
+    2022   |    14    |    3     |    21    |   10*    |   7.00   |    29    |  72.41   |    0     |    0     |    3     |    0     |    4     |    0    
+    2021   |    12    |    2     |    2     |    1*    |   0.00   |    3     |  66.66   |    0     |    0     |    0     |    0     |    4     |    0    
+    2020   |    8     |    0     |    0     |    0*    |   0.00   |    3     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2019   |    3     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    82    |   1714   |   2570   |    97    |   5/32   |  26.49   |   9.00   |  17.67   |    2     |    1    
+    2025   |    17    |   350    |   518    |    21    |   3/16   |  24.67   |   8.88   |  16.67   |    0     |    0    
+    2024   |    14    |   302    |   505    |    19    |   4/29   |  26.58   |  10.03   |  15.89   |    1     |    0    
+    2023   |    14    |   305    |   493    |    17    |   4/29   |  29.00   |   9.70   |  17.94   |    1     |    0    
+    2022   |    14    |   300    |   385    |    10    |   3/37   |  38.50   |   7.70   |  30.00   |    0     |    0    
+    2021   |    12    |   248    |   342    |    18    |   5/32   |  19.00   |   8.27   |  13.77   |    0     |    1    
+    2020   |    8     |   149    |   218    |    9     |   3/23   |  24.22   |   8.77   |  16.55   |    0     |    0    
+    2019   |    3     |    60    |   109    |    3     |   2/43   |  36.33   |  10.90   |  20.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/arshdeep-singh/4698
+================================================================================

@@ -1,0 +1,66 @@
+================================================================================
+IPL PLAYER PROFILE: DHRUV JUREL
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Dhruv Jurel
+  IPL Debut                : 2023
+  Date of Birth            : 21 January 2001
+  Total IPL Matches        : 42
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The young wicket-keeper batter got his first experience of the IPL after
+  he was signed up by RR at the mega auction ahead of the 15th season of the
+  IPL. Named vice-captain of India’s U19 World Cup side that took part in the
+  2020 edition, Jurel made his first-class debut in the 2022 season for Uttar
+  Pradesh and prior to that he also made his T20 debut in the Syed Mushtaq Ali
+  Trophy. He was retained by RR ahead of the 2023 season and he vindicated the
+  franchise's trust with impacful performances and finishing heroics. He
+  scored 152 runs at an excellent Strike Rate of 172.72. The year 2024 was
+  extremely fruitful for the young wicket-keeper batter. He smashed 195 runs
+  at a strike rate of 138.29 and was involved in many pivotal matches with
+  winning performances for RR. His heroics helped RR to qualify for the
+  playoffs. Soon after his IPL success, he made his international debut
+  against England in 2024 and impressed with a gritty 46 off 104 balls. Jurel
+  was one of the five players retained by Rajasthan Royals ahead of IPL 2025,
+  which shows the trust and respect he has earned as he now forms a core group
+  for the franchise. Rajasthan will be relying on his useful and impactful
+  performances ahead of IPL 2025 as they quest for their second IPL title.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best strike rate: 138.29
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    42    |    11    |   680    |    70    |  28.33   |   442    |  153.85  |    0     |    4     |    51    |    38    |    19    |    0    
+    2025   |    14    |    4     |   333    |    70    |  37.00   |   213    |  156.34  |    0     |    2     |    22    |    22    |    7     |    0    
+    2024   |    15    |    3     |   195    |   56*    |  24.38   |   141    |  138.30  |    0     |    2     |    18    |    7     |    11    |    0    
+    2023   |    13    |    4     |   152    |   34*    |  21.71   |    88    |  172.73  |    0     |    0     |    11    |    9     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    42    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/dhruv-jurel/20620
+================================================================================

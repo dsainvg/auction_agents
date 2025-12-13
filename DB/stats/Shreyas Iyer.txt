@@ -1,0 +1,88 @@
+================================================================================
+IPL PLAYER PROFILE: SHREYAS IYER
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Shreyas Iyer
+  IPL Debut                : 2015
+  Date of Birth            : 06 December 1994
+  Total IPL Matches        : 133
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Shreyas Iyer, a name synonymous with elegance and flair, has firmly
+  established himself in the cricketing world. Hailing from Mumbai, a city
+  renowned for producing legends, he is among the most promising batters of
+  his generation. He led India’s U19 side to the 2016 World Cup quarterfinals
+  with 315 runs in six matches and made waves in first-class cricket, debuting
+  for Mumbai in the 2014-15 Ranji Trophy with a stunning 173 against
+  Saurashtra. Iyer continued his dominance in domestic cricket, captaining
+  Mumbai to the Syed Mushtaq Ali Trophy title in 2024-25 with 281 runs at a
+  strike rate of 162.42, including a match-winning 73* off 33 in the final.
+  His brilliance was maximised in the 2023 ICC Cricket World Cup, where he
+  struck two centuries, including a sensational 105 against New Zealand in the
+  semi-final, playing a crucial role in India’s campaign. He further cemented
+  his stature in the ICC Champions Trophy 2025, finishing as the tournament’s
+  second-highest run-scorer and India's leading batter, proving instrumental
+  in India’s title-winning run. In the IPL, Iyer’s journey has been nothing
+  short of remarkable. After a breakthrough 2018 season with Delhi Daredevils
+  (now Delhi Capitals), where he amassed 411 runs, he took over the captaincy
+  in 2019, guiding them to consecutive playoffs in that year and the following
+  year. He was then picked by the Kolkata Knight Riders in 2024 and his
+  leadership peaked here. His led KKR to their third IPL title, scoring 351
+  runs at a strike rate of 146.86. At the 2025 mega auction, Punjab Kings
+  secured him for a record INR 26.75 crore, entrusting him with the captaincy
+  to spearhead their title quest. With PBKS chasing their maiden IPL triumph,
+  Iyer’s explosive batting and astute leadership will be pivotal in shaping a
+  core that could lead the franchise to long-awaited glory.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best strike rate: 162.42
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   133    |    23    |   3731   |   97*    |  34.23   |   2798   |  133.35  |    0     |    27    |   314    |   152    |    56    |    0    
+    2025   |    17    |    5     |   604    |   97*    |  50.33   |   345    |  175.07  |    0     |    6     |    43    |    39    |    7     |    0    
+    2024   |    15    |    5     |   351    |   58*    |  39.00   |   239    |  146.86  |    0     |    2     |    34    |    14    |    10    |    0    
+    2022   |    14    |    1     |   401    |    85    |  30.85   |   298    |  134.56  |    0     |    3     |    41    |    11    |    5     |    0    
+    2021   |    8     |    3     |   175    |   47*    |  35.00   |   171    |  102.33  |    0     |    0     |    7     |    5     |    6     |    0    
+    2020   |    17    |    2     |   519    |   88*    |  34.60   |   421    |  123.27  |    0     |    3     |    40    |    16    |    6     |    0    
+    2019   |    16    |    1     |   463    |    67    |  30.86   |   386    |  119.94  |    0     |    3     |    41    |    14    |    8     |    0    
+    2018   |    14    |    3     |   411    |   93*    |  37.36   |   310    |  132.58  |    0     |    4     |    29    |    21    |    5     |    0    
+    2017   |    12    |    2     |   338    |    96    |  33.80   |   243    |  139.09  |    0     |    2     |    36    |    10    |    3     |    0    
+    2016   |    6     |    0     |    30    |    19    |   5.00   |    43    |  69.76   |    0     |    0     |    2     |    1     |    4     |    0    
+    2015   |    14    |    1     |   439    |    83    |  33.76   |   342    |  128.36  |    0     |    4     |    41    |    21    |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   133    |    6     |    7     |    0     |   0/7    |    -     |   7.00   |    -     |    0     |    0    
+    2025   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    14    |    6     |    7     |    0     |   0/7    |    -     |   7.00   |    -     |    0     |    0    
+    2021   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/shreyas-iyer/1563
+================================================================================

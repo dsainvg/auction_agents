@@ -1,0 +1,58 @@
+================================================================================
+IPL PLAYER PROFILE: YASH DAYAL
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Yash Dayal
+  IPL Debut                : 2022
+  Date of Birth            : 13 December 1997
+  Total IPL Matches        : 43
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A left-arm pacer with a range of variations in his arsenal, Yash Dayal
+  plays for Uttar Pradesh on the domestic circuit. Playing for Gujarat Titans,
+  he made his TATA IPL debut in 2022 and a strong showing that saw him
+  claiming 11 wickets in nine games played a crucial role in GT’s title
+  victory. After another year with GT, he moved to the Royal Challengers
+  Bengaluru in 2024. Another good season saw him picking up 15 wickets, one of
+  them being the wicket of MS Dhoni in a thrilling finish at the M.
+  Chinnaswamy Stadium, thus helping RCB win that game en route to making it to
+  the playoffs. One of only three players retained by RCB ahead of the 2025
+  Mega Auction, there are huge expectations from Dayal in RCB’s quest for a
+  maiden title.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    43    |    1     |    4     |    3     |   1.33   |    9     |  44.44   |    0     |    0     |    0     |    0     |    8     |    0    
+    2025   |    15    |    1     |    4     |    3     |   2.00   |    8     |  50.00   |    0     |    0     |    0     |    0     |    3     |    0    
+    2024   |    14    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    3     |    0    
+    2023   |    5     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2022   |    9     |    0     |    0     |    0     |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    43    |   871    |   1390   |    41    |   3/20   |  33.90   |   9.58   |  21.24   |    0     |    0    
+    2025   |    15    |   294    |   470    |    13    |   2/18   |  36.15   |   9.59   |  22.62   |    0     |    0    
+    2024   |    14    |   301    |   459    |    15    |   3/20   |  30.60   |   9.15   |  20.07   |    0     |    0    
+    2023   |    5     |    84    |   165    |    2     |   1/31   |  82.50   |  11.79   |  42.00   |    0     |    0    
+    2022   |    9     |   192    |   296    |    11    |   3/40   |  26.91   |   9.25   |  17.45   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/yash-dayal/20591
+================================================================================

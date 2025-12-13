@@ -1,0 +1,70 @@
+================================================================================
+IPL PLAYER PROFILE: KRUNAL PANDYA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Krunal Pandya
+  IPL Debut                : 2016
+  Date of Birth            : 24 March 1991
+  Total IPL Matches        : 142
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    One of India’s talented pool of left-arm spin bowling all-rounders,
+  Krunal Pandya is equally effective in all three departments of the game.
+  Along with his range of skills, the older of the Pandya brothers also brings
+  championship-winning expertise as he has been a part of three title-winning
+  sides at Mumbai Indians (MI). Pandya is known for his ability to contain
+  opposition batters while also picking wickets, as well as striking at a
+  brisk pace as a batter in the middle order. After his highly successful time
+  at MI, Pandya was also part of the Lucknow Super Giants (LSG) side that made
+  back-to-back playoff appearances in 2022 and 2023. Royal Challengers
+  Bengaluru (RCB) acquired his services for TATA IPL 2025 at a price of INR
+  5.75 Crore.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   142    |    39    |   1756   |    86    |  22.23   |   1326   |  132.43  |    0     |    2     |   153    |    65    |    52    |    0    
+    2025   |    15    |    1     |   109    |   73*    |  18.17   |    86    |  126.74  |    0     |    1     |    9     |    4     |    6     |    0    
+    2024   |    14    |    8     |   133    |   43*    |  33.25   |   105    |  126.67  |    0     |    0     |    8     |    5     |    3     |    0    
+    2023   |    15    |    4     |   188    |    49    |  18.80   |   165    |  113.94  |    0     |    0     |    15    |    6     |    8     |    0    
+    2022   |    14    |    4     |   183    |    42    |  20.33   |   145    |  126.21  |    0     |    0     |    16    |    4     |    7     |    0    
+    2021   |    13    |    2     |   143    |    39    |  14.30   |   123    |  116.26  |    0     |    0     |    10    |    6     |    6     |    0    
+    2020   |    16    |    6     |   109    |    34    |  18.16   |    92    |  118.47  |    0     |    0     |    9     |    5     |    4     |    0    
+    2019   |    16    |    4     |   183    |    42    |  16.63   |   150    |  122.00  |    0     |    0     |    18    |    5     |    5     |    0    
+    2018   |    14    |    3     |   228    |   41*    |  22.80   |   157    |  145.22  |    0     |    0     |    22    |    10    |    9     |    0    
+    2017   |    13    |    4     |   243    |    47    |  34.71   |   179    |  135.75  |    0     |    0     |    24    |    7     |    2     |    0    
+    2016   |    12    |    3     |   237    |    86    |  39.50   |   124    |  191.12  |    0     |    1     |    22    |    13    |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   142    |   2398   |   2985   |    93    |   4/45   |  32.10   |   7.47   |  25.78   |    1     |    0    
+    2025   |    15    |   276    |   379    |    17    |   4/45   |  22.29   |   8.24   |  16.24   |    1     |    0    
+    2024   |    14    |   198    |   255    |    6     |   3/11   |  42.50   |   7.73   |  33.00   |    0     |    0    
+    2023   |    15    |   252    |   313    |    9     |   3/18   |  34.78   |   7.45   |  28.00   |    0     |    0    
+    2022   |    14    |   228    |   265    |    10    |   3/19   |  26.50   |   6.97   |  22.80   |    0     |    0    
+    2021   |    13    |   199    |   265    |    5     |   1/13   |  53.00   |   7.98   |  39.80   |    0     |    0    
+    2020   |    16    |   301    |   380    |    6     |   2/26   |  63.33   |   7.57   |  50.16   |    0     |    0    
+    2019   |    16    |   276    |   335    |    12    |   3/34   |  27.91   |   7.28   |  23.00   |    0     |    0    
+    2018   |    14    |   241    |   284    |    12    |   3/28   |  23.66   |   7.07   |  20.08   |    0     |    0    
+    2017   |    13    |   240    |   273    |    10    |   3/14   |  27.30   |   6.82   |  24.00   |    0     |    0    
+    2016   |    12    |   187    |   236    |    6     |   2/15   |  39.33   |   7.57   |  31.16   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/krunal-pandya/3183
+================================================================================

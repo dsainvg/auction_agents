@@ -1,0 +1,69 @@
+================================================================================
+IPL PLAYER PROFILE: SHIMRON HETMYER
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Shimron Hetmyer
+  IPL Debut                : 2019
+  Date of Birth            : 26 December 1996
+  Total IPL Matches        : 86
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Shimron Hetmyer endeared himself to the Indian crowd with his six-hitting
+  ability during the Windies’ limited overs tour of India in 2018. The
+  left-handed batter, who had played for Royal Challengers Bangalore in IPL
+  2019, made his way to Delhi Capitals after being bought for INR 7.75 crores
+  for the IPL 2020. Bought for a whopping 8.5 crore ahead of the 15th season,
+  Hetmyer scored 314 runs at an average of 44.86 and SR of 153.92 in a season
+  where RR reached the final. The 2023 season saw him continue his good work
+  as he amassed 299 runs at a healthy average of 37.37 and SR Of 151.77. He is
+  now an integral member of the RR squad and was bought by the franchise for
+  INR 11 Crore ahead of IPL 2025. With his aggressive batting and finishing
+  abilities, Hetmyer will once again be the vital cog for RR and expectations
+  from him will remain high.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best average: 44.86
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    86    |    28    |   1483   |    75    |  29.08   |   976    |  151.95  |    0     |    5     |    93    |    93    |    45    |    0    
+    2025   |    14    |    2     |   239    |    52    |  21.73   |   164    |  145.73  |    0     |    1     |    17    |    11    |    13    |    0    
+    2024   |    12    |    4     |   113    |   27*    |  22.60   |    69    |  163.77  |    0     |    0     |    9     |    7     |    4     |    0    
+    2023   |    14    |    5     |   300    |   56*    |  37.50   |   197    |  152.28  |    0     |    1     |    12    |    23    |    11    |    0    
+    2022   |    15    |    8     |   314    |   59*    |  44.86   |   204    |  153.92  |    0     |    1     |    21    |    21    |    3     |    0    
+    2021   |    14    |    6     |   242    |   53*    |  34.57   |   144    |  168.05  |    0     |    1     |    19    |    12    |    4     |    0    
+    2020   |    12    |    3     |   185    |    45    |  23.12   |   125    |  148.00  |    0     |    0     |    11    |    12    |    7     |    0    
+    2019   |    5     |    0     |    90    |    75    |  18.00   |    73    |  123.28  |    0     |    1     |    4     |    7     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    86    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/shimron-hetmyer/1705
+================================================================================

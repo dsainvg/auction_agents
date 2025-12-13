@@ -1,0 +1,57 @@
+================================================================================
+IPL PLAYER PROFILE: TRAVIS HEAD
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Travis Head
+  IPL Debut                : 2016
+  Date of Birth            : 29 December 1993
+  Total IPL Matches        : 38
+  Role                     : WK-Batter
+  Nationality              : Australian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Australia’s left-hander Travis Head is one of the most aggressive batters
+  in world cricket and can even bowl handy off-spin. Head is known for
+  stepping up on big occasions as reflected by his match-winning centuries in
+  the World Test Championship 2021-23 final and ODI World Cup 2023 final. The
+  Australian opener strikes at over 160 in T20Is and over 170 in the IPL. He
+  previously represented RCB but made a move to SRH in 2024 that saw him score
+  567 runs in 15 games including one century as well as a joint-fastest fifty
+  by an SRH batter (16 balls). Head formed a potent opening partnership with
+  Abhishek Sharma and is expected to deliver the same again after being
+  retained by SRH for TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    38    |    4     |   1146   |   102    |  34.73   |   674    |  170.03  |    1     |    8     |   126    |    55    |    5     |    0    
+    2025   |    13    |    0     |   374    |    76    |  31.17   |   230    |  162.61  |    0     |    3     |    50    |    15    |    3     |    0    
+    2024   |    15    |    1     |   567    |   102    |  40.50   |   296    |  191.55  |    1     |    4     |    64    |    32    |    0     |    0    
+    2017   |    7     |    2     |   151    |   75*    |  30.20   |   108    |  139.81  |    0     |    1     |    9     |    6     |    2     |    0    
+    2016   |    3     |    1     |    54    |    37    |  27.00   |    40    |  135.00  |    0     |    0     |    3     |    2     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    38    |    58    |   113    |    2     |   2/30   |  56.50   |  11.69   |  29.00   |    0     |    0    
+    2025   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    15    |    10    |    32    |    0     |   0/32   |    -     |  19.20   |    -     |    0     |    0    
+    2017   |    7     |    48    |    81    |    2     |   2/30   |  40.50   |  10.12   |  24.00   |    0     |    0    
+    2016   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/travis-head/1020
+================================================================================

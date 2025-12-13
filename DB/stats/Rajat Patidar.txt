@@ -1,0 +1,58 @@
+================================================================================
+IPL PLAYER PROFILE: RAJAT PATIDAR
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Rajat Patidar
+  IPL Debut                : 2021
+  Date of Birth            : 01 June 1993
+  Total IPL Matches        : 42
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    From joining RCB in TATA IPL 2022 as a replacement of the injured Luvnith
+  Sisodia for the price of INR 20 Lakh to being handed the team’s captaincy,
+  Rajat Patidar has come a long way. It was in the 2022 itself that Patidar
+  played one of the most special knocks under pressure, smashing his way to
+  112 off 54 balls against Lucknow Super Giants in the Eliminator. The
+  right-handed batter, who represents Madhya Pradesh in domestic cricket, has
+  continued to impress in the IPL and in domestic cricket since then with his
+  highly consistent performances and has even represented India in Tests and
+  ODIs. After leading Madhya Pradesh to the final of the Syed Mushtaq Ali T20
+  Trophy title in 2024, Patidar has now been given the responsibility of
+  guiding RCB to their maiden TATA IPL title.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    42    |    2     |   1111   |   112*   |  30.86   |   720    |  154.31  |    1     |    9     |    76    |    68    |    10    |    0    
+    2025   |    15    |    1     |   312    |    64    |  24.00   |   217    |  143.78  |    0     |    2     |    25    |    14    |    2     |    0    
+    2024   |    15    |    0     |   395    |    55    |  30.38   |   223    |  177.13  |    0     |    5     |    21    |    33    |    3     |    0    
+    2022   |    8     |    1     |   333    |   112*   |  55.50   |   218    |  152.75  |    1     |    2     |    27    |    18    |    4     |    0    
+    2021   |    4     |    0     |    71    |    31    |  17.75   |    62    |  114.51  |    0     |    0     |    3     |    3     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    42    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/rajat-patidar/5471
+================================================================================

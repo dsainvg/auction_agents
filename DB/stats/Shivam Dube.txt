@@ -1,0 +1,64 @@
+================================================================================
+IPL PLAYER PROFILE: SHIVAM DUBE
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Shivam Dube
+  IPL Debut                : 2019
+  Date of Birth            : 26 June 1993
+  Total IPL Matches        : 79
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A powerful left-handed hitter, Shivam Dube has been a revelation since
+  joining CSK in 2022. His explosive batting helped CSK win IPL 2023, where he
+  scored 418 runs at a strike rate of 158.33. Dube also played a key role in
+  India’s T20 World Cup 2024 triumph. He has the knack of picking up wickets
+  at crucial junctures with his handy medium-pacers. He was retained ahead of
+  TATA IPL 2025 and will again be a vital cog for the franchise heading into
+  the new season.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best strike rate: 158.33.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    79    |    14    |   1859   |   95*    |  30.48   |   1294   |  143.66  |    0     |    10    |   108    |   122    |    23    |    0    
+    2025   |    14    |    3     |   357    |    50    |  32.45   |   270    |  132.22  |    0     |    1     |    22    |    21    |    4     |    0    
+    2024   |    14    |    3     |   396    |   66*    |  36.00   |   244    |  162.30  |    0     |    3     |    28    |    28    |    2     |    0    
+    2023   |    16    |    3     |   418    |    52    |  38.00   |   264    |  158.33  |    0     |    3     |    12    |    35    |    6     |    0    
+    2022   |    11    |    1     |   289    |   95*    |  28.90   |   185    |  156.22  |    0     |    2     |    22    |    16    |    6     |    0    
+    2021   |    9     |    1     |   230    |   64*    |  28.75   |   193    |  119.17  |    0     |    1     |    18    |    10    |    2     |    0    
+    2020   |    11    |    2     |   129    |   27*    |  18.42   |   105    |  122.85  |    0     |    0     |    5     |    9     |    2     |    0    
+    2019   |    4     |    1     |    40    |    24    |  13.33   |    33    |  121.21  |    0     |    0     |    1     |    3     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    79    |   124    |   213    |    5     |   2/15   |  42.60   |  10.31   |  24.80   |    0     |    0    
+    2025   |    14    |    12    |    33    |    0     |   0/33   |    -     |  16.50   |    -     |    0     |    0    
+    2024   |    14    |    6     |    14    |    1     |   1/14   |  14.00   |  14.00   |   6.00   |    0     |    0    
+    2023   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    11    |    12    |    36    |    0     |   0/11   |    -     |  18.00   |    -     |    0     |    0    
+    2021   |    9     |    30    |    49    |    0     |   0/5    |    -     |   9.80   |    -     |    0     |    0    
+    2020   |    11    |    54    |    73    |    4     |   2/15   |  18.25   |   8.11   |  13.50   |    0     |    0    
+    2019   |    4     |    10    |    8     |    0     |   0/3    |    -     |   4.80   |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/shivam-dube/5431
+================================================================================
