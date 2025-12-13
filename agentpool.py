@@ -3,7 +3,7 @@ from time import sleep
 from typing_extensions import Annotated
 
 from utils import AgentState, CompetitiveBidInfo
-from gemini import GeminiClient
+from gemini import GeminiClient, decide_bid
 from langgraph.prebuilt import InjectedState
 
 import logging
@@ -81,7 +81,7 @@ def agent_pool(state: AgentState) -> AgentState:
     logger.info("="*60)
     logger.info("AGENT POOL - Bidding Round")
     logger.info(f"Player: {current_player.name}")
-    logger.info(f"Current bid: {f'₹{current_bid.current_bid_amount:.2f} by {current_bid.team}' if current_bid else 'No bids yet'}")
+    logger.info(f"Current bid: {f'INR {current_bid.current_bid_amount:.2f} by {current_bid.team}' if current_bid else 'No bids yet'}")
     logger.info(f"Round: {state.get('Round')}")
     
     # Initialize OtherTeamBidding if needed
@@ -98,15 +98,20 @@ def agent_pool(state: AgentState) -> AgentState:
     logger.info(f"Current bid holder: {current_bid_team if current_bid_team else 'None'}")
     logger.info("Teams evaluating bids:")
     
+    current_price = current_bid.current_bid_amount if current_bid else current_player.base_price
+
     for team_id in teams:
         # Skip if this team is the current bid holder
         if current_bid_team == team_id:
             logger.info(f"  {team_id}: Skipped (current bid holder)")
             continue
         
-        # Simple bidding logic: 45% chance to bid
-        will_bid = random.random() > 0.55
-        logger.info(f"  {team_id}: Budget=₹{state.get(f'{team_id}_Budget', 0):.2f} Cr, Will bid={will_bid}")
+        team_budget = state.get(f'{team_id}_Budget', 0)
+        
+        # Intelligent bidding logic using gemini.decide_bid
+        will_bid = decide_bid(team_budget, current_price, current_player.base_price)
+        
+        logger.info(f"  {team_id}: Budget=INR {team_budget:.2f} Cr, Price=INR {current_price:.2f} Cr, Will bid={will_bid}")
         
         if will_bid:
             try:
@@ -119,9 +124,9 @@ def agent_pool(state: AgentState) -> AgentState:
                     state=state
                 )
                 state["OtherTeamBidding"][team_id] = bid_info
-                logger.info(f"    ✓ {team_id} placed a bid!")
+                logger.info(f"    [+] {team_id} placed a bid!")
             except Exception as e:
-                logger.error(f"    ✗ Error creating bid for {team_id}: {e}")
+                logger.error(f"    [x] Error creating bid for {team_id}: {e}")
     
     logger.info(f"Total bids received: {len(state['OtherTeamBidding'])}")
     logger.info("="*60)

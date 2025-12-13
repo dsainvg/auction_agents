@@ -11,7 +11,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('auction.log', mode='w'),
+        logging.FileHandler('auction.log', mode='w', encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
@@ -82,7 +82,7 @@ logger.info("Starting auction...\n")
 with open('graph_visualization.png', 'wb') as f:
     f.write(graph.get_graph().draw_mermaid_png())
 # Run the graph with increased recursion limit
-result = graph.invoke(agent, {"recursion_limit": 1000})
+result = graph.invoke(agent, {"recursion_limit": 10000})
 
 logger.info("\nAuction completed!")
 prettyprint(result)

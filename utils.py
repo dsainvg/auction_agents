@@ -6,8 +6,6 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-
-
 @dataclass
 class Player:
     name: str
@@ -124,7 +122,7 @@ def prettyprint(agent_state: AgentState) -> None:
             else:
                 for i, item in enumerate(value, 1):
                     if isinstance(item, Player):
-                        logger.info(f"  {i}. {item.name} ({item.role}) - ₹{item.sold_price:.2f}Cr")
+                        logger.info(f"  {i}. {item.name} ({item.role}) - INR {item.sold_price:.2f}Cr")
                     else:
                         logger.info(f"  {i}. {item}")
         elif isinstance(value, dict):
@@ -133,7 +131,7 @@ def prettyprint(agent_state: AgentState) -> None:
                 if isinstance(players, list) and players and isinstance(players[0], Player):
                     logger.info(f"  {set_name}: {len(players)} players")
                     for i, player in enumerate(players, 1):
-                        logger.info(f"    {i}. {player.name} ({player.role}) - Base: ₹{player.base_price:.2f}Cr, Prev: ₹{player.previous_sold_price:.2f}Cr")
+                        logger.info(f"    {i}. {player.name} ({player.role}) - Base: INR {player.base_price:.2f}Cr, Prev: INR {player.previous_sold_price:.2f}Cr")
                 else:
                     logger.info(f"  {set_name}: {players}")
         else:

@@ -25,6 +25,7 @@ from typing import Optional, List, Dict, Any, Union, Callable
 import os
 import json
 import inspect
+import random
 
 # Load environment variables from .env file if available
 try:
@@ -33,7 +34,37 @@ try:
 except ImportError:
 	pass  # dotenv not installed, skip
 
-__all__ = ["GeminiClient"]
+__all__ = ["GeminiClient", "decide_bid"]
+
+
+def decide_bid(team_budget: float, current_bid: float, base_price: float) -> bool:
+	"""
+	Hardcoded bidding intelligence.
+	Decides whether to bid based on budget and price.
+	"""
+	# Safety check
+	if team_budget <= 0:
+		return False
+	
+	# Don't bid if we can't afford the next raise (approx)
+	if current_bid >= team_budget:
+		return False
+		
+	# Strategy:
+	# 1. Don't spend more than 30% of total budget on one player (simple rule)
+	if current_bid > (team_budget * 0.3):
+		return False
+		
+	# 2. Don't pay more than 15x base price (unless it's very low)
+	if current_bid > (base_price * 15):
+		return False
+		
+	# Random factor: 50% chance to skip bidding even if logical conditions are met
+	# This simulates hesitation or strategic pausing
+	if random.random() < 0.50:
+		return False
+
+	return True
 
 
 class GeminiClient:
