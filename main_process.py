@@ -1,21 +1,13 @@
-import logging
 from langgraph.graph import StateGraph, END
+from dotenv import load_dotenv
 from utils import *
 from host import host
 from host_assistant import host_assistant
 from agentpool import agent_pool
 from trade_master import trademaster
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler('auction.log', mode='w', encoding='utf-8'),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
+
+load_dotenv()
 
 # Initialize agent state with proper values
 agent: AgentState = {
@@ -34,7 +26,8 @@ agent: AgentState = {
     'UnsoldPlayers': [],
     'TeamA_Budget': 100.0,
     'TeamB_Budget': 100.0,
-    'TeamC_Budget': 100.0
+    'TeamC_Budget': 100.0,
+    'Messages': []
 }
 
 
@@ -77,13 +70,13 @@ graph = graph_builder.compile()
 
 # Run the auction
 prettyprint(agent)
-logger.info("Starting auction...\n")
+print("Starting auction...\n")
 # Save the graph visualization
 with open('graph_visualization.png', 'wb') as f:
     f.write(graph.get_graph().draw_mermaid_png())
 # Run the graph with increased recursion limit
 result = graph.invoke(agent, {"recursion_limit": 10000})
 
-logger.info("\nAuction completed!")
+print("\nAuction completed!")
 prettyprint(result)
 

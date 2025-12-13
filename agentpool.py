@@ -1,67 +1,8 @@
-from typing import Optional, Literal
-from time import sleep
-from typing_extensions import Annotated
-
-from utils import AgentState, CompetitiveBidInfo
-from gemini import GeminiClient, decide_bid
-from langgraph.prebuilt import InjectedState
-
-import logging
-import random
-
-logger = logging.getLogger(__name__)
-
-def bidder(team_id: Literal["TeamA", "TeamB", "TeamC"], is_raise: bool, is_normal: Optional[bool], raised_amount: Optional[float], state: AgentState) -> CompetitiveBidInfo:
-    """Generate a competitive bid info based on the provided arguments and current agent state.
-
-    Args:
-        team_id: The team making the bid ('TeamA', 'TeamB', 'TeamC').
-        is_raise: Whether this bid is a raise.
-        is_normal: Whether this is a normal raise (fixed increment). Only applicable if is_raise is True.
-        raised_amount: The custom raise amount. Only applicable if is_raise is True and is_normal is False.
-        state: Current AgentState containing `CurrentPlayer`.
-
-    Returns:
-        CompetitiveBidInfo instance with `player` populated from the state.
-
-    Raises:
-        ValueError: If validation checks fail for is_raise, is_normal, and raised_amount combinations.
-    """
-    current_player = state.get("CurrentPlayer")
-    if not current_player:
-        raise ValueError("No CurrentPlayer in state to create a bid for.")
-
-    # Validation checks
-    if not is_raise:
-        # If not a raise, is_normal and raised_amount should not be set (or at least raised_amount shouldn't be)
-        if raised_amount is not None:
-             raise ValueError("raised_amount must be None when is_raise is False.")
-        # We can enforce is_normal is None, or just ignore it. Let's enforce consistency.
-        if is_normal is not None:
-             # Depending on strictness, we might allow it but it's cleaner to say it should be None
-             pass 
-    else:
-        # is_raise is True
-        if is_normal is None:
-             raise ValueError("is_normal must be specified (True/False) when is_raise is True.")
-        
-        if is_normal:
-            if raised_amount is not None:
-                raise ValueError("raised_amount must be None when is_normal is True.")
-        else:
-            if raised_amount is None:
-                raise ValueError("raised_amount must be provided when is_normal is False.")
-            if raised_amount <= 0:
-                raise ValueError("raised_amount must be positive.")
-
-    return CompetitiveBidInfo(
-        player=current_player,
-        team=team_id,
-        is_raise=is_raise,
-        is_normal=is_normal,
-        raised_amount=raised_amount
-    )
-
+from utils import AgentState, CompetitiveBidInfo, AIMessage, ToolMessage, competitiveBidMaker
+import os
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_core.messages import HumanMessage, SystemMessage
+from agent_tools import bidder_tool
 
 def agent_pool(state: AgentState) -> AgentState:
     """Agent pool node with three team agents that can bid on current player.
@@ -70,19 +11,21 @@ def agent_pool(state: AgentState) -> AgentState:
     If there's no current bid, all teams can bid.
     Adds bids to state["OtherTeamBidding"].
     """
+    message_lines = []
     current_player = state.get("CurrentPlayer")
     if not current_player:
-        logger.info("AGENT POOL: No current player, skipping")
+        state["Messages"] = [AIMessage(content="AGENT POOL: No current player, skipping")]
         return state
     
     current_bid = state.get("CurrentBid")
     current_bid_team = current_bid.team if current_bid else None
     
-    logger.info("="*60)
-    logger.info("AGENT POOL - Bidding Round")
-    logger.info(f"Player: {current_player.name}")
-    logger.info(f"Current bid: {f'INR {current_bid.current_bid_amount:.2f} by {current_bid.team}' if current_bid else 'No bids yet'}")
-    logger.info(f"Round: {state.get('Round')}")
+    message_lines.append("="*60)
+    message_lines.append("AGENT POOL - Bidding Round")
+    message_lines.append(f"Player: {current_player.name} ({current_player.role})")
+    message_lines.append(f"Base Price: {current_player.base_price} Cr")
+    message_lines.append(f"Current bid: {f'INR {current_bid.current_bid_amount:.2f} by {current_bid.team}' if current_bid else 'No bids yet'}")
+    message_lines.append(f"Round: {state.get('Round')}")
     
     # Initialize OtherTeamBidding if needed
     if state.get("OtherTeamBidding") is None:
@@ -91,44 +34,107 @@ def agent_pool(state: AgentState) -> AgentState:
         # Clear previous bids for this round
         state["OtherTeamBidding"] = {}
     
-    # Simplified: Each team makes a basic bidding decision
-    # For now, teams will bid with 50% probability and use normal raise
     teams = ["TeamA", "TeamB", "TeamC"]
     
-    logger.info(f"Current bid holder: {current_bid_team if current_bid_team else 'None'}")
-    logger.info("Teams evaluating bids:")
+    message_lines.append(f"Current bid holder: {current_bid_team if current_bid_team else 'None'}")
+    message_lines.append("Teams evaluating bids:")
     
-    current_price = current_bid.current_bid_amount if current_bid else current_player.base_price
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        message_lines.append("Error: GEMINI_API_KEY not found.")
+        state["Messages"] = [AIMessage(content="\n".join(message_lines))]
+        return state
+
+    llm = ChatGoogleGenerativeAI(
+        model="gemini-2.5-flash", 
+        temperature=0.1,
+        max_retries=2,
+        google_api_key=api_key,
+    ).bind_tools([bidder_tool])
+    
+    # System prompts for each team
+    system_prompts = {
+                            "TeamA": """You are the manager of TeamA in an IPL auction. 
+                    Strategy: Aggressive. You want to build a strong team and are willing to pay a premium for good players, especially All-Rounders and Batsmen.
+                    Budget: {budget} Cr.
+                    Current Squad: {squad_count} players.
+                    Make Sure You call the bidder_tool to place your bid.
+                    Decide whether to bid for the current player. If you bid, you can raise by a standard increment or a custom amount.""",
+                            
+                            "TeamB": """You are the manager of TeamB in an IPL auction.
+                    Strategy: Conservative/Moneyball. You look for value buys. You avoid bidding wars unless the player is a key Bowler.
+                    Budget: {budget} Cr.
+                    Current Squad: {squad_count} players.
+                    Make Sure You call the bidder_tool to place your bid.
+                    Decide whether to bid for the current player.""",
+                            
+                            "TeamC": """You are the manager of TeamC in an IPL auction.
+                    Strategy: Balanced. You need a mix of roles. You are cautious in early rounds but aggressive if you need specific roles.
+                    Budget: {budget} Cr.
+                    Current Squad: {squad_count} players.
+                    Make Sure You call the bidder_tool to place your bid.
+                    Decide whether to bid for the current player."""
+            }
 
     for team_id in teams:
         # Skip if this team is the current bid holder
         if current_bid_team == team_id:
-            logger.info(f"  {team_id}: Skipped (current bid holder)")
+            message_lines.append(f"  {team_id}: Skipped (current bid holder)")
             continue
+            
+        # Prepare context
+        budget = state.get(f"{team_id}_Budget", 0.0)
+        squad = state.get(team_id, [])
         
-        team_budget = state.get(f'{team_id}_Budget', 0)
+        sys_prompt = system_prompts[team_id].format(budget=budget, squad_count=len(squad))
         
-        # Intelligent bidding logic using gemini.decide_bid
-        will_bid = decide_bid(team_budget, current_price, current_player.base_price)
+        human_msg = f"""Current Player: {current_player.name}
+                        Role: {current_player.role}
+                        Base Price: {current_player.base_price} Cr
+                        Current Bid: {current_bid.current_bid_amount if current_bid else 'None'}
+                        Current Bid Holder: {current_bid_team if current_bid_team else 'None'}
+
+                        Do you want to bid? Use the bidder_tool to place a bid or pass."""
+
+        messages = [
+            SystemMessage(content=sys_prompt),
+            HumanMessage(content=human_msg)
+        ]
         
-        logger.info(f"  {team_id}: Budget=INR {team_budget:.2f} Cr, Price=INR {current_price:.2f} Cr, Will bid={will_bid}")
+        try:
+            response = llm.invoke(messages)
+            
+            if response.tool_calls:
+                tool_call = response.tool_calls[0]
+                args = tool_call['args']
+                message = ToolMessage(content=f"Tool Called with status 'success' and it returned bid decision : {args}", name=tool_call['name'], tool_call_id=tool_call['id'])
+                state["Messages"] = [message]
+                # Parse info using tool message structure (as requested)
+                is_raise = args.get("is_raise")
+                
+                if is_raise:
+                    bid_decision = {
+                        "is_raise": True,
+                        "is_normal": args.get("is_normal"),
+                        "raised_amount": args.get("raised_amount")
+                    }
+                    
+                    # Create competitive bid info
+                    bid_info = competitiveBidMaker(team_id, current_player, bid_decision)
+                    state["OtherTeamBidding"][team_id] = bid_info
+                    
+                    raise_type = "Normal" if bid_decision["is_normal"] else f"Custom (+{bid_decision['raised_amount']})"
+                    message_lines.append(f"  {team_id}: BID ({raise_type})")
+                else:
+                    message_lines.append(f"  {team_id}: PASS")
+            else:
+                message_lines.append(f"  {team_id}: PASS (No tool call)")
+                
+        except Exception as e:
+            message_lines.append(f"  {team_id}: Error - {str(e)}")
         
-        if will_bid:
-            try:
-                # Place a normal raise bid
-                bid_info = bidder(
-                    team_id=team_id,
-                    is_raise=True,
-                    is_normal=True,
-                    raised_amount=None,
-                    state=state
-                )
-                state["OtherTeamBidding"][team_id] = bid_info
-                logger.info(f"    [+] {team_id} placed a bid!")
-            except Exception as e:
-                logger.error(f"    [x] Error creating bid for {team_id}: {e}")
-    
-    logger.info(f"Total bids received: {len(state['OtherTeamBidding'])}")
-    logger.info("="*60)
+    message_lines.append(f"Total bids received: {len(state['OtherTeamBidding'])}")
+    message_lines.append("="*60)
+    state["Messages"] = [AIMessage(content="\n".join(message_lines))]
     return state
 
