@@ -5,6 +5,7 @@ def host_assistant(state: AgentState) -> AgentState:
     """Host assistant function to update the agent state with current player selection."""
     if not state:
         raise ValueError("State cannot be None or empty.")
+    print(f"[HOST_ASSISTANT] Entered host_assistant(state) - RemainingSets={len(state.get('RemainingSets') or [])}, CurrentSet={state.get('CurrentSet')}, AuctionStatus={state.get('AuctionStatus')}", flush=True)
     
     message_lines = []
     message_lines.append("="*60)
@@ -25,11 +26,14 @@ def host_assistant(state: AgentState) -> AgentState:
             # No more players to auction
             message_lines.append("No more players available!")
             message_lines.append("="*60)
-            state["Messages"] = [AIMessage(content="\n".join(message_lines))]
+            joined = "\n".join(message_lines).replace('\u20b9', 'INR ')
+            print("[HOST_ASSISTANT] Message:\n" + joined, flush=True)
+            state["Messages"] = [AIMessage(content=joined)]
             return state
         state["CurrentSet"] = random.choice(available_sets)
         state["RemainingPlayersInSet"] = state["RemainingPlayers"][state["CurrentSet"]].copy()
         state['RemainingSets'].remove(state["CurrentSet"])
+        state["RemainingPlayers"][state["CurrentSet"]] = []
         message_lines.append(f"Selected set: {state['CurrentSet']}")
         message_lines.append(f"Players in set: {len(state['RemainingPlayersInSet'])}")
     
@@ -39,9 +43,11 @@ def host_assistant(state: AgentState) -> AgentState:
         state['RemainingPlayersInSet'].remove(state['CurrentPlayer'])
         state['AuctionStatus'] = True
         message_lines.append(f"Selected player: {state['CurrentPlayer'].name} ({state['CurrentPlayer'].role})")
-        message_lines.append(f"Base price: ₹{state['CurrentPlayer'].base_price:.2f} Cr")
+        message_lines.append(f"Base price: INR {state['CurrentPlayer'].base_price:.2f} Cr")
         message_lines.append(f"Remaining players in set: {len(state['RemainingPlayersInSet'])}")
     
     message_lines.append("="*60)
-    state["Messages"] = [AIMessage(content="\n".join(message_lines))]
+    joined = "\n".join(message_lines).replace('\u20b9', 'INR ')
+    print("[HOST_ASSISTANT] Message:\n" + joined, flush=True)
+    state["Messages"] = [AIMessage(content=joined)]
     return state

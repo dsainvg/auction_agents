@@ -1,19 +1,34 @@
-from utils import AgentState, CompetitiveBidInfo, AIMessage, ToolMessage, competitiveBidMaker
-import os
+import string
+from utils import (
+    AgentState, 
+    AIMessage, 
+    ToolMessage, 
+    competitiveBidMaker, 
+    get_next_api_key,
+    api_keys,
+    load_prompts,
+    get_player_stats,
+    get_raise_amount
+)
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, SystemMessage
 from agent_tools import bidder_tool
+import concurrent.futures
+import threading
+import time
 
 def agent_pool(state: AgentState) -> AgentState:
-    """Agent pool node with three team agents that can bid on current player.
-    
+    """
+    Agent pool node with three team agents that can bid on the current player in parallel.
     Only teams who are NOT the current bid holder will be called.
     If there's no current bid, all teams can bid.
     Adds bids to state["OtherTeamBidding"].
     """
+    prompts = load_prompts()
     message_lines = []
     current_player = state.get("CurrentPlayer")
     if not current_player:
+        print("[AGENT_POOL] No current player, skipping", flush=True)
         state["Messages"] = [AIMessage(content="AGENT POOL: No current player, skipping")]
         return state
     
@@ -27,114 +42,122 @@ def agent_pool(state: AgentState) -> AgentState:
     message_lines.append(f"Current bid: {f'INR {current_bid.current_bid_amount:.2f} by {current_bid.team}' if current_bid else 'No bids yet'}")
     message_lines.append(f"Round: {state.get('Round')}")
     
-    # Initialize OtherTeamBidding if needed
-    if state.get("OtherTeamBidding") is None:
-        state["OtherTeamBidding"] = {}
-    else:
-        # Clear previous bids for this round
-        state["OtherTeamBidding"] = {}
+    # Initialize or clear OtherTeamBidding
+    state["OtherTeamBidding"] = {}
     
     teams = ["TeamA", "TeamB", "TeamC"]
     
     message_lines.append(f"Current bid holder: {current_bid_team if current_bid_team else 'None'}")
     message_lines.append("Teams evaluating bids:")
+
+    # --- Start of parallel execution ---
+    lock = threading.Lock()
     
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        message_lines.append("Error: GEMINI_API_KEY not found.")
-        state["Messages"] = [AIMessage(content="\n".join(message_lines))]
-        return state
-
-    llm = ChatGoogleGenerativeAI(
-        model="gemini-2.5-flash", 
-        temperature=0.1,
-        max_retries=2,
-        google_api_key=api_key,
-    ).bind_tools([bidder_tool])
-    
-    # System prompts for each team
-    system_prompts = {
-                            "TeamA": """You are the manager of TeamA in an IPL auction. 
-                    Strategy: Aggressive. You want to build a strong team and are willing to pay a premium for good players, especially All-Rounders and Batsmen.
-                    Budget: {budget} Cr.
-                    Current Squad: {squad_count} players.
-                    Make Sure You call the bidder_tool to place your bid.
-                    Decide whether to bid for the current player. If you bid, you can raise by a standard increment or a custom amount.""",
-                            
-                            "TeamB": """You are the manager of TeamB in an IPL auction.
-                    Strategy: Conservative/Moneyball. You look for value buys. You avoid bidding wars unless the player is a key Bowler.
-                    Budget: {budget} Cr.
-                    Current Squad: {squad_count} players.
-                    Make Sure You call the bidder_tool to place your bid.
-                    Decide whether to bid for the current player.""",
-                            
-                            "TeamC": """You are the manager of TeamC in an IPL auction.
-                    Strategy: Balanced. You need a mix of roles. You are cautious in early rounds but aggressive if you need specific roles.
-                    Budget: {budget} Cr.
-                    Current Squad: {squad_count} players.
-                    Make Sure You call the bidder_tool to place your bid.
-                    Decide whether to bid for the current player."""
-            }
-
-    for team_id in teams:
-        # Skip if this team is the current bid holder
-        if current_bid_team == team_id:
-            message_lines.append(f"  {team_id}: Skipped (current bid holder)")
-            continue
-            
-        # Prepare context
-        budget = state.get(f"{team_id}_Budget", 0.0)
-        squad = state.get(team_id, [])
-        
-        sys_prompt = system_prompts[team_id].format(budget=budget, squad_count=len(squad))
-        
-        human_msg = f"""Current Player: {current_player.name}
-                        Role: {current_player.role}
-                        Base Price: {current_player.base_price} Cr
-                        Current Bid: {current_bid.current_bid_amount if current_bid else 'None'}
-                        Current Bid Holder: {current_bid_team if current_bid_team else 'None'}
-
-                        Do you want to bid? Use the bidder_tool to place a bid or pass."""
-
-        messages = [
-            SystemMessage(content=sys_prompt),
-            HumanMessage(content=human_msg)
-        ]
-        
+    # Define sleep duration based on number of keys to avoid rate limits
+    num_keys = len(api_keys)
+    base_sleep_duration = 120  # seconds
+    sleep_per_request = base_sleep_duration / num_keys if num_keys > 0 else base_sleep_duration
+    time.sleep(sleep_per_request) # Stagger requests slightly
+    def run_agent_decision(team_id: str):
+        """Worker function for each thread to get a team's bid decision."""
         try:
-            response = llm.invoke(messages)
+                        
+            api_key = get_next_api_key()
+            if not api_key:
+                with lock:
+                    message_lines.append(f"  {team_id}: Error - No API key available.")
+                return
+
+            llm = ChatGoogleGenerativeAI(
+                model="gemini-flash-lite-latest",
+                temperature=0.1,
+                max_retries=2,
+                google_api_key=api_key,
+            ).bind_tools([bidder_tool])
+
+            # Prepare context for this team
+            budget = state.get(f"{team_id}_Budget", 0.0)
+            squad = state.get(team_id, [])
+            player_stats = get_player_stats(current_player.name)
             
-            if response.tool_calls:
-                tool_call = response.tool_calls[0]
-                args = tool_call['args']
-                message = ToolMessage(content=f"Tool Called with status 'success' and it returned bid decision : {args}", name=tool_call['name'], tool_call_id=tool_call['id'])
-                state["Messages"] = [message]
-                # Parse info using tool message structure (as requested)
-                is_raise = args.get("is_raise")
-                
-                if is_raise:
-                    bid_decision = {
-                        "is_raise": True,
-                        "is_normal": args.get("is_normal"),
-                        "raised_amount": args.get("raised_amount")
-                    }
-                    
-                    # Create competitive bid info
-                    bid_info = competitiveBidMaker(team_id, current_player, bid_decision)
-                    state["OtherTeamBidding"][team_id] = bid_info
-                    
-                    raise_type = "Normal" if bid_decision["is_normal"] else f"Custom (+{bid_decision['raised_amount']})"
-                    message_lines.append(f"  {team_id}: BID ({raise_type})")
-                else:
-                    message_lines.append(f"  {team_id}: PASS")
+            # Add current bid info to prompt
+            if current_bid:
+                current_price = current_bid.current_bid_amount
             else:
-                message_lines.append(f"  {team_id}: PASS (No tool call)")
-                
+                current_price = current_player.base_price
+
+            min_bid_raise = get_raise_amount(current_price)
+            next_bid_price = current_price + min_bid_raise
+            
+            sys_prompt_template = string.Template(prompts[f'{team_id}_sys'])
+            sys_prompt = sys_prompt_template.substitute(
+                budget=budget, 
+                player_name=current_player.name, 
+                base_price=current_player.base_price,
+                player_stats=player_stats,
+                current_price=current_price,
+                min_bid_raise=min_bid_raise,
+                next_bid_price=next_bid_price
+            )
+
+            human_prompt_template = string.Template(prompts[f'{team_id}_human'])
+            human_msg = human_prompt_template.substitute(
+                player_name=current_player.name,
+                team_composition=str(squad),
+                player_stats=player_stats
+            )
+            # sys_prompt = prompts[f'{team_id}_sys']
+            # human_msg = prompts[f'{team_id}_human']
+            # print(f"[AGENT_POOL] {team_id} sending request to LLM... with prompt: {human_msg} and system prompt: {sys_prompt}", flush=True)
+            messages = [SystemMessage(content=sys_prompt), HumanMessage(content=human_msg)]
+            
+            response = llm.invoke(messages)
+            # message_lines.append(f"  {team_id}: Received response from model. and responce is {str(response)}")
+            with lock:
+                if response.tool_calls:
+                    tool_call = response.tool_calls[0]
+                    args = tool_call['args']
+                    message = ToolMessage(content=f"Tool Called with status 'success' and it returned bid decision : {args}", name=tool_call['name'], tool_call_id=tool_call['id'])
+                    state["Messages"] = [message]
+                    message = AIMessage(content=str(response.content))
+                    state["Messages"] = [message]
+                    
+                    if args.get("is_raise"):
+                        bid_decision = {
+                            "is_raise": True,
+                            "is_normal": args.get("is_normal"),
+                            "raised_amount": args.get("raised_amount")
+                        }
+                        bid_info = competitiveBidMaker(team_id, current_player, bid_decision)
+                        state["OtherTeamBidding"][team_id] = bid_info
+                        raise_type = "Normal" if bid_decision["is_normal"] else f"Custom (+{bid_decision['raised_amount']})"
+                        message_lines.append(f"  {team_id}: BID ({raise_type})")
+                    else:
+                        message_lines.append(f"  {team_id}: PASS")
+                else:
+                    message_lines.append(f"  {team_id}: PASS (No tool call)")
         except Exception as e:
-            message_lines.append(f"  {team_id}: Error - {str(e)}")
+            with lock:
+                message_lines.append(f"  {team_id}: Error - {str(e.with_traceback(e.__traceback__))}")
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=len(teams)) as executor:
+        futures = []
+        for team_id in teams:
+            if current_bid_team != team_id:
+                futures.append(executor.submit(run_agent_decision, team_id))
+            else:
+                 message_lines.append(f"  {team_id}: Skipped (current bid holder)")
         
+        # Wait for all futures to complete
+        concurrent.futures.wait(futures)
+
+    # --- End of parallel execution ---
+
     message_lines.append(f"Total bids received: {len(state['OtherTeamBidding'])}")
     message_lines.append("="*60)
+    # Print messages to terminal for debugging
+    print("[AGENT_POOL] Message:\n" + "\n".join(message_lines), flush=True)
     state["Messages"] = [AIMessage(content="\n".join(message_lines))]
     return state
+
 

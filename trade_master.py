@@ -28,7 +28,7 @@ def trademaster(state: AgentState) -> AgentState:
     
     message_lines.append(f"Player: {current_player.name if current_player else 'None'}")
     message_lines.append(f"Current Round: {current_round}")
-    message_lines.append(f"Current Bid: {f'₹{current_bid_obj.current_bid_amount:.2f} by {current_bid_obj.team}' if current_bid_obj else 'None'}")
+    message_lines.append(f"Current Bid: {f'INR {current_bid_obj.current_bid_amount:.2f} by {current_bid_obj.team}' if current_bid_obj else 'None'}")
     message_lines.append(f"Other Bids Received: {len(other_bids)}")
     for team, bid in other_bids.items():
         message_lines.append(f"  - {team}: is_raise={bid.is_raise}, is_normal={bid.is_normal}, raised_amount={bid.raised_amount}")
@@ -36,6 +36,7 @@ def trademaster(state: AgentState) -> AgentState:
     if not current_player:
         message_lines.append("No current player, returning")
         message_lines.append("="*60)
+        print("[TRADEMASTER] Message:\n" + "\n".join(message_lines), flush=True)
         state["Messages"] = [AIMessage(content="\n".join(message_lines))]
         return state
     
@@ -55,6 +56,7 @@ def trademaster(state: AgentState) -> AgentState:
         message_lines.append("Reset state for next player")
         message_lines.append("="*60)
         
+        print("[TRADEMASTER] Message:\n" + "\n".join(message_lines), flush=True)
         state["Messages"] = [AIMessage(content="\n".join(message_lines))]
         return state
     
@@ -110,6 +112,7 @@ def trademaster(state: AgentState) -> AgentState:
                 state["OtherTeamBidding"] = {}
                 state['AuctionStatus'] = False
         
+        print("[TRADEMASTER] Message:\n" + "\n".join(message_lines), flush=True)
         state["Messages"] = [AIMessage(content="\n".join(message_lines))]
         return state
     
@@ -182,17 +185,18 @@ def trademaster(state: AgentState) -> AgentState:
                 )
                 state["CurrentBid"] = new_current_bid
                 state["Round"] = 0
-                message_lines.append(f"First bid accepted: {best_team} bids ₹{best_bid_amount:.2f} Cr")
+                message_lines.append(f"First bid accepted: {best_team} bids {best_bid_amount:.2f} Cr")
             else:
                 message_lines.append("No valid bids found")
             
             state["OtherTeamBidding"] = {}
             message_lines.append("="*60)
+            print("[TRADEMASTER] Message:\n" + "\n".join(message_lines), flush=True)
             state["Messages"] = [AIMessage(content="\n".join(message_lines))]
             return state
         
         else:
-            message_lines.append(f"Current bid exists: ₹{current_bid_obj.current_bid_amount:.2f} by {current_bid_obj.team}")
+            message_lines.append(f"Current bid exists: INR {current_bid_obj.current_bid_amount:.2f} by {current_bid_obj.team}")
             # Current bid exists, process the other bids (max 2)
             current_bid_amount = current_bid_obj.current_bid_amount
             
@@ -258,7 +262,7 @@ def trademaster(state: AgentState) -> AgentState:
                 )
                 state["CurrentBid"] = new_current_bid
                 state["Round"] = 0
-                message_lines.append(f"Bid updated: {best_team} raises to ₹{best_bid_amount:.2f} Cr")
+                message_lines.append(f"Bid updated: {best_team} raises to INR {best_bid_amount:.2f} Cr")
             else:
                 # Bids received but none were valid, increment round
                 state["Round"] = current_round + 1
@@ -267,11 +271,7 @@ def trademaster(state: AgentState) -> AgentState:
             # Clear the bidding dict for next round
             state["OtherTeamBidding"] = {}
             message_lines.append("="*60)
-            
+            print("[TRADEMASTER] Message:\n" + "\n".join(message_lines), flush=True)
             state["Messages"] = [AIMessage(content="\n".join(message_lines))]
             return state
     
-    message_lines.append("="*60)
-    state["Messages"] = [AIMessage(content="\n".join(message_lines))]
-    return state
-
