@@ -5,6 +5,7 @@ def host(state: AgentState) -> Literal["host_assistant", "bidder_pool", "__end__
     """Host function to route to host_assistant, bidder_pool, or END."""
     if not state:
         raise ValueError("State cannot be None or empty.")
+    print(f"[HOST] Entered host(state) - RemainingSets={len(state.get('RemainingSets') or [])}, CurrentPlayer={getattr(state.get('CurrentPlayer'), 'name', None)}, AuctionStatus={state.get('AuctionStatus')}", flush=True)
     
     # Check if auction is complete (no more players or sets)
     if not state.get('RemainingSets') and not state.get('RemainingPlayersInSet') and not state.get('CurrentPlayer'):

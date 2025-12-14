@@ -1,0 +1,12 @@
+Given the player ${player_name} and your current team composition:
+${team_composition}
+
+Player stats:
+${player_stats}
+
+Using the system prompt rules and your budget, DECIDE whether to bid. Instead of returning text, CALL the `bidder_tool` with the appropriate arguments.
+
+Guidance:
+- If bidding a normal increment, set `is_raise: true` and `is_normal: true`.
+- If bidding a custom amount, set `is_raise: true`, `is_normal: false`, and provide `raised_amount`.
+- If not bidding, set `is_raise: false` and the other fields to null.

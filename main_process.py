@@ -1,14 +1,13 @@
 from langgraph.graph import StateGraph, END
-from dotenv import load_dotenv
-from utils import *
+
+from utils import AgentState, load_api_keys, load_player_data, prettyprint
 from host import host
 from host_assistant import host_assistant
 from agentpool import agent_pool
 from trade_master import trademaster
 
 
-load_dotenv()
-
+load_api_keys()
 # Initialize agent state with proper values
 agent: AgentState = {
     'RemainingPlayers': load_player_data(),
@@ -74,6 +73,7 @@ print("Starting auction...\n")
 # Save the graph visualization
 with open('graph_visualization.png', 'wb') as f:
     f.write(graph.get_graph().draw_mermaid_png())
+print(f"[MAIN] Invoking graph with recursion_limit=10000, CurrentPlayer={getattr(agent.get('CurrentPlayer'), 'name', None)}", flush=True)
 # Run the graph with increased recursion limit
 result = graph.invoke(agent, {"recursion_limit": 10000})
 

@@ -52,7 +52,7 @@ def bidder_tool(is_raise: bool, is_normal: Optional[bool], raised_amount: Option
                 raise ValueError("raised_amount must be provided when is_normal is False.")
             if raised_amount <= 0:
                 raise ValueError("raised_amount must be positive.")
-    
+    print(f"[BIDDER_TOOL] Generated bid decision - is_raise: {is_raise}, is_normal: {is_normal}, raised_amount: {raised_amount}", flush=True)
     return {
         "status": "success",
         "bid_decision": {
