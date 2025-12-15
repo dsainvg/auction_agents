@@ -21,10 +21,11 @@ Tool Arguments:
 
 Bidding Strategy:
 - **Normal Bidding:** If you want to place a standard bid, call the tool with `is_raise: true` and `is_normal: true`. The bid will be ${next_bid_price} Cr.
-- **Custom Bidding:** If you believe the player is highly valuable and want to bid more aggressively, you can set `is_normal: false` and provide a `raised_amount`. The `raised_amount` is the amount you want to add to the `current_price`. You can choose any amount you see fit, as long as the total bid (`current_price` + `raised_amount`) does not exceed your budget.
+- **Custom Bidding:** If you believe the player is highly valuable and want to bid more aggressively, you can set `is_normal: false` and provide a `raised_amount`. The `raised_amount` is the amount you want to add to the `current_price`. You can choose any amount you see fit, as long as the total bid (`current_price` + `raised_amount`) does not exceed your budget. Feel free to be aggressive with your custom bid to show strong interest in the player.
 - **Passing:** If you do not want to bid, call the tool with `is_raise: false`.
 
 Important Rules:
 - You must call the `bidder_tool`.
 - If this is the first bid for the player (i.e., current price equals base price), you should strongly consider placing a bid.
 - Ensure your total bid (`current_price` + `raised_amount`) does not exceed your budget.
+- Make Sure You dont spend much on a single player You can atmost spend 25 cr on a single player.

@@ -1,5 +1,5 @@
-from typing import Annotated, Sequence, TypedDict, List, Dict, Union, Literal
-from dataclasses import dataclass
+from typing import Annotated, Sequence, TypedDict, List, Dict, Union, Literal, Optional
+from dataclasses import dataclass, field
 from dotenv import load_dotenv
 from langchain_core.messages import BaseMessage, ToolMessage, HumanMessage, AIMessage
 from langgraph.graph.message import add_messages
@@ -7,6 +7,8 @@ import random
 import csv
 import os
 import itertools
+import json
+from pydantic import BaseModel, Field
 
 # --- API Key Management ---
 def load_api_keys():
@@ -77,7 +79,7 @@ class CompetitiveBidInfo(BidInfo):
     is_raise: bool # Is there a raise in bid
     is_normal: Union[bool, None] # Is it a normal raise i.e fixed increment (current bid info raise amount) Only if is_raise is true
     raised_amount: Union[float, None] = None # Only if is_raise is true and is_normal is False 
-   
+    reason: str = "" # Reason for the bid
 
 class AgentState(TypedDict):
     """State schema for the agent."""
@@ -99,7 +101,18 @@ class AgentState(TypedDict):
     TeamC_Budget: float
     Messages: Annotated[Sequence[Union[HumanMessage, AIMessage, ToolMessage, BaseMessage]], add_messages]
 
-    
+class BidderInput(BaseModel):
+    is_raise: bool = Field(description="Whether this bid is a raise or just a call")
+    is_normal: Optional[bool] = Field(
+        default=None, 
+        description="Whether this is a normal raise (fixed increment). Only applicable if is_raise is True"
+    )
+    raised_amount: Optional[float] = Field(
+        default=None,
+        description="The custom raise amount. Only applicable if is_raise is True and is_normal is False"
+    )
+    reason: str = Field(description="The reason for this pick")
+
 def load_player_data() -> dict[Literal['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC', 'MBC', 'MAC', 'MBwC', 'EmBwU', 'EmAU', 'EmBC'], list[Player]]:
     """Load player data from CSV file in DB folder, grouped by set.
     
@@ -192,41 +205,12 @@ def get_raise_amount(current_price: float) -> float:
     """Determine the raise amount based on current price."""
     if current_price < 2.0:
         return 0.25  # Raise by 0.1 crore
-    elif current_price < 10.0:
+    elif current_price < 5.0:
         return 0.75  # Raise by 0.75 crore
     else:
         return 1.5  # Raise by 1.5 crore
 
-def decide_bid(team_budget: float, current_bid: float, base_price: float) -> bool:
-	"""
-	Hardcoded bidding intelligence.
-	Decides whether to bid based on budget and price.
-	"""
-	# Safety check
-	if team_budget <= 0:
-		return False
-	
-	# Don't bid if we can't afford the next raise (approx)
-	if current_bid >= team_budget:
-		return False
-		
-	# Strategy:
-	# 1. Don't spend more than 30% of total budget on one player (simple rule)
-	if current_bid > (team_budget * 0.3):
-		return False
-		
-	# 2. Don't pay more than 15x base price (unless it's very low)
-	if current_bid > (base_price * 15):
-		return False
-		
-	# Random factor: 50% chance to skip bidding even if logical conditions are met
-	# This simulates hesitation or strategic pausing
-	if random.random() < 0.50:
-		return False
-
-	return 
-
-def competitiveBidMaker(team: Literal['TeamA', 'TeamB', 'TeamC'], player: Player, bid_decision: BidDecisionDict) -> CompetitiveBidInfo:
+def competitiveBidMaker(team: Literal['TeamA', 'TeamB', 'TeamC'], player: Player, bid_decision: BidderInput) -> CompetitiveBidInfo:
     """Create a CompetitiveBidInfo object for a team's bid.
     
     Args:
@@ -245,9 +229,10 @@ def competitiveBidMaker(team: Literal['TeamA', 'TeamB', 'TeamC'], player: Player
     return CompetitiveBidInfo(
         player=player,
         team=team,
-        is_raise=bid_decision['is_raise'],
-        is_normal=bid_decision['is_normal'],
-        raised_amount=bid_decision.get('raised_amount')
+        is_raise=bid_decision.is_raise,
+        is_normal=bid_decision.is_normal,
+        raised_amount=bid_decision.raised_amount,
+        reason=bid_decision.reason
     )
 
 def load_prompts(prompt_dir="PROMPTS"):

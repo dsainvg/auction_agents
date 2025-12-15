@@ -8,11 +8,11 @@ from utils import (
     api_keys,
     load_prompts,
     get_player_stats,
-    get_raise_amount
+    get_raise_amount,
+    BidderInput
 )
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, SystemMessage
-from agent_tools import bidder_tool
 import concurrent.futures
 import threading
 import time
@@ -73,7 +73,7 @@ def agent_pool(state: AgentState) -> AgentState:
                 temperature=0.1,
                 max_retries=2,
                 google_api_key=api_key,
-            ).bind_tools([bidder_tool])
+            ).with_structured_output(BidderInput)
 
             # Prepare context for this team
             budget = state.get(f"{team_id}_Budget", 0.0)
@@ -111,31 +111,22 @@ def agent_pool(state: AgentState) -> AgentState:
             # print(f"[AGENT_POOL] {team_id} sending request to LLM... with prompt: {human_msg} and system prompt: {sys_prompt}", flush=True)
             messages = [SystemMessage(content=sys_prompt), HumanMessage(content=human_msg)]
             
-            response = llm.invoke(messages)
+            bid_decision = llm.invoke(messages)
             # message_lines.append(f"  {team_id}: Received response from model. and responce is {str(response)}")
             with lock:
-                if response.tool_calls:
-                    tool_call = response.tool_calls[0]
-                    args = tool_call['args']
-                    message = ToolMessage(content=f"Tool Called with status 'success' and it returned bid decision : {args}", name=tool_call['name'], tool_call_id=tool_call['id'])
-                    state["Messages"] = [message]
-                    message = AIMessage(content=str(response.content))
+                if bid_decision:
+                    message = AIMessage(content=str(bid_decision))
                     state["Messages"] = [message]
                     
-                    if args.get("is_raise"):
-                        bid_decision = {
-                            "is_raise": True,
-                            "is_normal": args.get("is_normal"),
-                            "raised_amount": args.get("raised_amount")
-                        }
+                    if bid_decision.is_raise:
                         bid_info = competitiveBidMaker(team_id, current_player, bid_decision)
                         state["OtherTeamBidding"][team_id] = bid_info
-                        raise_type = "Normal" if bid_decision["is_normal"] else f"Custom (+{bid_decision['raised_amount']})"
-                        message_lines.append(f"  {team_id}: BID ({raise_type})")
+                        raise_type = "Normal" if bid_decision.is_normal else f"Custom (+{bid_decision.raised_amount})"
+                        message_lines.append(f"  {team_id}: BID ({raise_type}) - Reason: {bid_decision.reason}")
                     else:
-                        message_lines.append(f"  {team_id}: PASS")
+                        message_lines.append(f"  {team_id}: PASS - Reason: {bid_decision.reason}")
                 else:
-                    message_lines.append(f"  {team_id}: PASS (No tool call)")
+                    message_lines.append(f"  {team_id}: PASS (Could not parse bid decision)")
         except Exception as e:
             with lock:
                 message_lines.append(f"  {team_id}: Error - {str(e.with_traceback(e.__traceback__))}")
@@ -159,5 +150,3 @@ def agent_pool(state: AgentState) -> AgentState:
     print("[AGENT_POOL] Message:\n" + "\n".join(message_lines), flush=True)
     state["Messages"] = [AIMessage(content="\n".join(message_lines))]
     return state
-
-

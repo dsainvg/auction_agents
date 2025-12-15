@@ -70,8 +70,8 @@ def trademaster(state: AgentState) -> AgentState:
         state["OtherTeamBidding"] = {}
         
         # Check if round limit reached
-        if state["Round"] > 3:
-            message_lines.append("Round limit exceeded (>3)")
+        if state["Round"] > 2:
+            message_lines.append("Round limit exceeded (>2)")
             current_bid_final = state.get("CurrentBid")
             
             if current_player and current_bid_final and current_bid_final.team:
@@ -100,15 +100,15 @@ def trademaster(state: AgentState) -> AgentState:
                 # Move to next player
                 state["CurrentPlayer"] = None
                 state["CurrentBid"] = None
-                state["Round"] = 1
+                state["Round"] = 0
                 state["OtherTeamBidding"] = {}
                 state['AuctionStatus'] = False
             else:
-                # No CurrentBid and Round > 3, player goes unsold
+                # No CurrentBid and Round > 2, player goes unsold
                 state["UnsoldPlayers"].append(current_player)
                 state["CurrentPlayer"] = None
                 state["CurrentBid"] = None
-                state["Round"] = 1
+                state["Round"] = 0
                 state["OtherTeamBidding"] = {}
                 state['AuctionStatus'] = False
         
@@ -267,6 +267,46 @@ def trademaster(state: AgentState) -> AgentState:
                 # Bids received but none were valid, increment round
                 state["Round"] = current_round + 1
                 message_lines.append(f"No valid counter-bids, incrementing round to {state['Round']}")
+                if state["Round"] > 2:
+                    message_lines.append("Round limit exceeded (>2)")
+                    current_bid_final = state.get("CurrentBid")
+                    if current_player and current_bid_final and current_bid_final.team:
+                        # Finalize the sale
+                        player = current_player
+                        winning_team = current_bid_final.team
+                        
+                        # Get final price from CurrentBidInfo
+                        final_price = current_bid_final.current_bid_amount
+                        
+                        # Update player status
+                        player.status = True
+                        player.sold_price = final_price
+                        player.sold_team = winning_team
+                        
+                        # Add player to winning team
+                        if winning_team in state:
+                            state[winning_team].append(player)
+                        
+                        # Deduct from team budget
+                        budget_key = f"{winning_team}_Budget"
+                        if budget_key in state:
+                            state[budget_key] -= final_price
+                        
+                        
+                        # Move to next player
+                        state["CurrentPlayer"] = None
+                        state["CurrentBid"] = None
+                        state["Round"] = 0
+                        state["OtherTeamBidding"] = {}
+                        state['AuctionStatus'] = False
+                    else:
+                        # No CurrentBid and Round > 2, player goes unsold
+                        state["UnsoldPlayers"].append(current_player)
+                        state["CurrentPlayer"] = None
+                        state["CurrentBid"] = None
+                        state["Round"] = 0
+                        state["OtherTeamBidding"] = {}
+                        state['AuctionStatus'] = False
             
             # Clear the bidding dict for next round
             state["OtherTeamBidding"] = {}
