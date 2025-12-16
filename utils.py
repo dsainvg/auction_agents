@@ -12,39 +12,47 @@ from pydantic import BaseModel, Field
 
 # --- API Key Management ---
 def load_api_keys():
-    """Load Gemini API keys from environment variables based on NUM_GEMINI_API_KEYS."""
+    """Load NVIDIA API keys from environment variables based on NUM_NVIDIA_API_KEYS."""
     
     load_dotenv()
     try:
-        num_keys = int(os.getenv("NUM_GEMINI_API_KEYS", 0))
+        num_keys = int(os.getenv("NUM_NVIDIA_API_KEYS", 0))
     except (ValueError, TypeError):
         num_keys = 0
         
     if num_keys == 0:
         # Fallback to the old single key if the new system isn't used
-        single_key = os.getenv("GEMINI_API_KEY")
+        single_key = os.getenv("NVIDIA_API_KEY")
         if single_key:
             return [single_key]
         return []
 
-    keys = [os.getenv(f"GEMINI_API_KEY_{i}") for i in range(1, num_keys + 1)]
+    keys = [os.getenv(f"NVIDIA_API_KEY_{i}") for i in range(1, num_keys + 1)]
     return [key for key in keys if key]
 
 api_keys = load_api_keys()
 if not api_keys:
-    raise ValueError("No Gemini API keys found. Please set GEMINI_API_KEY_1, etc. in your .env file.")
+    raise ValueError("No NVIDIA API keys found. Please set NVIDIA_API_KEY_1, etc. in your .env file.")
 
 api_key_cycle = itertools.cycle(api_keys)
+# Maintain a parallel cycle of 1-based indices so callers can know which key was used
+api_key_index_cycle = itertools.cycle(range(1, len(api_keys) + 1))
 
 def get_next_api_key():
-    """Get the next API key from the cycle."""
-    return next(api_key_cycle)
+    """Get the next API key and its 1-based index from the cycle.
+
+    Returns:
+        tuple[str, int]: (api_key, api_key_index)
+    """
+    key = next(api_key_cycle)
+    idx = next(api_key_index_cycle)
+    return key, idx
 
 class BidDecisionDict(TypedDict):
     """Expected format for bid_decision parameter."""
     is_raise: bool
-    is_normal: Union[bool, None]
-    raised_amount: Union[float, None]
+    is_normal: bool
+    raised_amount: float
 
 class BidResponseDict(TypedDict):
     """Expected format for API response containing bid decision."""
@@ -63,6 +71,9 @@ class Player:
     status: bool = False
     sold_price: float = 0.0
     sold_team: Union[Literal['TeamA', 'TeamB', 'TeamC'], None] = None
+    # Reason why the player was purchased (populated by AI reasoner at purchase time)
+    reason_for_purchase: Union[str, None] = None
+    
 
 @dataclass
 class BidInfo:
@@ -76,11 +87,11 @@ class CurrentBidInfo(BidInfo):
 
 @dataclass
 class CompetitiveBidInfo(BidInfo):
-    is_raise: bool # Is there a raise in bid
-    is_normal: Union[bool, None] # Is it a normal raise i.e fixed increment (current bid info raise amount) Only if is_raise is true
-    raised_amount: Union[float, None] = None # Only if is_raise is true and is_normal is False 
-    reason: str = "" # Reason for the bid
-
+    is_raise: bool = False # Is there a raise in bid
+    is_normal: bool = True # Is it a normal raise i.e fixed increment
+    raised_amount: float = 0.0 # Custom raised amount; ignored if not applicable
+    reason: str = "" # Rationale for the bid decision
+    
 class AgentState(TypedDict):
     """State schema for the agent."""
     RemainingPlayers: Dict[Literal['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC', 'MBC', 'MAC', 'MBwC', 'EmBwU', 'EmAU', 'EmBC'],List[Player]]
@@ -102,16 +113,10 @@ class AgentState(TypedDict):
     Messages: Annotated[Sequence[Union[HumanMessage, AIMessage, ToolMessage, BaseMessage]], add_messages]
 
 class BidderInput(BaseModel):
-    is_raise: bool = Field(description="Whether this bid is a raise or just a call")
-    is_normal: Optional[bool] = Field(
-        default=None, 
-        description="Whether this is a normal raise (fixed increment). Only applicable if is_raise is True"
-    )
-    raised_amount: Optional[float] = Field(
-        default=None,
-        description="The custom raise amount. Only applicable if is_raise is True and is_normal is False"
-    )
-    reason: str = Field(description="The reason for this pick")
+    is_raise: bool = Field(default=False, description="Whether this bid is a raise or just a call. If not applicable, leave false.")
+    is_normal: bool = Field(default=True, description="Whether this is a normal raise (fixed increment). If not applicable, false.")
+    raised_amount: float = Field(default=0.0, description="The custom raise amount to add to the current price. If not applicable, 0.0.")
+    reason: str = Field(default="", description="Short rationale for the decision. Empty string if none.")
 
 def load_player_data() -> dict[Literal['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC', 'MBC', 'MAC', 'MBwC', 'EmBwU', 'EmAU', 'EmBC'], list[Player]]:
     """Load player data from CSV file in DB folder, grouped by set.
@@ -219,8 +224,8 @@ def competitiveBidMaker(team: Literal['TeamA', 'TeamB', 'TeamC'], player: Player
         bid_decision: Bid decision in the format:
             {
                 "is_raise": bool - Whether this is a raise,
-                "is_normal": bool or None - Whether this is a normal raise (fixed increment). Only applicable if is_raise is True,
-                "raised_amount": float or None - The custom raise amount. Only applicable if is_raise is True and is_normal is False
+                "is_normal": bool - Whether this is a normal raise (fixed increment). Only applicable if is_raise is True,
+                "raised_amount": float - The custom raise amount. Only applicable if is_raise is True and is_normal is False
             }
     
     Returns:
@@ -236,16 +241,39 @@ def competitiveBidMaker(team: Literal['TeamA', 'TeamB', 'TeamC'], player: Player
     )
 
 def load_prompts(prompt_dir="PROMPTS"):
+    # Load prompt filenames (case-insensitive) first
+    files = [f for f in os.listdir(prompt_dir) if f.lower().endswith('.txt')]
+    name_map = {os.path.splitext(f)[0].lower(): f for f in files}
+
+    # If both global Sys and Human exist, use them for all teams and ignore other files
+    if 'sys' in name_map and 'human' in name_map:
+        prompts = {}
+        sys_path = os.path.join(prompt_dir, name_map['sys'])
+        human_path = os.path.join(prompt_dir, name_map['human'])
+        with open(sys_path, 'r', encoding='utf-8') as f:
+            sys_content = f.read()
+        with open(human_path, 'r', encoding='utf-8') as f:
+            human_content = f.read()
+
+        # Apply to all teams
+        for team in ['TeamA', 'TeamB', 'TeamC']:
+            prompts[f"{team}_sys"] = sys_content
+            prompts[f"{team}_human"] = human_content
+
+        # Also expose generic keys for compatibility
+        prompts['Sys'] = sys_content
+        prompts['Human'] = human_content
+        return prompts
+
+    # Fallback: load all individual prompt files as before
     prompts = {}
-    for filename in os.listdir(prompt_dir):
-        if filename.endswith(".txt"):
-            filepath = os.path.join(prompt_dir, filename)
-            with open(filepath, "r") as f:
-                # Use the filename without extension as key.
-                # Normalize key so callers can use keys like 'TeamA_sys'.
-                raw_key = filename.split('.')[0]
-                key = raw_key[0].upper() + raw_key[1:] if raw_key else raw_key
-                prompts[key] = f.read()
+    for filename in files:
+        filepath = os.path.join(prompt_dir, filename)
+        key_raw = os.path.splitext(filename)[0]
+        # Keep capitalization of first char for backward compatibility
+        key = key_raw[0].upper() + key_raw[1:] if key_raw else key_raw
+        with open(filepath, 'r', encoding='utf-8') as f:
+            prompts[key] = f.read()
     return prompts
 
 def get_player_stats(player_name: str) -> str:
@@ -268,3 +296,28 @@ def get_player_stats(player_name: str) -> str:
                 with open(filepath, "r") as f:
                     return f.read()
     return "Stats not found for this player."
+
+SET_ABBREVIATION_MAPPING = {
+    'SBC': "Star Batsman Capped",
+    'SAC': "Star All-Rounder Capped",
+    'SBwC': "Star Bowler Capped",
+    'EBC': "Established Batsman Capped",
+    'EAC': "Established All-Rounder Capped",
+    'EBwC': "Established Bowler Capped",
+    'MBC': "Mid-tier Batsman Capped",
+    'MAC': "Mid-tier All-Rounder Capped",
+    'MBwC': "Mid-tier Bowler Capped",
+    'EmBwU': "Emerging Bowler Uncapped",
+    'EmAU': "Emerging All-Rounder Uncapped",
+    'EmBC': "Emerging Batsman Capped",
+}
+
+def get_set_name(set_abbreviation: Union[str, List[str]]) -> Union[str, List[str]]:
+    """Converts a set abbreviation or a list of abbreviations to its full name."""
+    if isinstance(set_abbreviation, list):
+        return [SET_ABBREVIATION_MAPPING.get(abbr, "Unknown Set") for abbr in set_abbreviation]
+    return SET_ABBREVIATION_MAPPING.get(set_abbreviation, "Unknown Set")
+
+def safe_prin(s):
+    print(s.encode('utf-8', errors='ignore').decode('utf-8'))
+

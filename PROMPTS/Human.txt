@@ -1,4 +1,4 @@
-You are given the specific player and current auction context. Use the system prompt rules from teamA_sys.txt and return exactly one JSON object (nothing else).
+You are given the specific player and current auction context. Use the system prompt rules and return exactly one JSON object (nothing else).
 
 Player: ${player_name}
 Base Price: ${base_price} Cr
@@ -7,9 +7,23 @@ Minimum Bid Raise: ${min_bid_raise} Cr
 Price if normal raise: ${next_bid_price} Cr
 Team composition: ${team_composition}
 
+Other Team Compositions:
+${other_team_compositions}
+
+Other Team Budgets:
+${other_team_budgets}
+
+Current Set: ${current_set}
+Remaining Sets: ${remaining_sets}
+
+Remaining players in set:
+${remaining_in_set_players}
+
+
 Player stats:
 ${player_stats}
 
 Constraints reminder:
 - Do not recommend a total bid above your `${budget}`.
 - Never recommend spending more than 25 Cr on a single player (total bid <= 25); if `${budget}` < 25, obey `${budget}`.
+

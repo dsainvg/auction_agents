@@ -1,11 +1,19 @@
+import warnings
 from langgraph.graph import StateGraph, END
 
 from utils import AgentState, load_api_keys, load_player_data, prettyprint
+from model_config import MODEL_NAME
 from host import host
 from host_assistant import host_assistant
 from agentpool import agent_pool
 from trade_master import trademaster
+import pickle
 
+warnings.filterwarnings(
+    "ignore",
+    message=f"Model '{MODEL_NAME}' is not known to support structured output.",
+    category=UserWarning
+)
 
 load_api_keys()
 # Initialize agent state with proper values
@@ -78,5 +86,6 @@ print(f"[MAIN] Invoking graph with recursion_limit=10000, CurrentPlayer={getattr
 result = graph.invoke(agent, {"recursion_limit": 10000})
 
 print("\nAuction completed!")
+pickle.dump(result, open("final_agent_state.pkl", "wb"))
+print("Final agent state:")
 prettyprint(result)
-

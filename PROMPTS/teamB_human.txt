@@ -1,12 +1,15 @@
-Given the player ${player_name} and your current team composition:
-${team_composition}
+You are given the specific player and current auction context. Use the system prompt rules from teamA_sys.txt and return exactly one JSON object (nothing else).
+
+Player: ${player_name}
+Base Price: ${base_price} Cr
+Current Price: ${current_price} Cr
+Minimum Bid Raise: ${min_bid_raise} Cr
+Price if normal raise: ${next_bid_price} Cr
+Team composition: ${team_composition}
 
 Player stats:
 ${player_stats}
 
-Using the system prompt rules and your budget, DECIDE whether to bid. Instead of returning text, CALL the `bidder_tool` with the appropriate arguments as described in the system prompt.
-
-Guidance:
-- `is_raise: true` to bid, `is_raise: false` to pass.
-- If `is_raise` is true and you want a standard increment, set `is_normal: true`.
-- If `is_raise` is true and you want a custom increment, set `is_normal: false` and provide `raised_amount`.
+Constraints reminder:
+- Do not recommend a total bid above your `${budget}`.
+- Never recommend spending more than 25 Cr on a single player (total bid <= 25); if `${budget}` < 25, obey `${budget}`.

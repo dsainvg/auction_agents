@@ -1,4 +1,5 @@
 from utils import AgentState, CurrentBidInfo, get_raise_amount, AIMessage
+from reasoner import generate_purchase_reason
 
 def trademaster(state: AgentState) -> AgentState:
     """Trade master function to manage trades and update the agent state accordingly.
@@ -86,6 +87,13 @@ def trademaster(state: AgentState) -> AgentState:
                 player.status = True
                 player.sold_price = final_price
                 player.sold_team = winning_team
+                # If round > 2, generate AI reason and suggestions for the purchase
+                try:
+                    reason_text = generate_purchase_reason(state, player, winning_team, final_price)
+                    player.reason_for_purchase = reason_text
+                    message_lines.append(f"AI Reason+Suggestions: {reason_text}")
+                except Exception as e:
+                    message_lines.append(f"AI reasoner error: {e}")
                 
                 # Add player to winning team
                 if winning_team in state:
