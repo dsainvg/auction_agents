@@ -1,7 +1,7 @@
 from utils import AgentState
 from typing import Literal
 
-def host(state: AgentState) -> Literal["host_assistant", "bidder_pool", "__end__"]:
+def host(state: AgentState) -> Literal["host_assistant", "bidder_pool", "team_manager"]:
     """Host function to route to host_assistant, bidder_pool, or END."""
     if not state:
         raise ValueError("State cannot be None or empty.")
@@ -9,7 +9,7 @@ def host(state: AgentState) -> Literal["host_assistant", "bidder_pool", "__end__
     
     # Check if auction is complete (no more players or sets)
     if not state.get('RemainingSets') and not state.get('RemainingPlayersInSet') and not state.get('CurrentPlayer'):
-        return "__end__"
+        return "team_manager"
     
     # Route to host_assistant if auction is inactive (need new player)
     if state.get('AuctionStatus', False) is False:

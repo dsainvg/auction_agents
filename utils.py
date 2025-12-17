@@ -92,6 +92,26 @@ class CompetitiveBidInfo(BidInfo):
     raised_amount: float = 0.0 # Custom raised amount; ignored if not applicable
     reason: str = "" # Rationale for the bid decision
     
+@dataclass
+class Team:
+    Name: Literal['TeamA', 'TeamB', 'TeamC']
+    Captain: Player
+    WicketKeeper: Player
+    StrikingOpener: Player
+    NonStrikingOpener: Player
+    OneDownBatsman: Player
+    TwoDownBatsman: Player
+    ThreeDownBatsman: Player
+    FourDownBatsman: Player
+    FiveDownBatsman: Player
+    SixDownBatsman: Player
+    SevenDownBatsman: Player
+    EightDownBatsman: Player
+    NineDownBatsman: Player
+    PowerplayBowlers: List[Player]
+    MiddleOversBowlers: List[Player]
+    DeathOversBowlers: List[Player]
+    PlayersNotInPlayingXI: List[Player] 
 class AgentState(TypedDict):
     """State schema for the agent."""
     RemainingPlayers: Dict[Literal['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC', 'MBC', 'MAC', 'MBwC', 'EmBwU', 'EmAU', 'EmBC'],List[Player]]
@@ -103,15 +123,14 @@ class AgentState(TypedDict):
     CurrentBid: Union[CurrentBidInfo, None] = None
     OtherTeamBidding: Union[Dict[Literal['TeamA', 'TeamB', 'TeamC'], CompetitiveBidInfo], None] = None
     Round :int = 0
-    TeamA: List[Player] = []
-    TeamB: List[Player] = []
-    TeamC: List[Player] = []
+    TeamA: Union[List[Player],Team] = []
+    TeamB: Union[List[Player],Team] = []
+    TeamC: Union[List[Player],Team] = []
     UnsoldPlayers: List[Player] = []
     TeamA_Budget: float
     TeamB_Budget: float
     TeamC_Budget: float
-    Messages: Annotated[Sequence[Union[HumanMessage, AIMessage, ToolMessage, BaseMessage]], add_messages]
-
+    Messages: Annotated[Sequence[Union[HumanMessage, AIMessage, ToolMessage, BaseMessage]], add_messages] 
 class BidderInput(BaseModel):
     is_raise: bool = Field(default=False, description="Whether this bid is a raise or just a call. If not applicable, leave false.")
     is_normal: bool = Field(default=True, description="Whether this is a normal raise (fixed increment). If not applicable, false.")
@@ -177,33 +196,72 @@ def prettyprint(agent_state: AgentState) -> None:
     print("="*60)
     for key, value in agent_state.items():
         print(f"\n{key.upper()}:")
-        if key == "Messages":
+
+        # Special handling for Team objects for a cleaner display
+        if key in ['TeamA', 'TeamB', 'TeamC'] and isinstance(value, Team):
+            print(f"  Team: {value.Name}")
+            
+            unique_players = set()
+            def get_player_details_str(player: Player) -> str:
+                if player:
+                    unique_players.add(player.name)
+                    return f"{player.name} ({player.role}, sold for {player.sold_price:.2f} Cr)"
+                return "None"
+
+            # Display each role and player
+            for field_name, field_value in value.__dict__.items():
+                if field_name == 'Name':
+                    continue
+                
+                if isinstance(field_value, Player):
+                    print(f"  - {field_name}: {get_player_details_str(field_value)}")
+                elif isinstance(field_value, list):
+                    print(f"  - {field_name}:")
+                    if not field_value:
+                        print("    - (empty)")
+                    else:
+                        for player in field_value:
+                            print(f"    - {get_player_details_str(player)}")
+
+            num_unique_players = len(unique_players)
+            print(f"\n  Unique Players in Team: {num_unique_players}")
+            if num_unique_players > 11:
+                print(f"  WARNING: Team has {num_unique_players} players, which is more than the typical 11.")
+
+        elif key == "Messages":
             if not value:
                 print("  (empty)")
             else:
                 for i, msg in enumerate(value, 1):
                     print(f"  {i}. [{type(msg).__name__}] {msg.content}")
+        
         elif isinstance(value, list):
-            # Handle list of players (TeamA, TeamB, TeamC)
+            # Handles lists like UnsoldPlayers or initial empty team lists
             if not value:
                 print("  (empty)")
             else:
+                is_player_list = all(isinstance(item, Player) for item in value)
                 for i, item in enumerate(value, 1):
-                    if isinstance(item, Player):
+                    if is_player_list:
                         print(f"  {i}. {item.name} ({item.role}) - INR {item.sold_price:.2f}Cr")
                     else:
                         print(f"  {i}. {item}")
+
         elif isinstance(value, dict):
-            # Handle dict of sets with player lists (RemainingPlayers)
+            # Handles RemainingPlayers dictionary
             for set_name, players in value.items():
-                if isinstance(players, list) and players and isinstance(players[0], Player):
-                    print(f"  {set_name}: {len(players)} players")
-                    for i, player in enumerate(players, 1):
-                        print(f"    {i}. {player.name} ({player.role}) - Base: INR {player.base_price:.2f}Cr, Prev: INR {player.previous_sold_price:.2f}Cr")
+                if isinstance(players, list):
+                    if players and isinstance(players[0], Player):
+                        print(f"  {set_name}: {len(players)} players")
+                    else:
+                        print(f"  {set_name}: []")
                 else:
                     print(f"  {set_name}: {players}")
+        
         else:
+            # Generic print for other types
             print(f"  {value}")
+
     print("="*60 + "\n")
 
 def get_raise_amount(current_price: float) -> float:

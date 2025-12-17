@@ -194,11 +194,22 @@ def agent_pool(state: AgentState) -> AgentState:
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=len(teams)) as executor:
         futures = []
+        # Precompute the minimum next bid price so we can skip teams with insufficient budget
+        if current_bid:
+            current_price = current_bid.current_bid_amount
+        else:
+            current_price = current_player.base_price
+        min_bid_raise = get_raise_amount(current_price)
+        next_bid_price = current_price + min_bid_raise
+
         for team_id in teams:
-            if current_bid_team != team_id:
-                futures.append(executor.submit(run_agent_decision, team_id))
+            budget = state.get(f"{team_id}_Budget", 0.0)
+            if current_bid_team == team_id:
+                message_lines.append(f"  {team_id}: Skipped (current bid holder)")
+            elif budget < next_bid_price:
+                message_lines.append(f"  {team_id}: Skipped (insufficient budget: {budget} < required INR {next_bid_price:.2f})")
             else:
-                 message_lines.append(f"  {team_id}: Skipped (current bid holder)")
+                futures.append(executor.submit(run_agent_decision, team_id))
         
         # Wait for all futures to complete
         concurrent.futures.wait(futures)
