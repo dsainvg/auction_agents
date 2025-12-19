@@ -1,6 +1,7 @@
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
 from langchain_core.messages import SystemMessage, HumanMessage
 import re
+import os
 from model_config import MODEL_NAME, TEMPERATURE, TOP_P, MAX_TOKENS, EXTRA_BODY
 from utils import AgentState, Player, get_player_stats, get_next_api_key, get_set_name
 
@@ -24,18 +25,19 @@ def _build_reasoner_prompt(state: AgentState, player: Player, winning_team: str,
     player_stats = get_player_stats(player.name)
 
     human = (
-        f"You are an expert IPL auction analyst.\n"
-        f"Provide a concise single-paragraph (3-4 sentences) explanation why {winning_team} should purchase {player.name} ({player.role}) NOW at INR {final_price:.2f} Cr given the context below.\n\n"
-        f"Context:\n"
-        f"Player base price: {player.base_price}\n"
-        f"Player previous sold price: {player.previous_sold_price}\n"
-        f"Player category/experience: {player.category} / {player.experience}\n"
-        f"Player stats: {player_stats}\n\n"
-        f"Teams summary:\n" + "\n".join(team_info_lines) + "\n\n"
-        f"Available sets left: {remaining_sets_full}\n"
-        f"Available players in current set: {remaining_players_in_set}\n\n"
-        f"Instruction: In the single paragraph include these elements: (1) the player's specialty/specific role (e.g., power-hitter, finisher, strike bowler, death overs specialist, all-rounder), (2) how this specialty fits into {winning_team}'s current squad and strategy, (3) a clear justification of the price being paid and an explicit mention of the price and whether it is fair/value-for-money compared to expectations, and (4) one short actionable suggestion for how to use or develop the player. Keep the whole answer to one paragraph of 3-4 sentences and DO NOT output additional paragraphs or metadata."
-    )
+    "You are an expert IPL auction analyst.\n"
+    f"Explain why {winning_team} should purchase {player.name} ({player.role}) NOW at INR {final_price:.2f} Cr, "
+    "using a single dense paragraph that follows your system instructions.\n\n"
+    "Context:\n"
+    f"Player base price: {player.base_price}\n"
+    f"Player previous sold price: {player.previous_sold_price}\n"
+    f"Player category/experience: {player.category} / {player.experience}\n"
+    f"Player stats: {player_stats}\n\n"
+    "Teams summary:\n" + "\n".join(team_info_lines) + "\n\n"
+    f"Available sets left: {remaining_sets_full}\n"
+    f"Available players in current set: {remaining_players_in_set}\n"
+)
+
     return human
 
 def generate_purchase_reason(state: AgentState, player: Player, winning_team: str, final_price: float) -> str:
@@ -66,8 +68,17 @@ def generate_purchase_reason(state: AgentState, player: Player, winning_team: st
         extra_body=EXTRA_BODY,
     )
 
-    # Use a light system instruction
-    system = SystemMessage(content="You are a concise cricket auction analyst.")
+    # Use a light system instruction (read as UTF-8, tolerant on Windows)
+    prompt_path = os.path.join(os.path.dirname(__file__), 'PROMPTS', 'ReasonerSysPrompt.txt')
+    try:
+        with open(prompt_path, 'r', encoding='utf-8', errors='ignore') as f:
+            system_prompt_text = f.read()
+    except FileNotFoundError:
+        # Fallback to old/case-variant path if needed
+        alt_path = os.path.join(os.path.dirname(__file__), 'Prompts', 'reasonerSysprompt.txt')
+        with open(alt_path, 'r', encoding='utf-8', errors='ignore') as f:
+            system_prompt_text = f.read()
+    system = SystemMessage(content=system_prompt_text)
     human = HumanMessage(content=human_prompt)
     print("Invoking reasoner LLM...")
     # print("Prompt:", flush=True)
@@ -93,13 +104,15 @@ def generate_purchase_reason(state: AgentState, player: Player, winning_team: st
         # Fallback text if model call fails
         text = f"{winning_team} acquiring {player.name} at INR {final_price:.2f} is a strategic move due to squad balance and available budget."
 
-    # Clean text and return only the first sentence (no metadata)
+    # Clean text and return all sentences as a single paragraph (no metadata)
     # Normalize whitespace and remove surrounding quotes
     text = text.strip().strip('"').strip("'")
-    # Split into sentences; pick the first non-empty sentence
+    # Split into sentences
     sentences = re.split(r'(?<=[\.\!\?])\s+', text)
-    first_sentence = sentences[0].strip() if sentences and sentences[0].strip() else text
+    # Filter out empty sentences and join all as a single paragraph
+    non_empty_sentences = [s.strip() for s in sentences if s.strip()]
+    essay_text = ' '.join(non_empty_sentences) if non_empty_sentences else text
     # Ensure it ends with a period
-    if not re.search(r'[\.\!\?]$', first_sentence):
-        first_sentence = first_sentence.rstrip() + '.'
-    return first_sentence
+    if not re.search(r'[\.\!\?]$', essay_text):
+        essay_text = essay_text.rstrip() + '.'
+    return essay_text

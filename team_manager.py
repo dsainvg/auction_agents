@@ -4,7 +4,6 @@ from pydantic import BaseModel, Field
 from utils import AgentState, Player, Team, get_player_stats
 from model_config import MODEL_NAME, TEMPERATURE, TOP_P, MAX_TOKENS, EXTRA_BODY
 from utils import get_next_api_key
-import json
 import difflib
 
 class TeamManagerInput(BaseModel):
@@ -27,17 +26,14 @@ class TeamManagerInput(BaseModel):
     PlayersNotInPlayingXI : list[str] = Field(..., description="List of names of players not in the playing XI.")
 
 def _build_team_manager_human_prompt(team_name: str, team_players: list[Player]) -> str:
-    """Builds the data-focused human prompt for the team manager AI.
-
-    This prompt provides squad details and required selection counts. Output
-    formatting (JSON, schema enforcement, etc.) is handled in the system prompt.
-    """
+    """Builds the data-focused human prompt for the team manager AI."""
     player_details = []
     for player in team_players:
-        stats = get_player_stats(player.name)
         player_details.append(
             f"Name: {player.name}, Role: {player.role}, Price: {player.sold_price} Cr, "
-            f"Reason for Purchase: {player.reason_for_purchase}\nStats:\n{stats}"
+            f"Base Price: {player.base_price} Cr, Previous Sold Price: {player.previous_sold_price} Cr, "
+            f"Category/Experience: {player.category} / {player.experience}, "
+            f"Reason for Purchase: {player.reason_for_purchase}"
         )
 
     player_details_str = "\n\n".join(player_details)
@@ -48,16 +44,20 @@ def _build_team_manager_human_prompt(team_name: str, team_players: list[Player])
         f"Team: {team_name}\n\n"
         f"Total players in squad: {squad_size}. You MUST select exactly 11 unique players for the Playing XI. "
         f"Exactly {num_out_of_xi} players must be in PlayersNotInPlayingXI.\n\n"
-        "Squad Details:\n"
+        "Squad Details (no stats, only roles, prices and reasons):\n"
         f"{player_details_str}\n\n"
         "Note: Do not change player name spellings; adhere to the names listed above.\n"
     )
     return prompt
 
+
 def team_manager(state: AgentState) -> AgentState:
     """
     This function analyzes the teams and assigns roles to the players using an AI model.
     """
+    import pickle
+    pickle.dump(state, open("PreTeamAllocation.pkl", "wb"))
+    print("Team Manager invoked. Current state:")
     for team_name in ['TeamA', 'TeamB', 'TeamC']:
         team_players = state.get(team_name)
 
@@ -70,7 +70,7 @@ def team_manager(state: AgentState) -> AgentState:
         print(f"Team Manager ({team_name}): Using NVIDIA API key #{api_key_id}")
 
         llm = ChatNVIDIA(
-            model="mistralai/mistral-large-3-675b-instruct-2512",
+            model="moonshotai/kimi-k2-instruct-0905",
             temperature=TEMPERATURE,
             top_p=TOP_P,
             max_tokens=4*MAX_TOKENS,
@@ -111,7 +111,7 @@ def team_manager(state: AgentState) -> AgentState:
             for field_name, field_value in team_manager_input:
                 if field_name == "PlayersNotInPlayingXI":
                     continue
-                if isinstance(field_value, str):
+                elif isinstance(field_value, str):
                     all_player_names.add(field_value)
                 elif isinstance(field_value, list):
                     all_player_names.update(field_value)

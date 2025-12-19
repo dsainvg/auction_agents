@@ -2,11 +2,11 @@
 
 Change values here to alter model parameters used across the project.
 """
-MODEL_NAME = "deepseek-ai/deepseek-v3.1"
-TEMPERATURE = 0.05
-TOP_P = 0.9
-MAX_TOKENS = 8192
+MODEL_NAME = "qwen/qwen3-235b-a22b"
+TEMPERATURE = 0.2
+TOP_P = 0.7
+MAX_TOKENS = 4096
 EXTRA_BODY = {"chat_template_kwargs": {"thinking": True}}
-WAIT_BETWEEN_REQUESTS = 2.5
+WAIT_BETWEEN_REQUESTS = 5 # seconds
 
 # Structured output class is set where used; keep config minimal and simple.

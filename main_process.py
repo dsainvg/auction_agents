@@ -14,6 +14,13 @@ warnings.filterwarnings(
     message=f"Model '{MODEL_NAME}' is not known to support structured output.",
     category=UserWarning
 )
+# Suppress noisy model-type warning from langchain_nvidia_ai_endpoints
+warnings.filterwarnings(
+    "ignore",
+    message=r"Found deepseek-ai/deepseek-v3\.2 .* type is unknown and inference may fail.",
+    category=UserWarning,
+    module="langchain_nvidia_ai_endpoints._common",
+)
 
 load_api_keys()
 # Initialize agent state with proper values
@@ -83,11 +90,11 @@ print("Starting auction...\n")
 # Save the graph visualization
 with open('graph_visualization.png', 'wb') as f:
     f.write(graph.get_graph().draw_mermaid_png())
-# print(f"[MAIN] Invoking graph with recursion_limit=10000, CurrentPlayer={getattr(agent.get('CurrentPlayer'), 'name', None)}", flush=True)
-# # Run the graph with increased recursion limit
-# result = graph.invoke(agent, {"recursion_limit": 10000})
+print(f"[MAIN] Invoking graph with recursion_limit=10000, CurrentPlayer={getattr(agent.get('CurrentPlayer'), 'name', None)}", flush=True)
+# Run the graph with increased recursion limit
+result = graph.invoke(agent, {"recursion_limit": 10000})
 
-# print("\nAuction completed!")
-# pickle.dump(result, open("final_agent_state.pkl", "wb"))
-# print("Final agent state:")
-# prettyprint(result)
+print("\nAuction completed!")
+pickle.dump(result, open("final_agent_state.pkl", "wb"))
+print("Final agent state:")
+prettyprint(result)

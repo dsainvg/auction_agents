@@ -202,9 +202,12 @@ def prettyprint(agent_state: AgentState) -> None:
             print(f"  Team: {value.Name}")
             
             unique_players = set()
-            def get_player_details_str(player: Player) -> str:
+
+            def get_player_details_str(player: Player, include_in_count: bool = True) -> str:
+                """Format a player string and optionally count toward playing XI."""
                 if player:
-                    unique_players.add(player.name)
+                    if include_in_count:
+                        unique_players.add(player.name)
                     return f"{player.name} ({player.role}, sold for {player.sold_price:.2f} Cr)"
                 return "None"
 
@@ -213,15 +216,17 @@ def prettyprint(agent_state: AgentState) -> None:
                 if field_name == 'Name':
                     continue
                 
+                is_bench = field_name == 'PlayersNotInPlayingXI'
+
                 if isinstance(field_value, Player):
-                    print(f"  - {field_name}: {get_player_details_str(field_value)}")
+                    print(f"  - {field_name}: {get_player_details_str(field_value, not is_bench)}")
                 elif isinstance(field_value, list):
                     print(f"  - {field_name}:")
                     if not field_value:
                         print("    - (empty)")
                     else:
                         for player in field_value:
-                            print(f"    - {get_player_details_str(player)}")
+                            print(f"    - {get_player_details_str(player, not is_bench)}")
 
             num_unique_players = len(unique_players)
             print(f"\n  Unique Players in Team: {num_unique_players}")
@@ -351,8 +356,13 @@ def get_player_stats(player_name: str) -> str:
             filename_formatted = filename.replace(".txt", "").replace(" ", "").lower()
             if filename_formatted == player_name_formatted:
                 filepath = os.path.join(stats_dir, filename)
-                with open(filepath, "r") as f:
-                    return f.read()
+                try:
+                    with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
+                        return f.read()
+                except Exception:
+                    # As a very tolerant fallback, read in binary and decode utf-8 ignoring
+                    with open(filepath, "rb") as fb:
+                        return fb.read().decode("utf-8", errors="ignore")
     return "Stats not found for this player."
 
 SET_ABBREVIATION_MAPPING = {
