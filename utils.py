@@ -73,6 +73,9 @@ class Player:
     sold_team: Union[Literal['TeamA', 'TeamB', 'TeamC'], None] = None
     # Reason why the player was purchased (populated by AI reasoner at purchase time)
     reason_for_purchase: Union[str, None] = None
+    # Store all team bid decisions/messages during auction rounds for this player
+    # Format: {"TeamA": [{"round": 1, "reason": "...", "decision": "raise/pass"}], ...}
+    team_bid_history: Dict[str, List[Dict[str, Union[int, str, float]]]] = field(default_factory=dict)
     
 
 @dataclass

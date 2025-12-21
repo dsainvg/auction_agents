@@ -70,12 +70,12 @@ def team_manager(state: AgentState) -> AgentState:
         print(f"Team Manager ({team_name}): Using NVIDIA API key #{api_key_id}")
 
         llm = ChatNVIDIA(
-            model="moonshotai/kimi-k2-instruct-0905",
+            model="deepseek-ai/deepseek-v3.2",
             temperature=TEMPERATURE,
             top_p=TOP_P,
             max_tokens=4*MAX_TOKENS,
             api_key=api_key,
-            extra_body=EXTRA_BODY,
+            extra_body={"chat_template_kwargs": {"thinking":True}}
         )
 
         with open('PROMPTS/CoachSysPrompt.txt', 'r', encoding='utf-8',errors='ignore') as f:

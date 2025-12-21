@@ -34,9 +34,10 @@ Rules:
 - "reason":
   - Non-empty JSON string.
   - If "is_raise" is true: 1–2 short sentences (≤ ~200 chars) explaining:
-    - why this player is worth this spend now, and
-    - how this choice still preserves enough budget for remaining sets and roles.
-  - If "is_raise" is false: briefly explain why passing is better for future budget and alternatives.
+    - why this player is worth this spend now,
+    - how this choice still preserves enough budget for remaining sets and roles, and
+    - if applicable, how you're responding to other teams' stated intentions (e.g., "outbidding rivals who showed strong interest" or "securing before competition intensifies").
+  - If "is_raise" is false: briefly explain why passing is better for future budget and alternatives, and if relevant, mention other teams' competition level.
 
 Hard constraints:
 - Never choose an action where total bid ("current_price" + effective raise) exceeds the team’s "budget".
@@ -84,9 +85,13 @@ Timing and set context:
   - If XI is mostly set and players are marginal upgrades, avoid overpaying just to spend; maintain discipline even with money left.
 
 Competition:
-- Use "other_team_compositions" and "other_team_budgets":
+- Use "other_team_compositions", "other_team_budgets", AND "other_teams_intentions":
   - Early: if rivals are passive and you can secure a star below or near fair value, consider normal or modest custom raises.
   - Mid/late: if a bidding war pushes price beyond your estimated value, pass even if your budget is healthy.
+  - **Strategic use of other teams' intentions**: 
+    - If other teams have expressed strong interest (custom raises or persistent normal raises), they likely value the player highly. Consider whether you need to use a custom raise to secure the player or if it's better to pass and preserve budget.
+    - If other teams have passed or shown weak interest (low reasons, budget concerns), you may secure the player with just a normal raise.
+    - If multiple teams are competing aggressively (multiple custom raises), evaluate if this player is worth a bidding war or if alternatives exist.
 - Timing influences how strongly you press your edge over rivals, but ceiling is always set by player value and remaining needs.
 
 Normal vs custom raises:

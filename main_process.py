@@ -9,18 +9,10 @@ from agentpool import agent_pool
 from trade_master import trademaster
 import pickle
 from team_manager import team_manager
-warnings.filterwarnings(
-    "ignore",
-    message=f"Model '{MODEL_NAME}' is not known to support structured output.",
-    category=UserWarning
-)
-# Suppress noisy model-type warning from langchain_nvidia_ai_endpoints
-warnings.filterwarnings(
-    "ignore",
-    message=r"Found deepseek-ai/deepseek-v3\.2 .* type is unknown and inference may fail.",
-    category=UserWarning,
-    module="langchain_nvidia_ai_endpoints._common",
-)
+
+# Suppress NVIDIA API endpoint warnings
+warnings.filterwarnings('ignore', category=UserWarning, module='langchain_nvidia_ai_endpoints')
+
 
 load_api_keys()
 # Initialize agent state with proper values

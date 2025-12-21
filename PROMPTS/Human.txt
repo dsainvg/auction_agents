@@ -13,6 +13,12 @@ ${other_team_compositions}
 Other Team Budgets:
 ${other_team_budgets}
 
+Own Bidding History:
+${own_bid_history}
+
+Other Teams' Bidding Intentions for This Player:
+${other_teams_intentions}
+
 Current Set: ${current_set}
 Remaining Sets: ${remaining_sets}
 

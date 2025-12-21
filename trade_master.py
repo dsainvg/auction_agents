@@ -143,15 +143,18 @@ def trademaster(state: AgentState) -> AgentState:
                 # Calculate bid amount from CompetitiveBidInfo object
                 if competitive_bid.is_raise:
                     if competitive_bid.is_normal:
-                        # Normal increment using get_raise_amount function
-                        raise_amt = get_raise_amount(current_bid_amount)
-                        bid_amount = current_bid_amount + raise_amt
+                        # For the first bid (no existing current bid), a 'normal' raise
+                        # should allow bidding at the base price rather than auto-increasing.
+                        bid_amount = current_bid_amount
                     else:
-                        # Custom raise amount
-                        if competitive_bid.raised_amount:
-                            bid_amount = current_bid_amount + competitive_bid.raised_amount
+                        # Custom raise amount - must meet minimum raise requirement
+                        raised = float(getattr(competitive_bid, 'raised_amount', 0.0) or 0.0)
+                        min_required = get_raise_amount(current_bid_amount)
+                        if raised and (raised >= min_required):
+                            bid_amount = current_bid_amount + raised
                         else:
-                            continue  # Invalid bid, skip
+                            # Insufficient custom raise, skip this bid
+                            continue
                 else:
                     # Not a raise, invalid
                     continue
@@ -214,7 +217,7 @@ def trademaster(state: AgentState) -> AgentState:
             for team_name, competitive_bid in other_bids.items():
                 budget_key = f"{team_name}_Budget"
                 team_budget = state.get(budget_key, 0.0)
-                
+
                 # Calculate bid amount from CompetitiveBidInfo object
                 if competitive_bid.is_raise:
                     if competitive_bid.is_normal:
@@ -222,11 +225,14 @@ def trademaster(state: AgentState) -> AgentState:
                         raise_amt = get_raise_amount(current_bid_amount)
                         bid_amount = current_bid_amount + raise_amt
                     else:
-                        # Custom raise amount
-                        if competitive_bid.raised_amount:
-                            bid_amount = current_bid_amount + competitive_bid.raised_amount
+                        # Custom raise amount - must meet minimum raise requirement
+                        raised = float(getattr(competitive_bid, 'raised_amount', 0.0) or 0.0)
+                        min_required = get_raise_amount(current_bid_amount)
+                        if raised and (raised >= min_required):
+                            bid_amount = current_bid_amount + raised
                         else:
-                            continue  # Invalid bid, skip
+                            # Insufficient custom raise, skip this bid
+                            continue
                 else:
                     # Not a raise, invalid
                     continue

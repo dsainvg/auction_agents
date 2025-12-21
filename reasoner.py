@@ -58,14 +58,14 @@ def generate_purchase_reason(state: AgentState, player: Player, winning_team: st
     # Log which API key index is used for the reasoner call
     if api_key_id is not None:
         print(f"Reasoner: Using NVIDIA API key #{api_key_id}")
-
+    MODEL_NAME = "openai/gpt-oss-120b"
     llm = ChatNVIDIA(
         model=MODEL_NAME,
         temperature=TEMPERATURE,
         top_p=TOP_P,
-        max_tokens=MAX_TOKENS,
-        api_key=api_key,
-        extra_body=EXTRA_BODY,
+        max_tokens=4096,
+        api_key=api_key #,
+        # extra_body=EXTRA_BODY,
     )
 
     # Use a light system instruction (read as UTF-8, tolerant on Windows)
