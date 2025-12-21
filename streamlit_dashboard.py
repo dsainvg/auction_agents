@@ -31,6 +31,8 @@ def init_session_state():
         st.session_state.current_set = None
     if 'remaining_sets' not in st.session_state:
         st.session_state.remaining_sets = []
+    if 'auction_completed' not in st.session_state:
+        st.session_state.auction_completed = False
 
 def create_graph():
     """Create and return the LangGraph"""
@@ -178,7 +180,7 @@ def process_state_update(state, node_name=None):
 
 def render_ui():
     """Render the main UI"""
-    st.markdown("<style>.block-container{max-width: 95%; padding: 1rem;}</style>", unsafe_allow_html=True)
+    st.markdown("<style>.block-container{max-width: 95%; padding-top: 3.5rem; padding-left:1rem; padding-right:1rem; padding-bottom:1rem;}</style>", unsafe_allow_html=True)
     
     # Host status and auction info
     col1, col2, col3 = st.columns(3)
@@ -198,6 +200,9 @@ def render_ui():
     
     with col_left:
         st.subheader("🎯 Current Auction")
+        # Show completed banner near the auction area for better placement
+        if st.session_state.auction_completed:
+            st.success("🏁 Auction Completed!")
         
         if st.session_state.current_state:
             current_bid = st.session_state.current_state.get("CurrentBid")
@@ -328,6 +333,7 @@ def start_auction():
     config = {"recursion_limit": 10000}
     st.session_state.stream_iterator = graph.stream(initial_state, config, stream_mode="values")
     st.session_state.auction_running = True
+    st.session_state.auction_completed = False
     print("[DEBUG] Auction started!")
 
 def process_next_state():
@@ -343,6 +349,7 @@ def process_next_state():
         print("[DEBUG] Stream completed")
         st.session_state.auction_running = False
         st.session_state.stream_iterator = None
+        st.session_state.auction_completed = True
         return False
     except Exception as e:
         print(f"[DEBUG] Stream error: {e}")
@@ -369,6 +376,7 @@ def main():
         if st.button("⏸️ Stop Auction", key="stop_btn", disabled=not st.session_state.auction_running):
             st.session_state.auction_running = False
             st.session_state.stream_iterator = None
+            st.session_state.auction_completed = False
             st.warning("Auction stopped!")
             st.rerun()
     
@@ -376,18 +384,16 @@ def main():
         if st.button("🔄 Reset Dashboard", key="reset_btn"):
             st.session_state.auction_running = False
             st.session_state.stream_iterator = None
-            for key in ['bid_history', 'teams', 'budgets', 'current_state', 'auction_error']:
+            for key in ['bid_history', 'teams', 'budgets', 'current_state', 'auction_error', 'auction_completed']:
                 if key in st.session_state:
                     del st.session_state[key]
             st.rerun()
     
-    # Show status
+    # Show status (running / error)
     if st.session_state.auction_running:
         st.info("🔄 Auction running...")
     elif hasattr(st.session_state, 'auction_error') and st.session_state.auction_error:
         st.error(f"Auction error: {st.session_state.auction_error}")
-    elif st.session_state.current_state:
-        st.success("🏁 Auction Completed!")
     
     st.divider()
     
