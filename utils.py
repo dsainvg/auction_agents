@@ -124,7 +124,7 @@ class AgentState(TypedDict):
     AuctionStatus: bool = False
     CurrentPlayer: Union[Player, None] = None
     CurrentBid: Union[CurrentBidInfo, None] = None
-    OtherTeamBidding: Union[Dict[Literal['TeamA', 'TeamB', 'TeamC'], CompetitiveBidInfo], None] = None
+    OtherTeamBidding: Optional[CompetitiveBidInfo] = None
     Round :int = 0
     TeamA: Union[List[Player],Team] = []
     TeamB: Union[List[Player],Team] = []

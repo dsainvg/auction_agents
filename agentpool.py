@@ -20,11 +20,9 @@ import random
 
 def agent_pool(state: AgentState) -> AgentState:
     """
-    Agent pool node with three team agents that can bid on the current player sequentially using a greedy approach.
-    Teams are checked one by one in random order (excluding current bidder and those with insufficient budget).
-    STOPS IMMEDIATELY when any team raises a bid and passes that single bid to trade master.
-    If all teams pass, returns with empty state["OtherTeamBidding"].
-    Trade master will then process the single bid (if any) and update state["CurrentBid"].
+    Agent pool node that processes teams sequentially and returns the FIRST bid found.
+    Optimized for speed - stops immediately when any team raises a bid.
+    For first bid, minimum raise is zero (can bid at base price).
     """
     prompts = load_prompts()
     message_lines = []
@@ -56,13 +54,13 @@ def agent_pool(state: AgentState) -> AgentState:
     # Stagger requests to avoid rate limits
     base_sleep_duration = WAIT_BETWEEN_REQUESTS  # seconds
     
-    # Build list of eligible teams (those who can afford next bid and are not current bidder)
+    # Build list of eligible teams
     if current_bid:
         current_price = current_bid.current_bid_amount
         min_bid_raise = get_raise_amount(current_price)
         next_bid_price = current_price + min_bid_raise
     else:
-        # No current bid: first bidding opportunity. Allow teams to bid at base price
+        # First bid: minimum raise is zero, can bid at base price
         current_price = current_player.base_price
         min_bid_raise = 0.0
         next_bid_price = current_price
@@ -117,13 +115,13 @@ def agent_pool(state: AgentState) -> AgentState:
                 squad_short.append({"name": name, "reason": reason})
             player_stats = get_player_stats(current_player.name)
             
-            # Update current price and next bid price in case it changed
+            # Update pricing for this team's evaluation
             if current_bid:
                 current_price = current_bid.current_bid_amount
                 min_bid_raise = get_raise_amount(current_price)
                 next_bid_price = current_price + min_bid_raise
             else:
-                # Still first bidding opportunity for this player
+                # First bid opportunity - zero minimum raise
                 current_price = current_player.base_price
                 min_bid_raise = 0.0
                 next_bid_price = current_price
@@ -244,15 +242,14 @@ def agent_pool(state: AgentState) -> AgentState:
                 message = AIMessage(content=str(bid_decision))
                 state["Messages"] = [message]
 
-                # Basic validation: if team provided a custom raise, ensure it's at least the minimum raise
+                # Validate bid decision
                 is_raise = bool(getattr(bid_decision, 'is_raise', False))
                 is_normal = bool(getattr(bid_decision, 'is_normal', True))
                 raised_amount = float(getattr(bid_decision, 'raised_amount', 0.0) or 0.0)
 
-                if is_raise and (not is_normal):
-                    # If this is a custom raise, require it to be >= min_bid_raise
+                # For custom raises, validate against minimum (except first bid where min is 0)
+                if is_raise and (not is_normal) and min_bid_raise > 0:
                     if raised_amount < min_bid_raise:
-                        # Treat as a pass due to insufficient custom raise
                         if team_id not in current_player.team_bid_history:
                             current_player.team_bid_history[team_id] = []
                         bid_history_entry = {
@@ -265,7 +262,6 @@ def agent_pool(state: AgentState) -> AgentState:
                         }
                         current_player.team_bid_history[team_id].append(bid_history_entry)
                         message_lines.append(f"  {team_id}: PASS - Custom raise {raised_amount} < required INR {min_bid_raise:.2f}")
-                        # Continue to next team without registering this bid
                         continue
 
                 # Store this team's bid decision in the player's history
@@ -284,15 +280,14 @@ def agent_pool(state: AgentState) -> AgentState:
 
                 if is_raise:
                     bid_info = competitiveBidMaker(team_id, current_player, bid_decision)
-                    state["OtherTeamBidding"][team_id] = bid_info
+                    state["OtherTeamBidding"] = bid_info  # Single bid, not dict
                     raise_type = "Normal" if bid_decision.is_normal else f"Custom (+{bid_decision.raised_amount})"
                     message_lines.append(f"  {team_id}: BID ({raise_type}) - Reason: {bid_decision.reason}")
-                    message_lines.append(f"\n  BID RECEIVED! Immediately passing to trade master...")
+                    message_lines.append(f"\n  FIRST BID FOUND! Passing to trade master...")
                     message_lines.append("="*60)
-                    # Print messages to terminal for debugging
                     print("[AGENT_POOL] Message:\n" + "\n".join(message_lines), flush=True)
                     state["Messages"] = [AIMessage(content="\n".join(message_lines))]
-                    return state  # Immediately return with this single bid
+                    return state  # Return immediately with first bid
                 else:
                     message_lines.append(f"  {team_id}: PASS - Reason: {bid_decision.reason}")
             else:
@@ -306,10 +301,10 @@ def agent_pool(state: AgentState) -> AgentState:
             message_lines.append(f"  {team_id}: Error{key_info} - {str(e)}")
 
     # --- End of greedy sequential execution ---
-    # If we reach here, all teams passed
-    message_lines.append(f"\n  All eligible teams passed. No bids to send to trade master.")
+    # All teams passed
+    message_lines.append(f"\n  All eligible teams passed. No bids found.")
     message_lines.append("="*60)
-    # Print messages to terminal for debugging
     print("[AGENT_POOL] Message:\n" + "\n".join(message_lines), flush=True)
+    state["OtherTeamBidding"] = None  # Clear any previous bids
     state["Messages"] = [AIMessage(content="\n".join(message_lines))]
     return state
