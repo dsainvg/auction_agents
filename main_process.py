@@ -83,8 +83,14 @@ print("Starting auction...\n")
 with open('graph_visualization.png', 'wb') as f:
     f.write(graph.get_graph().draw_mermaid_png())
 print(f"[MAIN] Invoking graph with recursion_limit=10000, CurrentPlayer={getattr(agent.get('CurrentPlayer'), 'name', None)}", flush=True)
-# Run the graph with increased recursion limit
-result = graph.invoke(agent, {"recursion_limit": 10000})
+# Run the graph with increased recursion limit and protect with logging
+print("[MAIN] About to invoke graph.invoke(...)", flush=True)
+try:
+    result = graph.invoke(agent, {"recursion_limit": 10000})
+    print("[MAIN] graph.invoke returned normally", flush=True)
+except Exception as e:
+    print(f"[MAIN] Exception during graph.invoke: {type(e).__name__}: {e}", flush=True)
+    raise
 
 print("\nAuction completed!")
 pickle.dump(result, open("final_agent_state.pkl", "wb"))

@@ -5,16 +5,20 @@ def host(state: AgentState) -> Literal["host_assistant", "bidder_pool", "team_ma
     """Host function to route to host_assistant, bidder_pool, or END."""
     if not state:
         raise ValueError("State cannot be None or empty.")
-    print(f"[HOST] Entered host(state) - RemainingSets={len(state.get('RemainingSets') or [])}, CurrentPlayer={getattr(state.get('CurrentPlayer'), 'name', None)}, AuctionStatus={state.get('AuctionStatus')}", flush=True)
-    
-    # Check if auction is complete (no more players or sets)
+    remaining_sets_len = len(state.get('RemainingSets') or [])
+    current_player_name = getattr(state.get('CurrentPlayer'), 'name', None)
+    auction_status = state.get('AuctionStatus')
+    print(f"[HOST] Entered host(state) - RemainingSets={remaining_sets_len}, CurrentPlayer={current_player_name}, AuctionStatus={auction_status}", flush=True)
+
+    # Decide route
     if not state.get('RemainingSets') and not state.get('RemainingPlayersInSet') and not state.get('CurrentPlayer'):
-        return "team_manager"
-    
-    # Route to host_assistant if auction is inactive (need new player)
-    if state.get('AuctionStatus', False) is False:
-        return "host_assistant"
-    
-    # Route to bidder_pool for active auction
-    return "bidder_pool"
+        next_node = "team_manager"
+    elif state.get('AuctionStatus', False) is False:
+        next_node = "host_assistant"
+    else:
+        next_node = "bidder_pool"
+
+    # Log routing decision for easier debugging
+    print(f"[HOST] Routing decision: {next_node}", flush=True)
+    return next_node
 
