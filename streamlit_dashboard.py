@@ -1,12 +1,16 @@
 import streamlit as st
 import warnings
+import pickle
+import os
+from datetime import datetime
 from langgraph.graph import StateGraph, END
-from utils import AgentState, load_player_data, get_raise_amount
+from utils import AgentState, load_player_data, get_raise_amount, Player, Team
 from host import host
 from host_assistant import host_assistant
 from agentpool import agent_pool
 from trade_master import trademaster
 from team_manager import team_manager
+import plotly.graph_objects as go
 
 # Suppress warnings
 warnings.filterwarnings('ignore')
@@ -33,6 +37,10 @@ def init_session_state():
         st.session_state.remaining_sets = []
     if 'auction_completed' not in st.session_state:
         st.session_state.auction_completed = False
+    if 'unsold_players' not in st.session_state:
+        st.session_state.unsold_players = []
+    if 'save_preallocation' not in st.session_state:
+        st.session_state.save_preallocation = True
 
 def create_graph():
     """Create and return the LangGraph"""
@@ -78,68 +86,43 @@ def process_state_update(state, node_name=None):
     # Update remaining players in set
     remaining_in_set = state.get("RemainingPlayersInSet", [])
     
-    # Extract messages - PASS actions are logged here
-    messages = state.get("Messages", [])
-    trade_message = messages[-1].content if messages else ""
-    
-    # Try to extract PASS actions from the message
-    if trade_message and "PASS" in trade_message:
-        # Parse PASS actions from agent pool message
-        import re
-        pass_matches = re.findall(r'(Team[ABC]):\s*PASS\s*-\s*Reason:\s*(.+?)(?=\n\n|\n  |$)', trade_message, re.DOTALL)
-        if pass_matches and current_player:
-            for team, reason in pass_matches:
-                bid_entry = {
-                    'player': current_player.name,
-                    'team': team,
-                    'amount': current_bid.current_bid_amount if current_bid else 0,
-                    'round': current_round,
-                    'reason': reason.strip(),
-                    'action': 'PASS',
-                    'status': 'Pass'
-                }
-                st.session_state.bid_history.append(bid_entry)
-                print(f"[DEBUG] Added PASS from message: {bid_entry}")
-    
-    # Extract bid from OtherTeamBidding - this has the reason!
+    # Extract bid from OtherTeamBidding
     other_bid = state.get("OtherTeamBidding")
-    bid_reason = ""
-    bid_action = "BID"
     
     print(f"[DEBUG] OtherTeamBidding: {other_bid}")
     print(f"[DEBUG] Has reason attr: {hasattr(other_bid, 'reason') if other_bid else False}")
     
-    if other_bid and hasattr(other_bid, 'reason'):
-        bid_reason = other_bid.reason
-        bid_action = "BID" if other_bid.is_raise else "PASS"
-        print(f"[DEBUG] Bid action: {bid_action}, is_raise: {other_bid.is_raise}")
-    
-    # Update team info and budgets
+    # Update team info and budgets - handle both list and Team class
     for team in ['TeamA', 'TeamB', 'TeamC']:
-        team_players = state.get(team, [])
-        if team_players:
-            st.session_state.teams[team] = team_players
+        team_data = state.get(team, [])
+        if team_data:
+            st.session_state.teams[team] = team_data
         budget = state.get(f"{team}_Budget", 100.0)
         st.session_state.budgets[team] = budget
     
-    # Add ALL bid actions (including PASS) to history
-    if other_bid and current_player:
-        # Calculate the actual bid amount for this action
+    # Update unsold players
+    unsold = state.get('UnsoldPlayers', [])
+    if unsold:
+        st.session_state.unsold_players = unsold
+    
+    # Add bid action to history ONLY from OtherTeamBidding (single source of truth)
+    if other_bid and current_player and hasattr(other_bid, 'reason'):
+        bid_reason = other_bid.reason
+        bid_action = "BID" if other_bid.is_raise else "PASS"
+        
+        # Calculate the actual bid amount
         if other_bid.is_raise:
             if current_bid:
-                # Subsequent bid
                 if other_bid.is_normal:
                     actual_bid_amount = current_bid.current_bid_amount + get_raise_amount(current_bid.current_bid_amount)
                 else:
                     actual_bid_amount = current_bid.current_bid_amount + other_bid.raised_amount
             else:
-                # First bid
                 if other_bid.is_normal:
                     actual_bid_amount = current_player.base_price
                 else:
                     actual_bid_amount = current_player.base_price + other_bid.raised_amount
         else:
-            # PASS - use current bid amount or 0
             actual_bid_amount = current_bid.current_bid_amount if current_bid else 0
         
         bid_entry = {
@@ -154,9 +137,26 @@ def process_state_update(state, node_name=None):
         st.session_state.bid_history.append(bid_entry)
         print(f"[DEBUG] Added {bid_action}: {bid_entry}")
     
-    # Check for finalized sales
+    # Check for finalized sales - handle both list and Team class
     for team in ['TeamA', 'TeamB', 'TeamC']:
-        team_players = state.get(team, [])
+        team_data = state.get(team, [])
+        team_players = []
+        
+        # Extract players from Team class or list
+        if isinstance(team_data, Team):
+            for attr in ['Captain', 'WicketKeeper', 'StrikingOpener', 'NonStrikingOpener',
+                       'OneDownBatsman', 'TwoDownBatsman', 'ThreeDownBatsman', 'FourDownBatsman',
+                       'FiveDownBatsman', 'SixDownBatsman', 'SevenDownBatsman', 'EightDownBatsman', 'NineDownBatsman']:
+                p = getattr(team_data, attr, None)
+                if p and isinstance(p, Player):
+                    team_players.append(p)
+            for attr in ['PowerplayBowlers', 'MiddleOversBowlers', 'DeathOversBowlers', 'PlayersNotInPlayingXI']:
+                plist = getattr(team_data, attr, [])
+                if plist:
+                    team_players.extend(plist)
+        elif isinstance(team_data, list):
+            team_players = team_data
+        
         for player in team_players:
             if hasattr(player, 'sold_price') and player.sold_price > 0:
                 for bid in st.session_state.bid_history:
@@ -167,6 +167,10 @@ def process_state_update(state, node_name=None):
                         if hasattr(player, 'reason_for_purchase'):
                             bid['purchase_reason'] = player.reason_for_purchase
     
+    # Extract trade message for display
+    messages = state.get("Messages", [])
+    trade_message = messages[-1].content if messages else ""
+    
     return {
         'current_bid': current_bid.current_bid_amount if current_bid else 0,
         'current_player': current_player.name if current_player else "None",
@@ -175,15 +179,25 @@ def process_state_update(state, node_name=None):
         'remaining_count': len(remaining_in_set) if remaining_in_set else 0,
         'remaining_players': [p.name for p in remaining_in_set[:5]] if remaining_in_set else [],
         'trade_message': trade_message,
-        'bid_reason': bid_reason
+        'bid_reason': ''
     }
 
 def render_ui():
     """Render the main UI"""
-    st.markdown("<style>.block-container{max-width: 95%; padding-top: 3.5rem; padding-left:1rem; padding-right:1rem; padding-bottom:1rem;}</style>", unsafe_allow_html=True)
+    st.markdown("""
+        <style>
+        .block-container{max-width: 95%; padding-top: 2rem; padding-left:1rem; padding-right:1rem; padding-bottom:1rem;}
+        .stMetric{text-align: center;}
+        div[data-testid="stHorizontalBlock"] > div{justify-content: center;}
+        </style>
+    """, unsafe_allow_html=True)
     
-    # Host status and auction info
-    col1, col2, col3 = st.columns(3)
+    # Auction completion banner at top
+    if st.session_state.auction_completed:
+        st.success("🏁 Auction Completed! Teams have been finalized.")
+    
+    # Host status and auction info - centered
+    col1, col2, col3, col4 = st.columns(4)
     with col1:
         if st.session_state.host_active:
             st.success("🟢 HOST ACTIVE")
@@ -194,15 +208,144 @@ def render_ui():
             st.metric("Current Set", st.session_state.current_set)
     with col3:
         st.metric("Remaining Sets", len(st.session_state.remaining_sets))
+    with col4:
+        st.metric("Unsold Players", len(st.session_state.unsold_players))
     
-    # Main content - wider layout
+    st.divider()
+    
+    # Budget bars with plotly
+    if any(b < 100.0 for b in st.session_state.budgets.values()):
+        st.subheader("💰 Team Budgets")
+        
+        fig = go.Figure()
+        team_colors_map = {'TeamA': '#FF4B4B', 'TeamB': '#4B4BFF', 'TeamC': '#4BFF4B'}
+        player_colors = ['#FF6B6B', '#FFB84D', '#4ECDC4', '#95E1D3', '#F38181', '#AA96DA', '#FCBAD3', '#FFFFD2']
+        
+        for idx, team in enumerate(['TeamA', 'TeamB', 'TeamC']):
+            budget = st.session_state.budgets[team]
+            spent = 100.0 - budget
+            team_data = st.session_state.teams[team]
+            
+            # Extract players
+            players = []
+            if isinstance(team_data, Team):
+                for attr in ['Captain', 'WicketKeeper', 'StrikingOpener', 'NonStrikingOpener',
+                           'OneDownBatsman', 'TwoDownBatsman', 'ThreeDownBatsman', 'FourDownBatsman',
+                           'FiveDownBatsman', 'SixDownBatsman', 'SevenDownBatsman', 'EightDownBatsman', 'NineDownBatsman']:
+                    p = getattr(team_data, attr, None)
+                    if p and isinstance(p, Player):
+                        players.append(p)
+                for attr in ['PowerplayBowlers', 'MiddleOversBowlers', 'DeathOversBowlers', 'PlayersNotInPlayingXI']:
+                    plist = getattr(team_data, attr, [])
+                    if plist:
+                        players.extend(plist)
+                players = list({p.name: p for p in players}.values())
+            elif isinstance(team_data, list):
+                players = team_data
+            else:
+                players = []
+            
+            # Add individual player bars with different colors
+            for pidx, player in enumerate(players):
+                price = getattr(player, 'sold_price', 0)
+                color = player_colors[pidx % len(player_colors)]
+                fig.add_trace(go.Bar(
+                    y=[team],
+                    x=[price],
+                    orientation='h',
+                    name=player.name,
+                    marker=dict(color=color),
+                    hovertemplate=f'<b>{player.name}</b><br>₹{price:.2f}Cr<extra></extra>',
+                    showlegend=False
+                ))
+            
+            # Remaining bar
+            fig.add_trace(go.Bar(
+                y=[team],
+                x=[budget],
+                orientation='h',
+                name='Remaining' if idx == 0 else '',
+                marker=dict(color='lightgray'),
+                text=f'₹{budget:.1f}Cr',
+                textposition='inside',
+                hovertemplate=f'<b>{team} - Remaining</b><br>₹{budget:.2f}Cr<extra></extra>',
+                showlegend=(idx == 0)
+            ))
+        
+        fig.update_layout(
+            barmode='stack',
+            xaxis=dict(range=[0, 100], title='Budget (Crores)', fixedrange=True),
+            yaxis=dict(title='', fixedrange=True),
+            height=200,
+            margin=dict(l=80, r=20, t=20, b=40),
+            hovermode='closest'
+        )
+        
+        st.plotly_chart(fig, width='stretch', config={'displayModeBar': False})
+    
+    st.divider()
+    
+    # Teams side by side in middle
+    st.subheader("👥 Teams Overview")
+    team_col1, team_col2, team_col3 = st.columns(3)
+    
+    for idx, (col, team) in enumerate(zip([team_col1, team_col2, team_col3], ['TeamA', 'TeamB', 'TeamC'])):
+        with col:
+            team_data = st.session_state.teams[team]
+            budget = st.session_state.budgets[team]
+            spent = 100.0 - budget
+            
+            team_colors = {'TeamA': '🔴', 'TeamB': '🔵', 'TeamC': '🟢'}
+            team_circle = team_colors.get(team, '⚪')
+            
+            # Extract players - handle both list and Team class
+            players = []
+            if isinstance(team_data, Team):
+                for attr in ['Captain', 'WicketKeeper', 'StrikingOpener', 'NonStrikingOpener',
+                           'OneDownBatsman', 'TwoDownBatsman', 'ThreeDownBatsman', 'FourDownBatsman',
+                           'FiveDownBatsman', 'SixDownBatsman', 'SevenDownBatsman', 'EightDownBatsman', 'NineDownBatsman']:
+                    p = getattr(team_data, attr, None)
+                    if p and isinstance(p, Player):
+                        players.append(p)
+                for attr in ['PowerplayBowlers', 'MiddleOversBowlers', 'DeathOversBowlers', 'PlayersNotInPlayingXI']:
+                    plist = getattr(team_data, attr, [])
+                    if plist:
+                        players.extend(plist)
+                players = list({p.name: p for p in players}.values())
+            elif isinstance(team_data, list):
+                players = team_data
+            else:
+                players = []
+            
+            st.markdown(f"### {team_circle} {team}")
+            st.metric("Players", len(players))
+            st.metric("Budget Left", f"₹{budget:.2f} Cr")
+            st.metric("Spent", f"₹{spent:.2f} Cr")
+            
+            if players:
+                with st.expander("View Squad", expanded=False):
+                    for player in players:
+                        price = getattr(player, 'sold_price', 0)
+                        role = getattr(player, 'role', 'N/A')
+                        st.write(f"• {player.name} ({role}) - ₹{price:.2f}Cr")
+    
+    st.divider()
+    
+    # Current auction and bid history - moved down
     col_left, col_right = st.columns([2, 1])
     
     with col_left:
         st.subheader("🎯 Current Auction")
         # Show completed banner near the auction area for better placement
         if st.session_state.auction_completed:
-            st.success("🏁 Auction Completed!")
+            col_save1, col_save2 = st.columns(2)
+            with col_save1:
+                if st.button("💾 Save Final State", key="save_final"):
+                    filename = save_state_to_file()
+                    if filename:
+                        st.success(f"Saved to {filename}")
+            with col_save2:
+                st.info("All teams finalized!")
         
         if st.session_state.current_state:
             current_bid = st.session_state.current_state.get("CurrentBid")
@@ -231,11 +374,6 @@ def render_ui():
         
         # Bid History with reasons
         st.subheader("📜 Bid & Pass History")
-        
-        # Debug info
-        st.caption(f"Total bids in history: {len(st.session_state.bid_history)}")
-        pass_count = sum(1 for b in st.session_state.bid_history if b.get('action') == 'PASS' or b.get('status') == 'Pass')
-        st.caption(f"PASS actions: {pass_count}")
         
         if st.session_state.bid_history:
             # Show all bids including PASS
@@ -275,34 +413,12 @@ def render_ui():
             st.write("No bids yet")
     
     with col_right:
-        st.subheader("👥 Teams")
-        
-        for team in ['TeamA', 'TeamB', 'TeamC']:
-            players = st.session_state.teams[team]
-            budget = st.session_state.budgets[team]
-            spent = 100.0 - budget
-            
-            team_colors = {'TeamA': '🔴', 'TeamB': '🔵', 'TeamC': '🟢'}
-            team_circle = team_colors.get(team, '⚪')
-            
-            with st.expander(f"{team_circle} **{team}** ({len(players)} players)", expanded=False):
-                st.metric("Budget", f"₹{budget:.2f} Cr")
-                st.metric("Spent", f"₹{spent:.2f} Cr")
-                
-                if players:
-                    st.write("**Squad:**")
-                    for player in players:
-                        price = getattr(player, 'sold_price', 0)
-                        role = getattr(player, 'role', 'N/A')
-                        reason = getattr(player, 'reason_for_purchase', None)
-                        
-                        with st.expander(f"• {player.name} ({role}) - ₹{price:.2f} Cr", expanded=False):
-                            if reason:
-                                st.markdown(f"**Purchase Reason:** {reason}")
-                            else:
-                                st.write("_No purchase reason available_")
-                else:
-                    st.write("_No players yet_")
+        # Unsold players section
+        if st.session_state.unsold_players:
+            st.subheader("❌ Unsold Players")
+            with st.expander(f"View {len(st.session_state.unsold_players)} unsold players", expanded=False):
+                for player in st.session_state.unsold_players:
+                    st.write(f"• {player.name} ({player.role}) - Base: ₹{player.base_price:.2f} Cr")
 
 def start_auction():
     """Initialize auction stream"""
@@ -350,29 +466,62 @@ def process_next_state():
         st.session_state.auction_running = False
         st.session_state.stream_iterator = None
         st.session_state.auction_completed = True
+        # Force rerun to show completion UI
+        st.rerun()
         return False
     except Exception as e:
         print(f"[DEBUG] Stream error: {e}")
         st.session_state.auction_running = False
         st.session_state.auction_error = str(e)
+        st.rerun()
         return False
     return False
+
+def save_state_to_file():
+    """Save current state to pickle file"""
+    if st.session_state.current_state:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"saved_state_{timestamp}.pkl"
+        filepath = os.path.join(os.path.dirname(__file__), filename)
+        with open(filepath, 'wb') as f:
+            pickle.dump(st.session_state.current_state, f)
+        return filename
+    return None
 
 def main():
     init_session_state()
     
     st.title("🏏 IPL Mock Auction Dashboard")
     
+    # Pre-auction settings
+    if not st.session_state.auction_running and not st.session_state.auction_completed:
+        with st.expander("⚙️ Auction Settings", expanded=False):
+            st.session_state.save_preallocation = st.checkbox(
+                "Save pre-allocation state (before team manager)",
+                value=st.session_state.save_preallocation,
+                help="Auto-save auction state before team allocation process"
+            )
+    
     # Control buttons
-    col1, col2, col3 = st.columns([1, 1, 1])
+    col1, col2, col3, col4 = st.columns([1, 1, 1, 1])
     with col1:
         if st.button("🚀 Start Mock Auction", key="start_btn", disabled=st.session_state.auction_running):
             st.session_state.bid_history = []
             st.session_state.teams = {'TeamA': [], 'TeamB': [], 'TeamC': []}
             st.session_state.budgets = {'TeamA': 100.0, 'TeamB': 100.0, 'TeamC': 100.0}
+            st.session_state.unsold_players = []
             start_auction()
     
     with col2:
+        if st.button("💾 Save & Stop", key="save_btn", disabled=not st.session_state.auction_running):
+            filename = save_state_to_file()
+            st.session_state.auction_running = False
+            st.session_state.stream_iterator = None
+            if filename:
+                st.success(f"State saved to {filename}")
+            st.rerun()
+    
+    with col3:
         if st.button("⏸️ Stop Auction", key="stop_btn", disabled=not st.session_state.auction_running):
             st.session_state.auction_running = False
             st.session_state.stream_iterator = None
@@ -380,11 +529,11 @@ def main():
             st.warning("Auction stopped!")
             st.rerun()
     
-    with col3:
+    with col4:
         if st.button("🔄 Reset Dashboard", key="reset_btn"):
             st.session_state.auction_running = False
             st.session_state.stream_iterator = None
-            for key in ['bid_history', 'teams', 'budgets', 'current_state', 'auction_error', 'auction_completed']:
+            for key in ['bid_history', 'teams', 'budgets', 'current_state', 'auction_error', 'auction_completed', 'unsold_players']:
                 if key in st.session_state:
                     del st.session_state[key]
             st.rerun()
@@ -402,14 +551,10 @@ def main():
     
     # Process next auction state if running
     if st.session_state.auction_running and st.session_state.stream_iterator:
-        print("[DEBUG] Processing next state...")
         if process_next_state():
-            print("[DEBUG] Rerunning for next state...")
             import time
             time.sleep(0.1)
             st.rerun()
-        else:
-            print("[DEBUG] No more states to process")
 
 if __name__ == "__main__":
     main()

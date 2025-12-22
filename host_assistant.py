@@ -23,8 +23,12 @@ def host_assistant(state: AgentState) -> AgentState:
         state["RemainingSets"] = available_sets.copy()
         message_lines.append(f"Updated RemainingSets to: {state['RemainingSets']}")
         if not available_sets:
-            # No more players to auction
+            # No more players to auction - clear all state
             message_lines.append("No more players available!")
+            state["CurrentSet"] = None
+            state["RemainingPlayersInSet"] = None
+            state["CurrentPlayer"] = None
+            state["AuctionStatus"] = False
             message_lines.append("="*60)
             joined = "\n".join(message_lines).replace('\u20b9', 'INR ')
             print("[HOST_ASSISTANT] Message:\n" + joined, flush=True)
@@ -45,6 +49,11 @@ def host_assistant(state: AgentState) -> AgentState:
         message_lines.append(f"Selected player: {state['CurrentPlayer'].name} ({state['CurrentPlayer'].role})")
         message_lines.append(f"Base price: INR {state['CurrentPlayer'].base_price:.2f} Cr")
         message_lines.append(f"Remaining players in set: {len(state['RemainingPlayersInSet'])}")
+        
+        # Clear RemainingPlayersInSet if empty
+        if not state['RemainingPlayersInSet']:
+            state['RemainingPlayersInSet'] = None
+            message_lines.append("Set completed - cleared RemainingPlayersInSet")
     
     message_lines.append("="*60)
     joined = "\n".join(message_lines).replace('\u20b9', 'INR ')

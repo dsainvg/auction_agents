@@ -56,7 +56,24 @@ def team_manager(state: AgentState) -> AgentState:
     This function analyzes the teams and assigns roles to the players using an AI model.
     """
     import pickle
-    pickle.dump(state, open("PreTeamAllocation.pkl", "wb"))
+    import os
+    from datetime import datetime
+    
+    # Auto-save state before team allocation if enabled
+    # Check if running in streamlit context
+    try:
+        import streamlit as st
+        save_enabled = st.session_state.get('save_preallocation', True)
+    except:
+        save_enabled = True  # Default to saving if not in streamlit
+    
+    if save_enabled:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"PreTeamAllocation_{timestamp}.pkl"
+        filepath = os.path.join(os.path.dirname(__file__), filename)
+        pickle.dump(state, open(filepath, "wb"))
+        print(f"[TEAM_MANAGER] Auto-saved state to {filename}")
+    
     print("Team Manager invoked. Current state:")
     for team_name in ['TeamA', 'TeamB', 'TeamC']:
         team_players = state.get(team_name)
