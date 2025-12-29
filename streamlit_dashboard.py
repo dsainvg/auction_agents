@@ -9,7 +9,6 @@ from host import host
 from host_assistant import host_assistant
 from agentpool import agent_pool
 from trade_master import trademaster
-from team_manager import team_manager
 import plotly.graph_objects as go
 
 # Suppress warnings
@@ -50,19 +49,17 @@ def create_graph():
     graph_builder.add_node("host_assistant", host_assistant)
     graph_builder.add_node("bidder_pool", agent_pool)
     graph_builder.add_node("trademaster", trademaster)
-    graph_builder.add_node("team_manager", team_manager)
     
     graph_builder.set_entry_point("host")
     
     graph_builder.add_conditional_edges(
         "host", host,
-        {"host_assistant": "host_assistant", "bidder_pool": "bidder_pool", "team_manager": "team_manager"}
+        {"host_assistant": "host_assistant", "bidder_pool": "bidder_pool", "end": END}
     )
     
     graph_builder.add_edge("host_assistant", "host")
     graph_builder.add_edge("bidder_pool", "trademaster")
     graph_builder.add_edge("trademaster", "host")
-    graph_builder.add_edge("team_manager", END)
     
     return graph_builder.compile()
 
@@ -327,7 +324,14 @@ def render_ui():
                     for player in players:
                         price = getattr(player, 'sold_price', 0)
                         role = getattr(player, 'role', 'N/A')
-                        st.write(f"• {player.name} ({role}) - ₹{price:.2f}Cr")
+                        reason = getattr(player, 'reason_for_purchase', None)
+                        
+                        if reason:
+                            # Display player with expandable reason
+                            with st.expander(f"• {player.name} ({role}) - ₹{price:.2f}Cr", expanded=False):
+                                st.caption(f"**Purchase Reason:** {reason}")
+                        else:
+                            st.write(f"• {player.name} ({role}) - ₹{price:.2f}Cr")
     
     st.divider()
     
