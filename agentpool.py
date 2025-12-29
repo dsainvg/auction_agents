@@ -45,7 +45,7 @@ def agent_pool(state: AgentState) -> AgentState:
     # Initialize or clear OtherTeamBidding
     state["OtherTeamBidding"] = {}
     
-    teams = ["TeamA", "TeamB", "TeamC"]
+    teams = ["CSK", "DC", "GT", "KKR", "LSG", "MI", "PBKS", "RR", "RCB", "SRH"]
     
     message_lines.append(f"Current bid holder: {current_bid_team if current_bid_team else 'None'}")
     message_lines.append("Teams evaluating bids (Greedy Sequential Approach):")

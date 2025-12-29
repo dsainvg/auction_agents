@@ -7,7 +7,7 @@ from utils import AgentState, Player, get_player_stats, get_next_api_key, get_se
 
 def _build_reasoner_prompt(state: AgentState, player: Player, winning_team: str, final_price: float) -> str:
     # Collect team compositions and budgets
-    teams = ['TeamA', 'TeamB', 'TeamC']
+    teams = ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']
     team_info_lines = []
     for t in teams:
         comp = state.get(t, [])

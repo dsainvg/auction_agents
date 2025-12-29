@@ -1,0 +1,76 @@
+================================================================================
+IPL PLAYER PROFILE: PRABHSIMRAN SINGH
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Prabhsimran Singh
+  IPL Debut                : 2019
+  Date of Birth            : 10 August 2000
+  Total IPL Matches        : 51
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Prabhsimran Singh - the Patiala-based wicketkeeper-batter – initially
+  made waves in Punjab’s age-group cricket, leading the state’s U19 side and
+  smashing a record-breaking 298 off 301 balls in the 2018-19 Cooch Behar
+  Trophy. He made his first-class debut for Punjab in the 2018-19 Ranji Trophy
+  and has made some promising contributions since then. The year 2024 was a
+  defining one for Prabhsimran as he hammered 404 runs in the 2024-25 Syed
+  Mushtaq Ali Trophy at a strike rate of 163.56, including an unbeaten 106*
+  off 53 against Meghalaya, reinforcing his reputation as a top-order dynamo.
+  The explosive wicketkeeper-batter first burst onto the IPL scene when Punjab
+  Kings (then Kings XI Punjab) signed him at the 2019 auction, a bold
+  investment in the then-18-year-old. His IPL breakthrough came in 2023, when
+  he smashed 358 runs in 14 matches, including a stunning 103 off 65 balls
+  against Delhi Capitals, the second IPL ton by a PBKS batter, vindicating the
+  franchise’s faith. Retained ahead of 2024, he added 334 runs at a strike
+  rate of 156.80, with a match-defining 71 off 34 against Sunrisers Hyderabad.
+  He was one of only two players retained by PBKS ahead of the IPL 2025
+  season, cementing his status as a core member. Prabhsimran brings his 1,424
+  IPL runs (strike rate 145.16), explosive batting and reliable glovework to
+  PBKS, with the franchise banking on his power-hitting and aggression to
+  ignite their campaign.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best strike rate: 163.56
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    51    |    0     |   1305   |   103    |  25.59   |   859    |  151.92  |    1     |    7     |   134    |    71    |    6     |    1    
+    2025   |    17    |    0     |   549    |    91    |  32.29   |   342    |  160.53  |    0     |    4     |    56    |    30    |    2     |    1    
+    2024   |    14    |    0     |   334    |    71    |  23.86   |   213    |  156.81  |    0     |    2     |    34    |    20    |    1     |    0    
+    2023   |    14    |    0     |   358    |   103    |  25.57   |   238    |  150.42  |    1     |    1     |    38    |    19    |    1     |    0    
+    2022   |    1     |    0     |    14    |    14    |  14.00   |    11    |  127.27  |    0     |    0     |    2     |    0     |    0     |    0    
+    2021   |    2     |    0     |    19    |    12    |   9.50   |    23    |  82.60   |    0     |    0     |    1     |    1     |    0     |    0    
+    2020   |    2     |    0     |    15    |    11    |   7.50   |    15    |  100.00  |    0     |    0     |    2     |    0     |    1     |    0    
+    2019   |    1     |    0     |    16    |    16    |  16.00   |    17    |  94.11   |    0     |    0     |    1     |    1     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    49    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/prabhsimran-singh/5436
+================================================================================

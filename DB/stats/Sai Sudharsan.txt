@@ -1,0 +1,56 @@
+================================================================================
+IPL PLAYER PROFILE: SAI SUDHARSAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Sai Sudharsan
+  IPL Debut                : 2022
+  Date of Birth            : 15 October 2001
+  Total IPL Matches        : 40
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A rising left-handed batter from Tamil Nadu, Sai Sudharsan has been a
+  revelation in Indian cricket. He made his international debut in December
+  2023 and has been a consistent performer in domestic tournaments like the
+  Ranji Trophy, Vijay Hazare Trophy, and Syed Mushtaq Ali Trophy. Sudharsan
+  played a key role in GT’s IPL 2022 title win and later showcased his immense
+  potential with a 47-ball 96 in the IPL 2023 final against CSK. His IPL 2024
+  campaign saw him become the fastest Indian to reach 1000 IPL runs (25
+  innings) during his century against CSK. Given his meteoric rise, Gujarat
+  Titans retained him ahead of TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    40    |    4     |   1793   |   108*   |  49.81   |   1229   |  145.89  |    2     |    12    |   183    |    52    |    10    |    0    
+    2025   |    15    |    1     |   759    |   108*   |  54.21   |   486    |  156.17  |    1     |    6     |    88    |    21    |    7     |    0    
+    2024   |    12    |    1     |   527    |   103    |  47.91   |   373    |  141.29  |    1     |    2     |    48    |    16    |    0     |    0    
+    2023   |    8     |    1     |   362    |    96    |  51.71   |   256    |  141.41  |    0     |    3     |    33    |    12    |    2     |    0    
+    2022   |    5     |    1     |   145    |   65*    |  36.25   |   114    |  127.19  |    0     |    1     |    14    |    3     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    40    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/sai-sudharsan/20592
+================================================================================

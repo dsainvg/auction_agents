@@ -1,0 +1,54 @@
+================================================================================
+IPL PLAYER PROFILE: K.S BHARAT
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : K.S Bharat
+  IPL Debut                : 2021
+  Date of Birth            : 03 October 1993
+  Total IPL Matches        : 10
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    27-year old wicket-keeper batsman from Andhra’s claim to fame is his
+  triple century against Goa in the 2014-15 Ranji Trophy that included 38
+  boundaries and six sixes. In the process he became only the fifth player in
+  the history of India’s first-Class cricket to score a triple century as a
+  wicketkeeper and the first to do so in Ranji Trophy. Bharat has the
+  reputation of playing a wide array of strokes and is known for his
+  aggressive nature of batting. Kona Srikar Bharat, better known as K.S.
+  Bharat was one of the substitutes for Team India during the historic India’s
+  first-ever Pink ball Test match in 2019 against Bangladesh. He was also a
+  part of the Indian Test dressing room for England’s recently concluded tour
+  to India. At the IPL 2021 Player Auction, KS Bharat was bought by the RCB
+  for his base price of INR 20 lakhs.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    10    |    2     |   199    |   78*    |  28.43   |   163    |  122.09  |    0     |    1     |    12    |    8     |    4     |    1    
+    2022   |    2     |    0     |    8     |    8     |   4.00   |    7     |  114.29  |    0     |    0     |    2     |    0     |    0     |    0    
+    2021   |    8     |    2     |   191    |   78*    |  38.20   |   156    |  122.43  |    0     |    1     |    10    |    8     |    4     |    1    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/k-s-bharat/2734
+================================================================================

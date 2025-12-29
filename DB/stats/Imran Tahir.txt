@@ -1,0 +1,62 @@
+================================================================================
+IPL PLAYER PROFILE: IMRAN TAHIR
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Imran Tahir
+  IPL Debut                : 2014
+  Date of Birth            : 27 March 1979
+  Total IPL Matches        : 59
+  Role                     : Bowler
+  Nationality              : South African
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    At 37 years of age, Imran Tahir became the World No.1 bowler in the
+  shortest format of the game. His positivity and never-say-die attitude have
+  been his success mantra all through these years, which is on display, every
+  time he takes to the field. From his customary sprint, after he picks up a
+  wicket to the roars, Tahir’s enthusiasm has kept him going. After
+  representing Delhi Daredevils for two seasons, Tahir was included in the RPS
+  squad for two seasons. The tenth edition of the league saw some
+  match-winning performances by Tahir as he ended up picking 18 wickets in
+  that season. Tahir is now all set to represent Chennai Super Kings.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    41    |    4     |    33    |    13    |   8.25   |    37    |  89.19   |    0     |    0     |    5     |    0     |    7     |    0    
+    2020   |    3     |    1     |    13    |   13*    |   0.00   |    10    |  130.00  |    0     |    0     |    2     |    0     |    0     |    0    
+    2018   |    6     |    1     |    2     |    2*    |   0.00   |    2     |  100.00  |    0     |    0     |    0     |    0     |    2     |    0    
+    2017   |    12    |    1     |    0     |    0*    |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2016   |    4     |    0     |    5     |    5     |   5.00   |    7     |  71.42   |    0     |    0     |    1     |    0     |    0     |    0    
+    2015   |    10    |    1     |    5     |    3*    |   5.00   |    6     |  83.33   |    0     |    0     |    0     |    0     |    3     |    0    
+    2014   |    6     |    0     |    8     |    4     |   4.00   |    10    |  80.00   |    0     |    0     |    2     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    59    |   1316   |   1703   |    82    |   4/12   |  20.77   |   7.76   |  16.05   |    3     |    0    
+    2021   |    1     |    24    |    16    |    2     |   2/16   |   8.00   |   4.00   |  12.00   |    0     |    0    
+    2020   |    3     |    66    |    76    |    1     |   1/24   |  76.00   |   6.90   |  66.00   |    0     |    0    
+    2019   |    17    |   386    |   431    |    26    |   4/12   |  16.57   |   6.69   |  14.84   |    2     |    0    
+    2018   |    6     |   124    |   188    |    6     |   2/34   |  31.33   |   9.09   |  20.66   |    0     |    0    
+    2017   |    12    |   282    |   369    |    18    |   3/18   |  20.50   |   7.85   |  15.66   |    0     |    0    
+    2016   |    4     |    96    |   138    |    5     |   3/24   |  27.60   |   8.62   |  19.20   |    0     |    0    
+    2015   |    10    |   213    |   314    |    15    |   4/28   |  20.93   |   8.84   |  14.20   |    1     |    0    
+    2014   |    6     |   125    |   171    |    9     |   3/22   |  19.00   |   8.20   |  13.88   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/imran-tahir/898
+================================================================================

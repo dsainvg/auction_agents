@@ -1,0 +1,72 @@
+================================================================================
+IPL PLAYER PROFILE: KEDAR JADHAV
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Kedar Jadhav
+  IPL Debut                : 2010
+  Date of Birth            : 26 March 1985
+  Total IPL Matches        : 95
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A powerful batsman and a handy off-spinner, Kedar Jadhav was the leading
+  run-getter in the Ranji Trophy 2013-14 season and played a crucial role in
+  taking his team to the tournament final. The aggressive middle-order batsman
+  scored his maiden triple ton in the Ranji Trophy 2012-13 season, against
+  Uttar Pradesh and was the second highest run-getter for his team in the
+  season. His strong performances in domestic cricket earned him an ODI
+  call-up in 2014 and a T20I debut in 2015. Kedar then became a regular
+  feature in national colours often putting up notable performances lower down
+  the order. He also delivered a few finishing touches to tough run-chases for
+  his IPL franchises over the years. An attacking middle-order batsman Kedar
+  Jadhav, has represented Delhi Daredevils (now Delhi Capitals), Royal
+  Challengers Bangalore & Chennai Super Kings in the previous editions. He
+  will now represent Sunrisers Hyderabad.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    93    |    26    |   1196   |    69    |  22.15   |   971    |  123.17  |    0     |    4     |   101    |    40    |    28    |    7    
+    2021   |    6     |    1     |    55    |    19    |  13.75   |    52    |  105.76  |    0     |    0     |    2     |    2     |    2     |    0    
+    2020   |    8     |    2     |    62    |    26    |  20.66   |    66    |  93.93   |    0     |    0     |    7     |    0     |    1     |    0    
+    2019   |    14    |    3     |   162    |    58    |  18.00   |   169    |  95.85   |    0     |    1     |    19    |    3     |    4     |    0    
+    2018   |    1     |    1     |    24    |   24*    |   0.00   |    22    |  109.09  |    0     |    0     |    1     |    2     |    0     |    0    
+    2017   |    13    |    1     |   267    |    69    |  22.25   |   186    |  143.54  |    0     |    1     |    25    |    10    |    7     |    3    
+    2016   |    4     |    3     |    42    |   25*    |   0.00   |    32    |  131.25  |    0     |    0     |    2     |    2     |    1     |    0    
+    2015   |    14    |    4     |   189    |   63*    |  23.62   |   140    |  135.00  |    0     |    1     |    16    |    7     |    6     |    2    
+    2014   |    10    |    5     |   149    |    37    |  29.80   |   101    |  147.52  |    0     |    0     |    13    |    7     |    3     |    0    
+    2013   |    12    |    3     |   152    |    31    |  21.71   |   124    |  122.58  |    0     |    0     |    8     |    5     |    4     |    2    
+    2011   |    6     |    1     |    18    |    12    |   6.00   |    23    |  78.26   |    0     |    0     |    1     |    0     |    0     |    0    
+    2010   |    5     |    2     |    76    |   50*    |  25.33   |    56    |  135.71  |    0     |    1     |    7     |    2     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    87    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2013   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2010   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/kedar-jadhav/297
+================================================================================

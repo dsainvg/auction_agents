@@ -1,0 +1,63 @@
+================================================================================
+IPL PLAYER PROFILE: BEN STOKES
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Ben Stokes
+  IPL Debut                : 2017
+  Date of Birth            : 04 June 1991
+  Total IPL Matches        : 45
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The New Zealand-born England cricketer, Ben Stokes, is one of the finest
+  all-rounders of the modern-day game. A destructive batsman and an effective
+  fast-bowler, Stokes has remained at the forefront of some of England’s
+  recent triumphs - World Cup 2019 win, a thrilling Ashes ton at Headingley –
+  to name a few. Stokes made waves in his first season of the IPL when he was
+  bought by the Rising Pune Supergiant at a record price of INR 14.5 cr. An
+  aggressive cricketer, he smashed an unbeaten 103 in his first season and
+  returned with a best of 3/18 during his 12 matches for the former franchise
+  in IPL 2017. Stokes has the ability to take on the bowlers from the word go
+  and can test batsmen with his disciplined bowling; he is the X factor that
+  most teams yearn for. While Stokes, by his own high standards, did not enjoy
+  much success in the IPL 2018 and IPL 2019, he made amends in the IPL 2020,
+  scoring 285 runs from 8 matches, including a whirlwind ton while opening the
+  batting against Mumbai Indians. The England cricketer will be keen to make
+  merry and leave his mark on the IPL 2021.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    43    |    6     |   920    |   107*   |  25.56   |   684    |  134.50  |    2     |    2     |    79    |    32    |    20    |    0    
+    2021   |    1     |    0     |    0     |    0*    |   0.00   |    3     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2020   |    8     |    1     |   285    |   107*   |  40.71   |   200    |  142.50  |    1     |    1     |    36    |    7     |    6     |    0    
+    2019   |    9     |    3     |   123    |    46    |  20.50   |    99    |  124.24  |    0     |    0     |    8     |    4     |    3     |    0    
+    2018   |    13    |    1     |   196    |    45    |  16.33   |   161    |  121.73  |    0     |    0     |    13    |    6     |    6     |    0    
+    2017   |    12    |    1     |   316    |   103*   |  31.60   |   221    |  142.98  |    1     |    1     |    22    |    15    |    5     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    43    |   683    |   974    |    28    |   3/15   |  34.79   |   8.56   |  24.39   |    0     |    0    
+    2021   |    1     |    6     |    12    |    0     |   0/12   |    -     |  12.00   |    -     |    0     |    0    
+    2020   |    8     |    90    |   154    |    2     |   2/32   |  77.00   |  10.26   |  45.00   |    0     |    0    
+    2019   |    9     |   101    |   189    |    6     |   2/39   |  31.50   |  11.22   |  16.83   |    0     |    0    
+    2018   |    13    |   222    |   303    |    8     |   3/15   |  37.87   |   8.18   |  27.75   |    0     |    0    
+    2017   |    12    |   264    |   316    |    12    |   3/18   |  26.33   |   7.18   |  22.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/ben-stokes/1154
+================================================================================

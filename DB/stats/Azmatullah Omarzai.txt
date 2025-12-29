@@ -1,0 +1,55 @@
+================================================================================
+IPL PLAYER PROFILE: AZMATULLAH OMARZAI
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Azmatullah Omarzai
+  IPL Debut                : 2024
+  Date of Birth            : 24 March 2000
+  Total IPL Matches        : 16
+  Role                     : WK-Batter
+  Nationality              : Afghan
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The versatile Afghan all-rounder Azmatullah Omarzai made waves in
+  Afghanistan’s U19 setup, starring in the 2018 U19 World Cup with 66 runs and
+  7 wickets. Omarzai played a key role in Afghanistan’s T20 World Cup 2024
+  semifinal run, scoring 87 runs and taking 6 wickets. He first stepped into
+  the IPL spotlight when Gujarat Titans (GT) signed him for INR 50 lakh at the
+  2024 auction. His IPL debut came against Mumbai Indians in 2024, where he
+  took 2/27. In that edition, he impressed with a brisk 33 off 20 against
+  Delhi Capitals, hinting at his finishing potential. Punjab Kings secured him
+  for INR 2.4 Crore after a bidding war with Chennai Super Kings at the 2025
+  TATA IPL Auction. As PBKS chase their maiden IPL title in 2025 with Ricky
+  Ponting’s mentorship, Omarzai’s ability to swing the new ball, hit big, and
+  perform in crunch moments makes him a vital cog in their quest.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    16    |    1     |    99    |   21*    |  12.38   |    74    |  133.78  |    0     |    0     |    8     |    5     |    1     |    0    
+    2025   |    9     |    1     |    57    |   21*    |  14.25   |    41    |  139.02  |    0     |    0     |    6     |    3     |    1     |    0    
+    2024   |    7     |    0     |    42    |    17    |  10.50   |    33    |  127.27  |    0     |    0     |    2     |    2     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    16    |   288    |   465    |    12    |   2/27   |  38.75   |   9.69   |  24.00   |    0     |    0    
+    2025   |    9     |   162    |   279    |    8     |   2/33   |  34.88   |  10.33   |  20.25   |    0     |    0    
+    2024   |    7     |   126    |   186    |    4     |   2/27   |  46.50   |   8.86   |  31.50   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/azmatullah-omarzai/20685
+================================================================================

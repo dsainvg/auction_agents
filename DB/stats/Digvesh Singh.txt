@@ -1,0 +1,43 @@
+================================================================================
+IPL PLAYER PROFILE: DIGVESH SINGH
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Digvesh Singh
+  IPL Debut                : 2025
+  Date of Birth            : 15 December 1999
+  Total IPL Matches        : 13
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A young Legbreak bowler from Delhi, Digvesh Singh was picked by Lucknow
+  Super Giants for INR 30 lakh.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    13    |    1     |    1     |    1     |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    3     |    0    
+    2025   |    13    |    1     |    1     |    1     |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    13    |   312    |   429    |    14    |   2/30   |  30.64   |   8.25   |  22.29   |    0     |    0    
+    2025   |    13    |   312    |   429    |    14    |   2/30   |  30.64   |   8.25   |  22.29   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/digvesh-singh/5847
+================================================================================

@@ -1,0 +1,80 @@
+================================================================================
+IPL PLAYER PROFILE: SURYA KUMAR YADAV
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Surya Kumar Yadav
+  IPL Debut                : 2012
+  Date of Birth            : 14 September 1990
+  Total IPL Matches        : 166
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Surya Kumar Yadav came to the spotlight with his performance at the
+  2011-12 Ranji Trophy season where he topped the charts for Mumbai scoring
+  754 runs in 9 games. The same year, Surya Kumar was picked by Mumbai
+  Indians. In 2013, he moved to KKR where he played a crucial role in the
+  middle order scoring quick runs and was part of the team that won the trophy
+  in 2014. In 2018, SKY moved back to MI and had a breakthrough season scoring
+  512 runs. He was also instrumental in the team’s success in 2019 and 2020
+  which eventually saw him get a national team call-up. Since then there has
+  been no looking back for Surya Kumar Yadav, who has become a consistent
+  performer for both his IPL franchise and the Indian team and was part of the
+  team that won the 2024 T20 World Cup. Surya currently is also the captain of
+  the Indian National T20 side taking over the role after Rohit Sharma’s
+  retirement from the format. His ability to score quickly with his innovative
+  stroke play and deliver consistently saw him being retained by MI for TATA
+  IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   166    |    28    |   4311   |   103*   |  35.34   |   2900   |  148.66  |    2     |    29    |   454    |   168    |    74    |    0    
+    2025   |    16    |    5     |   717    |   73*    |  65.18   |   427    |  167.92  |    0     |    5     |    69    |    38    |    6     |    0    
+    2024   |    11    |    1     |   345    |   102*   |  34.50   |   206    |  167.48  |    1     |    3     |    36    |    18    |    4     |    0    
+    2023   |    16    |    2     |   605    |   103*   |  43.21   |   334    |  181.14  |    1     |    5     |    65    |    28    |    6     |    0    
+    2022   |    8     |    1     |   303    |   68*    |  43.29   |   208    |  145.67  |    0     |    3     |    23    |    16    |    3     |    0    
+    2021   |    14    |    0     |   317    |    82    |  22.64   |   221    |  143.43  |    0     |    2     |    40    |    10    |    5     |    0    
+    2020   |    16    |    3     |   480    |   79*    |  40.00   |   331    |  145.01  |    0     |    4     |    61    |    11    |    8     |    0    
+    2019   |    16    |    2     |   424    |   71*    |  32.61   |   324    |  130.86  |    0     |    2     |    45    |    10    |    9     |    0    
+    2018   |    14    |    0     |   512    |    72    |  36.57   |   384    |  133.33  |    0     |    4     |    61    |    16    |    8     |    0    
+    2017   |    10    |    1     |   105    |    31    |  17.50   |    88    |  119.31  |    0     |    0     |    8     |    3     |    5     |    0    
+    2016   |    15    |    4     |   182    |    60    |  26.00   |   143    |  127.27  |    0     |    1     |    18    |    5     |    6     |    0    
+    2015   |    13    |    4     |   157    |   46*    |  17.44   |   113    |  138.93  |    0     |    0     |    12    |    8     |    7     |    0    
+    2014   |    16    |    5     |   164    |    34    |  32.80   |   117    |  140.17  |    0     |    0     |    16    |    5     |    7     |    0    
+    2012   |    1     |    0     |    0     |    0     |   0.00   |    4     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   166    |    6     |    8     |    0     |   0/8    |    -     |   8.00   |    -     |    0     |    0    
+    2025   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    16    |    6     |    8     |    0     |   0/8    |    -     |   8.00   |    -     |    0     |    0    
+    2012   |    1     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/surya-kumar-yadav/108
+================================================================================

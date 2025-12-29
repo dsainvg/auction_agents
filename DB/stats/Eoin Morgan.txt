@@ -1,0 +1,65 @@
+================================================================================
+IPL PLAYER PROFILE: EOIN MORGAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Eoin Morgan
+  IPL Debut                : 2010
+  Date of Birth            : 10 September 1986
+  Total IPL Matches        : 83
+  Role                     : Batter
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    An Irish-born Englishman with a reputation for inventive and audacious
+  stroke-play, Eoin Morgan has over time proved to be one of the most
+  innovative players in international cricket. With a blend of nous and power,
+  Morgan is a natural finisher. He has spent most of his IPL career with KKR
+  but represented the Sunrisers Hyderabad in 2015 and 2016 and played for
+  Kings XI Punjab (now Punjab Kings) in 2017. The 2019 World Cup winning
+  captain made a return to the Kolkata Knight Riders in 2020 after being one
+  of the top buys for KKR in the 2020 IPL Auction. He also took over captaincy
+  duties from Dinesh Karthik mid-season in 2020 and will be looking to take
+  KKR to IPL glory in 2021.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    83    |    13    |   1405   |    68    |  22.66   |   1146   |  122.60  |    0     |    5     |   112    |    64    |    36    |    0    
+    2021   |    17    |    4     |   133    |   47*    |  11.08   |   139    |  95.68   |    0     |    0     |    8     |    6     |    9     |    0    
+    2020   |    14    |    4     |   418    |   68*    |  41.80   |   302    |  138.41  |    0     |    1     |    32    |    24    |    3     |    0    
+    2017   |    4     |    0     |    65    |    26    |  16.25   |    62    |  104.83  |    0     |    0     |    6     |    2     |    3     |    0    
+    2016   |    7     |    1     |   123    |    51    |  24.60   |   105    |  117.14  |    0     |    1     |    8     |    4     |    3     |    0    
+    2015   |    9     |    1     |   187    |    63    |  23.37   |   151    |  123.84  |    0     |    1     |    11    |    11    |    5     |    0    
+    2013   |    14    |    2     |   307    |    51    |  27.90   |   240    |  127.91  |    0     |    1     |    28    |    13    |    6     |    0    
+    2011   |    12    |    0     |   137    |    66    |  15.22   |   117    |  117.09  |    0     |    1     |    17    |    3     |    3     |    0    
+    2010   |    6     |    1     |    35    |    17    |  11.66   |    30    |  116.66  |    0     |    0     |    2     |    1     |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    83    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2013   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2011   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2010   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/eoin-morgan/197
+================================================================================

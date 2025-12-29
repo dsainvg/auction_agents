@@ -1,0 +1,51 @@
+================================================================================
+IPL PLAYER PROFILE: ANMOLPREET SINGH
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Anmolpreet Singh
+  IPL Debut                : 2021
+  Date of Birth            : 28 March 1998
+  Total IPL Matches        : 9
+  Role                     : Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Those who have seen Anmolpreet bat have predicted a bright future for
+  this batsman from Punjab. He first played for India U19 in the 2015 World
+  Cup and has continued to impress. Since then, he has graduated to India A
+  level and played a crucial hand in India A team’s triumph against New
+  Zealand A. Mumbai Indians got him early for INR 80 lakh in the 2019 season
+  and he has managed to maintain his spot in the MI squad, entering
+  confidently into the 14th edition.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    9     |    0     |   139    |    36    |  15.44   |   115    |  120.87  |    0     |    0     |    19    |    3     |    1     |    0    
+    2024   |    2     |    0     |    5     |    5     |   2.50   |    6     |  83.33   |    0     |    0     |    1     |    0     |    0     |    0    
+    2023   |    4     |    0     |   105    |    36    |  26.25   |    82    |  128.05  |    0     |    0     |    15    |    2     |    1     |    0    
+    2022   |    2     |    0     |    13    |    8     |   6.50   |    13    |  100.00  |    0     |    0     |    1     |    0     |    0     |    0    
+    2021   |    1     |    0     |    16    |    16    |  16.00   |    14    |  114.28  |    0     |    0     |    2     |    1     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/anmolpreet-singh/2965
+================================================================================

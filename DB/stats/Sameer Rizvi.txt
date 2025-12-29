@@ -1,0 +1,48 @@
+================================================================================
+IPL PLAYER PROFILE: SAMEER RIZVI
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Sameer Rizvi
+  IPL Debut                : 2024
+  Date of Birth            : 06 December 2003
+  Total IPL Matches        : 13
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A young lower-order power-hitter, Sameer Rizvi gained attention for his
+  aggressive approach against spin. He made a mark in IPL 2024 when he
+  slog-swept Rashid Khan for a six off his very first ball in the league while
+  playing for CSK. Delhi Capitals secured him for INR 95 Lakh at the 2025 TATA
+  IPL Auction to strengthen their batting depth.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    13    |    2     |   172    |   58*    |  24.57   |   122    |  140.98  |    0     |    1     |    15    |    9     |    6     |    0    
+    2025   |    5     |    1     |   121    |   58*    |  40.33   |    79    |  153.16  |    0     |    1     |    11    |    7     |    2     |    0    
+    2024   |    8     |    1     |    51    |    21    |  12.75   |    43    |  118.60  |    0     |    0     |    4     |    2     |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/sameer-rizvi/20689
+================================================================================

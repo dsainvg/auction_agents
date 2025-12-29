@@ -1,0 +1,47 @@
+================================================================================
+IPL PLAYER PROFILE: KUMAR KUSHAGRA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Kumar Kushagra
+  IPL Debut                : 2024
+  Date of Birth            : 23 October 2004
+  Total IPL Matches        : 4
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A promising wicketkeeper-batter from Jharkhand, Kumar Kushagra was part
+  of India’s runners-up finish in the U19 World Cup 2022. He made headlines in
+  domestic cricket with a double century in his maiden Ranji Trophy season.
+  His performances earned him a massive INR 7.20 Crore deal with Delhi
+  Capitals in IPL 2024. For TATA IPL 2025, Gujarat Titans secured his services
+  for INR 65 Lakh, adding depth to their wicketkeeping options.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    4     |    0     |    3     |    2     |   1.00   |    7     |  42.86   |    0     |    0     |    0     |    0     |    1     |    0    
+    2024   |    4     |    0     |    3     |    2     |   1.00   |    7     |  42.86   |    0     |    0     |    0     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/kumar-kushagra/20694
+================================================================================

@@ -1,0 +1,46 @@
+================================================================================
+IPL PLAYER PROFILE: JAMIE OVERTON
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Jamie Overton
+  IPL Debut                : 2025
+  Date of Birth            : 10 April 1994
+  Total IPL Matches        : 3
+  Role                     : WK-Batter
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    English bowling all-rounder Jamie Overton brings raw pace and
+  power-hitting ability to Chennai Super Kings, who snapped him up at his base
+  price of INR 1.50 Crore. Overton has played across all three formats for
+  England and has also been a dominant force in the T20 circuit across both
+  departments.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    3     |    2     |    15    |   11*    |    -     |    7     |  214.29  |    0     |    0     |    1     |    1     |    0     |    0    
+    2025   |    3     |    2     |    15    |   11*    |    -     |    7     |  214.29  |    0     |    0     |    1     |    1     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    3     |    36    |    83    |    0     |   0/24   |    -     |  13.83   |    -     |    0     |    0    
+    2025   |    3     |    36    |    83    |    0     |   0/24   |    -     |  13.83   |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/jamie-overton/22109
+================================================================================

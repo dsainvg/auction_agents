@@ -1,0 +1,53 @@
+================================================================================
+IPL PLAYER PROFILE: NANDRE BURGER
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Nandre Burger
+  IPL Debut                : 2024
+  Date of Birth            : 11 August 1995
+  Total IPL Matches        : 6
+  Role                     : WK-Batter
+  Nationality              : South African
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A tall left-arm pacer who can swing the ball at high speeds, Nandre
+  Burger was picked by Rajasthan Royals (RR) for INR 3.5 crore as an injury
+  replacement for Sandeep Sharma during IPL 2025. Coincidentally, it was RR
+  who gave the South African fast bowler his IPL debut in 2024, and he picked
+  up seven wickets in six games at a healthy average of 20.71. Despite injury
+  troubles, Burger’s consistent performances in domestic cricket for a number
+  of years led to his international debut in December 2023. He went on to
+  represent SA across formats, all within the space of two weeks.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best average: 20.71.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    6     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2024   |    6     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    6     |   102    |   145    |    7     |   2/29   |  20.71   |   8.53   |  14.57   |    0     |    0    
+    2024   |    6     |   102    |   145    |    7     |   2/29   |  20.71   |   8.53   |  14.57   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/nandre-burger/20716
+================================================================================

@@ -1,0 +1,52 @@
+================================================================================
+IPL PLAYER PROFILE: CHETAN SAKARIYA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Chetan Sakariya
+  IPL Debut                : 2021
+  Date of Birth            : 28 February 1998
+  Total IPL Matches        : 20
+  Role                     : Bowler
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The pacer from Saurashtra will be looking forward to his maiden IPL
+  season after he was bought by RR for INR 1.20 Cr during the player auction
+  ahead of the IPL 2021. The youngster will be coming into this year’s IPL on
+  the back of some impressive performances in the Syed Mushtaq Ali Trophy and
+  Vijay Hazare Trophy and will be keen to make a for RR.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    20    |    2     |    20    |    7     |   3.33   |    31    |  64.52   |    0     |    0     |    3     |    0     |    6     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2023   |    2     |    1     |    4     |    4     |   4.00   |    6     |  66.67   |    0     |    0     |    1     |    0     |    0     |    0    
+    2022   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2021   |    14    |    1     |    16    |    7     |   3.20   |    25    |  64.00   |    0     |    0     |    2     |    0     |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    20    |   444    |   638    |    20    |   3/31   |  31.90   |   8.62   |  22.20   |    0     |    0    
+    2025   |    1     |    18    |    39    |    0     |   0/39   |    -     |  13.00   |    -     |    0     |    0    
+    2023   |    2     |    48    |    89    |    3     |   2/53   |  29.67   |  11.13   |  16.00   |    0     |    0    
+    2022   |    3     |    66    |    84    |    3     |   2/23   |  28.00   |   7.64   |  22.00   |    0     |    0    
+    2021   |    14    |   312    |   426    |    14    |   3/31   |  30.42   |   8.19   |  22.28   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/chetan-sakariya/11062
+================================================================================

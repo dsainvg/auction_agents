@@ -1,0 +1,59 @@
+================================================================================
+IPL PLAYER PROFILE: SURYANSH SHEDGE
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Suryansh Shedge
+  IPL Debut                : 2025
+  Date of Birth            : 29 January 2003
+  Total IPL Matches        : 5
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A rising star from Mumbai’s cricketing ranks, Suryansh Shedge is a
+  promising right-handed batter. He made his first-class debut for Mumbai in
+  the 2023-24 Ranji Trophy season, scoring a gritty 99 against Tripura. He had
+  already debuted in T20s during the 2024 Syed Mushtaq Ali Trophy (SMAT),
+  where his finishing prowess came to the fore. In the 2024-25 SMAT, Shedge
+  turned heads with a string of match-winning cameos - 30* off 8 balls against
+  Andhra, 36* off 12 against Vidarbha, and 36* off 15 in the final against
+  Madhya Pradesh, amassing 131 runs at a staggering strike rate of 251.92 and
+  picking up 8 wickets, helping Mumbai clinch the title. His ability to
+  deliver under pressure caught the eye of PBKS, who saw him as a potential
+  finisher and acquired his services for INR 30 Lakhs ahead of IPL 2025.
+  Joining forces with Mumbai teammate and PBKS captain Shreyas Iyer, Shedge is
+  poised to be a key part of the franchise and gain valuable insights from
+  some of the greats of the game.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best strike rate: 251.92
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    0     |    7     |    4     |   2.33   |    11    |  63.64   |    0     |    0     |    0     |    0     |    1     |    0    
+    2025   |    5     |    0     |    7     |    4     |   2.33   |    11    |  63.64   |    0     |    0     |    0     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    18    |    40    |    0     |   0/40   |    -     |  13.33   |    -     |    0     |    0    
+    2025   |    5     |    18    |    40    |    0     |   0/40   |    -     |  13.33   |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/suryansh-shedge/20683
+================================================================================

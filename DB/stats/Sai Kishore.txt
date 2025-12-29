@@ -1,0 +1,52 @@
+================================================================================
+IPL PLAYER PROFILE: SAI KISHORE
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Sai Kishore
+  IPL Debut                : 2022
+  Date of Birth            : 06 November 1996
+  Total IPL Matches        : 25
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A slow left-arm orthodox spinner from Tamil Nadu, R. Sai Kishore is known
+  for his control, height advantage, and economical bowling. With over 350
+  domestic wickets, he has been a consistent performer in Indian domestic
+  cricket. Sai Kishore was previously part of CSK in 2020-21 before moving to
+  Gujarat Titans in 2022, where he played a role in their title-winning
+  campaign. GT used their RTM (Right to Match) card to secure him for INR 2
+  Crore at the 2025 TATA IPL Auction.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    25    |    1     |    18    |    13    |   4.50   |    16    |  112.50  |    0     |    0     |    0     |    2     |    10    |    0    
+    2025   |    15    |    0     |    5     |    3     |   1.67   |    10    |  50.00   |    0     |    0     |    0     |    0     |    5     |    0    
+    2024   |    5     |    1     |    13    |    13    |  13.00   |    6     |  216.67  |    0     |    0     |    0     |    2     |    2     |    0    
+    2022   |    5     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    25    |   441    |   651    |    32    |   4/33   |  20.34   |   8.86   |  13.78   |    1     |    0    
+    2025   |    15    |   255    |   393    |    19    |   3/30   |  20.68   |   9.25   |  13.42   |    0     |    0    
+    2024   |    5     |    90    |   137    |    7     |   4/33   |  19.57   |   9.13   |  12.86   |    1     |    0    
+    2022   |    5     |    96    |   121    |    6     |   2/7    |  20.17   |   7.56   |  16.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/sai-kishore/7123
+================================================================================

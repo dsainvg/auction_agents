@@ -1,0 +1,82 @@
+================================================================================
+IPL PLAYER PROFILE: SHIKHAR DHAWAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Shikhar Dhawan
+  IPL Debut                : 2008
+  Date of Birth            : 05 December 1985
+  Total IPL Matches        : 222
+  Role                     : Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    After consistent performances since the inaugural edition of the IPL,
+  India’s star opener Shikhar “Gabbar” Dhawan returned to his hometown to
+  bolster the Delhi Capitals’ batting unit in 2019. Dhawan was brought in by
+  Delhi Capitals in a trade-off with Sunrisers Hyderabad after the auctions.
+  Dhawan, a consistent run-getter in the competition, was crucial in SRH's run
+  to the final of IPL 2018. In 2019, Dhawan scored over 520 runs and then
+  followed it up with 618 runs in IPL 2020, where he also became the first
+  batsman in the tournament’s history to score two successive hundreds. IPL
+  2021 will present him with another opportunity to stamp his authority in his
+  typically aggressive fashion against both pace and spin. With close to 5200
+  runs in the IPL, the swashbuckling left-hander will be crucial to Delhi
+  Capitals’ fortunes.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   222    |    29    |   6769   |   106*   |  35.26   |   5324   |  127.14  |    2     |    51    |   768    |   152    |   102    |    0    
+    2024   |    5     |    0     |   152    |    70    |  30.40   |   121    |  125.62  |    0     |    1     |    18    |    4     |    3     |    0    
+    2023   |    11    |    2     |   373    |   99*    |  41.44   |   261    |  142.91  |    0     |    3     |    49    |    12    |    4     |    0    
+    2022   |    14    |    2     |   460    |   88*    |  38.33   |   375    |  122.67  |    0     |    3     |    47    |    12    |    10    |    0    
+    2021   |    16    |    1     |   587    |    92    |  39.13   |   471    |  124.62  |    0     |    3     |    63    |    16    |    9     |    0    
+    2020   |    17    |    3     |   618    |   106*   |  44.14   |   427    |  144.73  |    2     |    4     |    67    |    12    |    5     |    0    
+    2019   |    16    |    1     |   521    |   97*    |  34.73   |   384    |  135.67  |    0     |    5     |    64    |    11    |    5     |    0    
+    2018   |    16    |    3     |   497    |   92*    |  38.23   |   363    |  136.91  |    0     |    4     |    59    |    14    |    12    |    0    
+    2017   |    14    |    1     |   479    |    77    |  36.84   |   376    |  127.39  |    0     |    3     |    53    |    9     |    7     |    0    
+    2016   |    17    |    4     |   501    |   82*    |  38.53   |   429    |  116.78  |    0     |    4     |    51    |    8     |    5     |    0    
+    2015   |    14    |    1     |   353    |    54    |  27.15   |   286    |  123.42  |    0     |    3     |    45    |    6     |    6     |    0    
+    2014   |    14    |    1     |   377    |   64*    |  29.00   |   319    |  118.18  |    0     |    2     |    49    |    7     |    5     |    0    
+    2013   |    10    |    2     |   311    |   73*    |  38.87   |   253    |  122.92  |    0     |    3     |    37    |    5     |    6     |    0    
+    2012   |    15    |    1     |   569    |    84    |  40.64   |   439    |  129.61  |    0     |    5     |    58    |    18    |    5     |    0    
+    2011   |    14    |    2     |   400    |   95*    |  33.33   |   310    |  129.03  |    0     |    2     |    47    |    7     |    6     |    0    
+    2010   |    10    |    0     |   191    |    56    |  19.10   |   170    |  112.35  |    0     |    2     |    23    |    3     |    4     |    0    
+    2009   |    5     |    0     |    40    |    22    |  10.00   |    45    |  88.88   |    0     |    0     |    3     |    0     |    2     |    0    
+    2008   |    14    |    5     |   340    |   68*    |  37.77   |   295    |  115.25  |    0     |    4     |    35    |    8     |    8     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   192    |    48    |    93    |    4     |   1/7    |  23.25   |  11.63   |  12.00   |    0     |    0    
+    2021   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2013   |    10    |    0     |    27    |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2012   |    15    |    36    |    55    |    3     |   1/8    |  18.33   |   9.16   |  12.00   |    0     |    0    
+    2011   |    14    |    12    |    11    |    1     |   1/7    |  11.00   |   5.50   |  12.00   |    0     |    0    
+    2010   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2009   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2008   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/shikhar-dhawan/41
+================================================================================

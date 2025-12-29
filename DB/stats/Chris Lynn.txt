@@ -1,0 +1,70 @@
+================================================================================
+IPL PLAYER PROFILE: CHRIS LYNN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Chris Lynn
+  IPL Debut                : 2012
+  Date of Birth            : 10 April 1990
+  Total IPL Matches        : 42
+  Role                     : Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Kolkata Knight Riders’ loss is Mumbai Indians’ gain as the explosive
+  opening batsman joined the defending champions in the 2020 season. If Mumbai
+  Indians are looking for some firepower at the top, they now have plenty with
+  Rohit Sharma, Quinton de Kock and Lynn providing some terrific options.
+  Picked at his base price of INR 2 crore at the auction ahead of the 2020
+  season, the righthander didn’t feature in the playing XI because MI had well
+  established openers throughout the 13th edition, in form of Rohit Sharma and
+  Quinton de Kock. Lynn had an impressive 12th season scoring 405 runs from 13
+  games with an average of 31.15 including four half centuries. He is known to
+  strike big and when he gets going, the bowling side is put under tremendous
+  pressure. If Lynn is successful at the top, the pressure will be off MI’s
+  middle and lower-middle order and one can expect high totals from them
+  considering many all-rounders they have in the side. He is certainly an
+  exciting pick and it allows MI to try out different combinations.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best average: 31.15
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    42    |    3     |   1329   |    93    |  34.08   |   945    |  140.63  |    0     |    10    |   132    |    66    |    11    |    0    
+    2021   |    1     |    0     |    49    |    49    |  49.00   |    35    |  140.00  |    0     |    0     |    4     |    3     |    2     |    0    
+    2019   |    13    |    0     |   405    |    82    |  31.15   |   290    |  139.65  |    0     |    4     |    41    |    22    |    1     |    0    
+    2018   |    16    |    1     |   491    |    74    |  32.73   |   377    |  130.23  |    0     |    3     |    56    |    18    |    3     |    0    
+    2017   |    7     |    1     |   295    |   93*    |  49.16   |   163    |  180.98  |    0     |    3     |    25    |    19    |    2     |    0    
+    2016   |    2     |    1     |    25    |    15    |  25.00   |    22    |  113.63  |    0     |    0     |    0     |    1     |    1     |    0    
+    2014   |    2     |    0     |    58    |    45    |  29.00   |    49    |  118.36  |    0     |    0     |    5     |    3     |    2     |    0    
+    2012   |    1     |    0     |    6     |    6     |   6.00   |    9     |  66.66   |    0     |    0     |    1     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    41    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/chris-lynn/179
+================================================================================

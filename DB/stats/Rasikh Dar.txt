@@ -1,0 +1,57 @@
+================================================================================
+IPL PLAYER PROFILE: RASIKH DAR
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Rasikh Dar
+  IPL Debut                : 2019
+  Date of Birth            : 05 April 2000
+  Total IPL Matches        : 13
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Able to bowl at 140 kmph-plus on a consistent basis, Rasikh Dar had a
+  breakthrough TATA IPL season in 2024, five years after he made his debut in
+  the league playing for Mumbai Indians. He also represented Kolkata Knight
+  Riders in 2022, before being picked up by Delhi Capitals ahead of the 2024
+  season, during which he took nine wickets in eight games, including
+  three-fers against Gujarat Titans and his former team, Mumbai Indians.
+  Having been considered an up-and-coming pace bowling star for years, Dar’s
+  impressive run in the 2024 season meant that the Royal Challengers Bengaluru
+  (RCB) were confident enough in his potential, spending INR 6 Crore to
+  acquire his services for TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    13    |    1     |    40    |    10    |   8.00   |    40    |  100.00  |    0     |    0     |    5     |    0     |    3     |    0    
+    2025   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2024   |    8     |    0     |    28    |    10    |   7.00   |    30    |  93.33   |    0     |    0     |    4     |    0     |    1     |    0    
+    2022   |    2     |    0     |    7     |    7     |   7.00   |    6     |  116.67  |    0     |    0     |    1     |    0     |    0     |    0    
+    2019   |    1     |    1     |    5     |    5*    |   0.00   |    4     |  125.00  |    0     |    0     |    0     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    13    |   231    |   409    |    10    |   3/34   |  40.90   |  10.62   |  23.10   |    0     |    0    
+    2025   |    2     |    36    |    70    |    1     |   1/35   |  70.00   |  11.67   |  36.00   |    0     |    0    
+    2024   |    8     |   147    |   269    |    9     |   3/34   |  29.89   |  10.98   |  16.33   |    0     |    0    
+    2022   |    2     |    24    |    28    |    0     |   0/10   |    -     |   7.00   |    -     |    0     |    0    
+    2019   |    1     |    24    |    42    |    0     |   0/42   |    -     |  10.50   |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/rasikh-dar/20577
+================================================================================

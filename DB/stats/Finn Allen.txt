@@ -1,0 +1,22 @@
+================================================================================
+IPL PLAYER PROFILE: FINN ALLEN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Finn Allen
+  Date of Birth            : 22 April 1999
+  Total IPL Matches        : 0
+  Role                     : Wicketkeeper Batter
+  Nationality              : New Zealander
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Finn Allen comes in as a replacement for wicket-keeper batsman Josh
+  Philippe for the 2021 edition of IPL. Allen is a top-order batsman and a
+  wicket-keeper from New Zealand, who had a base price of INR 20 lakhs
+  equivalent to that of Josh Philippe.
+
+================================================================================
+Source: https://www.iplt20.com/players/finn-allen/3020
+================================================================================

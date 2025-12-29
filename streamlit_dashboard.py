@@ -21,9 +21,9 @@ def init_session_state():
     if 'bid_history' not in st.session_state:
         st.session_state.bid_history = []
     if 'teams' not in st.session_state:
-        st.session_state.teams = {'TeamA': [], 'TeamB': [], 'TeamC': []}
+        st.session_state.teams = {'CSK': [], 'DC': [], 'GT': [], 'KKR': [], 'LSG': [], 'MI': [], 'PBKS': [], 'RR': [], 'RCB': [], 'SRH': []}
     if 'budgets' not in st.session_state:
-        st.session_state.budgets = {'TeamA': 100.0, 'TeamB': 100.0, 'TeamC': 100.0}
+        st.session_state.budgets = {'CSK': 100.0, 'DC': 100.0, 'GT': 100.0, 'KKR': 100.0, 'LSG': 100.0, 'MI': 100.0, 'PBKS': 100.0, 'RR': 100.0, 'RCB': 100.0, 'SRH': 100.0}
     if 'host_active' not in st.session_state:
         st.session_state.host_active = False
     if 'current_state' not in st.session_state:
@@ -90,7 +90,7 @@ def process_state_update(state, node_name=None):
     print(f"[DEBUG] Has reason attr: {hasattr(other_bid, 'reason') if other_bid else False}")
     
     # Update team info and budgets - handle both list and Team class
-    for team in ['TeamA', 'TeamB', 'TeamC']:
+    for team in ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']:
         team_data = state.get(team, [])
         if team_data:
             st.session_state.teams[team] = team_data
@@ -135,7 +135,7 @@ def process_state_update(state, node_name=None):
         print(f"[DEBUG] Added {bid_action}: {bid_entry}")
     
     # Check for finalized sales - handle both list and Team class
-    for team in ['TeamA', 'TeamB', 'TeamC']:
+    for team in ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']:
         team_data = state.get(team, [])
         team_players = []
         
@@ -215,10 +215,10 @@ def render_ui():
         st.subheader("💰 Team Budgets")
         
         fig = go.Figure()
-        team_colors_map = {'TeamA': '#FF4B4B', 'TeamB': '#4B4BFF', 'TeamC': '#4BFF4B'}
+        team_colors_map = {'CSK': '#FFFF00', 'DC': '#000080', 'GT': '#1F4788', 'KKR': '#663399', 'LSG': '#0066cc', 'MI': '#0052cc', 'PBKS': '#FF6600', 'RR': '#FF69B4', 'RCB': '#FF0000', 'SRH': '#FF6600'}
         player_colors = ['#FF6B6B', '#FFB84D', '#4ECDC4', '#95E1D3', '#F38181', '#AA96DA', '#FCBAD3', '#FFFFD2']
         
-        for idx, team in enumerate(['TeamA', 'TeamB', 'TeamC']):
+        for idx, team in enumerate(['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']):
             budget = st.session_state.budgets[team]
             spent = 100.0 - budget
             team_data = st.session_state.teams[team]
@@ -284,15 +284,15 @@ def render_ui():
     
     # Teams side by side in middle
     st.subheader("👥 Teams Overview")
-    team_col1, team_col2, team_col3 = st.columns(3)
+    team_col1, team_col2, team_col3, team_col4, team_col5 = st.columns(5)
     
-    for idx, (col, team) in enumerate(zip([team_col1, team_col2, team_col3], ['TeamA', 'TeamB', 'TeamC'])):
+    for idx, (col, team) in enumerate(zip([team_col1, team_col2, team_col3, team_col4, team_col5], ['CSK', 'DC', 'GT', 'KKR', 'LSG'])):
         with col:
             team_data = st.session_state.teams[team]
             budget = st.session_state.budgets[team]
             spent = 100.0 - budget
             
-            team_colors = {'TeamA': '🔴', 'TeamB': '🔵', 'TeamC': '🟢'}
+            team_colors = {'CSK': '🟡', 'DC': '🔵', 'GT': '🔷', 'KKR': '🟣', 'LSG': '🔹', 'MI': '🔵', 'PBKS': '🟠', 'RR': '🔴', 'RCB': '❤️', 'SRH': '🟠'}
             team_circle = team_colors.get(team, '⚪')
             
             # Extract players - handle both list and Team class
@@ -437,13 +437,27 @@ def start_auction():
         'CurrentBid': None,
         'OtherTeamBidding': None,
         'Round': 0,
-        'TeamA': [],
-        'TeamB': [],
-        'TeamC': [],
+        'CSK': [],
+        'DC': [],
+        'GT': [],
+        'KKR': [],
+        'LSG': [],
+        'MI': [],
+        'PBKS': [],
+        'RR': [],
+        'RCB': [],
+        'SRH': [],
         'UnsoldPlayers': [],
-        'TeamA_Budget': 100.0,
-        'TeamB_Budget': 100.0,
-        'TeamC_Budget': 100.0,
+        'CSK_Budget': 100.0,
+        'DC_Budget': 100.0,
+        'GT_Budget': 100.0,
+        'KKR_Budget': 100.0,
+        'LSG_Budget': 100.0,
+        'MI_Budget': 100.0,
+        'PBKS_Budget': 100.0,
+        'RR_Budget': 100.0,
+        'RCB_Budget': 100.0,
+        'SRH_Budget': 100.0,
         'Messages': []
     }
     
@@ -511,8 +525,8 @@ def main():
     with col1:
         if st.button("🚀 Start Mock Auction", key="start_btn", disabled=st.session_state.auction_running):
             st.session_state.bid_history = []
-            st.session_state.teams = {'TeamA': [], 'TeamB': [], 'TeamC': []}
-            st.session_state.budgets = {'TeamA': 100.0, 'TeamB': 100.0, 'TeamC': 100.0}
+            st.session_state.teams = {'CSK': [], 'DC': [], 'GT': [], 'KKR': [], 'LSG': [], 'MI': [], 'PBKS': [], 'RR': [], 'RCB': [], 'SRH': []}
+            st.session_state.budgets = {'CSK': 100.0, 'DC': 100.0, 'GT': 100.0, 'KKR': 100.0, 'LSG': 100.0, 'MI': 100.0, 'PBKS': 100.0, 'RR': 100.0, 'RCB': 100.0, 'SRH': 100.0}
             st.session_state.unsold_players = []
             start_auction()
     
@@ -559,6 +573,24 @@ def main():
             import time
             time.sleep(0.1)
             st.rerun()
+    st.divider()
+    
+    # Render UI
+    render_ui()
+    
+    # Process next auction state if running
+    if st.session_state.auction_running and st.session_state.stream_iterator:
+        if process_next_state():
+            import time
+            time.sleep(0.1)
+            st.rerun()
+    
+    # Add section for remaining 5 teams (below the fold)
+    st.divider()
+    st.subheader("👥 Teams Overview (Continued)")
+    team_col6, team_col7, team_col8, team_col9, team_col10 = st.columns(5)
+    
+    for idx, (col, team) in enumerate(zip([team_col6, team_col7, team_col8, team_col9, team_col10], ['MI', 'PBKS', 'RR', 'RCB', 'SRH'])):
 
 if __name__ == "__main__":
     main()

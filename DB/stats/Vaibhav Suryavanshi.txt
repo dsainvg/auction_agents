@@ -1,0 +1,49 @@
+================================================================================
+IPL PLAYER PROFILE: VAIBHAV SURYAVANSHI
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Vaibhav Suryavanshi
+  IPL Debut                : 2025
+  Date of Birth            : 27 March 2011
+  Total IPL Matches        : 7
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Vaibhav Suryavanshi, a rising talent from Bihar, made history in 2024 by
+  debuting in the Ranji Trophy at just 12, becoming the second youngest to do
+  so for Bihar. Known for his elegant stroke play, he set a record with a
+  58-ball century against Australia U-19’s, the fastest by an Indian in youth
+  Tests. His rapid rise saw him become the youngest player to earn an IPL
+  contract, with Rajasthan Royals securing him for INR 1.1 crore ahead of IPL
+  2025. Training alongside stars like Sanju Samson and Yashasvi Jaiswal, he
+  now has the perfect platform to refine his game and shape a bright future.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    7     |    0     |   252    |   101    |  36.00   |   122    |  206.56  |    1     |    1     |    18    |    24    |    0     |    0    
+    2025   |    7     |    0     |   252    |   101    |  36.00   |   122    |  206.56  |    1     |    1     |    18    |    24    |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/vaibhav-suryavanshi/22203
+================================================================================

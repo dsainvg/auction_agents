@@ -1,0 +1,60 @@
+================================================================================
+IPL PLAYER PROFILE: JONNY BAIRSTOW
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Jonny Bairstow
+  IPL Debut                : 2019
+  Date of Birth            : 26 September 1989
+  Total IPL Matches        : 52
+  Role                     : Wicketkeeper Batter
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Tenacious England wicketkeeper-batsman was a new entrant to the IPL who
+  was bought for Rs. 1.5 crore by the SRH team management for the 2019 season.
+  A proven performer at the highest level for his country, Bairstow is also a
+  useful performer at the T20 level. He had a brilliant debut IPL season
+  scoring 445 runs that included a century while opening the batting with
+  David Warner. Along with Warner, the duo formed a threatening opening pair
+  often helping the Sunrisers get off to a blazing start. One can expect
+  nothing different this year as well when Bairstow takes charge of the SRH
+  top order.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    52    |    4     |   1674   |   114    |  34.88   |   1146   |  146.07  |    2     |    9     |   173    |    74    |    29    |    4    
+    2025   |    2     |    0     |    85    |    47    |  42.50   |    46    |  184.78  |    0     |    0     |    7     |    5     |    1     |    0    
+    2024   |    11    |    1     |   298    |   108*   |  29.80   |   195    |  152.82  |    1     |    0     |    33    |    14    |    8     |    0    
+    2022   |    11    |    0     |   253    |    66    |  23.00   |   175    |  144.57  |    0     |    2     |    34    |    9     |    2     |    0    
+    2021   |    7     |    1     |   248    |   63*    |  41.33   |   175    |  141.71  |    0     |    2     |    20    |    15    |    2     |    1    
+    2020   |    11    |    0     |   345    |    97    |  31.36   |   272    |  126.83  |    0     |    3     |    31    |    13    |    7     |    1    
+    2019   |    10    |    2     |   445    |   114    |  55.62   |   283    |  157.24  |    1     |    2     |    48    |    18    |    9     |    2    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    52    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/jonny-bairstow/506
+================================================================================

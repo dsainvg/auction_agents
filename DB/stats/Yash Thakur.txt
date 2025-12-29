@@ -1,0 +1,59 @@
+================================================================================
+IPL PLAYER PROFILE: YASH THAKUR
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Yash Thakur
+  IPL Debut                : 2023
+  Date of Birth            : 28 December 1998
+  Total IPL Matches        : 21
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A standout performer in India’s U19 setup, Yash Thakur was part of the
+  victorious ACC Under-19 Asia Cup-winning team in 2016, picking up 9 wickets
+  in 5 games. The fiery right-arm pacer made his first-class debut for
+  Vidarbha in the 2018-19 Ranji Trophy. His IPL debut came for Lucknow Super
+  Giants against Chennai Super Kings in 2023, and he quickly made an impact,
+  finishing his maiden season with 13 wickets in 9 matches, including a
+  memorable 4/37 against Punjab Kings. Retained by LSG for 2024, Thakur
+  elevated his game further, claiming 11 wickets in 10 matches, highlighted by
+  a sensational 5/30 against Gujarat Titans, his first IPL five-wicket haul.
+  Punjab Kings acquired him for INR 1.6 crore at the IPL 2025 mega auction,
+  recognizing his potential as a game-changer. Thakur now forms a vital part
+  of PBKS’s pace attack, with the franchise banking on his fiery pace,
+  pinpoint yorkers, and match-winning performances to fuel their quest for a
+  maiden IPL title in 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    21    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2025   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    10    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2023   |    9     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    21    |   443    |   770    |    25    |   5/30   |  30.80   |  10.43   |  17.72   |    1     |    1    
+    2025   |    2     |    39    |    79    |    1     |   1/39   |  79.00   |  12.15   |  39.00   |    0     |    0    
+    2024   |    10    |   213    |   402    |    11    |   5/30   |  36.55   |  11.32   |  19.36   |    0     |    1    
+    2023   |    9     |   191    |   289    |    13    |   4/37   |  22.23   |   9.08   |  14.69   |    1     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/yash-thakur/5624
+================================================================================

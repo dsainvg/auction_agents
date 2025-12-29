@@ -1,0 +1,49 @@
+================================================================================
+IPL PLAYER PROFILE: DAWID MALAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Dawid Malan
+  Date of Birth            : 03 September 1987
+  Total IPL Matches        : 1
+  Role                     : Batter
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Born in London and grew up in South Africa, Dawid Malan is ranked number
+  one in T20 International rankings. The left-handed batsman is known for his
+  serious consistency in the domestic circuit and has carried the same
+  standards to the International stage as well. Malan was picked by the Punjab
+  Kings in the 2021 auction for a price tag of INR 1.5 cr and it will be the
+  lefthander’s debut IPL season. In a team that has explosive openers and a
+  variety of all-rounders, Dawid Malan has the perfect spot of batting in the
+  middle overs and anchoring the innings, which he has done so well in the
+  past for different teams.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    26    |    26    |  26.00   |    26    |  100.00  |    0     |    0     |    1     |    1     |    1     |    0    
+    2021   |    1     |    0     |    26    |    26    |  26.00   |    26    |  100.00  |    0     |    0     |    1     |    1     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/dawid-malan/3318
+================================================================================

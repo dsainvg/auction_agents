@@ -1,0 +1,53 @@
+================================================================================
+IPL PLAYER PROFILE: XAVIER BARTLETT
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Xavier Bartlett
+  IPL Debut                : 2025
+  Date of Birth            : 17 December 1998
+  Total IPL Matches        : 4
+  Role                     : WK-Batter
+  Nationality              : Australian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A standout performer in Australia’s U19 setup, Xavier Bartlett is a
+  promising Australian pacer who was part of the 2018 ICC U19 World Cup squad,
+  where he honed his skills as a right-arm fast-medium bowler. Bartlett made
+  his ODI debut against the West Indies in February 2024, claiming 4/21,
+  followed by a T20I debut later that month with 2 wickets against the same
+  opposition. Realising his immense potential, Punjab Kings made Bartlett a
+  part of their squad for INR 80 Lakhs ahead of IPL 2025. This will provide
+  Bartlett with a golden opportunity to sharpen his skills and learn from the
+  likes of fellow Australian and coach Ricky Ponting, prominent fast bowlers
+  like Lockie Ferguson, Marco Jansen, etc. Joining Punjab Kings, Bartlett adds
+  depth to an already formidable pace attack, with the franchise banking on
+  his early breakthroughs and slog-over brilliance.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    4     |    0     |    11    |    11    |  11.00   |    15    |  73.33   |    0     |    0     |    1     |    0     |    5     |    0    
+    2025   |    4     |    0     |    11    |    11    |  11.00   |    15    |  73.33   |    0     |    0     |    1     |    0     |    5     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    4     |    60    |    96    |    2     |   1/26   |  48.00   |   9.60   |  30.00   |    0     |    0    
+    2025   |    4     |    60    |    96    |    2     |   1/26   |  48.00   |   9.60   |  30.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/xavier-bartlett/22112
+================================================================================

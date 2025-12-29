@@ -1,0 +1,45 @@
+================================================================================
+IPL PLAYER PROFILE: NARAYAN JAGADEESAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Narayan Jagadeesan
+  IPL Debut                : 2020
+  Date of Birth            : 24 December 1995
+  Total IPL Matches        : 13
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The wicket-keeper batsman made his debut in the Tamil Nadu squad in 2016
+  against Madhya Pradesh. Jagadeesan has been among runs for his state-side
+  and will look to hone his skills at the CSK camp in the eleventh edition of
+  the league.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    0     |    33    |    33    |  16.50   |    29    |  113.79  |    0     |    0     |    4     |    0     |    0     |    0    
+    2020   |    5     |    0     |    33    |    33    |  16.50   |    29    |  113.79  |    0     |    0     |    4     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/narayan-jagadeesan/4942
+================================================================================

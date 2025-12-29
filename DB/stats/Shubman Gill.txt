@@ -1,0 +1,67 @@
+================================================================================
+IPL PLAYER PROFILE: SHUBMAN GILL
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Shubman Gill
+  IPL Debut                : 2018
+  Date of Birth            : 08 September 1999
+  Total IPL Matches        : 118
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    One of the brightest young talents in Indian cricket, Shubman Gill is a
+  right-handed opening batter with immense promise. The Punjab-born batter
+  shot to fame as the vice-captain of India’s U19 World Cup-winning team in
+  2018, where he was the team’s top run-scorer. After a stellar start with KKR
+  from 2018 to 2021, where he was their highest run-scorer in 2020 and 2021,
+  Gill moved to Gujarat Titans in 2022. His pivotal contributions helped GT
+  win the IPL 2022 title, and he followed that with a record-breaking IPL 2023
+  season, where he scored 890 runs with four centuries. Gill’s leadership
+  skills were also evident in IPL 2024 when he captained GT. He continues to
+  thrive for India, with centuries across all formats and played a crucial
+  role in India's 2025 Champions Trophy victory. GT retained him as their
+  captain for TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   118    |    17    |   3866   |   129    |  39.45   |   2787   |  138.72  |    4     |    26    |   372    |   119    |    45    |    0    
+    2025   |    15    |    2     |   650    |   93*    |  50.00   |   417    |  155.88  |    0     |    6     |    62    |    24    |    8     |    0    
+    2024   |    12    |    1     |   426    |   104    |  38.73   |   289    |  147.40  |    1     |    2     |    37    |    15    |    1     |    0    
+    2023   |    17    |    2     |   890    |   129    |  59.33   |   564    |  157.80  |    3     |    4     |    85    |    33    |    6     |    0    
+    2022   |    16    |    2     |   483    |    96    |  34.50   |   365    |  132.33  |    0     |    4     |    51    |    11    |    7     |    0    
+    2021   |    17    |    0     |   478    |    57    |  28.11   |   402    |  118.90  |    0     |    3     |    50    |    12    |    6     |    0    
+    2020   |    14    |    1     |   440    |   70*    |  33.84   |   373    |  117.96  |    0     |    3     |    44    |    9     |    7     |    0    
+    2019   |    14    |    4     |   296    |    76    |  32.88   |   238    |  124.36  |    0     |    3     |    21    |    10    |    7     |    0    
+    2018   |    13    |    5     |   203    |   57*    |  33.83   |   139    |  146.04  |    0     |    1     |    22    |    5     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   118    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/shubman-gill/3761
+================================================================================

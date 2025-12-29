@@ -1,0 +1,67 @@
+================================================================================
+IPL PLAYER PROFILE: NEHAL WADHERA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Nehal Wadhera
+  IPL Debut                : 2023
+  Date of Birth            : 04 September 2000
+  Total IPL Matches        : 36
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A product of Punjab’s cricketing system, Nehal Wadhera is a bright
+  left-handed batter with immense quality and skill set. He has the ability to
+  produce excellent cricketing shots and adds the left-handed elegance to make
+  them even more gorgeous. He made his first-class debut for Punjab in the
+  2022-23 Ranji Trophy, scoring 123 on debut against Gujarat, and had earlier
+  debuted in T20s during the 2020-21 Syed Mushtaq Ali Trophy. Wadhera smashed
+  251 runs in the 2024-25 Syed Mushtaq Ali Trophy at a strike rate of 153.04,
+  including a match-winning 68* off 34 against Bengal, helping Punjab reach
+  the semifinals. His IPL journey began in 2023 with MI, where he scored 241
+  runs in 10 matches at a strike rate of 145.18, including two fifties, with a
+  standout 64 off 51 against Gujarat Titans. Retained for 2024, he added 109
+  runs in 6 games, highlighted by a pressure-relieving 49 off 24 against
+  Rajasthan Royals. Punjab Kings swooped in at the IPL 2025 mega-auction,
+  securing him for INR 4.2 Crore after a bidding war with Chennai Super Kings
+  and Gujarat Titans, marking a homecoming for the local lad. Wadhera joins
+  PBKS as a key middle-order enforcer, with the franchise banking on his 350
+  IPL runs (strike rate 140) and fearless approach to bolster their batting
+  under Shreyas Iyer’s leadership.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best strike rate: 153.04
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    36    |    4     |   719    |    70    |  26.63   |   503    |  142.94  |    0     |    4     |    60    |    39    |    12    |    0    
+    2025   |    16    |    3     |   369    |    70    |  30.75   |   253    |  145.85  |    0     |    2     |    28    |    21    |    6     |    0    
+    2024   |    6     |    0     |   109    |    49    |  18.17   |    84    |  129.76  |    0     |    0     |    9     |    6     |    2     |    0    
+    2023   |    14    |    1     |   241    |    64    |  26.78   |   166    |  145.18  |    0     |    2     |    23    |    12    |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    36    |    17    |    22    |    0     |   0/13   |    -     |   7.76   |    -     |    0     |    0    
+    2025   |    16    |    5     |    9     |    0     |   0/9    |    -     |  10.80   |    -     |    0     |    0    
+    2024   |    6     |    12    |    13    |    0     |   0/13   |    -     |   6.50   |    -     |    0     |    0    
+    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/nehal-wadhera/5859
+================================================================================

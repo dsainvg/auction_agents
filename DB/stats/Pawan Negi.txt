@@ -1,0 +1,62 @@
+================================================================================
+IPL PLAYER PROFILE: PAWAN NEGI
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Pawan Negi
+  IPL Debut                : 2012
+  Date of Birth            : 06 January 1983
+  Total IPL Matches        : 50
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A left-arm spinner and a handy lower-order batsman from Delhi, Pawan Negi
+  is an ideal foil for the T20 format. He was picked by the Delhi Daredevils
+  (now Delhi Capitals) while still a teenager and showed promise with his
+  all-round abilities. Ahead of the 2016 season, Delhi Daredevils picked him
+  at the Auction for Rs 8.5 crores. It came at a time when he was awarded with
+  a call-up for the Indian team in the T20 format – making his debut against
+  the United Arab Emirates (UAE) in the Asia Cup, 2016. Negi was also a part
+  of India’s squad at the T20 World Cup. Since the 2017 season, Negi was a
+  part of the Royal Challengers Bangalore. Kolkata Knight Riders picked him
+  ahead of the 2021 season.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    47    |    9     |   365    |    36    |  14.04   |   289    |  126.30  |    0     |    0     |    27    |    16    |    14    |    0    
+    2019   |    7     |    0     |    9     |    5     |   2.25   |    12    |  75.00   |    0     |    0     |    1     |    0     |    3     |    0    
+    2018   |    2     |    0     |    3     |    3     |   1.50   |    5     |  60.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2017   |    12    |    2     |   144    |    35    |  18.00   |   111    |  129.72  |    0     |    0     |    10    |    7     |    3     |    0    
+    2016   |    8     |    4     |    57    |   19*    |  28.50   |    59    |  96.61   |    0     |    0     |    2     |    3     |    2     |    0    
+    2015   |    10    |    1     |   116    |    36    |  14.50   |    73    |  158.90  |    0     |    0     |    10    |    5     |    4     |    0    
+    2012   |    8     |    2     |    36    |    14    |  18.00   |    29    |  124.13  |    0     |    0     |    4     |    1     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    50    |   716    |   939    |    34    |   4/18   |  27.62   |   7.87   |  21.06   |    1     |    0    
+    2019   |    7     |    67    |   102    |    3     |   2/21   |  34.00   |   9.13   |  22.33   |    0     |    0    
+    2018   |    2     |    24    |    49    |    1     |   1/36   |  49.00   |  12.25   |  24.00   |    0     |    0    
+    2017   |    12    |   193    |   197    |    16    |   3/10   |  12.31   |   6.12   |  12.06   |    0     |    0    
+    2016   |    8     |    54    |    84    |    1     |   1/19   |  84.00   |   9.33   |  54.00   |    0     |    0    
+    2015   |    10    |   180    |   252    |    6     |   2/25   |  42.00   |   8.40   |  30.00   |    0     |    0    
+    2014   |    2     |    42    |    75    |    0     |   0/37   |    -     |  10.71   |    -     |    0     |    0    
+    2013   |    1     |    24    |    28    |    0     |   0/28   |    -     |   7.00   |    -     |    0     |    0    
+    2012   |    8     |   132    |   152    |    7     |   4/18   |  21.71   |   6.90   |  18.85   |    1     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/pawan-negi/53
+================================================================================

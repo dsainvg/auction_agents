@@ -1,0 +1,52 @@
+================================================================================
+IPL PLAYER PROFILE: MOHD. ARSHAD KHAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Mohd. Arshad Khan
+  IPL Debut                : 2023
+  Date of Birth            : 20 December 1997
+  Total IPL Matches        : 19
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A left-arm pacer who can also deliver powerful lower-order cameos,
+  Mohammad Arshad Khan made his IPL debut in 2023 after being picked up by
+  Mumbai Indians in 2022. He later moved to Lucknow Super Giants in IPL 2024,
+  where he made an impression with an unbeaten 58 against Delhi Capitals. His
+  ability to contribute with both bat and ball made him an exciting prospect,
+  leading Gujarat Titans to sign him for INR 1.30 Crore ahead of TATA IPL
+  2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    19    |    6     |   124    |   58*    |  20.67   |    88    |  140.91  |    0     |    1     |    6     |    9     |    7     |    0    
+    2025   |    9     |    3     |    23    |    20    |  11.50   |    19    |  121.05  |    0     |    0     |    0     |    3     |    4     |    0    
+    2024   |    4     |    2     |    83    |   58*    |  41.50   |    54    |  153.70  |    0     |    1     |    6     |    5     |    1     |    0    
+    2023   |    6     |    1     |    18    |   15*    |   9.00   |    15    |  120.00  |    0     |    0     |    0     |    1     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    19    |   272    |   521    |    12    |   3/39   |  43.42   |  11.49   |  22.67   |    0     |    0    
+    2025   |    9     |   126    |   217    |    6     |   1/7    |  36.17   |  10.33   |  21.00   |    0     |    0    
+    2024   |    4     |    61    |   114    |    1     |   1/45   |  114.00  |  11.21   |  61.00   |    0     |    0    
+    2023   |    6     |    85    |   190    |    5     |   3/39   |  38.00   |  13.41   |  17.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/mohd-arshad-khan/20599
+================================================================================

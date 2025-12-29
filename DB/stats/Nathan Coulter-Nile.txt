@@ -1,0 +1,66 @@
+================================================================================
+IPL PLAYER PROFILE: NATHAN COULTER-NILE
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Nathan Coulter-Nile
+  IPL Debut                : 2013
+  Date of Birth            : 11 October 1987
+  Total IPL Matches        : 39
+  Role                     : Bowler
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The right arm pacer picked five wickets in the seven games he played for
+  the Mumbai Indians in the 2020 season. MI bought him again in the 2021
+  auctions for INR 5 cr. The fast bowler has been part of the IPL since 2013;
+  he represented the Mumbai Indians in his first year in the league, was Delhi
+  Daredevils’ joint-highest wicket-taker in the 2015 season, and donned the
+  Kolkata Knight Riders jersey in 2017. At the IPL Player Auction 2018, RCB
+  snapped him for INR 2.20 cr. One of the most promising prospects to emerge
+  from Western Australia in recent years, Coulter-Nile can test batsmen with
+  pace and the steep bounce he can generate bounce off a good length. The tall
+  speedster also possesses the ability to hit big and can contribute crucial
+  runs down the order.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    39    |    6     |    82    |   24*    |   7.45   |    72    |  113.89  |    0     |    0     |    7     |    4     |    12    |    0    
+    2022   |    1     |    1     |    1     |    1*    |    -     |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    5     |    0     |    4     |    3     |   2.00   |    5     |  80.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2020   |    7     |    1     |    25    |   24*    |  25.00   |    15    |  166.66  |    0     |    0     |    4     |    0     |    2     |    0    
+    2017   |    8     |    0     |    14    |    6     |   4.66   |    12    |  116.66  |    0     |    0     |    0     |    2     |    2     |    0    
+    2016   |    4     |    2     |    9     |    7*    |   0.00   |    14    |  64.28   |    0     |    0     |    1     |    0     |    0     |    0    
+    2015   |    11    |    1     |    20    |    6     |   5.00   |    18    |  111.11  |    0     |    0     |    2     |    1     |    5     |    0    
+    2014   |    2     |    1     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2013   |    1     |    0     |    9     |    9     |   9.00   |    6     |  150.00  |    0     |    0     |    0     |    1     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    39    |   857    |   1100   |    48    |   4/14   |  22.92   |   7.70   |  17.85   |    2     |    0    
+    2022   |    1     |    18    |    48    |    0     |   0/48   |    -     |  16.00   |    -     |    0     |    0    
+    2021   |    5     |   120    |   127    |    7     |   4/14   |  18.14   |   6.35   |  17.14   |    1     |    0    
+    2020   |    7     |   156    |   206    |    5     |   2/29   |  41.20   |   7.92   |  31.20   |    0     |    0    
+    2017   |    8     |   170    |   228    |    15    |   3/20   |  15.20   |   8.04   |  11.33   |    0     |    0    
+    2016   |    4     |    90    |   114    |    3     |   2/25   |  38.00   |   7.60   |  30.00   |    0     |    0    
+    2015   |    11    |   255    |   321    |    15    |   4/20   |  21.40   |   7.55   |  17.00   |    1     |    0    
+    2014   |    2     |    24    |    27    |    2     |   2/27   |  13.50   |   6.75   |  12.00   |    0     |    0    
+    2013   |    1     |    24    |    29    |    1     |   1/29   |  29.00   |   7.25   |  24.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/nathan-coulter-nile/840
+================================================================================

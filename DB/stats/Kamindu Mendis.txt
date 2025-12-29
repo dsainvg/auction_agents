@@ -1,0 +1,51 @@
+================================================================================
+IPL PLAYER PROFILE: KAMINDU MENDIS
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Kamindu Mendis
+  IPL Debut                : 2025
+  Date of Birth            : 30 September 1998
+  Total IPL Matches        : 5
+  Role                     : WK-Batter
+  Nationality              : Sri Lankan
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Kamindu Mendis is an exciting Sri Lankan all-rounder known for his
+  ambidextrous bowling ability, capable of switching between right-arm
+  off-spin and left-arm orthodox spin. This rare skill makes him a valuable
+  asset, especially in T20 cricket, where captains can use him strategically
+  against both right-handed and left-handed batters. Mendis first rose to
+  prominence for his bowling versatility but quickly gained attention for his
+  impressive batting performances at the international level. The young
+  left-hander made waves by matching Don Bradman's record of reaching 1000
+  Test runs in just 13 innings. For TATA IPL 2025, Sunrisers Hyderabad secured
+  Mendis for INR 75 Lakh.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    2     |    92    |   32*    |  30.67   |    69    |  133.33  |    0     |    0     |    7     |    2     |    1     |    0    
+    2025   |    5     |    2     |    92    |   32*    |  30.67   |    69    |  133.33  |    0     |    0     |    7     |    2     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    42    |    60    |    2     |   1/4    |  30.00   |   8.57   |  21.00   |    0     |    0    
+    2025   |    5     |    42    |    60    |    2     |   1/4    |  30.00   |   8.57   |  21.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/kamindu-mendis/22077
+================================================================================

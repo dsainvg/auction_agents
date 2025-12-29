@@ -1,0 +1,59 @@
+================================================================================
+IPL PLAYER PROFILE: BASIL THAMPI
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Basil Thampi
+  IPL Debut                : 2017
+  Date of Birth            : 11 September 1993
+  Total IPL Matches        : 25
+  Role                     : Bowler
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Kerala pacer Basil Thampi’s ability to hit the deck hard and extract
+  credible pace was a vital talking point in his inaugural season for Gujarat
+  Lions in 2017. He claimed a decent haul of 11 wickets at a substantial
+  strike rate of 24.36 for them in that season. Thampi was then drafted into
+  the Sunrisers Hyderabad squad in 2018 and since then been a part of the
+  franchise. The fast bowler will be looking to make an impact this year.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best strike rate: 24.36
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    25    |    7     |    32    |   13*    |  32.00   |    35    |  91.43   |    0     |    0     |    1     |    1     |    5     |    0    
+    2022   |    5     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2020   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2019   |    3     |    1     |    1     |    1*    |   0.00   |    1     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
+    2018   |    4     |    1     |    3     |    3     |   3.00   |    6     |  50.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2017   |    12    |    5     |    28    |   13*    |   0.00   |    28    |  100.00  |    0     |    0     |    1     |    1     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    25    |   521    |   846    |    22    |   3/29   |  38.45   |   9.74   |  23.68   |    0     |    0    
+    2022   |    5     |    96    |   152    |    5     |   3/35   |  30.40   |   9.50   |  19.20   |    0     |    0    
+    2020   |    1     |    24    |    46    |    1     |   1/46   |  46.00   |  11.50   |  24.00   |    0     |    0    
+    2019   |    3     |    72    |   110    |    0     |   0/29   |    -     |   9.16   |    -     |    0     |    0    
+    2018   |    4     |    61    |   114    |    5     |   2/4    |  22.80   |  11.21   |  12.20   |    0     |    0    
+    2017   |    12    |   268    |   424    |    11    |   3/29   |  38.54   |   9.49   |  24.36   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/basil-thampi/3825
+================================================================================

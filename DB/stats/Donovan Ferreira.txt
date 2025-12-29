@@ -1,0 +1,48 @@
+================================================================================
+IPL PLAYER PROFILE: DONOVAN FERREIRA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Donovan Ferreira
+  IPL Debut                : 2024
+  Date of Birth            : 21 July 1998
+  Total IPL Matches        : 3
+  Role                     : Wicketkeeper Batter
+  Nationality              : South African
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    South African all-rounder Donovan Ferreira was a part of Rajasthan Royals
+  setup in IPL 2023 and 2024. Ferreira is a seasoned T20 cricketer known for
+  his explosive hitting and handy off-spin. He will provide valuable balance
+  to the Delhi Capitals squad after being signed for INR 75 Lakh at the 2025
+  TATA IPL Auction.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    3     |    0     |    9     |    7     |   3.00   |    14    |  64.29   |    0     |    0     |    0     |    0     |    2     |    0    
+    2025   |    1     |    0     |    1     |    1     |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    2     |    0     |    8     |    7     |   4.00   |    11    |  72.73   |    0     |    0     |    0     |    0     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/donovan-ferreira/5652
+================================================================================

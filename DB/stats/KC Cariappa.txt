@@ -1,0 +1,57 @@
+================================================================================
+IPL PLAYER PROFILE: KC CARIAPPA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : KC Cariappa
+  IPL Debut                : 2015
+  Date of Birth            : 13 April 1994
+  Total IPL Matches        : 11
+  Role                     : Bowler
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Mystery spinner KC Cariappa rose to fame because of innumerable
+  variations in his bowling skill set and ability to bamboozle batsmen with
+  his spin acumen. He made his debut with the Kolkata Knight Riders in 2015,
+  and later was a part of the Kings XI Punjab set up. He did not have the best
+  of IPLs picking up just 8 wickets in 10 matches across three seasons. He was
+  roped in as one of the replacements for injured pacers Kamlesh Nagarkoti &
+  Shivam Mavi in 2019. KC Cariappa will ply his trade for RR after being
+  brought on board for INR 20 Lac in the IPL 2021 Player Auction. The
+  leg-spinner has thus far played 29 T20s and has 25 wickets to his name and
+  will be out to make an impact for RR in the IPL 2021.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    11    |    2     |    24    |   12*    |   8.00   |    21    |  114.29  |    0     |    0     |    0     |    2     |    3     |    0    
+    2019   |    1     |    1     |    9     |    9*    |   0.00   |    3     |  300.00  |    0     |    0     |    0     |    1     |    0     |    0    
+    2017   |    4     |    0     |    2     |    1     |   1.00   |    7     |  28.57   |    0     |    0     |    0     |    0     |    1     |    0    
+    2016   |    5     |    1     |    13    |   12*    |  13.00   |    11    |  118.18  |    0     |    0     |    0     |    1     |    2     |    0    
+    2015   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    11    |   216    |   348    |    8     |   2/16   |  43.50   |   9.67   |  27.00   |    0     |    0    
+    2019   |    1     |    12    |    34    |    0     |   0/34   |    -     |  17.00   |    -     |    0     |    0    
+    2017   |    4     |    90    |   127    |    4     |   2/24   |  31.75   |   8.46   |  22.50   |    0     |    0    
+    2016   |    5     |   102    |   159    |    3     |   2/16   |  53.00   |   9.35   |  34.00   |    0     |    0    
+    2015   |    1     |    12    |    28    |    1     |   1/28   |  28.00   |  14.00   |  12.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/kc-cariappa/2743
+================================================================================

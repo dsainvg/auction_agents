@@ -1,0 +1,78 @@
+================================================================================
+IPL PLAYER PROFILE: CHRIS GAYLE
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Chris Gayle
+  IPL Debut                : 2009
+  Date of Birth            : 21 September 1979
+  Total IPL Matches        : 142
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    ‘Universe Boss’ Chris Gayle is the darling of the masses. There is no
+  better entertainer than Gayle both on and off the field. After conquering
+  the Bangalore crowds for RCB, Gayle made a quiet move to Punjab Kings in
+  2018 and made an instant impact with another strong season that included a
+  century against Sunrisers Hyderabad. The Gayle-Rahul combination is one of
+  the most lethal in the tournament and the bowling sides have often struggled
+  to contain the two as the left-right pair goes about their demolition job.
+  Gayle had a fine season in 2019 where he was on the verge of getting his 7th
+  IPL century but remained unbeaten on 99. He struck 4 half-centuries and
+  scored a total of 490 runs from 319 balls that he faced. The lefthander had
+  a similar outing in the 2020 season as he was dismissed once again for 99
+  and missed out on a century. Although he added nearly 300 runs in the 7
+  games that he played as an opener. Stay alert as there’s a “Gaylestorm”
+  predicted in the 2021 season.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   142    |    16    |   4965   |   175*   |  39.72   |   3333   |  148.96  |    6     |    31    |   405    |   357    |    29    |    0    
+    2021   |    10    |    1     |   193    |    46    |  21.44   |   154    |  125.32  |    0     |    0     |    21    |    8     |    3     |    0    
+    2020   |    7     |    0     |   288    |    99    |  41.14   |   210    |  137.14  |    0     |    3     |    15    |    23    |    1     |    0    
+    2019   |    13    |    1     |   490    |   99*    |  40.83   |   319    |  153.60  |    0     |    4     |    45    |    34    |    0     |    0    
+    2018   |    11    |    2     |   368    |   104*   |  40.88   |   252    |  146.03  |    1     |    3     |    30    |    27    |    2     |    0    
+    2017   |    9     |    0     |   200    |    77    |  22.22   |   163    |  122.69  |    0     |    1     |    15    |    14    |    2     |    0    
+    2016   |    10    |    0     |   227    |    76    |  22.70   |   150    |  151.33  |    0     |    2     |    17    |    21    |    4     |    0    
+    2015   |    14    |    2     |   491    |   117    |  40.91   |   333    |  147.44  |    1     |    2     |    39    |    38    |    1     |    0    
+    2014   |    9     |    0     |   196    |    46    |  21.77   |   184    |  106.52  |    0     |    0     |    18    |    12    |    2     |    0    
+    2013   |    16    |    4     |   708    |   175*   |  59.00   |   453    |  156.29  |    1     |    4     |    57    |    51    |    3     |    0    
+    2012   |    15    |    2     |   733    |   128*   |  61.08   |   456    |  160.74  |    1     |    7     |    46    |    59    |    2     |    0    
+    2011   |    12    |    3     |   608    |   107    |  67.55   |   332    |  183.13  |    2     |    3     |    57    |    44    |    2     |    0    
+    2010   |    9     |    0     |   292    |    88    |  32.44   |   184    |  158.69  |    0     |    2     |    30    |    16    |    2     |    0    
+    2009   |    7     |    1     |   171    |   44*    |  28.50   |   143    |  119.58  |    0     |    0     |    15    |    10    |    5     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   142    |   554    |   729    |    18    |   3/21   |  40.50   |   7.90   |  30.78   |    0     |    0    
+    2021   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    7     |    5     |    5     |    0     |   0/5    |    -     |   6.00   |    -     |    0     |    0    
+    2019   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    10    |    60    |    63    |    2     |   2/11   |  31.50   |   6.30   |  30.00   |    0     |    0    
+    2015   |    14    |    12    |    15    |    0     |   0/15   |    -     |   7.50   |    -     |    0     |    0    
+    2014   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2013   |    16    |    24    |    40    |    3     |   2/5    |  13.33   |  10.00   |   8.00   |    0     |    0    
+    2012   |    15    |    28    |    66    |    0     |   0/6    |    -     |  14.14   |    -     |    0     |    0    
+    2011   |    12    |   216    |   244    |    8     |   3/21   |  30.50   |   6.77   |  27.00   |    0     |    0    
+    2010   |    9     |    96    |   152    |    4     |   1/9    |  38.00   |   9.50   |  24.00   |    0     |    0    
+    2009   |    7     |   113    |   144    |    1     |   1/21   |  144.00  |   7.64   |  113.00  |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/chris-gayle/236
+================================================================================

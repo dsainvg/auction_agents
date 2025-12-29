@@ -1,0 +1,36 @@
+================================================================================
+IPL PLAYER PROFILE: SUYASH S PRABHUDESSAI
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Suyash S Prabhudessai
+  IPL Debut                : 2022
+  Date of Birth            : 06 September 1997
+  Total IPL Matches        : 11
+  Role                     : Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Only the fourth cricketer from Goa to have landed an IPL contract, the
+  23-year old Suyash Prabhudessai is known for his ability to score quick runs
+  later down the batting order. At the IPL 2021 Player Auction, Suyash was
+  picked by the RCB and the youngster is all set to play bold this season.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    11    |    0     |   126    |    34    |  12.60   |   106    |  118.87  |    0     |    0     |    11    |    4     |    10    |    0    
+    2024   |    1     |    0     |    24    |    24    |  24.00   |    18    |  133.33  |    0     |    0     |    3     |    0     |    0     |    0    
+    2023   |    5     |    0     |    35    |    19    |   8.75   |    29    |  120.69  |    0     |    0     |    1     |    2     |    5     |    0    
+    2022   |    5     |    0     |    67    |    34    |  13.40   |    59    |  113.56  |    0     |    0     |    7     |    2     |    5     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/suyash-s-prabhudessai/7002
+================================================================================

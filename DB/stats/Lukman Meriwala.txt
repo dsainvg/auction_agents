@@ -1,0 +1,24 @@
+================================================================================
+IPL PLAYER PROFILE: LUKMAN MERIWALA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Lukman Meriwala
+  Date of Birth            : 11 December 1991
+  Total IPL Matches        : 1
+  Role                     : Bowler
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Lukman Meriwala was bought by Delhi Capitals for INR 20 Lac. The left-arm
+  pacer has been around the domestic cricket circuit for a while and has
+  played 17 First Class games, 36 List A matches and 44 T20s. Meriwala, with
+  15 wickets to his name, was the second-highest wicket-taker in the recent
+  edition of the Syed Mushtaq Ali Trophy and was instrumental in Baroda’s run
+  to the final of the tournament.
+
+================================================================================
+Source: https://www.iplt20.com/players/lukman-meriwala/7803
+================================================================================

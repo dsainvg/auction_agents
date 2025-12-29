@@ -1,0 +1,51 @@
+================================================================================
+IPL PLAYER PROFILE: MUKESH CHOUDHARY
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Mukesh Choudhary
+  IPL Debut                : 2022
+  Date of Birth            : 06 July 1996
+  Total IPL Matches        : 16
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Left-arm seamer Mukesh Choudhary had a breakout season in IPL 2022,
+  finishing as CSK’s leading wicket-taker with 16 scalps. His ability to swing
+  the new ball and strike early made him a vital cog in the bowling attack. He
+  was ruled out of IPL 2023 and was limited to just one game in IPL 2024.
+  However, CSK has shown faith in him yet again, securing his services for INR
+  30 Lakh at the 2025 TATA IPL Auction.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    16    |    1     |    6     |    4     |   6.00   |    6     |  100.00  |    0     |    0     |    1     |    0     |    3     |    0    
+    2025   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2022   |    13    |    1     |    6     |    4     |   6.00   |    6     |  100.00  |    0     |    0     |    1     |    0     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    16    |   315    |   522    |    17    |   4/46   |  30.71   |   9.94   |  18.53   |    1     |    0    
+    2025   |    2     |    36    |    71    |    1     |   1/21   |  71.00   |  11.83   |  36.00   |    0     |    0    
+    2024   |    1     |    6     |    27    |    0     |   0/27   |    -     |  27.00   |    -     |    0     |    0    
+    2022   |    13    |   273    |   424    |    16    |   4/46   |  26.50   |   9.32   |  17.06   |    1     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/mukesh-choudhary/20575
+================================================================================

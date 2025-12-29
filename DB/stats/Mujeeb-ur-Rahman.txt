@@ -1,0 +1,58 @@
+================================================================================
+IPL PLAYER PROFILE: MUJEEB-UR-RAHMAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Mujeeb-ur-Rahman
+  IPL Debut                : 2018
+  Date of Birth            : 28 March 2001
+  Total IPL Matches        : 20
+  Role                     : Bowler
+  Nationality              : Afghan
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Afghanistan’s Mujeeb-ur Rahman had taken IPL 2018 by storm on his way to
+  picking 14 wickets in 11 matches at under 7 runs an over. Mujeeb also became
+  a part of Afghanistan’s first-ever Test match against India in 2018,
+  following a superb season with the ball. He didn’t have a memorable 2019 and
+  2020 season as he picked up only three wickets from a total of seven games
+  in two years. After being part of Kings XI Punjab (now Punjab Kings) and
+  having toured around the globe in other T20 Leagues, Mujeeb would have
+  gained some much-needed experience and will be looking to make the most of
+  his outing in 2021 with Sunrisers Hyderabad.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    20    |    4     |    12    |   10*    |   4.00   |    15    |  80.00   |    0     |    0     |    2     |    0     |    2     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    1     |    1     |    1     |    1*    |   0.00   |    1     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
+    2020   |    2     |    0     |    1     |    1     |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    0     |    0    
+    2019   |    5     |    2     |    0     |    0*    |   0.00   |    4     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2018   |    11    |    1     |    10    |   10*    |  10.00   |    7     |  142.85  |    0     |    0     |    2     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    20    |   446    |   620    |    20    |   3/27   |  31.00   |   8.34   |  22.30   |    0     |    0    
+    2025   |    1     |    12    |    28    |    1     |   1/28   |  28.00   |  14.00   |  12.00   |    0     |    0    
+    2021   |    1     |    24    |    29    |    2     |   2/29   |  14.50   |   7.25   |  12.00   |    0     |    0    
+    2020   |    2     |    48    |    83    |    0     |   0/39   |    -     |  10.37   |    -     |    0     |    0    
+    2019   |    5     |   114    |   191    |    3     |   2/31   |  63.66   |  10.05   |  38.00   |    0     |    0    
+    2018   |    11    |   248    |   289    |    14    |   3/27   |  20.64   |   6.99   |  17.71   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/mujeeb-ur-rahman/4572
+================================================================================

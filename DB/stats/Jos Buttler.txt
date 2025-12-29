@@ -1,0 +1,71 @@
+================================================================================
+IPL PLAYER PROFILE: JOS BUTTLER
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Jos Buttler
+  IPL Debut                : 2016
+  Date of Birth            : 08 September 1990
+  Total IPL Matches        : 121
+  Role                     : Wicketkeeper Batter
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The swashbuckling wicketkeeper-batsman will be out to make an impact as
+  RR hope to utilise his international experience to guide them and end their
+  long run for a second title. The right-hander had scored 328 runs in the IPL
+  2020. While he had to leave IPL 2019 midway to join the England team for the
+  World Cup 2019 preparations, he made an impact during his eight-game stint,
+  scoring 311 runs, following his 548-run season in IPL 2018. Buttler has
+  since then added a World Cup glory to his feather but didn’t quite have the
+  best of seasons with RR as he scored 254 runs in 7 matches, including a
+  sterling century in 2021. Being a senior member of the squad and someone who
+  was retained before the auction, Buttler will have a crucial role to play in
+  the leadership group first and then set the stage on fire with his
+  attractive stroke play.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   121    |    16    |   4120   |   124    |  40.00   |   2758   |  149.38  |    7     |    24    |   407    |   185    |    63    |    3    
+    2025   |    14    |    4     |   538    |   97*    |  59.78   |   330    |  163.03  |    0     |    5     |    52    |    24    |    8     |    2    
+    2024   |    11    |    2     |   359    |   107*   |  39.89   |   255    |  140.78  |    2     |    0     |    36    |    12    |    3     |    0    
+    2023   |    14    |    0     |   392    |    95    |  28.00   |   282    |  139.01  |    0     |    4     |    42    |    14    |    9     |    0    
+    2022   |    17    |    2     |   863    |   116    |  57.53   |   579    |  149.05  |    4     |    4     |    83    |    45    |    9     |    0    
+    2021   |    7     |    0     |   254    |   124    |  36.28   |   166    |  153.01  |    1     |    0     |    27    |    13    |    3     |    0    
+    2020   |    13    |    2     |   328    |   70*    |  32.80   |   227    |  144.49  |    0     |    2     |    27    |    16    |    6     |    0    
+    2019   |    8     |    0     |   311    |    89    |  38.87   |   205    |  151.70  |    0     |    3     |    38    |    14    |    8     |    0    
+    2018   |    13    |    3     |   548    |   95*    |  54.80   |   353    |  155.24  |    0     |    5     |    52    |    21    |    9     |    1    
+    2017   |    10    |    0     |   272    |    77    |  27.20   |   177    |  153.67  |    0     |    1     |    27    |    15    |    1     |    0    
+    2016   |    14    |    3     |   255    |    41    |  23.18   |   184    |  138.58  |    0     |    0     |    23    |    11    |    7     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   121    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/jos-buttler/509
+================================================================================

@@ -1,0 +1,53 @@
+================================================================================
+IPL PLAYER PROFILE: SHERFANE RUTHERFORD
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Sherfane Rutherford
+  IPL Debut                : 2019
+  Date of Birth            : 15 August 1998
+  Total IPL Matches        : 23
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    West Indies all-rounder Sherfane Rutherford is a left-handed middle-order
+  batter and right-arm medium-fast bowler. Known for his quick-fire cameos and
+  aggressive batting, Rutherford has been a key figure in various domestic
+  competitions and has featured in 40 international white-ball matches,
+  including T20Is, where he strikes at over 140. Having previously represented
+  DC, MI, SRH, KKR, and RCB, Rutherford was acquired by Gujarat Titans for INR
+  2.6 Crore at the 2025 TATA IPL Auction. His explosive batting and
+  versatility will further strengthen the Titans' middle order.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    23    |    4     |   397    |    46    |  24.81   |   289    |  137.37  |    0     |    0     |    25    |    26    |    6     |    0    
+    2025   |    13    |    2     |   291    |    46    |  32.33   |   185    |  157.30  |    0     |    0     |    22    |    18    |    1     |    0    
+    2022   |    3     |    0     |    33    |    28    |  16.50   |    50    |  66.00   |    0     |    0     |    1     |    1     |    0     |    0    
+    2019   |    7     |    2     |    73    |   28*    |  14.60   |    54    |  135.18  |    0     |    0     |    2     |    7     |    5     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    23    |    41    |    59    |    1     |   1/6    |  59.00   |   8.63   |  41.00   |    0     |    0    
+    2025   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    7     |    41    |    59    |    1     |   1/6    |  59.00   |   8.63   |  41.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/sherfane-rutherford/5396
+================================================================================

@@ -1,0 +1,54 @@
+================================================================================
+IPL PLAYER PROFILE: KANE RICHARDSON
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Kane Richardson
+  IPL Debut                : 2013
+  Date of Birth            : 12 February 1991
+  Total IPL Matches        : 15
+  Role                     : Bowler
+  Nationality              : Australian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Kane Richardson is one of several young talented pacers to emerge from
+  Australia in recent times. This South Australia native made his first-class
+  debut during the 2010-11 season and has represented the Adelaide Strikers in
+  the Big Bash League. Signed by the Pune Warriors India for IPL 2013, he had
+  the opportunity to sharpen his skills with the legendary Allan Donald. He
+  was then inducted in the Rajasthan Royals side in the 2014 auction, followed
+  by RCB in IPL 2016. The fourteenth edition of the league will be his second
+  stint with the RCB.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    14    |    1     |    36    |    26    |  12.00   |    39    |  92.31   |    0     |    0     |    2     |    1     |    5     |    0    
+    2016   |    4     |    1     |    1     |    1*    |   0.00   |    1     |  100.00  |    0     |    0     |    0     |    0     |    2     |    0    
+    2014   |    7     |    0     |    1     |    1     |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    3     |    0    
+    2013   |    3     |    0     |    34    |    26    |  17.00   |    36    |  94.44   |    0     |    0     |    2     |    1     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    15    |   335    |   472    |    19    |   3/13   |  24.84   |   8.45   |  17.63   |    0     |    0    
+    2021   |    1     |    18    |    29    |    1     |   1/29   |  29.00   |   9.66   |  18.00   |    0     |    0    
+    2016   |    4     |    84    |   136    |    7     |   3/13   |  19.42   |   9.71   |  12.00   |    0     |    0    
+    2014   |    7     |   162    |   206    |    9     |   2/18   |  22.88   |   7.62   |  18.00   |    0     |    0    
+    2013   |    3     |    71    |   101    |    2     |   1/28   |  50.50   |   8.53   |  35.50   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/kane-richardson/798
+================================================================================

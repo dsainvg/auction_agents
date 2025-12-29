@@ -1,0 +1,53 @@
+================================================================================
+IPL PLAYER PROFILE: ANUJ RAWAT
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Anuj Rawat
+  IPL Debut                : 2021
+  Date of Birth            : 17 October 1999
+  Total IPL Matches        : 24
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Hailing from Uttarakhand, Anuj Rawat is a left-handed wicketkeeper-batter
+  who moved to Delhi at the age of 11 to pursue cricket. Known for his
+  powerful on-side hitting, Rawat has previously played for Rajasthan Royals
+  and Royal Challengers Bengaluru in the IPL. Gujarat Titans added depth to
+  their squad by securing his services for INR 30 Lakh at the 2025 TATA IPL
+  Auction.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    24    |    5     |   318    |    66    |  19.88   |   267    |  119.10  |    0     |    1     |    26    |    14    |    17    |    0    
+    2024   |    5     |    1     |    98    |    48    |  24.50   |    77    |  127.27  |    0     |    0     |    10    |    3     |    5     |    0    
+    2023   |    9     |    4     |    91    |   29*    |  30.33   |    71    |  128.17  |    0     |    0     |    6     |    4     |    3     |    0    
+    2022   |    8     |    0     |   129    |    66    |  16.13   |   118    |  109.32  |    0     |    1     |    10    |    7     |    6     |    0    
+    2021   |    2     |    0     |    0     |    0*    |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    24    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/anuj-rawat/10788
+================================================================================

@@ -1,0 +1,52 @@
+================================================================================
+IPL PLAYER PROFILE: SHELDON JACKSON
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Sheldon Jackson
+  Date of Birth            : 27 September 1986
+  Total IPL Matches        : 9
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Sheldon Jackson is one of the well-known names in Indian domestic
+  cricket, having been one of Saurashtra’s mainstays for years. In 2020,
+  Jackson was a part of the Saurashtra team that finally won the Ranji Trophy.
+  He then moved, on a high, and is now playing for Puducherry. A technically
+  correct batsman and a wicketkeeper, Jackson’s quality is evident considering
+  his First-Class average, which is touching 50. He has been a part of the
+  Royal Challengers Bangalore and the Kolkata Knight Riders, who had him on
+  their roster for a few seasons. Jackson’s only IPL appearances came in 2017
+  for Kolkata Knight Riders. He returns to the franchise with more experience
+  ahead of the 2021 season. Jackson has also represented India A in the past.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    9     |    2     |    61    |    16    |  10.17   |    57    |  107.02  |    0     |    0     |    5     |    1     |    7     |    2    
+    2022   |    5     |    1     |    23    |    8     |   5.75   |    26    |  88.46   |    0     |    0     |    0     |    1     |    5     |    2    
+    2017   |    4     |    1     |    38    |    16    |  19.00   |    31    |  122.58  |    0     |    0     |    5     |    0     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/sheldon-jackson/1116
+================================================================================

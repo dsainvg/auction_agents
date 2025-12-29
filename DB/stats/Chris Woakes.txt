@@ -1,0 +1,49 @@
+================================================================================
+IPL PLAYER PROFILE: CHRIS WOAKES
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Chris Woakes
+  IPL Debut                : 2017
+  Date of Birth            : 02 March 1989
+  Total IPL Matches        : 21
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Chris Woakes did not feature in IPL 2020 but Delhi Capitals retained the
+  England cricketer for the IPL 2021. This will be Woakes’ third IPL season,
+  who has so far played 18 games in the tournament across two seasons and has
+  25 wickets to his name. The right-arm pacer, who is also a handy batsman,
+  will look forward to enjoy a fine season with the Delhi franchise.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    21    |    6     |    78    |    18    |  13.00   |    77    |  101.30  |    0     |    0     |    7     |    2     |    7     |    0    
+    2021   |    3     |    1     |    15    |   15*    |   0.00   |    11    |  136.36  |    0     |    0     |    2     |    0     |    0     |    0    
+    2018   |    5     |    2     |    17    |    11    |   8.50   |    19    |  89.47   |    0     |    0     |    1     |    1     |    1     |    0    
+    2017   |    13    |    3     |    46    |    18    |  11.50   |    47    |  97.87   |    0     |    0     |    4     |    1     |    6     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    21    |   440    |   658    |    30    |   3/36   |  21.93   |   8.97   |  14.67   |    0     |    0    
+    2021   |    3     |    66    |    82    |    5     |   2/18   |  16.40   |   7.45   |  13.20   |    0     |    0    
+    2018   |    5     |   110    |   190    |    8     |   3/36   |  23.75   |  10.36   |  13.75   |    0     |    0    
+    2017   |    13    |   264    |   386    |    17    |   3/6    |  22.70   |   8.77   |  15.52   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/chris-woakes/967
+================================================================================

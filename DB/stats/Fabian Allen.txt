@@ -1,0 +1,45 @@
+================================================================================
+IPL PLAYER PROFILE: FABIAN ALLEN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Fabian Allen
+  Date of Birth            : 07 May 1995
+  Total IPL Matches        : 5
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A gun fielder, a handy batsman and an effective bowler, Allen remains a
+  valuable addition the PBKS unit. The West Indian cricketers has so far
+  played 28 T20Is and will be looking to add to his tally of 2 IPL games
+  during the remainder of the VIVO IPL 2021
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    2     |    14    |    8     |   7.00   |    19    |  73.68   |    0     |    0     |    1     |    0     |    2     |    0    
+    2022   |    1     |    0     |    8     |    8     |   8.00   |    7     |  114.29  |    0     |    0     |    1     |    0     |    0     |    0    
+    2021   |    4     |    2     |    6     |    6     |   6.00   |    12    |  50.00   |    0     |    0     |    0     |    0     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    90    |   136    |    2     |   1/22   |  68.00   |   9.07   |  45.00   |    0     |    0    
+    2022   |    1     |    24    |    46    |    1     |   1/46   |  46.00   |  11.50   |  24.00   |    0     |    0    
+    2021   |    4     |    66    |    90    |    1     |   1/22   |  90.00   |   8.18   |  66.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/fabian-allen/1707
+================================================================================

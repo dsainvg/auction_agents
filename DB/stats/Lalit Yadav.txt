@@ -1,0 +1,49 @@
+================================================================================
+IPL PLAYER PROFILE: LALIT YADAV
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Lalit Yadav
+  IPL Debut                : 2021
+  Date of Birth            : 03 January 1997
+  Total IPL Matches        : 27
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Delhi Capitals bought all-rounder Lalit Yadav for INR 20 Lakh during the
+  IPL Player Auction and have retained him for the IPL 2021. The 24-year-old,
+  who has thus far played 12 First Class matches, put in some impressive
+  all-round performances for Delhi in the latest edition of the Syed Mushtaq
+  Ali Trophy and Vijay Hazare Trophy and his IPL side will be wanting him to
+  showcase his skills in the IPL 2021.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    27    |    5     |   305    |   48*    |  19.06   |   290    |  105.17  |    0     |    0     |    27    |    7     |    16    |    0    
+    2024   |    2     |    0     |    10    |    7     |   5.00   |    12    |  83.33   |    0     |    0     |    1     |    0     |    0     |    0    
+    2023   |    6     |    1     |    66    |    38    |  13.20   |    59    |  111.86  |    0     |    0     |    8     |    0     |    5     |    0    
+    2022   |    12    |    1     |   161    |   48*    |  23.00   |   146    |  110.27  |    0     |    0     |    11    |    7     |    6     |    0    
+    2021   |    7     |    3     |    68    |   22*    |  34.00   |    73    |  93.15   |    0     |    0     |    7     |    0     |    5     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    7     |    84    |   101    |    4     |   2/13   |  25.25   |   7.21   |  21.00   |    0     |    0    
+    2021   |    7     |    84    |   101    |    4     |   2/13   |  25.25   |   7.21   |  21.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/lalit-yadav/6870
+================================================================================

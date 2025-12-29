@@ -70,18 +70,18 @@ class Player:
     set: str
     status: bool = False
     sold_price: float = 0.0
-    sold_team: Union[Literal['TeamA', 'TeamB', 'TeamC'], None] = None
+    sold_team: Union[Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH'], None] = None
     # Reason why the player was purchased (populated by AI reasoner at purchase time)
     reason_for_purchase: Union[str, None] = None
     # Store all team bid decisions/messages during auction rounds for this player
-    # Format: {"TeamA": [{"round": 1, "reason": "...", "decision": "raise/pass"}], ...}
+    # Format: {"CSK": [{"round": 1, "reason": "...", "decision": "raise/pass"}], ...}
     team_bid_history: Dict[str, List[Dict[str, Union[int, str, float]]]] = field(default_factory=dict)
     
 
 @dataclass
 class BidInfo:
     player: Player
-    team: Literal['TeamA', 'TeamB', 'TeamC']
+    team: Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']
         
 @dataclass
 class CurrentBidInfo(BidInfo):
@@ -97,7 +97,7 @@ class CompetitiveBidInfo(BidInfo):
     
 @dataclass
 class Team:
-    Name: Literal['TeamA', 'TeamB', 'TeamC']
+    Name: Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']
     Captain: Player
     WicketKeeper: Player
     StrikingOpener: Player
@@ -126,13 +126,27 @@ class AgentState(TypedDict):
     CurrentBid: Union[CurrentBidInfo, None] = None
     OtherTeamBidding: Optional[CompetitiveBidInfo] = None
     Round :int = 0
-    TeamA: Union[List[Player],Team] = []
-    TeamB: Union[List[Player],Team] = []
-    TeamC: Union[List[Player],Team] = []
+    CSK: Union[List[Player],Team] = []
+    DC: Union[List[Player],Team] = []
+    GT: Union[List[Player],Team] = []
+    KKR: Union[List[Player],Team] = []
+    LSG: Union[List[Player],Team] = []
+    MI: Union[List[Player],Team] = []
+    PBKS: Union[List[Player],Team] = []
+    RR: Union[List[Player],Team] = []
+    RCB: Union[List[Player],Team] = []
+    SRH: Union[List[Player],Team] = []
     UnsoldPlayers: List[Player] = []
-    TeamA_Budget: float
-    TeamB_Budget: float
-    TeamC_Budget: float
+    CSK_Budget: float
+    DC_Budget: float
+    GT_Budget: float
+    KKR_Budget: float
+    LSG_Budget: float
+    MI_Budget: float
+    PBKS_Budget: float
+    RR_Budget: float
+    RCB_Budget: float
+    SRH_Budget: float
     Messages: Annotated[Sequence[Union[HumanMessage, AIMessage, ToolMessage, BaseMessage]], add_messages] 
 class BidderInput(BaseModel):
     is_raise: bool = Field(default=False, description="Whether this bid is a raise or just a call. If not applicable, leave false.")
@@ -322,7 +336,7 @@ def load_prompts(prompt_dir="PROMPTS"):
             human_content = f.read()
 
         # Apply to all teams
-        for team in ['TeamA', 'TeamB', 'TeamC']:
+        for team in ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']:
             prompts[f"{team}_sys"] = sys_content
             prompts[f"{team}_human"] = human_content
 

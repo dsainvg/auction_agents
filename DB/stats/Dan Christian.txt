@@ -1,0 +1,60 @@
+================================================================================
+IPL PLAYER PROFILE: DAN CHRISTIAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Dan Christian
+  IPL Debut                : 2011
+  Date of Birth            : 04 May 1983
+  Total IPL Matches        : 49
+  Nationality              : Australian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    After representing RCB in 2013, Dan Christian is back to the RCB fold in
+  the 2021 edition of the league. The Australian brings with him a rich
+  experience of playing over 200 T20 games. Christian has represented the
+  Delhi Capitals, Deccan Chargers besides being part of the Rising Pune Super
+  Giants and Sunrisers Hyderabad sides. The all-rounder has been part of
+  various T20 sides besides representing his country in the limited-overs
+  format. He was part of the 2018 Big Bash finalists Hobart Hurricanes and
+  contributed with the bat and the ball. He has played in four seasons of the
+  IPL since his debut and will be looking to make an impression in the
+  upcoming edition.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    49    |    10    |   460    |    39    |  14.84   |   398    |  115.58  |    0     |    0     |    23    |    19    |    28    |    0    
+    2021   |    9     |    1     |    14    |    9     |   2.33   |    24    |  58.33   |    0     |    0     |    1     |    0     |    9     |    0    
+    2018   |    4     |    1     |    26    |    13    |  13.00   |    33    |  78.78   |    0     |    0     |    0     |    1     |    0     |    0    
+    2017   |    13    |    4     |    79    |   17*    |  15.80   |    49    |  161.22  |    0     |    0     |    5     |    5     |    6     |    0    
+    2013   |    2     |    0     |    6     |    4     |   3.00   |    15    |  40.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2012   |    7     |    2     |   145    |    39    |  29.00   |   118    |  122.88  |    0     |    0     |    8     |    6     |    6     |    0    
+    2011   |    14    |    2     |   190    |    30    |  17.27   |   159    |  119.49  |    0     |    0     |    9     |    7     |    7     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    49    |   883    |   1192   |    38    |   2/10   |  31.37   |   8.10   |  23.24   |    0     |    0    
+    2021   |    9     |   100    |   155    |    4     |   2/14   |  38.75   |   9.30   |  25.00   |    0     |    0    
+    2018   |    4     |    71    |   101    |    4     |   2/35   |  25.25   |   8.53   |  17.75   |    0     |    0    
+    2017   |    13    |   240    |   298    |    11    |   2/10   |  27.09   |   7.45   |  21.81   |    0     |    0    
+    2013   |    2     |    36    |    55    |    0     |   0/13   |    -     |   9.16   |    -     |    0     |    0    
+    2012   |    7     |   162    |   233    |    8     |   2/26   |  29.12   |   8.62   |  20.25   |    0     |    0    
+    2011   |    14    |   274    |   350    |    11    |   2/13   |  31.81   |   7.66   |  24.90   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/dan-christian/181
+================================================================================

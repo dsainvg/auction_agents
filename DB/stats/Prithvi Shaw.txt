@@ -1,0 +1,61 @@
+================================================================================
+IPL PLAYER PROFILE: PRITHVI SHAW
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Prithvi Shaw
+  IPL Debut                : 2018
+  Date of Birth            : 09 November 1999
+  Total IPL Matches        : 79
+  Role                     : Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A batsman from the Bombay school of cricket, Prithvi Shaw has shown the
+  ability to perform in crucial games. Captain of India’s Under-19 World Cup
+  winning team, Prithvi was retained by Delhi Capitals ahead of the IPL 2020
+  and IPL 2021. The opener made in the domestic circuit and scored centuries
+  on debut in Ranji Trophy and Duleep Trophy, and then added a third feather
+  to his cap by becoming the youngest Indian Test centurion on debut in 2018.
+  However, Shaw’s form dipped after scoring 2 fifties in the IPL 2020 and then
+  in the subsequent Australia tour. But, the aggressive right-hander bounced
+  back in style and hammered 827 runs in 8 matches to power Mumbai to the
+  Vijay Hazare Trophy triumph and will be keen to continue his brilliant run
+  of form when he takes the field for his IPL franchise.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    79    |    0     |   1892   |    99    |  23.95   |   1283   |  147.47  |    0     |    14    |   238    |    61    |    18    |    0    
+    2024   |    8     |    0     |   198    |    66    |  24.75   |   121    |  163.64  |    0     |    1     |    30    |    5     |    2     |    0    
+    2023   |    8     |    0     |   106    |    54    |  13.25   |    85    |  124.71  |    0     |    1     |    16    |    1     |    1     |    0    
+    2022   |    10    |    0     |   283    |    61    |  28.30   |   185    |  152.97  |    0     |    2     |    37    |    10    |    4     |    0    
+    2021   |    15    |    0     |   479    |    82    |  31.93   |   301    |  159.13  |    0     |    4     |    56    |    18    |    1     |    0    
+    2020   |    13    |    0     |   228    |    66    |  17.53   |   167    |  136.52  |    0     |    2     |    27    |    8     |    4     |    0    
+    2019   |    16    |    0     |   353    |    99    |  22.06   |   264    |  133.71  |    0     |    2     |    45    |    9     |    2     |    0    
+    2018   |    9     |    0     |   245    |    65    |  27.22   |   160    |  153.12  |    0     |    2     |    27    |    10    |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    53    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/prithvi-shaw/3764
+================================================================================

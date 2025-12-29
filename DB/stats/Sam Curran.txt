@@ -1,0 +1,65 @@
+================================================================================
+IPL PLAYER PROFILE: SAM CURRAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Sam Curran
+  IPL Debut                : 2019
+  Date of Birth            : 03 June 1998
+  Total IPL Matches        : 64
+  Role                     : WK-Batter
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Punjab Kings created history at the 2023 auctions, breaking the bank for
+  England’s versatile all-rounder Sam Curran. The 24-year-old emerged as the
+  costliest buy after PBKS bought him for a gobsmacking amount of Rs. 18.5
+  crore. Curran broke the record which was previously held by South Africa
+  all-rounder Chris Morris – the Royals had spent Rs. 16.5 crore at the IPL
+  2021 auction. The Northampton-born wily cricketer, who made his IPL debut
+  three years ago, immediately stood out, picking 13 wickets and 95 runs, with
+  a highest score of an unbeaten 55. He also played a vital role for England
+  in their T20 World Cup campaign, with 13 scalps and was adjudged the Player
+  of the Tournament. In 2020, after being promoted to the top, Curran proved
+  his credentials with the bat, scoring 186 runs with a half-century for
+  Chennai Super Kings. IPL 2021 was a difficult year for Curran as he bagged
+  just nine wickets and didn't impress either with 56 runs. He opted out of
+  the IPL 2022 mega auction to focus on rehab.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    64    |    13    |   997    |    88    |  24.93   |   731    |  136.39  |    0     |    6     |    85    |    41    |    25    |    0    
+    2025   |    5     |    0     |   114    |    88    |  22.80   |    84    |  135.71  |    0     |    1     |    11    |    4     |    3     |    0    
+    2024   |    13    |    2     |   270    |    63    |  27.00   |   219    |  123.29  |    0     |    2     |    24    |    6     |    7     |    0    
+    2023   |    14    |    3     |   276    |    55    |  27.60   |   203    |  135.96  |    0     |    1     |    20    |    13    |    5     |    0    
+    2021   |    9     |    1     |    56    |    34    |  18.66   |    29    |  193.10  |    0     |    0     |    5     |    3     |    1     |    0    
+    2020   |    14    |    3     |   186    |    52    |  23.25   |   141    |  131.91  |    0     |    1     |    12    |    12    |    7     |    0    
+    2019   |    9     |    4     |    95    |   55*    |  23.75   |    55    |  172.72  |    0     |    1     |    13    |    3     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    64    |   1253   |   2033   |    59    |   4/11   |  34.46   |   9.74   |  21.24   |    1     |    0    
+    2025   |    5     |    72    |   133    |    1     |   1/34   |  133.00  |  11.08   |  72.00   |    0     |    0    
+    2024   |    13    |   246    |   416    |    16    |   3/28   |  26.00   |  10.15   |  15.38   |    0     |    0    
+    2023   |    14    |   287    |   489    |    10    |   3/31   |  48.90   |  10.22   |  28.70   |    0     |    0    
+    2021   |    9     |   198    |   328    |    9     |   3/34   |  36.44   |   9.93   |  22.00   |    0     |    0    
+    2020   |    14    |   252    |   344    |    13    |   3/19   |  26.46   |   8.19   |  19.38   |    0     |    0    
+    2019   |    9     |   198    |   323    |    10    |   4/11   |  32.30   |   9.78   |  19.80   |    1     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/sam-curran/2939
+================================================================================

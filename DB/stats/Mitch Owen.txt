@@ -1,0 +1,46 @@
+================================================================================
+IPL PLAYER PROFILE: MITCH OWEN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Mitch Owen
+  IPL Debut                : 2025
+  Date of Birth            : 16 September 2001
+  Total IPL Matches        : 1
+  Role                     : WK-Batter
+  Nationality              : Australian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Mitchell Owen is an Australian all-rounder known for his power-hitting
+  abilities top of the order. Owen strikes over 180 in T20 cricket with two
+  centuries to his name. He can clear the ropes with ease and he comes in as a
+  replacement player for Glenn Maxwell in the Punjab Kings squad for TATA IPL
+  2025. Mitchell Owen will join PBKS for INR 3 Crore.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    0     |    0     |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2025   |    1     |    0     |    0     |    0     |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/mitch-owen/22380
+================================================================================

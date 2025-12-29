@@ -1,0 +1,16 @@
+================================================================================
+IPL PLAYER PROFILE: UPENDRA SINGH YADAV
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Upendra Singh Yadav
+  IPL Debut                : 2023
+  Date of Birth            : 08 October 1996
+  Total IPL Matches        : 0
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+================================================================================
+Source: https://www.iplt20.com/players/upendra-singh-yadav/5621
+================================================================================

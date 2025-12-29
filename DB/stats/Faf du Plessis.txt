@@ -1,0 +1,78 @@
+================================================================================
+IPL PLAYER PROFILE: FAF DU PLESSIS
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Faf du Plessis
+  IPL Debut                : 2012
+  Date of Birth            : 13 July 1984
+  Total IPL Matches        : 154
+  Role                     : Batter
+  Nationality              : South African
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Faf Du Plessis will also once again don the yellow of Chennai Super Kings
+  colours after they used the Right to Match card for him. KXIP bought him for
+  Rs 1.6 Cr but CSK trumped them by using their RTM card and it is a bargain.
+  While the classy and composed batsman did not get many outings in the RPS
+  squad where he was picked up in the IPL player draft, du Plessis has had
+  consistent performances for CSK wherein he went on to have a very successful
+  debut season scoring 398 runs. He impressed with a half-century on his ODI
+  debut, against India and soon enough, found himself in South Africa’s squad
+  for the 2011 World Cup. With a century on Test debut against Australia, du
+  Plessis has shed the tag of a limited-overs specialist. Although batting
+  remains his area of prowess, du Plessis can come up with a few handy
+  leg-spinners when required. To boot that, he is a livewire in the field,
+  hence, making him a perfect T20 package for any captain.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   154    |    11    |   4773   |    96    |  35.10   |   3515   |  135.79  |    0     |    39    |   439    |   174    |    85    |    0    
+    2025   |    9     |    0     |   202    |    62    |  22.44   |   163    |  123.93  |    0     |    2     |    18    |    8     |    4     |    0    
+    2024   |    15    |    0     |   438    |    64    |  29.20   |   271    |  161.62  |    0     |    4     |    47    |    21    |    8     |    0    
+    2023   |    14    |    1     |   730    |    84    |  56.15   |   475    |  153.68  |    0     |    8     |    60    |    36    |    3     |    0    
+    2022   |    16    |    1     |   468    |    96    |  31.20   |   367    |  127.52  |    0     |    3     |    49    |    13    |    4     |    0    
+    2021   |    16    |    2     |   633    |   95*    |  45.21   |   458    |  138.20  |    0     |    6     |    60    |    23    |    12    |    0    
+    2020   |    13    |    2     |   449    |   87*    |  40.81   |   319    |  140.75  |    0     |    4     |    42    |    14    |    12    |    0    
+    2019   |    12    |    1     |   396    |    96    |  36.00   |   321    |  123.36  |    0     |    3     |    36    |    15    |    12    |    0    
+    2018   |    6     |    1     |   162    |   67*    |  32.40   |   129    |  125.58  |    0     |    1     |    17    |    6     |    1     |    0    
+    2017   |    2     |    0     |    8     |    8     |   8.00   |    7     |  114.28  |    0     |    0     |    1     |    0     |    0     |    0    
+    2016   |    6     |    0     |   206    |    69    |  34.33   |   162    |  127.16  |    0     |    2     |    17    |    9     |    4     |    0    
+    2015   |    17    |    2     |   380    |    55    |  29.23   |   304    |  125.00  |    0     |    1     |    37    |    5     |    8     |    0    
+    2014   |    15    |    1     |   303    |   54*    |  27.54   |   235    |  128.93  |    0     |    2     |    26    |    7     |    13    |    0    
+    2012   |    13    |    0     |   398    |    73    |  33.16   |   304    |  130.92  |    0     |    3     |    29    |    17    |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   154    |    6     |    16    |    0     |   0/16   |    -     |  16.00   |    -     |    0     |    0    
+    2025   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    2     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
+    2016   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2012   |    13    |    6     |    16    |    0     |   0/16   |    -     |  16.00   |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/faf-du-plessis/24
+================================================================================

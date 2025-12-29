@@ -1,0 +1,45 @@
+================================================================================
+IPL PLAYER PROFILE: TABRAIZ SHAMSI
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Tabraiz Shamsi
+  Date of Birth            : 18 February 1990
+  Total IPL Matches        : 5
+  Role                     : Bowler
+  Nationality              : South African
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The numero uno T20I bowler in ICC Rankings, Shamsi – who replaced Andrew
+  Tye in the RR squad – will be a significant addition to the Sanju Samson-led
+  side. Shamsi, a left-arm wrist-spinner, has previously played for Royal
+  Challengers Bangalore and will be looking forward to making a mark with RR.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    1     |    2     |    2*    |    -     |    4     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    1     |    1     |    2     |    2*    |   0.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |   120    |   181    |    3     |   1/21   |  60.33   |   9.05   |  40.00   |    0     |    0    
+    2021   |    1     |    24    |    34    |    0     |   0/34   |    -     |   8.50   |    -     |    0     |    0    
+    2016   |    4     |    96    |   147    |    3     |   1/21   |  49.00   |   9.18   |  32.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/tabraiz-shamsi/3309
+================================================================================

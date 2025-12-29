@@ -1,0 +1,48 @@
+================================================================================
+IPL PLAYER PROFILE: JACOB BETHELL
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Jacob Bethell
+  IPL Debut                : 2025
+  Date of Birth            : 23 October 2003
+  Total IPL Matches        : 2
+  Role                     : WK-Batter
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A left-handed batting all-rounder who is quite handy with his slow
+  left-arm bowling and electric fielding, Jacob Bethell is capable of winning
+  matches on his own. Bethell was impressive during England's 2022 U-19 World
+  Cup campaign and boosted by more consistent performances in domestic
+  cricket, he made his international debut for England in 2024 at the age of
+  20. Having represented England across formats and being a key part of their
+  limited-overs set-up, Bethell is set for his TATA IPL debut with RCB.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    2     |    0     |    67    |    55    |  33.50   |    39    |  171.79  |    0     |    1     |    9     |    3     |    1     |    0    
+    2025   |    2     |    0     |    67    |    55    |  33.50   |    39    |  171.79  |    0     |    1     |    9     |    3     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/jacob-bethell/22074
+================================================================================

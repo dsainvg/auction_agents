@@ -1,0 +1,51 @@
+================================================================================
+IPL PLAYER PROFILE: HARSHIT RANA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Harshit Rana
+  IPL Debut                : 2022
+  Date of Birth            : 22 December 2001
+  Total IPL Matches        : 34
+  Role                     : All-Rounder
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Hailing from Delhi, Harshit Rana came into the IPL scene as a replacement
+  for injured Rasikh Salam during the 2022 season and has slowly established
+  himself as one of the mainstays of KKR's pace bowling department. The pacer
+  on the back of an impressive IPL 2024 season was retained by Knight Riders.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    34    |    4     |    59    |    34    |   9.83   |    56    |  105.36  |    0     |    0     |    5     |    3     |    12    |    0    
+    2025   |    13    |    3     |    57    |    34    |  14.25   |    53    |  107.55  |    0     |    0     |    5     |    3     |    6     |    0    
+    2024   |    13    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    4     |    0    
+    2023   |    6     |    0     |    0     |    0     |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2022   |    2     |    1     |    2     |    2     |   2.00   |    2     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    34    |   649    |   1029   |    40    |   3/24   |  25.73   |   9.51   |  16.23   |    0     |    0    
+    2025   |    13    |   264    |   448    |    15    |   3/25   |  29.87   |  10.18   |  17.60   |    0     |    0    
+    2024   |    13    |   253    |   383    |    19    |   3/24   |  20.16   |   9.08   |  13.32   |    0     |    0    
+    2023   |    6     |   102    |   147    |    5     |   2/33   |  29.40   |   8.65   |  20.40   |    0     |    0    
+    2022   |    2     |    30    |    51    |    1     |   1/24   |  51.00   |  10.20   |  30.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/harshit-rana/20626
+================================================================================

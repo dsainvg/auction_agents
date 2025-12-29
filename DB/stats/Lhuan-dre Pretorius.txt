@@ -1,0 +1,50 @@
+================================================================================
+IPL PLAYER PROFILE: LHUAN-DRE PRETORIUS
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Lhuan-dre Pretorius
+  IPL Debut                : 2025
+  Date of Birth            : 28 March 2006
+  Total IPL Matches        : 1
+  Role                     : WK-Batter
+  Nationality              : South African
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Lhuan-dre Pretorius, an attacking left-handed wicketkeeper-batter from
+  South Africa, is gaining attention for his clean ball-striking and fearless
+  mindset at the top of the order. Known for his ability to take on bowlers
+  from the word go, Pretorius has made a mark in the domestic T20 circuit,
+  boasting a strike rate close to 150. Despite being early in his career, his
+  confident approach and consistency have caught the eye of franchises around
+  the world. His inclusion in TATA IPL 2025 comes as a replacement for Nitish
+  Rana, and Rajasthan Royals (RR) will be hopeful that Pretorius’ aggressive
+  style can provide quick starts and depth to their batting line-up.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/lhuan-dre-pretorius/22383
+================================================================================

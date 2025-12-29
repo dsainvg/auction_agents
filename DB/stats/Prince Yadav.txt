@@ -1,0 +1,48 @@
+================================================================================
+IPL PLAYER PROFILE: PRINCE YADAV
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Prince Yadav
+  IPL Debut                : 2025
+  Date of Birth            : 12 December 2001
+  Total IPL Matches        : 6
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Prince Yadav first attracted eyeballs with his performance at a local
+  tournament in Delhi, where he showed the ability to bowl good yorkers in the
+  slog overs. He followed up that performance by picking 11 wickets in the
+  Vijay Hazare Trophy, finishing as Delhi’s highest wicket-taker. LSG picked
+  the pacer at the IPL 2025 auction for INR 30 Lakh. It will be a great
+  opportunity for him to play alongside some of the best in the world and make
+  an impact.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    6     |    2     |    5     |    4*    |    -     |    10    |  50.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2025   |    6     |    2     |    5     |    4*    |    -     |    10    |  50.00   |    0     |    0     |    0     |    0     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    6     |   137    |   225    |    3     |   1/29   |  75.00   |   9.85   |  45.67   |    0     |    0    
+    2025   |    6     |   137    |   225    |    3     |   1/29   |  75.00   |   9.85   |  45.67   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/prince-yadav/22097
+================================================================================

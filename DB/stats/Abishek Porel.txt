@@ -1,0 +1,54 @@
+================================================================================
+IPL PLAYER PROFILE: ABISHEK POREL
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Abishek Porel
+  IPL Debut                : 2023
+  Date of Birth            : 17 October 2002
+  Total IPL Matches        : 31
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Abishek Porel stepped up as Rishabh Pant’s replacement in IPL 2023 and
+  has since played 18 matches across two seasons, scoring 360 runs at a strike
+  rate of over 150. Recognizing his potential, Delhi Capitals retained him as
+  an uncapped player ahead of the TATA IPL 2025 Auction. The young
+  wicketkeeper-batter will continue to be a crucial part of their squad.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best strike rate: 150.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    31    |    3     |   661    |    65    |  25.42   |   441    |  149.89  |    0     |    3     |    65    |    27    |    9     |    0    
+    2025   |    13    |    1     |   301    |    51    |  25.08   |   205    |  146.83  |    0     |    1     |    28    |    12    |    3     |    0    
+    2024   |    14    |    2     |   327    |    65    |  32.70   |   205    |  159.51  |    0     |    2     |    36    |    13    |    2     |    0    
+    2023   |    4     |    0     |    33    |    20    |   8.25   |    31    |  106.45  |    0     |    0     |    1     |    2     |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    31    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/abishek-porel/33333
+================================================================================

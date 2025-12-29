@@ -1,0 +1,57 @@
+================================================================================
+IPL PLAYER PROFILE: ABDUL SAMAD
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Abdul Samad
+  IPL Debut                : 2020
+  Date of Birth            : 28 October 2001
+  Total IPL Matches        : 63
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Known for his hard-hitting abilities, Abdul Samad made his IPL debut in
+  2020 after being picked by SRH, which made him only the fourth cricketer
+  from Jammu and Kashmir after Parvez Rasool, Manzoor Dar & Rasikh Salam to
+  earn an IPL contract. Over the years he became a regular feature in the team
+  scoring some crucial runs in the middle-order. Ahead of IPL 2025, the J&K
+  batter was picked by Lucknow for INR 4.2 Crore.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    63    |    14    |   741    |    45    |  19.50   |   488    |  151.84  |    0     |    0     |    45    |    50    |    31    |    0    
+    2025   |    13    |    4     |   164    |    45    |  20.50   |    93    |  176.34  |    0     |    0     |    8     |    14    |    4     |    0    
+    2024   |    16    |    2     |   182    |   37*    |  18.20   |   108    |  168.52  |    0     |    0     |    15    |    11    |    9     |    0    
+    2023   |    9     |    4     |   169    |   37*    |  42.25   |   128    |  132.03  |    0     |    0     |    10    |    11    |    4     |    0    
+    2022   |    2     |    0     |    4     |    4     |   2.00   |    7     |  57.14   |    0     |    0     |    0     |    0     |    1     |    0    
+    2021   |    11    |    1     |   111    |    28    |  12.33   |    87    |  127.58  |    0     |    0     |    4     |    8     |    8     |    0    
+    2020   |    12    |    3     |   111    |    33    |  22.20   |    65    |  170.76  |    0     |    0     |    8     |    6     |    5     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    63    |    56    |   119    |    2     |   1/41   |  59.50   |  12.75   |  28.00   |    0     |    0    
+    2025   |    13    |    2     |    6     |    0     |   0/6    |    -     |  18.00   |    -     |    0     |    0    
+    2024   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    2     |    6     |    8     |    0     |   0/8    |    -     |   8.00   |    -     |    0     |    0    
+    2021   |    11    |    6     |    9     |    1     |   1/9    |   9.00   |   9.00   |   6.00   |    0     |    0    
+    2020   |    12    |    42    |    96    |    1     |   1/41   |  96.00   |  13.71   |  42.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/abdul-samad/19352
+================================================================================

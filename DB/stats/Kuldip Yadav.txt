@@ -1,0 +1,44 @@
+================================================================================
+IPL PLAYER PROFILE: KULDIP YADAV
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Kuldip Yadav
+  IPL Debut                : 2021
+  Date of Birth            : 15 October 1996
+  Total IPL Matches        : 3
+  Role                     : Bowler
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    RR bought Kuldip Yadav for INR 20 Lac ahead of the IPL 2021 during the
+  player auction. This will be his maiden IPL season and he will be looking to
+  cash in on any opportunity that he gets.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    1     |    0     |    0*    |    -     |    4     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    1     |    1     |    0     |    0*    |   0.00   |    4     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    12    |    16    |    0     |   0/16   |    -     |   8.00   |    -     |    0     |    0    
+    2021   |    1     |    12    |    16    |    0     |   0/16   |    -     |   8.00   |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/kuldip-yadav/12480
+================================================================================
