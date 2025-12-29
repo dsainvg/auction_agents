@@ -284,9 +284,58 @@ def render_ui():
     
     # Teams side by side in middle
     st.subheader("👥 Teams Overview")
+    # First row: 5 teams
     team_col1, team_col2, team_col3, team_col4, team_col5 = st.columns(5)
-    
     for idx, (col, team) in enumerate(zip([team_col1, team_col2, team_col3, team_col4, team_col5], ['CSK', 'DC', 'GT', 'KKR', 'LSG'])):
+        with col:
+            team_data = st.session_state.teams[team]
+            budget = st.session_state.budgets[team]
+            spent = 100.0 - budget
+            
+            team_colors = {'CSK': '🟡', 'DC': '🔵', 'GT': '🔷', 'KKR': '🟣', 'LSG': '🔹', 'MI': '🔵', 'PBKS': '🟠', 'RR': '🔴', 'RCB': '❤️', 'SRH': '🟠'}
+            team_circle = team_colors.get(team, '⚪')
+            
+            # Extract players - handle both list and Team class
+            players = []
+            if isinstance(team_data, Team):
+                for attr in ['Captain', 'WicketKeeper', 'StrikingOpener', 'NonStrikingOpener',
+                           'OneDownBatsman', 'TwoDownBatsman', 'ThreeDownBatsman', 'FourDownBatsman',
+                           'FiveDownBatsman', 'SixDownBatsman', 'SevenDownBatsman', 'EightDownBatsman', 'NineDownBatsman']:
+                    p = getattr(team_data, attr, None)
+                    if p and isinstance(p, Player):
+                        players.append(p)
+                for attr in ['PowerplayBowlers', 'MiddleOversBowlers', 'DeathOversBowlers', 'PlayersNotInPlayingXI']:
+                    plist = getattr(team_data, attr, [])
+                    if plist:
+                        players.extend(plist)
+                players = list({p.name: p for p in players}.values())
+            elif isinstance(team_data, list):
+                players = team_data
+            else:
+                players = []
+            
+            st.markdown(f"### {team_circle} {team}")
+            st.metric("Players", len(players))
+            st.metric("Budget Left", f"₹{budget:.2f} Cr")
+            st.metric("Spent", f"₹{spent:.2f} Cr")
+            
+            if players:
+                with st.expander("View Squad", expanded=False):
+                    for player in players:
+                        price = getattr(player, 'sold_price', 0)
+                        role = getattr(player, 'role', 'N/A')
+                        reason = getattr(player, 'reason_for_purchase', None)
+                        
+                        if reason:
+                            # Display player with expandable reason
+                            with st.expander(f"• {player.name} ({role}) - ₹{price:.2f}Cr", expanded=False):
+                                st.caption(f"**Purchase Reason:** {reason}")
+                        else:
+                            st.write(f"• {player.name} ({role}) - ₹{price:.2f}Cr")
+    
+    # Second row: remaining 5 teams
+    team_col6, team_col7, team_col8, team_col9, team_col10 = st.columns(5)
+    for idx, (col, team) in enumerate(zip([team_col6, team_col7, team_col8, team_col9, team_col10], ['MI', 'PBKS', 'RR', 'RCB', 'SRH'])):
         with col:
             team_data = st.session_state.teams[team]
             budget = st.session_state.budgets[team]
@@ -517,6 +566,7 @@ def main():
             st.session_state.save_preallocation = st.checkbox(
                 "Save pre-allocation state (before team manager)",
                 value=st.session_state.save_preallocation,
+                key="save_preallocation_checkbox",
                 help="Auto-save auction state before team allocation process"
             )
     
@@ -573,24 +623,6 @@ def main():
             import time
             time.sleep(0.1)
             st.rerun()
-    st.divider()
-    
-    # Render UI
-    render_ui()
-    
-    # Process next auction state if running
-    if st.session_state.auction_running and st.session_state.stream_iterator:
-        if process_next_state():
-            import time
-            time.sleep(0.1)
-            st.rerun()
-    
-    # Add section for remaining 5 teams (below the fold)
-    st.divider()
-    st.subheader("👥 Teams Overview (Continued)")
-    team_col6, team_col7, team_col8, team_col9, team_col10 = st.columns(5)
-    
-    for idx, (col, team) in enumerate(zip([team_col6, team_col7, team_col8, team_col9, team_col10], ['MI', 'PBKS', 'RR', 'RCB', 'SRH'])):
 
 if __name__ == "__main__":
     main()
