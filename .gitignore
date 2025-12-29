@@ -1,6 +1,7 @@
 .env
 .env.oldgem
 __pycache__/
+old/
 *.log
 auction.log
 misc/
