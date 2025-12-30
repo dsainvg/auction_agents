@@ -1,0 +1,55 @@
+================================================================================
+IPL PLAYER PROFILE: VENKATESH IYER
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Venkatesh Iyer
+  IPL Debut                : 2021
+  Date of Birth            : 25 December 1994
+  Total IPL Matches        : 62
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  A look at Venkatesh Iyerâ€™s domestic record would tell you why the Kolkata
+  Knight Riders were keen to pick him ahead of the 2021 season. The Madhya
+  Pradesh all-rounder has made quite a name with his hard-hitting batting and
+  useful bowling. A T20 batting strike-rate of 137.64 reflects his hitting
+  abilities, while an economy under seven shows he can keep it tight. Kolkata
+  picked him up at the 2021 IPL Auction and he responded by smashing 198 in a
+  Vijay Hazare Trophy match against Punjab in late February 2021.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    62    |    7     |   1468   |   104    |  29.96   |   1069   |  137.32  |    1     |    12    |   136    |    65    |    22    |    0    
+    2025   |    11    |    0     |   142    |    60    |  20.29   |   102    |  139.22  |    0     |    1     |    15    |    4     |    4     |    0    
+    2024   |    15    |    5     |   370    |    70    |  46.25   |   233    |  158.80  |    0     |    4     |    35    |    19    |    4     |    0    
+    2023   |    14    |    0     |   404    |   104    |  28.86   |   277    |  145.85  |    1     |    2     |    32    |    21    |    3     |    0    
+    2022   |    12    |    1     |   182    |   50*    |  16.55   |   169    |  107.69  |    0     |    1     |    17    |    7     |    4     |    0    
+    2021   |    10    |    1     |   370    |    67    |  41.11   |   288    |  128.47  |    0     |    4     |    37    |    14    |    7     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    62    |    81    |   143    |    3     |   2/29   |  47.67   |  10.59   |  27.00   |    0     |    0    
+    2025   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    15    |    6     |    28    |    0     |   0/28   |    -     |  28.00   |    -     |    0     |    0    
+    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    12    |    24    |    46    |    0     |   0/8    |    -     |  11.50   |    -     |    0     |    0    
+    2021   |    10    |    51    |    69    |    3     |   2/29   |  23.00   |   8.11   |  17.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/venkatesh-iyer/8540
+================================================================================

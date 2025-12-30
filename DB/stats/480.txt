@@ -1,0 +1,49 @@
+================================================================================
+IPL PLAYER PROFILE: KYLE JAMIESON
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Kyle Jamieson
+  IPL Debut                : 2021
+  Date of Birth            : 30 December 1994
+  Total IPL Matches        : 13
+  Role                     : Bowler
+  Nationality              : New Zealander
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  The all-rounder from New Zealand made his International debut against
+  India in February 2020 and with that attracted quite a few eyeballs with his
+  pace and bounce. He is the first New Zealand pacer to bag a five-wicket haul
+  in both the innings of a Test match. During the 2021 IPL Auction, the Kiwi
+  all-rounder was signed by the RCB for a whopping sum of INR 15 crores,
+  thereby making him RCB’s biggest buy at the auctions.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    13    |    5     |    65    |   16*    |  16.25   |    60    |  108.33  |    0     |    0     |    5     |    3     |    2     |    0    
+    2025   |    4     |    2     |    0     |    0*    |    -     |    5     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    9     |    3     |    65    |   16*    |  16.25   |    55    |  118.18  |    0     |    0     |    5     |    3     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    13    |   258    |   416    |    14    |   3/41   |  29.71   |   9.67   |  18.43   |    0     |    0    
+    2025   |    4     |    90    |   147    |    5     |   3/48   |  29.40   |   9.80   |  18.00   |    0     |    0    
+    2021   |    9     |   168    |   269    |    9     |   3/41   |  29.88   |   9.60   |  18.66   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/kyle-jamieson/1616
+================================================================================

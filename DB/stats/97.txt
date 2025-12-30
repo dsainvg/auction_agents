@@ -1,0 +1,69 @@
+================================================================================
+IPL PLAYER PROFILE: SHARDUL THAKUR
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Shardul Thakur
+  IPL Debut                : 2015
+  Date of Birth            : 16 October 1991
+  Total IPL Matches        : 105
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  A proper utility and impact player, Shardul Thakur is a right-arm pacer
+  who has the ability to hit big and deliver in crunch situations. A hit the
+  deck bowler, Shardul Thakur swings the ball away from the right-handers and
+  also has a great split finger slower ball in his arsenal. Shardul has
+  produced vital performances for Mumbai in the domestic circuit and has also
+  been a part of the IPL since 2015. He played a crucial role, with 16
+  wickets, in CSK’s title-winning run in 2018. The all-rounder has also put up
+  impressive performances for India across all three formats of the game.
+  Shardul Thakur will replace an injured Mohsin Khan in the Lucknow Super
+  Giants squad for TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   105    |    14    |   325    |    68    |  11.61   |   233    |  139.48  |    0     |    1     |    30    |    13    |    36    |    0    
+    2025   |    10    |    2     |    18    |    6     |   6.00   |    12    |  150.00  |    0     |    0     |    3     |    0     |    4     |    0    
+    2024   |    9     |    2     |    21    |    17    |  21.00   |    17    |  123.53  |    0     |    0     |    2     |    1     |    4     |    0    
+    2023   |    11    |    2     |   113    |    68    |  14.13   |    70    |  161.43  |    0     |    1     |    13    |    4     |    4     |    0    
+    2022   |    14    |    2     |   120    |   29*    |  15.00   |    87    |  137.93  |    0     |    0     |    7     |    7     |    7     |    0    
+    2021   |    16    |    2     |    5     |    3*    |   2.50   |    5     |  100.00  |    0     |    0     |    0     |    0     |    2     |    0    
+    2020   |    9     |    1     |    12    |    11    |  12.00   |    21    |  57.14   |    0     |    0     |    0     |    0     |    2     |    0    
+    2019   |    10    |    1     |    14    |   12*    |   7.00   |    7     |  200.00  |    0     |    0     |    1     |    1     |    5     |    0    
+    2018   |    13    |    1     |    15    |   15*    |   0.00   |    5     |  300.00  |    0     |    0     |    3     |    0     |    4     |    0    
+    2017   |    12    |    0     |    0     |    0*    |   0.00   |    3     |   0.00   |    0     |    0     |    0     |    0     |    4     |    0    
+    2015   |    1     |    1     |    7     |    7*    |   0.00   |    6     |  116.66  |    0     |    0     |    1     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   105    |   2070   |   3244   |   107    |   4/34   |  30.32   |   9.40   |  19.35   |    2     |    0    
+    2025   |    10    |   204    |   375    |    13    |   4/34   |  28.85   |  11.03   |  15.69   |    1     |    0    
+    2024   |    9     |   190    |   309    |    5     |   2/61   |  61.80   |   9.76   |  38.00   |    0     |    0    
+    2023   |    11    |   126    |   220    |    7     |   2/23   |  31.43   |  10.48   |  18.00   |    0     |    0    
+    2022   |    14    |   290    |   473    |    15    |   4/36   |  31.53   |   9.79   |  19.33   |    1     |    0    
+    2021   |    16    |   359    |   527    |    21    |   3/28   |  25.09   |   8.80   |  17.09   |    0     |    0    
+    2020   |    9     |   194    |   275    |    10    |   2/28   |  27.50   |   8.50   |  19.40   |    0     |    0    
+    2019   |    10    |   180    |   281    |    8     |   2/18   |  35.12   |   9.36   |  22.50   |    0     |    0    
+    2018   |    13    |   280    |   431    |    16    |   2/18   |  26.93   |   9.23   |  17.50   |    0     |    0    
+    2017   |    12    |   229    |   315    |    11    |   3/19   |  28.63   |   8.25   |  20.81   |    0     |    0    
+    2015   |    1     |    18    |    38    |    1     |   1/38   |  38.00   |  12.66   |  18.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/shardul-thakur/1745
+================================================================================

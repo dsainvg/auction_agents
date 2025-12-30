@@ -1,0 +1,54 @@
+================================================================================
+IPL PLAYER PROFILE: KARTIK TYAGI
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Kartik Tyagi
+  IPL Debut                : 2020
+  Date of Birth            : 08 November 2000
+  Total IPL Matches        : 20
+  Role                     : Bowler
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  A key member of India’s Under 19 World Cup 2020, Kartik Tyagi picked up
+  11 wickets during India’s run to the final. The right-arm pacer impressed
+  one and all with his ability to move the ball around with good pace during
+  the tournament. Rajasthan Royals bought Tyagi for INR 1.30 crores during the
+  IPL 2020 Player Auction and went on to pick 9 wickets in his first season of
+  the tournament. The right-arm pacer has since travelled to Australia as a
+  net bowler with the Indian team and will be looking to put into practice
+  whatever he has learnt from that stint in the IPL 2021.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    20    |    3     |    13    |    7     |   3.25   |    16    |  81.25   |    0     |    0     |    1     |    0     |    3     |    0    
+    2024   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2023   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2022   |    2     |    0     |    7     |    7     |   3.50   |    6     |  116.67  |    0     |    0     |    1     |    0     |    0     |    0    
+    2021   |    4     |    1     |    2     |    1*    |   2.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2020   |    10    |    2     |    4     |    2*    |   4.00   |    6     |  66.66   |    0     |    0     |    0     |    0     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    14    |   313    |   491    |    13    |   2/29   |  37.77   |   9.41   |  24.08   |    0     |    0    
+    2021   |    4     |    84    |   124    |    4     |   2/29   |  31.00   |   8.85   |  21.00   |    0     |    0    
+    2020   |    10    |   229    |   367    |    9     |   2/36   |  40.77   |   9.61   |  25.44   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/kartik-tyagi/10059
+================================================================================

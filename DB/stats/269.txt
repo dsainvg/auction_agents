@@ -1,0 +1,55 @@
+================================================================================
+IPL PLAYER PROFILE: PRIYANSH ARYA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Priyansh Arya
+  IPL Debut                : 2025
+  Date of Birth            : 18 September 2001
+  Total IPL Matches        : 17
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  A rising star from Delhi’s cricketing circuit, Arya made a name for
+  himself as a six-hitting machine while leading the Delhi U19 side. The
+  stylish left-handed batter impressed with a gritty 71 on his first-class
+  debut for Delhi in the 2024-25 Ranji Trophy against Tamil Nadu. He later
+  announced his arrival in T20 cricket with a blistering 102 off 46 balls
+  against Uttar Pradesh in the Syed Mushtaq Ali Trophy, showcasing his
+  explosive stroke play. His talent was first spotted in local leagues, where
+  he dominated with consistent big-hitting performances, racking up runs at a
+  staggering strike rate and smashing record-breaking sixes. This caught the
+  attention of IPL scouts, and ahead of the TATA IPL 2025, Punjab Kings
+  secured him for INR 1 crore. Now set to feature on the biggest stage, Arya
+  will have the opportunity to learn from stalwarts like captain Shreyas Iyer,
+  coach Ricky Ponting, and Glenn Maxwell, an experience that will be
+  invaluable in shaping his future.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    17    |    0     |   475    |   103    |  27.94   |   265    |  179.25  |    1     |    2     |    55    |    25    |    8     |    0    
+    2025   |    17    |    0     |   475    |   103    |  27.94   |   265    |  179.25  |    1     |    2     |    55    |    25    |    8     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/priyansh-arya/22052
+================================================================================

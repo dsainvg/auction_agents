@@ -1,0 +1,65 @@
+================================================================================
+IPL PLAYER PROFILE: MITCHELL MARSH
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Mitchell Marsh
+  IPL Debut                : 2010
+  Date of Birth            : 20 October 1991
+  Total IPL Matches        : 55
+  Role                     : WK-Batter
+  Nationality              : Australian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  An all-rounder with the ability to hit the big ones while also coming in
+  handy with the ball, Mitchell Marsh, who is also Australia’s T20I captain,
+  has been a regular at the IPL, having played for Deccan Chargers, Pune
+  Warriors India, Rising Pune Supergiant, Sunrisers Hyderabad and Delhi
+  Capitals. Having represented Australia in over 200 matches across all three
+  formats, Marsh was instrumental in Australia’s title-winning run in the T20
+  World Cup 2021, with a POTM performance in the final. Lucknow Super Giants
+  picked him up for INR 3.4 Crore at the 2025 TATA IPL Auction.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    55    |    2     |   1293   |   117    |  27.51   |   904    |  143.03  |    1     |    9     |   104    |    75    |    11    |    0    
+    2025   |    13    |    0     |   627    |   117    |  48.23   |   383    |  163.71  |    1     |    6     |    56    |    37    |    1     |    0    
+    2024   |    4     |    0     |    61    |    23    |  15.25   |    38    |  160.53  |    0     |    0     |    9     |    3     |    0     |    0    
+    2023   |    9     |    0     |   128    |    63    |  14.22   |    97    |  131.96  |    0     |    1     |    11    |    7     |    3     |    0    
+    2022   |    8     |    0     |   251    |    89    |  31.38   |   189    |  132.80  |    0     |    2     |    19    |    14    |    0     |    0    
+    2020   |    1     |    0     |    0     |    0*    |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2016   |    3     |    0     |    7     |    7     |   7.00   |    11    |  63.63   |    0     |    0     |    0     |    0     |    0     |    0    
+    2013   |    9     |    1     |   141    |    38    |  20.14   |   106    |  132.07  |    0     |    0     |    6     |    10    |    7     |    0    
+    2011   |    5     |    1     |    50    |    37    |  25.00   |    49    |  102.04  |    0     |    0     |    2     |    3     |    0     |    0    
+    2010   |    3     |    0     |    28    |    15    |  14.00   |    30    |  93.33   |    0     |    0     |    1     |    1     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    55    |   560    |   795    |    37    |   4/25   |  21.49   |   8.52   |  15.14   |    2     |    0    
+    2025   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    4     |    48    |   103    |    1     |   1/37   |  103.00  |  12.88   |  48.00   |    0     |    0    
+    2023   |    9     |   121    |   170    |    12    |   4/27   |  14.17   |   8.43   |  10.08   |    1     |    0    
+    2022   |    8     |    72    |   102    |    4     |   2/25   |  25.50   |   8.50   |  18.00   |    0     |    0    
+    2020   |    1     |    4     |    6     |    0     |   0/6    |    -     |   9.00   |    -     |    0     |    0    
+    2016   |    3     |    54    |    45    |    4     |   2/14   |  11.25   |   5.00   |  13.50   |    0     |    0    
+    2013   |    9     |   116    |   182    |    7     |   2/7    |  26.00   |   9.41   |  16.57   |    0     |    0    
+    2011   |    5     |    85    |    99    |    7     |   4/25   |  14.14   |   6.98   |  12.14   |    1     |    0    
+    2010   |    3     |    60    |    88    |    2     |   1/19   |  44.00   |   8.80   |  30.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/mitchell-marsh/221
+================================================================================

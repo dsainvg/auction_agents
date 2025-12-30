@@ -1,0 +1,47 @@
+================================================================================
+IPL PLAYER PROFILE: MANAV SUTHAR
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Manav Suthar
+  IPL Debut                : 2024
+  Date of Birth            : 03 August 2002
+  Total IPL Matches        : 1
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A traditional slow left-arm orthodox spinner, Manav Suthar is known for
+  his variations and ability to deceive batters with flight and turn. The
+  Rajasthan-based spinner gained recognition after bagging 39 wickets in just
+  six matches in the Ranji Trophy 2022/23. He was part of Gujarat Titans in
+  IPL 2024, and the franchise showed continued faith in his abilities by
+  re-signing him for INR 30 Lakh at the TATA IPL 2025 Auction.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    1     |    1     |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    1     |    0     |    1     |    1     |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    12    |    26    |    0     |   0/26   |    -     |  13.00   |    -     |    0     |    0    
+    2024   |    1     |    12    |    26    |    0     |   0/26   |    -     |  13.00   |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/manav-suthar/20692
+================================================================================

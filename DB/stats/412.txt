@@ -1,0 +1,45 @@
+================================================================================
+IPL PLAYER PROFILE: RILEY MEREDITH
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Riley Meredith
+  Date of Birth            : 21 June 1996
+  Total IPL Matches        : 18
+  Role                     : Bowler
+  Nationality              : Australian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The right-arm pacer from Tasmania is capable of clocking 140 kph very
+  consistently and has proved his worth in the domestic circuit. He made his
+  T20 debut against New Zealand in 2021 and now has the opportunity to make
+  his debut in the IPL after the Punjab Kings won the bidding war, eventually
+  acquiring the Aussie pacer for INR 8 Cr.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    0     |    0     |    0     |   0.00   |    0     |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    5     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |   102    |   169    |    4     |   1/29   |  42.25   |   9.94   |  25.50   |    0     |    0    
+    2021   |    5     |   102    |   169    |    4     |   1/29   |  42.25   |   9.94   |  25.50   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/riley-meredith/4055
+================================================================================

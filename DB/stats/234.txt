@@ -1,0 +1,50 @@
+================================================================================
+IPL PLAYER PROFILE: EVIN LEWIS
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Evin Lewis
+  Date of Birth            : 27 December 1991
+  Total IPL Matches        : 27
+  Role                     : Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    An aggressive left-handed batsman, Evin Lewis, joins the RR unit as a
+  replacement for Jos Buttler. Lewis, who has played 45 T20Is for West Indies,
+  has scored 1318 runs at the strike-rate of 158.03 and has 2 hundreds and 9
+  fifties.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    27    |    2     |   654    |    65    |  27.25   |   477    |  137.11  |    0     |    4     |    62    |    36    |    9     |    0    
+    2022   |    6     |    2     |    73    |   55*    |  24.33   |    56    |  130.36  |    0     |    1     |    8     |    3     |    3     |    0    
+    2021   |    5     |    0     |   151    |    58    |  30.20   |    93    |  162.36  |    0     |    1     |    18    |    7     |    0     |    0    
+    2019   |    3     |    0     |    48    |    32    |  16.00   |    52    |  92.30   |    0     |    0     |    4     |    2     |    3     |    0    
+    2018   |    13    |    0     |   382    |    65    |  29.38   |   276    |  138.40  |    0     |    2     |    32    |    24    |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    27    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/evin-lewis/872
+================================================================================

@@ -1,0 +1,58 @@
+================================================================================
+IPL PLAYER PROFILE: JAGADEESHA SUCHITH
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Jagadeesha Suchith
+  IPL Debut                : 2015
+  Date of Birth            : 16 January 1994
+  Total IPL Matches        : 22
+  Role                     : Bowler
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A late entrant to the Delhi Capitals for the IPL 2019 season, Suchith was
+  drafted into the franchise after all-rounder Harshal Patel was ruled out of
+  the rest of the competition with an injury. Suchith is a clever left-arm
+  orthodox spinner and a useful lower-order batsman capable of striking big.
+  He has had a taste of the IPL before, when he played for Mumbai Indians in
+  2015 even before he made his first-class debut, taking 10 wickets! He played
+  just one game for DC and was transferred to Kings XI Punjab (Punjab Kings)
+  ahead of the 2020 season. Suchith will play for the Sunrisers Hyderabad in
+  the 2021 IPL season.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    22    |    6     |    70    |   34*    |  17.50   |    61    |  114.75  |    0     |    0     |    6     |    3     |    12    |    0    
+    2022   |    5     |    0     |    2     |    2     |   1.00   |    8     |  25.00   |    0     |    0     |    0     |    0     |    3     |    0    
+    2021   |    2     |    1     |    14    |   14*    |   0.00   |    6     |  233.33  |    0     |    0     |    2     |    1     |    1     |    0    
+    2019   |    1     |    0     |    6     |    6     |   6.00   |    15    |  40.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2016   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2015   |    13    |    5     |    48    |   34*    |  48.00   |    32    |  150.00  |    0     |    0     |    4     |    2     |    8     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    22    |   420    |   602    |    19    |   2/12   |  31.68   |   8.60   |  22.11   |    0     |    0    
+    2022   |    5     |   108    |   140    |    7     |   2/12   |  20.00   |   7.78   |  15.43   |    0     |    0    
+    2021   |    2     |    42    |    66    |    0     |   0/21   |    -     |   9.42   |    -     |    0     |    0    
+    2019   |    1     |    24    |    28    |    2     |   2/28   |  14.00   |   7.00   |  12.00   |    0     |    0    
+    2016   |    1     |    12    |    31    |    0     |   0/31   |    -     |  15.50   |    -     |    0     |    0    
+    2015   |    13    |   234    |   337    |    10    |   2/14   |  33.70   |   8.64   |  23.40   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/jagadeesha-suchith/2741
+================================================================================

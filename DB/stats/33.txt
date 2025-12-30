@@ -1,0 +1,62 @@
+================================================================================
+IPL PLAYER PROFILE: KHALEEL AHMED
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Khaleel Ahmed
+  IPL Debut                : 2018
+  Date of Birth            : 05 December 1997
+  Total IPL Matches        : 71
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Left-arm pacer Syed Khaleel Ahmed is known for his effectiveness with the
+  new ball. He brings aggression and energy to his team. He previously played
+  for Sunrisers Hyderabad and Delhi Capitals in the IPL. His breakthrough
+  season came in IPL 2019, where he scalped 19 wickets in just nine matches
+  for SRH. Khaleel also has international experience under his belt and was
+  picked up by CSK for INR 4.8 crore, making him one of their major signings
+  for TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    71    |    2     |    2     |    1*    |   0.50   |    9     |  22.22   |    0     |    0     |    0     |    0     |    5     |    0    
+    2025   |    14    |    2     |    1     |    1*    |    -     |    2     |  50.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2024   |    14    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2023   |    9     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2022   |    10    |    0     |    0     |    0     |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    7     |    0     |    1     |    1     |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2020   |    7     |    0     |    0     |    0*    |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2019   |    9     |    0     |    0     |    0*    |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2018   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    71    |   1556   |   2328   |    89    |   3/21   |  26.16   |   8.98   |  17.48   |    0     |    0    
+    2025   |    14    |   280    |   447    |    15    |   3/29   |  29.80   |   9.58   |  18.67   |    0     |    0    
+    2024   |    14    |   300    |   479    |    17    |   2/21   |  28.18   |   9.58   |  17.65   |    0     |    0    
+    2023   |    9     |   198    |   301    |    9     |   2/24   |  33.44   |   9.12   |  22.00   |    0     |    0    
+    2022   |    10    |   235    |   315    |    16    |   3/25   |  19.69   |   8.04   |  14.69   |    0     |    0    
+    2021   |    7     |   162    |   219    |    5     |   3/21   |  43.80   |   8.11   |  32.40   |    0     |    0    
+    2020   |    7     |   154    |   242    |    8     |   2/24   |  30.25   |   9.42   |  19.25   |    0     |    0    
+    2019   |    9     |   209    |   287    |    19    |   3/30   |  15.10   |   8.23   |  11.00   |    0     |    0    
+    2018   |    1     |    18    |    38    |    0     |   0/38   |    -     |  12.66   |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/khaleel-ahmed/2964
+================================================================================

@@ -1,0 +1,60 @@
+================================================================================
+IPL PLAYER PROFILE: CHRIS JORDAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Chris Jordan
+  IPL Debut                : 2016
+  Date of Birth            : 04 October 1988
+  Total IPL Matches        : 34
+  Role                     : Bowler
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Chris Jordan burst on the county circuit as an 18-year-old in 2007 when
+  he picked up 20 wickets in five county championship games for Surrey. His
+  career has been often plagued by injuries but his exploits in the shortest
+  format of the game are well known. Known to be a quality death bowler and
+  for some hard-hitting shots lower down the order, Jordan was drafted for the
+  first time into the IPL in 2016 by the Royal Challengers Bangalore. He was
+  acquired by the Sunrisers Hyderabad for Rs. 50 Lakh in the 2017 edition. The
+  Punjab Kings picked him in the 2020 auction for INR 3 cr and picked 9
+  wickets in the season. His sensational fielding efforts in the outfield also
+  adds a lot of value to the team as the Punjab Kings retained the right arm
+  pacer for the 14th edition.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    24    |    2     |    64    |    30    |   9.14   |    57    |  112.28  |    0     |    0     |    3     |    3     |    9     |    0    
+    2021   |    4     |    0     |    32    |    30    |  16.00   |    21    |  152.38  |    0     |    0     |    1     |    3     |    0     |    0    
+    2020   |    9     |    2     |    29    |    13    |   9.66   |    31    |  93.54   |    0     |    0     |    2     |    0     |    5     |    0    
+    2018   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2017   |    1     |    0     |    0     |    0*    |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2016   |    9     |    0     |    3     |    3     |   3.00   |    4     |  75.00   |    0     |    0     |    0     |    0     |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    24    |   459    |   698    |    25    |   4/11   |  27.92   |   9.12   |  18.36   |    1     |    0    
+    2021   |    4     |    72    |    96    |    4     |   2/20   |  24.00   |   8.00   |  18.00   |    0     |    0    
+    2020   |    9     |   189    |   304    |    9     |   3/17   |  33.77   |   9.65   |  21.00   |    0     |    0    
+    2018   |    1     |    24    |    31    |    0     |   0/31   |    -     |   7.75   |    -     |    0     |    0    
+    2017   |    1     |    6     |    9     |    1     |   1/9    |   9.00   |   9.00   |   6.00   |    0     |    0    
+    2016   |    9     |   168    |   258    |    11    |   4/11   |  23.45   |   9.21   |  15.27   |    1     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/chris-jordan/1299
+================================================================================

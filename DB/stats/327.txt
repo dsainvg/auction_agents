@@ -1,0 +1,66 @@
+================================================================================
+IPL PLAYER PROFILE: MANAN VOHRA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Manan Vohra
+  IPL Debut                : 2013
+  Date of Birth            : 18 July 1993
+  Total IPL Matches        : 56
+  Role                     : Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A stylish top-order batsman from Punjab, Manan Vohra has been piling on
+  the runs from the time he began playing age-group cricket. A member of the
+  Under-19 World Cup-winning team led by Umnukt Chand, Manan was first snapped
+  up by Kings XI Punjab in 2013 and made an unbeaten 43 on debut. In IPL 2017,
+  he struck his career-best 95 playing against SRH. At the IPL Player Auction
+  2018, Manan was bought by Royal Challengers Bangalore for INR 1.1 crore, but
+  was released by the franchise thereafter. The Rajasthan Royals secured his
+  services for IPL 2019 at a salary of INR 20 lakh and was retained for IPL
+  2020. Manan enjoyed a solid run of form in the Ranji Trophy 2019-20, scoring
+  591 runs for Chandigarh and also scored 154 runs (from 4 games) in Syed
+  Mushtaq Ali Trophy 2020-21 and 276 runs (from 5 matches) in the Vijay Hazare
+  Trophy 2020-21. The right-hander will be keen to score big for Rajasthan
+  Royals in IPL 2021.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    53    |    2     |   1054   |    95    |  22.43   |   807    |  130.61  |    0     |    3     |   102    |    41    |    13    |    0    
+    2021   |    4     |    0     |    42    |    14    |  10.50   |    39    |  107.69  |    0     |    0     |    5     |    2     |    0     |    0    
+    2018   |    4     |    0     |    55    |    45    |  13.75   |    47    |  117.02  |    0     |    0     |    2     |    4     |    0     |    0    
+    2017   |    11    |    0     |   229    |    95    |  25.44   |   159    |  144.02  |    0     |    1     |    23    |    9     |    2     |    0    
+    2016   |    7     |    0     |   161    |    51    |  23.00   |   131    |  122.90  |    0     |    1     |    19    |    3     |    3     |    0    
+    2015   |    7     |    0     |    82    |    39    |  11.71   |    81    |  101.23  |    0     |    0     |    4     |    5     |    2     |    0    
+    2014   |    8     |    0     |   324    |    67    |  40.50   |   233    |  139.05  |    0     |    1     |    27    |    16    |    3     |    0    
+    2013   |    12    |    2     |   161    |   43*    |  20.12   |   117    |  137.60  |    0     |    0     |    22    |    2     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    53    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2013   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/manan-vohra/1085
+================================================================================

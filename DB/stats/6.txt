@@ -1,0 +1,54 @@
+================================================================================
+IPL PLAYER PROFILE: MITCHELL STARC
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Mitchell Starc
+  IPL Debut                : 2014
+  Date of Birth            : 30 January 1990
+  Total IPL Matches        : 52
+  Role                     : WK-Batter
+  Nationality              : Australian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  A two-time ODI World Cup winner and a T20 World Cup champion, Mitchell
+  Starc is one of the most fearsome left-arm pacers in the game. He was sold
+  for a record price of INR 24.75 Crore in IPL 2024 and turned out to be
+  instrumental in KKRâ€™s final victory, delivering a Player of the Match
+  performance against SRH. Recognizing his ability to dominate in
+  high-pressure games, Delhi Capitals spent INR 11.75 crore to bring him in
+  for TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    52    |    12    |   111    |    29    |  10.09   |   119    |  93.28   |    0     |    0     |    11    |    0     |    29    |    0    
+    2025   |    11    |    4     |    6     |    2     |   3.00   |    10    |  60.00   |    0     |    0     |    0     |    0     |    7     |    0    
+    2024   |    14    |    3     |    9     |    6*    |   4.50   |    11    |  81.82   |    0     |    0     |    1     |    0     |    6     |    0    
+    2015   |    13    |    2     |    11    |    9*    |  11.00   |    14    |  78.57   |    0     |    0     |    1     |    0     |    7     |    0    
+    2014   |    14    |    3     |    85    |    29    |  14.16   |    84    |  101.19  |    0     |    0     |    9     |    0     |    9     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    52    |   1047   |   1503   |    65    |   5/35   |  23.12   |   8.61   |  16.11   |    2     |    1    
+    2025   |    11    |   216    |   366    |    14    |   5/35   |  26.14   |  10.17   |  15.43   |    0     |    1    
+    2024   |    14    |   251    |   444    |    17    |   4/33   |  26.12   |  10.61   |  14.76   |    1     |    0    
+    2015   |    13    |   258    |   291    |    20    |   4/15   |  14.55   |   6.76   |  12.90   |    1     |    0    
+    2014   |    14    |   322    |   402    |    14    |   2/21   |  28.71   |   7.49   |  23.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/mitchell-starc/490
+================================================================================

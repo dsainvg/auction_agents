@@ -1,0 +1,72 @@
+================================================================================
+IPL PLAYER PROFILE: KARUN NAIR
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Karun Nair
+  IPL Debut                : 2013
+  Date of Birth            : 06 December 1991
+  Total IPL Matches        : 84
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    One of only two Indians to have scored a Test triple-century, Karun Nair
+  has been a dominant force in domestic cricket. The Karnataka-born batter,
+  now representing Vidarbha, had a stellar 2024/25 season, amassing 779 runs
+  in the Vijay Hazare Trophy at an average of 389.50, and 863 runs in the
+  Ranji Trophy, leading Vidarbha to the title. He even smashed 255 runs at a
+  strike rate of over 170 in the Syed Mushtaq Ali Trophy 2024/25. His recent
+  resurgence saw him rejoin Delhi Capitals for INR 50 Lakh at the 2025 TATA
+  IPL Auction.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best average: 389.50
+  2. Career best strike rate: 170
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    84    |    5     |   1694   |    89    |  23.86   |   1286   |  131.73  |    0     |    11    |   185    |    49    |    25    |    0    
+    2025   |    8     |    0     |   198    |    89    |  24.75   |   115    |  172.17  |    0     |    1     |    24    |    10    |    2     |    0    
+    2022   |    3     |    0     |    16    |    13    |   8.00   |    18    |  88.89   |    0     |    0     |    1     |    0     |    1     |    0    
+    2020   |    4     |    1     |    16    |   15*    |   8.00   |    14    |  114.28  |    0     |    0     |    2     |    0     |    1     |    0    
+    2019   |    1     |    0     |    5     |    5     |   5.00   |    6     |  83.33   |    0     |    0     |    0     |    0     |    0     |    0    
+    2018   |    13    |    0     |   301    |    54    |  25.08   |   221    |  136.19  |    0     |    2     |    23    |    13    |    9     |    0    
+    2017   |    14    |    0     |   281    |    64    |  21.61   |   226    |  124.33  |    0     |    1     |    39    |    6     |    2     |    0    
+    2016   |    14    |    2     |   357    |   83*    |  35.70   |   297    |  120.20  |    0     |    3     |    40    |    6     |    3     |    0    
+    2015   |    14    |    1     |   181    |    61    |  16.45   |   145    |  124.82  |    0     |    1     |    18    |    5     |    3     |    0    
+    2014   |    11    |    1     |   330    |   73*    |  33.00   |   232    |  142.24  |    0     |    3     |    38    |    9     |    4     |    0    
+    2013   |    2     |    0     |    9     |    9     |   4.50   |    12    |  75.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    84    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    1     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
+    2018   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2013   |    2     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/karun-nair/276
+================================================================================

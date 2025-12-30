@@ -1,0 +1,45 @@
+================================================================================
+IPL PLAYER PROFILE: VIPRAJ NIGAM
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Vipraj Nigam
+  IPL Debut                : 2025
+  Date of Birth            : 28 July 2004
+  Total IPL Matches        : 14
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A talented leg-spinner from Uttar Pradesh, Vipraj Nigam has proven to be
+  a reliable bowler in domestic cricket, especially in middle-over
+  containment. His performances caught the attention of Delhi Capitals, who
+  signed him for INR 50 Lakh at the 2025 TATA IPL auction.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    14    |    1     |   142    |    39    |  20.29   |    79    |  179.75  |    0     |    0     |    15    |    8     |    3     |    0    
+    2025   |    14    |    1     |   142    |    39    |  20.29   |    79    |  179.75  |    0     |    0     |    15    |    8     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    14    |   234    |   356    |    11    |   2/18   |  32.36   |   9.13   |  21.27   |    0     |    0    
+    2025   |    14    |   234    |   356    |    11    |   2/18   |  32.36   |   9.13   |  21.27   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/vipraj-nigam/22053
+================================================================================

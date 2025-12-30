@@ -1,0 +1,59 @@
+================================================================================
+IPL PLAYER PROFILE: DEVDUTT PADIKKAL
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Devdutt Padikkal
+  IPL Debut                : 2020
+  Date of Birth            : 07 July 2000
+  Total IPL Matches        : 74
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The cricket world took notice of Devdutt Padikkal's talent when he won
+  the TATA IPL Emerging Player award in 2020 with a tally of 473 runs for RCB.
+  He backed it up with another 400-run plus season, including a superb knock
+  of 101* off just 52 deliveries against Rajasthan Royals. A solid left-handed
+  batter who excels at the top of the order, Padikkal is known for the range
+  of shots in his arsenal. He has represented India in Test cricket. After
+  plying his trade with RR and LSG over the last couple of seasons, he is back
+  with RCB for TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    74    |    3     |   1806   |   101*   |  25.44   |   1430   |  126.29  |    1     |    11    |   190    |    56    |    29    |    0    
+    2025   |    10    |    1     |   247    |    61    |  27.44   |   164    |  150.61  |    0     |    2     |    21    |    14    |    1     |    0    
+    2024   |    7     |    0     |    38    |    13    |   5.43   |    53    |  71.70   |    0     |    0     |    3     |    0     |    4     |    0    
+    2023   |    11    |    1     |   261    |    52    |  26.10   |   200    |  130.50  |    0     |    2     |    31    |    6     |    4     |    0    
+    2022   |    17    |    0     |   376    |    54    |  22.12   |   306    |  122.88  |    0     |    1     |    40    |    14    |    5     |    0    
+    2021   |    14    |    1     |   411    |   101*   |  31.61   |   328    |  125.30  |    1     |    1     |    44    |    14    |    7     |    0    
+    2020   |    15    |    0     |   473    |    74    |  31.53   |   379    |  124.80  |    0     |    5     |    51    |    8     |    8     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    74    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/devdutt-padikkal/5430
+================================================================================

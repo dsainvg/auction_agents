@@ -1,0 +1,52 @@
+================================================================================
+IPL PLAYER PROFILE: MUKESH KUMAR
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Mukesh Kumar
+  IPL Debut                : 2023
+  Date of Birth            : 12 October 1993
+  Total IPL Matches        : 32
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  Bihar-born Mukesh Kumar moved to Bengal in 2014 and made his first-class
+  debut a year later with a four-for. Known for his swing and skiddy bowling,
+  Mukesh made his all-format debut for India within two weeks during the
+  Carribean Tour in 2023. He’s been a part of Delhi Capitals since IPL 2023
+  and produced an impactful 2024 season with 17 wickets in 10 games. DC
+  acquired his services back for INR 8 Crore using RTM at the 2025 TATA IPL
+  Auction.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    32    |    4     |    10    |    6*    |  10.00   |    18    |  55.56   |    0     |    0     |    0     |    0     |    9     |    0    
+    2025   |    12    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    3     |    0    
+    2024   |    10    |    1     |    3     |    3     |   3.00   |    9     |  33.33   |    0     |    0     |    0     |    0     |    3     |    0    
+    2023   |    10    |    3     |    7     |    6*    |    -     |    9     |  77.78   |    0     |    0     |    0     |    0     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    32    |   636    |   1102   |    36    |   4/33   |  30.61   |  10.40   |  17.67   |    1     |    0    
+    2025   |    12    |   237    |   408    |    12    |   4/33   |  34.00   |  10.33   |  19.75   |    1     |    0    
+    2024   |    10    |   213    |   368    |    17    |   3/14   |  21.65   |  10.37   |  12.53   |    0     |    0    
+    2023   |    10    |   186    |   326    |    7     |   2/30   |  46.57   |  10.52   |  26.57   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/mukesh-kumar/5622
+================================================================================

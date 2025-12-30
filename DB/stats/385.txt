@@ -1,0 +1,52 @@
+================================================================================
+IPL PLAYER PROFILE: KAMLESH NAGARKOTI
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Kamlesh Nagarkoti
+  IPL Debut                : 2020
+  Date of Birth            : 28 December 1999
+  Total IPL Matches        : 12
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Karnataka seamer Kamlesh Nagarkoti was one of the bright sparks of the
+  2018 U19 World Cup who looked like a promising fast bowler ready to shine.
+  He was even drafted into the KKR squad for the 2018 IPL season.
+  Unfortunately, a back injury kept him out of action for more than one year
+  and he spent most of his time in rehab. KKR have not let go off him and they
+  definitely feel he can add a lot to the KKR pace battery. He played 10 games
+  in the 2020 IPL edition but picked up just 5 wickets. It will be interesting
+  to see how the pacer performs in 2021.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    12    |    3     |    22    |    8*    |   5.50   |    33    |  66.67   |    0     |    0     |    1     |    0     |    6     |    0    
+    2022   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2021   |    1     |    0     |    0     |    0*    |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2020   |    10    |    3     |    22    |    8*    |   7.33   |    31    |  70.96   |    0     |    0     |    1     |    0     |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    12    |   180    |   285    |    5     |   2/13   |  57.00   |   9.50   |  36.00   |    0     |    0    
+    2022   |    1     |    12    |    29    |    0     |   0/29   |    -     |  14.50   |    -     |    0     |    0    
+    2021   |    1     |    12    |    25    |    0     |   0/25   |    -     |  12.50   |    -     |    0     |    0    
+    2020   |    10    |   156    |   231    |    5     |   2/13   |  46.20   |   8.88   |  31.20   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/kamlesh-nagarkoti/3766
+================================================================================

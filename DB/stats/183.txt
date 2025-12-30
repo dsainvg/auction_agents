@@ -1,0 +1,58 @@
+================================================================================
+IPL PLAYER PROFILE: NUWAN THUSHARA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Nuwan Thushara
+  IPL Debut                : 2024
+  Date of Birth            : 06 August 1994
+  Total IPL Matches        : 8
+  Role                     : WK-Batter
+  Nationality              : Sri Lankan
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    With an unorthodox bowling action reminiscent of his legendary countryman
+  Lasith Malinga, Nuwan Thushara has that X-factor as a fast bowler. The Sri
+  Lankan right-arm pacer carries a lot of T20 cricket experience and has also
+  made a superb start to life in T20Is with 26 wickets from 18 games at an
+  excellent average of 16.73. With the ability to trouble batters courtesy of
+  a slingy action, Thushara was acquired by Mumbai Indians (MI) for INR 4.8
+  Crore ahead of TATA IPL 2024 and was among the wickets more often than not
+  in the games that he played. Now in the Royal Challengers Bengaluru (RCB)
+  set-up after being bought by them ahead of IPL 2025, Thushara is part of a
+  star-studded fast-bowling line-up alongside the likes of Bhuvneshwar Kumar,
+  Josh Hazlewood, and Lungisani Ngidi.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best average: 16.73.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    8     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    7     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    8     |   180    |   283    |    9     |   3/28   |  31.44   |   9.43   |  20.00   |    0     |    0    
+    2025   |    1     |    24    |    26    |    1     |   1/26   |  26.00   |   6.50   |  24.00   |    0     |    0    
+    2024   |    7     |   156    |   257    |    8     |   3/28   |  32.13   |   9.88   |  19.50   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/nuwan-thushara/20700
+================================================================================

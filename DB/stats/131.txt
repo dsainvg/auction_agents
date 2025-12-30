@@ -1,0 +1,58 @@
+================================================================================
+IPL PLAYER PROFILE: SWAPNIL SINGH
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Swapnil Singh
+  IPL Debut                : 2016
+  Date of Birth            : 22 January 1991
+  Total IPL Matches        : 14
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  Swapnil Singh was considered one of the young stars to watch out for
+  during his junior cricket days, almost even making it to India’s U-19 World
+  Cup side in 2008. The left-arm orthodox spinner from Uttar Pradesh has
+  represented both Baroda and Uttarakhand in domestic cricket and has gained
+  great experience over the years, which includes stints with multiple teams
+  in the TATA IPL. After a stellar Syed Mushtaq Ali T20 Trophy season in
+  2015-16, during which he also picked 6/19 in one of the games, he went on to
+  represent Punjab Kings in the 2016 season. After also playing for Lucknow
+  Super Giants along the way, Singh played a key role in Royal Challengers
+  Bengaluru’s superb comeback in 2024 en route to making the playoffs. RCB
+  brought him back on board for the 2025 season.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    14    |    4     |    51    |   15*    |  10.20   |    45    |  113.33  |    0     |    0     |    3     |    3     |    3     |    0    
+    2024   |    7     |    3     |    37    |   15*    |  18.50   |    21    |  176.19  |    0     |    0     |    3     |    3     |    2     |    0    
+    2023   |    2     |    1     |    2     |    2*    |    -     |    4     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2017   |    4     |    0     |    12    |    10    |   6.00   |    19    |  63.15   |    0     |    0     |    0     |    0     |    1     |    0    
+    2016   |    1     |    0     |    0     |    0     |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    14    |   144    |   212    |    7     |   2/28   |  30.29   |   8.83   |  20.57   |    0     |    0    
+    2024   |    7     |    90    |   133    |    6     |   2/28   |  22.17   |   8.87   |  15.00   |    0     |    0    
+    2023   |    2     |    12    |    18    |    0     |   0/7    |    -     |   9.00   |    -     |    0     |    0    
+    2017   |    4     |    42    |    61    |    1     |    0     |    -     |    -     |  42.00   |    0     |    0    
+    2016   |    1     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/swapnil-singh/3180
+================================================================================

@@ -1,0 +1,49 @@
+================================================================================
+IPL PLAYER PROFILE: TOM CURRAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Tom Curran
+  IPL Debut                : 2018
+  Date of Birth            : 12 March 1995
+  Total IPL Matches        : 13
+  Role                     : Bowler
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    After being released by Rajasthan Royals, Tom Curran made his way to
+  Delhi Capitals after being brought on the board for INR 5.25 Cr by the
+  franchise. The England all-rounder has so far played 10 IPL games and has
+  scalped 9 wickets and has one half-century to his name.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    13    |    5     |   127    |   54*    |  25.40   |   107    |  118.69  |    0     |    1     |    10    |    3     |    2     |    0    
+    2021   |    3     |    1     |    21    |    21    |  21.00   |    17    |  123.52  |    0     |    0     |    2     |    0     |    0     |    0    
+    2020   |    5     |    3     |    83    |   54*    |  83.00   |    62    |  133.87  |    0     |    1     |    5     |    3     |    1     |    0    
+    2018   |    5     |    1     |    23    |    18    |   7.66   |    28    |  82.14   |    0     |    0     |    3     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    13    |   238    |   430    |    13    |   3/29   |  33.08   |  10.84   |  18.31   |    0     |    0    
+    2021   |    3     |    68    |   104    |    4     |   3/29   |  26.00   |   9.17   |  17.00   |    0     |    0    
+    2020   |    5     |   109    |   208    |    3     |   1/37   |  69.33   |  11.44   |  36.33   |    0     |    0    
+    2018   |    5     |    61    |   118    |    6     |   2/19   |  19.66   |  11.60   |  10.16   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/tom-curran/3646
+================================================================================

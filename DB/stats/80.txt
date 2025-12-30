@@ -1,0 +1,54 @@
+================================================================================
+IPL PLAYER PROFILE: SUYASH SHARMA
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Suyash Sharma
+  IPL Debut                : 2023
+  Date of Birth            : 15 May 2003
+  Total IPL Matches        : 27
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  The young leggie was only 19 years old when he picked up three wickets on
+  his TATA IPL debut for Kolkata Knight Riders against Royal Challengers
+  Bengaluru in 2023. Alongside the more experienced and prolific spin-bowling
+  pair of Sunil Narine and Varun Chakaravarthy, Sharma held his own and ended
+  a breakthrough edition with 10 wickets. Sharma plays for Delhi in domestic
+  cricket and his past stint with KKR has shown that he has the ability to
+  shine on the big stage against the world’s best. Acquired by INR 2.6 Crore
+  ahead of TATA IPL 2025, RCB will hope that the leg-spinner further improves
+  on his past success and proves to be a game-changer.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    27    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2025   |    14    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2024   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2023   |    11    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    27    |   558    |   814    |    18    |   3/17   |  45.22   |   8.75   |  31.00   |    0     |    0    
+    2025   |    14    |   300    |   442    |    8     |   3/17   |  55.25   |   8.84   |  37.50   |    0     |    0    
+    2024   |    2     |    24    |    51    |    0     |   0/18   |    -     |  12.75   |    -     |    0     |    0    
+    2023   |    11    |   234    |   321    |    10    |   3/30   |  32.10   |   8.23   |  23.40   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/suyash-sharma/5668
+================================================================================

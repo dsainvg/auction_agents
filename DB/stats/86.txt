@@ -1,0 +1,52 @@
+================================================================================
+IPL PLAYER PROFILE: GLENN PHILLIPS
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Glenn Phillips
+  IPL Debut                : 2021
+  Date of Birth            : 06 December 1996
+  Total IPL Matches        : 8
+  Role                     : WK-Batter
+  Nationality              : New Zealander
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  A player who can bat explosively, bowl off-spin, keep wickets, and field
+  like a livewire, Glenn Phillips is a true multi-dimensional cricketer. The
+  South Africa-born New Zealand international has been a consistent performer
+  for the Black Caps, with a century in the T20 World Cup 2022 to his name. He
+  also had IPL stints with Rajasthan Royals and Sunrisers Hyderabad. His
+  recent Champions Trophy 2025 campaign, where he played a crucial role in New
+  Zealand’s runners-up finish, further established his credentials, especially
+  with his multiple one-handed stunners on the field. Gujarat Titans secured
+  his services for INR 2 Crore at the 2025 TATA IPL Auction.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    8     |    1     |    65    |    25    |   9.29   |    55    |  118.18  |    0     |    0     |    3     |    6     |    3     |    0    
+    2023   |    5     |    0     |    39    |    25    |   7.80   |    22    |  177.27  |    0     |    0     |    2     |    4     |    2     |    0    
+    2021   |    3     |    1     |    26    |   14*    |  13.00   |    33    |  78.78   |    0     |    0     |    1     |    2     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    8     |    30    |    40    |    2     |   1/10   |  20.00   |   8.00   |  15.00   |    0     |    0    
+    2023   |    5     |    18    |    20    |    1     |   1/10   |  20.00   |   6.67   |  18.00   |    0     |    0    
+    2021   |    3     |    12    |    20    |    1     |   1/17   |  20.00   |  10.00   |  12.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/glenn-phillips/3027
+================================================================================

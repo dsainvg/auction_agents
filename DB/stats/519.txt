@@ -1,0 +1,58 @@
+================================================================================
+IPL PLAYER PROFILE: ANDREW TYE
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Andrew Tye
+  IPL Debut                : 2017
+  Date of Birth            : 12 December 1986
+  Total IPL Matches        : 30
+  Role                     : Bowler
+  Nationality              : Australian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Winner of the 2018 IPL Purple Cap, Australian Andrew Tye was bought by
+  Rajasthan Royals for INR 1 crore and then was retained ahead of the IPL
+  2021. Tye has a mixed bag of variations and can confound opposition from all
+  the franchises. Despite being a late bloomer, Tye was later roped in by the
+  Australian T20 league and was considered to be the find of the tournament in
+  2014. After making his debut in the IPL for Chennai Super Kings, Tye was
+  also part of the Gujarat Lions and Kings XI Punjab (now Punjab Kings). The
+  right-arm pacer has 40 IPL wickets to his name from 27 matches and he will
+  be keen to add a few more scalps to his IPL wickets tally in the IPL 2021.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    30    |    4     |    91    |    25    |  10.11   |    76    |  119.74  |    0     |    0     |    6     |    5     |    8     |    0    
+    2022   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2020   |    1     |    0     |    6     |    6     |   6.00   |    6     |  100.00  |    0     |    0     |    0     |    1     |    0     |    0    
+    2019   |    6     |    1     |    0     |    0*    |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2018   |    14    |    2     |    32    |    14    |   5.33   |    38    |  84.21   |    0     |    0     |    2     |    1     |    5     |    0    
+    2017   |    6     |    1     |    53    |    25    |  26.50   |    30    |  176.66  |    0     |    0     |    4     |    3     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    30    |   684    |   979    |    42    |   5/17   |  23.31   |   8.59   |  16.29   |    3     |    1    
+    2022   |    3     |    66    |   107    |    2     |   2/40   |  53.50   |   9.73   |  33.00   |    0     |    0    
+    2020   |    1     |    24    |    50    |    1     |   1/50   |  50.00   |  12.50   |  24.00   |    0     |    0    
+    2019   |    6     |   132    |   233    |    3     |   1/37   |  77.66   |  10.59   |  44.00   |    0     |    0    
+    2018   |    14    |   336    |   448    |    24    |   4/16   |  18.66   |   8.00   |  14.00   |    3     |    0    
+    2017   |    6     |   126    |   141    |    12    |   5/17   |  11.75   |   6.71   |  10.50   |    0     |    1    
+
+================================================================================
+Source: https://www.iplt20.com/players/andrew-tye/1480
+================================================================================

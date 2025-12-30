@@ -1,0 +1,57 @@
+================================================================================
+IPL PLAYER PROFILE: PHIL SALT
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Phil Salt
+  IPL Debut                : 2023
+  Date of Birth            : 28 August 1996
+  Total IPL Matches        : 34
+  Role                     : Wicketkeeper Batter
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  Aggressive and consistent at the top of the order, Phil Salt is the kind
+  of batter that can take the game away from the opposition very early. The
+  fact that he has a strike-rate of over 164 after more than 40 T20Is for
+  England shows just how destructive he can be. Salt’s first stint in the TATA
+  IPL came in the 2023 season, when he represented Delhi Capitals and
+  impressed in the games that he played. But it was in the 2024 season, after
+  coming into the Kolkata Knight Riders side as a replacement for compatriot
+  Jason Roy, that Salt took the IPL by storm by playing a huge role in KKR’s
+  title victory with 435 runs in 12 games at an average of almost 40 and a
+  fantastic strike-rate of 182. Salt, who was part of England’s 2022 T20 World
+  Cup winning campaign, is now a crucial member of the limited-overs set up.
+  He was acquired by RCB for a whopping INR 11.5 Crore ahead of TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    34    |    3     |   1056   |   89*    |  34.06   |   601    |  175.71  |    0     |    10    |   122    |    56    |    26    |    0    
+    2025   |    13    |    1     |   403    |    65    |  33.58   |   229    |  175.98  |    0     |    4     |    48    |    22    |    9     |    0    
+    2024   |    12    |    1     |   435    |   89*    |  39.55   |   239    |  182.01  |    0     |    4     |    50    |    24    |    12    |    0    
+    2023   |    9     |    1     |   218    |    87    |  27.25   |   133    |  163.91  |    0     |    2     |    24    |    10    |    5     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    34    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/phil-salt/5606
+================================================================================

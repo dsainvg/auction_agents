@@ -1,0 +1,79 @@
+================================================================================
+IPL PLAYER PROFILE: RISHABH PANT
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Rishabh Pant
+  IPL Debut                : 2016
+  Date of Birth            : 04 October 1997
+  Total IPL Matches        : 125
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  Rishabh Pant gained recognition after his standout performance for India
+  at the 2016 U-19 World Cup and for Delhi in the domestic circuit. He has a
+  triple century to his name in Ranji Trophy, too. He was picked up by Delhi
+  Capitals in 2016 and played for them until 2024 while also captaining them.
+  His best season came in IPL 2018 when he scored 684 runs at an average of
+  52.61 and a strike rate of over 170, including the highest score of 128*
+  that made him the second-youngest player at the time to score a century in
+  the IPL. The swashbuckling batter also has scores of 300+ runs in every
+  edition he has played in since 2017. Pant also made a name for himself for
+  India across formats, especially in Test cricket, with his most iconic
+  moment coming during Indiaâ€™s famous Border-Gavasker Trophy win in 2020/21.
+  The Indian international made history by becoming the most expensive player
+  in IPL history after he was picked by LSG for INR 27 Crore during the 2025
+  TATA IPL Auction.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Most expensive player in IPL history
+  2. Highest IPL Score: 128*
+  3. Best Season: IPL 2018 (684 runs)
+  4. Career best average: 52.61
+  5. Career best strike rate: 170
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |   125    |    19    |   3553   |   128*   |  34.16   |   2407   |  147.61  |    2     |    19    |   319    |   170    |    80    |    24   
+    2025   |    14    |    2     |   269    |   118*   |  24.45   |   202    |  133.17  |    1     |    1     |    23    |    16    |    5     |    1    
+    2024   |    13    |    2     |   446    |   88*    |  40.55   |   287    |  155.40  |    0     |    3     |    36    |    25    |    11    |    5    
+    2022   |    14    |    2     |   340    |    44    |  30.91   |   224    |  151.79  |    0     |    0     |    35    |    16    |    8     |    4    
+    2021   |    16    |    4     |   419    |   58*    |  34.91   |   326    |  128.52  |    0     |    3     |    42    |    10    |    10    |    3    
+    2020   |    14    |    3     |   343    |    56    |  31.18   |   301    |  113.95  |    0     |    1     |    31    |    9     |    13    |    0    
+    2019   |    16    |    3     |   488    |   78*    |  37.53   |   300    |  162.66  |    0     |    3     |    37    |    27    |    18    |    6    
+    2018   |    14    |    1     |   684    |   128*   |  52.61   |   394    |  173.60  |    1     |    5     |    68    |    37    |    4     |    2    
+    2017   |    14    |    0     |   366    |    97    |  26.14   |   221    |  165.61  |    0     |    2     |    28    |    24    |    8     |    3    
+    2016   |    10    |    2     |   198    |    69    |  24.75   |   152    |  130.26  |    0     |    1     |    19    |    6     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   125    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/rishabh-pant/2972
+================================================================================

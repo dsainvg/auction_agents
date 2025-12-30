@@ -1,0 +1,47 @@
+================================================================================
+IPL PLAYER PROFILE: CORBIN BOSCH
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Corbin Bosch
+  IPL Debut                : 2025
+  Date of Birth            : 10 September 1994
+  Total IPL Matches        : 3
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Born in Durban, South Africa, all-rounder Corbin Bosch was earlier a part
+  of Rajasthan Royals squad as a net bowler before the 27-year old replaced
+  the injured Nathan Coulter-Nile at the price of INR 20 Lakh. With over 150
+  runs and 18 wickets in 30 T20s to his name, the all-rounder can prove to be
+  valuable with both bat and ball and further strengthen the Rajasthan Royals
+  squad with his overall contribution.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    2     |    0     |    47    |    27    |  23.50   |    32    |  146.88  |    0     |    0     |    3     |    3     |    2     |    0    
+    2025   |    2     |    0     |    47    |    27    |  23.50   |    32    |  146.88  |    0     |    0     |    3     |    3     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    2     |    42    |    55    |    1     |   1/26   |  55.00   |   7.86   |  42.00   |    0     |    0    
+    2025   |    2     |    42    |    55    |    1     |   1/26   |  55.00   |   7.86   |  42.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/corbin-bosch/20680
+================================================================================

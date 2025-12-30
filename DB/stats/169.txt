@@ -1,0 +1,59 @@
+================================================================================
+IPL PLAYER PROFILE: ROMARIO SHEPHERD
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Romario Shepherd
+  IPL Debut                : 2022
+  Date of Birth            : 26 November 1994
+  Total IPL Matches        : 18
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The right-arm fast-medium bowling all-rounder from Guyana broke onto the
+  scene known more for his exploits with the ball in hand, but his batting
+  prowess as a finisher in the lower middle-order has earned him great praise
+  over the years. A case in point is the TATA IPL 2024 season, during which he
+  lit up the Wankhede Stadium while playing for Mumbai Indians against Delhi
+  Capitals, smashing 32 runs including four sixes and two fours in a single
+  over off Anrich Nortje. After more than 40 T20Is for the West Indies,
+  Shepherd has a bowling average of below 28 and a batting strike rate of
+  almost 140, thus showing what he brings to the table. A highly effective
+  utility player who can win matches on his own, Shepherd was acquired by
+  Royal Challengers Bengaluru (RCB) for his base price of INR 1.5 Crore ahead
+  of TATA IPL 2025.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    18    |    5     |   185    |   53*    |  26.43   |    87    |  212.64  |    0     |    1     |    12    |    17    |    4     |    0    
+    2025   |    8     |    1     |    70    |   53*    |  35.00   |    24    |  291.67  |    0     |    1     |    5     |    7     |    4     |    0    
+    2024   |    6     |    3     |    57    |   39*    |  28.50   |    21    |  271.43  |    0     |    0     |    5     |    5     |    0     |    0    
+    2023   |    1     |    0     |    0     |    0     |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2022   |    3     |    1     |    58    |   26*    |  29.00   |    41    |  141.46  |    0     |    0     |    2     |    5     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    18    |   210    |   408    |    10    |   2/14   |  40.80   |  11.66   |  21.00   |    0     |    0    
+    2025   |    8     |    84    |   151    |    6     |   2/14   |  25.17   |  10.79   |  14.00   |    0     |    0    
+    2024   |    6     |    72    |   159    |    1     |   1/54   |  159.00  |  13.25   |  72.00   |    0     |    0    
+    2023   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    3     |    54    |    98    |    3     |   2/42   |  32.67   |  10.89   |  18.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/romario-shepherd/20609
+================================================================================

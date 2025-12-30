@@ -1,0 +1,61 @@
+================================================================================
+IPL PLAYER PROFILE: VISHNU VINOD
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Vishnu Vinod
+  IPL Debut                : 2017
+  Date of Birth            : 02 December 1993
+  Total IPL Matches        : 6
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  Hailing from Kerala, Vishnu Vinod is a dynamic wicket-keeper batter who
+  has the ability to hit the long ball. A standout talent in Kerala’s domestic
+  circuit, Vinod made his mark, leading the run charts for his state in the
+  2019-20 Vijay Hazare Trophy with 508 runs in 8 matches, including three
+  centuries, at an average of 63.50. He made his first-class debut for Kerala
+  in the 2016-17 Ranji Trophy where he showcased his aggressive batting flair
+  early on. Vishnu Vinod has played for Royal Challengers Bengaluru (2017),
+  Delhi Capitals (2021), Sunrisers Hyderabad (2022), and Mumbai Indians
+  (2023-2024). Punjab Kings secured him for INR 95 lakh at the TATA IPL 2025
+  Auction after a bidding war with Kolkata Knight Riders and Mumbai Indians, a
+  testament to his growing reputation. Vinod now joins PBKS as a vital asset,
+  bringing his explosive batting and reliable glovework to the fore. The
+  franchise will lean on his firepower and finishing ability as they chase
+  their elusive first IPL title in 2025.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best average: 63.50.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    6     |    0     |    56    |    30    |   9.33   |    57    |  98.25   |    0     |    0     |    3     |    3     |    1     |    2    
+    2023   |    3     |    0     |    37    |    30    |  12.33   |    31    |  119.35  |    0     |    0     |    2     |    2     |    1     |    0    
+    2017   |    3     |    0     |    19    |    9     |   6.33   |    26    |  73.07   |    0     |    0     |    1     |    1     |    0     |    2    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/vishnu-vinod/4305
+================================================================================

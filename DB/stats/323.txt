@@ -1,0 +1,62 @@
+================================================================================
+IPL PLAYER PROFILE: AYUSH MHATRE
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Ayush Mhatre
+  IPL Debut                : 2025
+  Date of Birth            : 16 July 2007
+  Total IPL Matches        : 7
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  Ayush Mhatre is a bright and young right-handed batter from Mumbai. He
+  made his mark in the India Under-19 setup with three appearances at the 2024
+  Asia Cup. However, it was in the first-class circuit where he truly turned
+  heads. He debuted in the Irani Cup last year with a stellar 176 against
+  Maharashtra—led by Ruturaj Gaikwad—after a composed 52 on a turning track
+  against Baroda in Vadodara. In his nine first-class appearances so far,
+  Mhatre has scored 504 runs, including two centuries, at an average of 31.50.
+  His List A record is even more impressive: 458 runs in seven innings at an
+  average of 65.42 and a strike rate of 135.50. His century against Nagaland
+  also saw him break Yashasvi Jaiswal’s world record, becoming the youngest
+  player to score 150+ in men’s senior List A cricket. The 17-year-old earned
+  his maiden IPL contract when Chennai Super Kings signed him as a replacement
+  for Ruturaj Gaikwad for INR 30 lakhs ahead of IPL 2025. Sharing the dressing
+  room with stalwarts like MS Dhoni, Ravindra Jadeja, Ravichandran Ashwin etc,
+  is set to be a golden opportunity that promises to boost his game and
+  accelerate his development.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best average: 31.50.
+  2. Career best strike rate: 135.50.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    7     |    0     |   240    |    94    |  34.29   |   127    |  188.98  |    0     |    1     |    31    |    11    |    4     |    0    
+    2025   |    7     |    0     |   240    |    94    |  34.29   |   127    |  188.98  |    0     |    1     |    31    |    11    |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/ayush-mhatre/22377
+================================================================================

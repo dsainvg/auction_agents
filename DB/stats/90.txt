@@ -1,0 +1,64 @@
+================================================================================
+IPL PLAYER PROFILE: KANE WILLIAMSON
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Kane Williamson
+  IPL Debut                : 2015
+  Date of Birth            : 08 August 1990
+  Total IPL Matches        : 79
+  Role                     : Batter
+  Nationality              : New Zealander
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  Part of the famed ‘Fab Four’ along with Virat Kohli, Steven Smith and Joe
+  Root, Kane Williamson is one of the coolest customers around the circuit. He
+  rose to the occasion wonderfully well in the 2018 IPL as he captained SRH to
+  the final, in the absence of regular captain David Warner. Williamson’s
+  abilities with the bat are nothing short of substantial as he has scored
+  runs across conditions and formats. With Sunrisers having a formidable set
+  of foreign players in their playing XI, Williamson often has to wait for his
+  opportunities, but when he does, he makes the most of it.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    79    |    17    |   2128   |    89    |  35.47   |   1694   |  125.62  |    0     |    18    |   186    |    64    |    40    |    0    
+    2024   |    2     |    0     |    27    |    26    |  13.50   |    27    |  100.00  |    0     |    0     |    4     |    0     |    1     |    0    
+    2023   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2022   |    13    |    2     |   216    |    57    |  19.64   |   231    |  93.51   |    0     |    1     |    16    |    8     |    10    |    0    
+    2021   |    10    |    4     |   266    |   66*    |  44.33   |   235    |  113.19  |    0     |    2     |    29    |    2     |    7     |    0    
+    2020   |    12    |    4     |   317    |    67    |  45.28   |   237    |  133.75  |    0     |    3     |    26    |    10    |    6     |    0    
+    2019   |    9     |    2     |   156    |   70*    |  22.28   |   130    |  120.00  |    0     |    1     |    12    |    5     |    2     |    0    
+    2018   |    17    |    3     |   735    |    84    |  52.50   |   516    |  142.44  |    0     |    8     |    64    |    28    |    6     |    0    
+    2017   |    7     |    1     |   256    |    89    |  42.66   |   169    |  151.47  |    0     |    2     |    20    |    10    |    1     |    0    
+    2016   |    6     |    0     |   124    |    50    |  20.66   |   122    |  101.63  |    0     |    1     |    14    |    0     |    5     |    0    
+    2015   |    2     |    1     |    31    |   26*    |  31.00   |    27    |  114.81  |    0     |    0     |    1     |    1     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    63    |    18    |    31    |    0     |   0/24   |    -     |  10.33   |    -     |    0     |    0    
+    2021   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    12    |    12    |    24    |    0     |   0/24   |    -     |  12.00   |    -     |    0     |    0    
+    2019   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    6     |    6     |    7     |    0     |   0/7    |    -     |   7.00   |    -     |    0     |    0    
+    2015   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/kane-williamson/440
+================================================================================

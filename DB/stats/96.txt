@@ -1,0 +1,68 @@
+================================================================================
+IPL PLAYER PROFILE: WASHINGTON SUNDAR
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Washington Sundar
+  IPL Debut                : 2017
+  Date of Birth            : 05 October 1999
+  Total IPL Matches        : 66
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  A tall all-rounder from Tamil Nadu, Washington Sundar began as a
+  left-handed batter but made a name for himself with his economical off-spin
+  bowling. His journey began in the U19 World Cup 2016, and he made his IPL
+  debut with Rising Pune Supergiant in 2017. Washington then moved to RCB
+  (2018-2021) and SRH (2022-2024). Apart from IPL, he has represented India in
+  all formats, contributing with both bat and ball. Some of his key
+  performances include an 11-wicket haul against New Zealand in a Test match,
+  important knocks in India’s Border-Gavaskar Trophy win in 2020/21, and being
+  part of the Indian squad that lifted the Champions Trophy 2025. Gujarat
+  Titans acquired him for INR 3.2 Crore at the 2025 TATA IPL Auction, and his
+  experience and all-round skills will be crucial for the team.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    66    |    13    |   511    |    49    |  15.97   |   405    |  126.17  |    0     |    0     |    42    |    16    |    15    |    0    
+    2025   |    6     |    0     |   133    |    49    |  26.60   |    80    |  166.25  |    0     |    0     |    10    |    7     |    3     |    0    
+    2024   |    2     |    1     |    0     |    0     |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2023   |    7     |    1     |    60    |   24*    |  15.00   |    60    |  100.00  |    0     |    0     |    6     |    0     |    2     |    0    
+    2022   |    9     |    0     |   101    |    40    |  14.43   |    69    |  146.38  |    0     |    0     |    9     |    3     |    1     |    0    
+    2021   |    6     |    0     |    31    |    10    |   7.75   |    47    |  65.95   |    0     |    0     |    2     |    0     |    2     |    0    
+    2020   |    15    |    3     |   111    |    30    |  18.50   |    95    |  116.84  |    0     |    0     |    10    |    2     |    0     |    0    
+    2019   |    3     |    0     |    1     |    1     |   0.50   |    3     |  33.33   |    0     |    0     |    0     |    0     |    2     |    0    
+    2018   |    7     |    3     |    65    |    35    |  21.66   |    38    |  171.05  |    0     |    0     |    5     |    4     |    0     |    0    
+    2017   |    11    |    5     |    9     |    5*    |   9.00   |    12    |  75.00   |    0     |    0     |    0     |    0     |    5     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    66    |   1119   |   1436   |    39    |   3/16   |  36.82   |   7.70   |  28.69   |    0     |    0    
+    2025   |    6     |    65    |   111    |    2     |   1/28   |  55.50   |  10.25   |  32.50   |    0     |    0    
+    2024   |    2     |    30    |    73    |    1     |   1/46   |  73.00   |  14.60   |  30.00   |    0     |    0    
+    2023   |    7     |   106    |   146    |    3     |   3/28   |  48.67   |   8.26   |  35.33   |    0     |    0    
+    2022   |    9     |   168    |   239    |    6     |   2/21   |  39.83   |   8.54   |  28.00   |    0     |    0    
+    2021   |    6     |    96    |   118    |    3     |   1/7    |  39.33   |   7.37   |  32.00   |    0     |    0    
+    2020   |    15    |   300    |   298    |    8     |   2/16   |  37.25   |   5.96   |  37.50   |    0     |    0    
+    2019   |    3     |    54    |    74    |    4     |   3/24   |  18.50   |   8.22   |  13.50   |    0     |    0    
+    2018   |    7     |   120    |   192    |    4     |   2/22   |  48.00   |   9.60   |  30.00   |    0     |    0    
+    2017   |    11    |   180    |   185    |    8     |   3/16   |  23.12   |   6.16   |  22.50   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/washington-sundar/2973
+================================================================================
