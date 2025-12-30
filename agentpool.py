@@ -5,7 +5,6 @@ from utils import (
     competitiveBidMaker, 
     get_next_api_key,
     load_prompts,
-    get_player_stats,
     get_raise_amount,
     BidderInput,
     get_set_name
@@ -37,8 +36,8 @@ def agent_pool(state: AgentState) -> AgentState:
     
     message_lines.append("="*60)
     message_lines.append("AGENT POOL - Bidding Round")
-    message_lines.append(f"Player: {current_player.name} ({current_player.role})")
-    message_lines.append(f"Base Price: {current_player.base_price} Cr")
+    message_lines.append(f"Player: {current_player.name} ({current_player.specialism})")
+    message_lines.append(f"Reserve Price: {current_player.reserve_price_lakh / 100:.2f} Cr")
     message_lines.append(f"Current bid: {f'INR {current_bid.current_bid_amount:.2f} by {current_bid.team}' if current_bid else 'No bids yet'}")
     message_lines.append(f"Round: {state.get('Round')}")
     
@@ -60,8 +59,8 @@ def agent_pool(state: AgentState) -> AgentState:
         min_bid_raise = get_raise_amount(current_price)
         next_bid_price = current_price + min_bid_raise
     else:
-        # First bid: minimum raise is zero, can bid at base price
-        current_price = current_player.base_price
+        # First bid: minimum raise is zero, can bid at reserve price
+        current_price = current_player.reserve_price_lakh / 100  # Convert lakhs to crores
         min_bid_raise = 0.0
         next_bid_price = current_price
     
@@ -113,7 +112,7 @@ def agent_pool(state: AgentState) -> AgentState:
                     name = str(p)
                 reason = getattr(p, 'reason_for_purchase', None)
                 squad_short.append({"name": name, "reason": reason})
-            player_stats = get_player_stats(current_player.name)
+            player_stats = current_player.stats
             
             # Update pricing for this team's evaluation
             if current_bid:
@@ -122,7 +121,7 @@ def agent_pool(state: AgentState) -> AgentState:
                 next_bid_price = current_price + min_bid_raise
             else:
                 # First bid opportunity - zero minimum raise
-                current_price = current_player.base_price
+                current_price = current_player.reserve_price_lakh / 100  # Convert lakhs to crores
                 min_bid_raise = 0.0
                 next_bid_price = current_price
             
@@ -138,17 +137,17 @@ def agent_pool(state: AgentState) -> AgentState:
                             name = p.name
                         except Exception:
                             name = str(p)
-                        # For other teams provide minimal player info: role, sold_price, category, experience
-                        role = getattr(p, 'role', None)
+                        # For other teams provide minimal player info: specialism, sold_price, player_status
+                        specialism = getattr(p, 'specialism', None)
                         sold_price = getattr(p, 'sold_price', None)
-                        category = getattr(p, 'category', None)
-                        experience = getattr(p, 'experience', None)
+                        player_status = getattr(p, 'player_status', None)
+                        ipl_matches = getattr(p, 'ipl_matches', None)
                         other_short.append({
                             "name": name,
-                            "role": role,
+                            "specialism": specialism,
                             "sold_price": sold_price,
-                            "category": category,
-                            "experience": experience,
+                            "player_status": player_status,
+                            "ipl_matches": ipl_matches,
                         })
                     other_team_compositions += f"{t}: {json.dumps(other_short, ensure_ascii=False)}\n"
                     other_team_budgets += f"{t}: {state.get(f'{t}_Budget', 0.0)}\n"
@@ -213,10 +212,19 @@ def agent_pool(state: AgentState) -> AgentState:
             # Prepare human prompt with player-specific substitutions only
             human_template_raw = prompts[f'{team_id}_human']
             human_prompt_template = string.Template(human_template_raw)
+            reserve_price_cr = current_player.reserve_price_lakh / 100
             human_subs = {
                 'player_name': current_player.name,
-                'base_price': current_player.base_price,
-                'current_price': current_price,
+                'specialism': current_player.specialism,
+                'batting_style': current_player.batting_style,
+                'bowling_style': current_player.bowling_style,
+                'test_caps': current_player.test_caps,
+                'odi_caps': current_player.odi_caps,
+                't20_caps': current_player.t20_caps,
+                'ipl_matches': current_player.ipl_matches,
+                'player_status': current_player.player_status,
+                'reserve_price_lakh': current_player.reserve_price_lakh,
+                'reserve_price_cr': reserve_price_cr,
                 'current_price': current_price,
                 'min_bid_raise': min_bid_raise,
                 'next_bid_price': next_bid_price,

@@ -3,7 +3,7 @@ from langchain_core.messages import SystemMessage, HumanMessage
 import re
 import os
 from model_config import MODEL_NAME, TEMPERATURE, TOP_P, MAX_TOKENS, EXTRA_BODY
-from utils import AgentState, Player, get_player_stats, get_next_api_key, get_set_name
+from utils import AgentState, Player, get_next_api_key, get_set_name
 
 def _build_reasoner_prompt(state: AgentState, player: Player, winning_team: str, final_price: float) -> str:
     # Collect team compositions and budgets
@@ -22,16 +22,21 @@ def _build_reasoner_prompt(state: AgentState, player: Player, winning_team: str,
         remaining_sets_full = remaining_sets
     remaining_players_in_set = state.get('RemainingPlayersInSet', [])
 
-    player_stats = get_player_stats(player.name)
+    player_stats = player.stats
 
+    reserve_price_cr = player.reserve_price_lakh / 100
     human = (
     "You are an expert IPL auction analyst.\n"
-    f"Explain why {winning_team} should purchase {player.name} ({player.role}) NOW at INR {final_price:.2f} Cr, "
+    f"Explain why {winning_team} should purchase {player.name} ({player.specialism}) NOW at INR {final_price:.2f} Cr, "
     "using a single dense paragraph that follows your system instructions.\n\n"
     "Context:\n"
-    f"Player base price: {player.base_price}\n"
-    f"Player previous sold price: {player.previous_sold_price}\n"
-    f"Player category/experience: {player.category} / {player.experience}\n"
+    f"Player specialism: {player.specialism}\n"
+    f"Batting style: {player.batting_style}\n"
+    f"Bowling style: {player.bowling_style}\n"
+    f"International experience: Test caps: {player.test_caps}, ODI caps: {player.odi_caps}, T20 caps: {player.t20_caps}\n"
+    f"IPL experience: {player.ipl_matches} matches\n"
+    f"Player status: {player.player_status}\n"
+    f"Reserve price: ₹{player.reserve_price_lakh} Lakhs ({reserve_price_cr:.2f} Cr)\n"
     f"Player stats: {player_stats}\n\n"
     "Teams summary:\n" + "\n".join(team_info_lines) + "\n\n"
     f"Available sets left: {remaining_sets_full}\n"

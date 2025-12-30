@@ -46,8 +46,9 @@ def host_assistant(state: AgentState) -> AgentState:
         state['CurrentPlayer'] = random.choice(state['RemainingPlayersInSet'])
         state['RemainingPlayersInSet'].remove(state['CurrentPlayer'])
         state['AuctionStatus'] = True
-        message_lines.append(f"Selected player: {state['CurrentPlayer'].name} ({state['CurrentPlayer'].role})")
-        message_lines.append(f"Base price: INR {state['CurrentPlayer'].base_price:.2f} Cr")
+        message_lines.append(f"Selected player: {state['CurrentPlayer'].name} ({state['CurrentPlayer'].specialism})")
+        reserve_cr = state['CurrentPlayer'].reserve_price_lakh / 100
+        message_lines.append(f"Reserve price: INR {reserve_cr:.2f} Cr")
         message_lines.append(f"Remaining players in set: {len(state['RemainingPlayersInSet'])}")
         
         # Clear RemainingPlayersInSet if empty

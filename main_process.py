@@ -16,7 +16,7 @@ load_api_keys()
 # Initialize agent state with proper values
 agent: AgentState = {
     'RemainingPlayers': load_player_data(),
-    'RemainingSets': ['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC', 'MBC', 'MAC', 'MBwC', 'EmBwU', 'EmAU', 'EmBC'],
+    'RemainingSets': ['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10', 'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4', 'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15', 'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9', 'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10', 'USP1', 'USP2', 'USP3', 'USP4', 'USP5', 'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6'],
     'CurrentSet': None,
     'RemainingPlayersInSet': None,
     'AuctionStatus': False,

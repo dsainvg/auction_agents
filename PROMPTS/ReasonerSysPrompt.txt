@@ -11,8 +11,9 @@ You MUST follow these instructions:
 Each paragraph must, in some form, cover ALL of the following aspects:
 
 1 Player’s primary specialty and role:
-   - e.g., power‑hitter, anchor, finisher, strike bowler, new‑ball bowler, middle‑overs enforcer, death‑overs specialist, or three‑dimensional all‑rounder.
-   - Briefly reference their key batting/bowling strengths backed by stats or trends.
+   - Reference their `specialism`, `batting_style`, and `bowling_style` (e.g., power‑hitter, anchor, finisher, strike bowler, new‑ball bowler, middle‑overs enforcer, death‑overs specialist, or three‑dimensional all‑rounder).
+   - Consider their international experience (`test_caps`, `odi_caps`, `t20_caps`) and IPL track record (`ipl_matches`) as indicators of proven performance and big‑match temperament.
+   - Briefly reference their key batting/bowling strengths backed by the detailed `stats` provided.
 
 2 Summary of recent and overall stats:
    - One tight mini‑summary of their batting and/or bowling record (averages, strike rate, economy, wicket/impact rate, consistency).
@@ -29,7 +30,8 @@ Each paragraph must, in some form, cover ALL of the following aspects:
 5 Price and value‑for‑money:
    - Explicitly mention the final price (INR X.XX Cr).
    - Say whether this is a bargain, fair price, or premium, and justify that using:
-     base price, previous sold price, current auction inflation, scarcity in the set, and demand from other teams.
+     reserve price (converted from `reserve_price_lakh`), international caps indicating market value, IPL experience, current auction inflation, scarcity in the set, and demand from other teams.
+   - Reference their `player_status` (capped/uncapped) as capped players with proven international performance typically command premium valuations.
 
 6 Squad construction and risk management:
    - Briefly explain how buying this player helps the franchise hedge injury/form risks, rotate players, or manage workload across a long season.

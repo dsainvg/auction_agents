@@ -116,9 +116,9 @@ def process_state_update(state, node_name=None):
                     actual_bid_amount = current_bid.current_bid_amount + other_bid.raised_amount
             else:
                 if other_bid.is_normal:
-                    actual_bid_amount = current_player.base_price
+                    actual_bid_amount = current_player.reserve_price_lakh / 100  # Convert lakhs to crores
                 else:
-                    actual_bid_amount = current_player.base_price + other_bid.raised_amount
+                    actual_bid_amount = (current_player.reserve_price_lakh / 100) + other_bid.raised_amount
         else:
             actual_bid_amount = current_bid.current_bid_amount if current_bid else 0
         
@@ -471,14 +471,15 @@ def render_ui():
             st.subheader("❌ Unsold Players")
             with st.expander(f"View {len(st.session_state.unsold_players)} unsold players", expanded=False):
                 for player in st.session_state.unsold_players:
-                    st.write(f"• {player.name} ({player.role}) - Base: ₹{player.base_price:.2f} Cr")
+                    reserve_cr = player.reserve_price_lakh / 100
+                    st.write(f"• {player.name} ({player.specialism}) - Reserve: ₹{reserve_cr:.2f} Cr")
 
 def start_auction():
     """Initialize auction stream"""
     print("[DEBUG] Starting auction...")
     initial_state = {
         'RemainingPlayers': load_player_data(),
-        'RemainingSets': ['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC', 'MBC', 'MAC', 'MBwC', 'EmBwU', 'EmAU', 'EmBC'],
+        'RemainingSets': ['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10', 'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4', 'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15', 'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9', 'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10', 'USP1', 'USP2', 'USP3', 'USP4', 'USP5', 'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6'],
         'CurrentSet': None,
         'RemainingPlayersInSet': None,
         'AuctionStatus': False,

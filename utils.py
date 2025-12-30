@@ -62,12 +62,17 @@ class BidResponseDict(TypedDict):
 @dataclass
 class Player:
     name: str
-    role: str
-    base_price: float
-    previous_sold_price: float
-    category: str
-    experience: str
+    specialism: str
+    batting_style: str
+    bowling_style: str
+    test_caps: int
+    odi_caps: int
+    t20_caps: int
+    ipl_matches: int
+    player_status: str
+    reserve_price_lakh: float
     set: str
+    stats: str = ""
     status: bool = False
     sold_price: float = 0.0
     sold_team: Union[Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH'], None] = None
@@ -117,9 +122,9 @@ class Team:
     PlayersNotInPlayingXI: List[Player] 
 class AgentState(TypedDict):
     """State schema for the agent."""
-    RemainingPlayers: Dict[Literal['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC', 'MBC', 'MAC', 'MBwC', 'EmBwU', 'EmAU', 'EmBC'],List[Player]]
-    RemainingSets: List[Literal['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC', 'MBC', 'MAC', 'MBwC', 'EmBwU', 'EmAU', 'EmBC']]
-    CurrentSet: Union[Literal['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC', 'MBC', 'MAC', 'MBwC', 'EmBwU', 'EmAU', 'EmBC'], None]
+    RemainingPlayers: Dict[Literal['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10', 'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4', 'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15', 'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9', 'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10', 'USP1', 'USP2', 'USP3', 'USP4', 'USP5', 'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6'],List[Player]]
+    RemainingSets: List[Literal['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10', 'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4', 'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15', 'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9', 'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10', 'USP1', 'USP2', 'USP3', 'USP4', 'USP5', 'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6']]
+    CurrentSet: Union[Literal['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10', 'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4', 'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15', 'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9', 'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10', 'USP1', 'USP2', 'USP3', 'USP4', 'USP5', 'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6'], None]
     RemainingPlayersInSet: Union[List[Player], None]
     AuctionStatus: bool = False
     CurrentPlayer: Union[Player, None] = None
@@ -154,26 +159,37 @@ class BidderInput(BaseModel):
     raised_amount: float = Field(default=0.0, description="The custom raise amount to add to the current price. If not applicable, 0.0.")
     reason: str = Field(default="", description="Short rationale for the decision. Empty string if none.")
 
-def load_player_data() -> dict[Literal['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC', 'MBC', 'MAC', 'MBwC', 'EmBwU', 'EmAU', 'EmBC'], list[Player]]:
+def load_player_data() -> dict[Literal['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10', 'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4', 'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15', 'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9', 'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10', 'USP1', 'USP2', 'USP3', 'USP4', 'USP5', 'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6'], list[Player]]:
     """Load player data from CSV file in DB folder, grouped by set.
     
     Returns:
-        Dictionary mapping set names (e.g., 'SBC', 'SAC') to list of players in that set.
+        Dictionary mapping set names (e.g., 'M1', 'M2', 'AL1') to list of players in that set.
     """
-    # Initialize empty lists for all sets
+    # Initialize empty lists for all IPL 2025 auction sets
     players_by_set = {
-        'SBC': [],
-        'SAC': [],
-        'SBwC': [],
-        'EBC': [],
-        'EAC': [],
-        'EBwC': [],
-        'MBC': [],
-        'MAC': [],
-        'MBwC': [],
-        'EmBwU': [],
-        'EmAU': [],
-        'EmBC': []
+        # Marquee
+        'M1': [], 'M2': [],
+        # Capped Allrounders
+        'AL1': [], 'AL2': [], 'AL3': [], 'AL4': [], 'AL5': [], 'AL6': [], 'AL7': [], 'AL8': [], 'AL9': [], 'AL10': [],
+        # Capped Batters
+        'BA1': [], 'BA2': [], 'BA3': [], 'BA4': [], 'BA5': [],
+        # Capped Fast Bowlers
+        'FA1': [], 'FA2': [], 'FA3': [], 'FA4': [], 'FA5': [], 'FA6': [], 'FA7': [], 'FA8': [], 'FA9': [], 'FA10': [],
+        # Capped Spinners
+        'SP1': [], 'SP2': [], 'SP3': [],
+        # Capped Wicketkeepers
+        'WK1': [], 'WK2': [], 'WK3': [], 'WK4': [],
+        # Uncapped Allrounders
+        'UAL1': [], 'UAL2': [], 'UAL3': [], 'UAL4': [], 'UAL5': [], 'UAL6': [], 'UAL7': [], 'UAL8': [], 'UAL9': [], 'UAL10': [],
+        'UAL11': [], 'UAL12': [], 'UAL13': [], 'UAL14': [], 'UAL15': [],
+        # Uncapped Batters
+        'UBA1': [], 'UBA2': [], 'UBA3': [], 'UBA4': [], 'UBA5': [], 'UBA6': [], 'UBA7': [], 'UBA8': [], 'UBA9': [],
+        # Uncapped Fast Bowlers
+        'UFA1': [], 'UFA2': [], 'UFA3': [], 'UFA4': [], 'UFA5': [], 'UFA6': [], 'UFA7': [], 'UFA8': [], 'UFA9': [], 'UFA10': [],
+        # Uncapped Spinners
+        'USP1': [], 'USP2': [], 'USP3': [], 'USP4': [], 'USP5': [],
+        # Uncapped Wicketkeepers
+        'UWK1': [], 'UWK2': [], 'UWK3': [], 'UWK4': [], 'UWK5': [], 'UWK6': [],
     }
     csv_path = os.path.join(os.path.dirname(__file__), "DB", "players.csv")
     
@@ -181,14 +197,37 @@ def load_player_data() -> dict[Literal['SBC', 'SAC', 'SBwC', 'EBC', 'EAC', 'EBwC
         with open(csv_path, 'r', encoding='utf-8') as file:
             reader = csv.DictReader(file)
             for row in reader:
+                serial_no = int(row['Serial_No']) if 'Serial_No' in row and row['Serial_No'] else 0
+                
+                # Load stats from stats folder based on serial number
+                stats_content = ""
+                if serial_no > 0:
+                    stats_file = os.path.join(os.path.dirname(__file__), "DB", "stats", f"{serial_no}.txt")
+                    if os.path.exists(stats_file):
+                        try:
+                            with open(stats_file, 'r', encoding='utf-8', errors='ignore') as f:
+                                stats_content = f.read()
+                        except Exception:
+                            # Fallback to binary read if UTF-8 fails
+                            try:
+                                with open(stats_file, 'rb') as fb:
+                                    stats_content = fb.read().decode('utf-8', errors='ignore')
+                            except Exception:
+                                stats_content = "Stats file could not be read."
+                
                 player = Player(
-                    name=row['Players'],
-                    role=row['Type'],
-                    base_price=float(row['Base']),  # Price in crores
-                    previous_sold_price=float(row['Sold_Price']),  # Price in crores
-                    category=row['Category'],
-                    experience=row['Experience'],
+                    name=row['Name'],
+                    specialism=row['Specialism'],
+                    batting_style=row['Batting_Style'],
+                    bowling_style=row['Bowling_Style'],
+                    test_caps=int(row['Test_Caps']) if row['Test_Caps'] else 0,
+                    odi_caps=int(row['ODI_Caps']) if row['ODI_Caps'] else 0,
+                    t20_caps=int(row['T20_Caps']) if row['T20_Caps'] else 0,
+                    ipl_matches=int(row['IPL_Matches']) if row['IPL_Matches'] else 0,
+                    player_status=row['Player_Status'],
+                    reserve_price_lakh=float(row['Reserve_Price_Lakh']) if row['Reserve_Price_Lakh'] else 0.0,
                     set=row['Set'],
+                    stats=stats_content,
                     status=False,
                     sold_price=0.0
                 )
@@ -225,7 +264,7 @@ def prettyprint(agent_state: AgentState) -> None:
                 if player:
                     if include_in_count:
                         unique_players.add(player.name)
-                    return f"{player.name} ({player.role}, sold for {player.sold_price:.2f} Cr)"
+                    return f"{player.name} ({player.specialism}, sold for {player.sold_price:.2f} Cr)"
                 return "None"
 
             # Display each role and player
@@ -265,7 +304,7 @@ def prettyprint(agent_state: AgentState) -> None:
                 is_player_list = all(isinstance(item, Player) for item in value)
                 for i, item in enumerate(value, 1):
                     if is_player_list:
-                        print(f"  {i}. {item.name} ({item.role}) - INR {item.sold_price:.2f}Cr")
+                        print(f"  {i}. {item.name} ({item.specialism}) - INR {item.sold_price:.2f}Cr")
                     else:
                         print(f"  {i}. {item}")
 
@@ -356,45 +395,107 @@ def load_prompts(prompt_dir="PROMPTS"):
             prompts[key] = f.read()
     return prompts
 
-def get_player_stats(player_name: str) -> str:
-    """
-    Get the stats of a player from the DB/stats directory.
-
-    Args:
-        player_name: The name of the player.
-
-    Returns:
-        The stats of the player as a string.
-    """
-    stats_dir = os.path.join(os.path.dirname(__file__), "DB", "stats")
-    player_name_formatted = player_name.replace(" ", "").lower()
-    for filename in os.listdir(stats_dir):
-        if filename.endswith(".txt"):
-            filename_formatted = filename.replace(".txt", "").replace(" ", "").lower()
-            if filename_formatted == player_name_formatted:
-                filepath = os.path.join(stats_dir, filename)
-                try:
-                    with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
-                        return f.read()
-                except Exception:
-                    # As a very tolerant fallback, read in binary and decode utf-8 ignoring
-                    with open(filepath, "rb") as fb:
-                        return fb.read().decode("utf-8", errors="ignore")
-    return "Stats not found for this player."
-
 SET_ABBREVIATION_MAPPING = {
-    'SBC': "Star Batsman Capped",
-    'SAC': "Star All-Rounder Capped",
-    'SBwC': "Star Bowler Capped",
-    'EBC': "Established Batsman Capped",
-    'EAC': "Established All-Rounder Capped",
-    'EBwC': "Established Bowler Capped",
-    'MBC': "Mid-tier Batsman Capped",
-    'MAC': "Mid-tier All-Rounder Capped",
-    'MBwC': "Mid-tier Bowler Capped",
-    'EmBwU': "Emerging Bowler Uncapped",
-    'EmAU': "Emerging All-Rounder Uncapped",
-    'EmBC': "Emerging Batsman Capped",
+    # Marquee Sets
+    'M1': "Marquee Set 1",
+    'M2': "Marquee Set 2",
+    
+    # Capped Allrounders
+    'AL1': "Allrounders Set 1",
+    'AL2': "Allrounders Set 2",
+    'AL3': "Allrounders Set 3",
+    'AL4': "Allrounders Set 4",
+    'AL5': "Allrounders Set 5",
+    'AL6': "Allrounders Set 6",
+    'AL7': "Allrounders Set 7",
+    'AL8': "Allrounders Set 8",
+    'AL9': "Allrounders Set 9",
+    'AL10': "Allrounders Set 10",
+    
+    # Capped Batters
+    'BA1': "Batters Set 1",
+    'BA2': "Batters Set 2",
+    'BA3': "Batters Set 3",
+    'BA4': "Batters Set 4",
+    'BA5': "Batters Set 5",
+    
+    # Capped Fast Bowlers
+    'FA1': "Fast Bowlers Set 1",
+    'FA2': "Fast Bowlers Set 2",
+    'FA3': "Fast Bowlers Set 3",
+    'FA4': "Fast Bowlers Set 4",
+    'FA5': "Fast Bowlers Set 5",
+    'FA6': "Fast Bowlers Set 6",
+    'FA7': "Fast Bowlers Set 7",
+    'FA8': "Fast Bowlers Set 8",
+    'FA9': "Fast Bowlers Set 9",
+    'FA10': "Fast Bowlers Set 10",
+    
+    # Capped Spinners
+    'SP1': "Spinners Set 1",
+    'SP2': "Spinners Set 2",
+    'SP3': "Spinners Set 3",
+    
+    # Capped Wicketkeepers
+    'WK1': "Wicketkeepers Set 1",
+    'WK2': "Wicketkeepers Set 2",
+    'WK3': "Wicketkeepers Set 3",
+    'WK4': "Wicketkeepers Set 4",
+    
+    # Uncapped Allrounders
+    'UAL1': "Uncapped Allrounders Set 1",
+    'UAL2': "Uncapped Allrounders Set 2",
+    'UAL3': "Uncapped Allrounders Set 3",
+    'UAL4': "Uncapped Allrounders Set 4",
+    'UAL5': "Uncapped Allrounders Set 5",
+    'UAL6': "Uncapped Allrounders Set 6",
+    'UAL7': "Uncapped Allrounders Set 7",
+    'UAL8': "Uncapped Allrounders Set 8",
+    'UAL9': "Uncapped Allrounders Set 9",
+    'UAL10': "Uncapped Allrounders Set 10",
+    'UAL11': "Uncapped Allrounders Set 11",
+    'UAL12': "Uncapped Allrounders Set 12",
+    'UAL13': "Uncapped Allrounders Set 13",
+    'UAL14': "Uncapped Allrounders Set 14",
+    'UAL15': "Uncapped Allrounders Set 15",
+    
+    # Uncapped Batters
+    'UBA1': "Uncapped Batters Set 1",
+    'UBA2': "Uncapped Batters Set 2",
+    'UBA3': "Uncapped Batters Set 3",
+    'UBA4': "Uncapped Batters Set 4",
+    'UBA5': "Uncapped Batters Set 5",
+    'UBA6': "Uncapped Batters Set 6",
+    'UBA7': "Uncapped Batters Set 7",
+    'UBA8': "Uncapped Batters Set 8",
+    'UBA9': "Uncapped Batters Set 9",
+    
+    # Uncapped Fast Bowlers
+    'UFA1': "Uncapped Fast Bowlers Set 1",
+    'UFA2': "Uncapped Fast Bowlers Set 2",
+    'UFA3': "Uncapped Fast Bowlers Set 3",
+    'UFA4': "Uncapped Fast Bowlers Set 4",
+    'UFA5': "Uncapped Fast Bowlers Set 5",
+    'UFA6': "Uncapped Fast Bowlers Set 6",
+    'UFA7': "Uncapped Fast Bowlers Set 7",
+    'UFA8': "Uncapped Fast Bowlers Set 8",
+    'UFA9': "Uncapped Fast Bowlers Set 9",
+    'UFA10': "Uncapped Fast Bowlers Set 10",
+    
+    # Uncapped Spinners
+    'USP1': "Uncapped Spinners Set 1",
+    'USP2': "Uncapped Spinners Set 2",
+    'USP3': "Uncapped Spinners Set 3",
+    'USP4': "Uncapped Spinners Set 4",
+    'USP5': "Uncapped Spinners Set 5",
+    
+    # Uncapped Wicketkeepers
+    'UWK1': "Uncapped Wicketkeepers Set 1",
+    'UWK2': "Uncapped Wicketkeepers Set 2",
+    'UWK3': "Uncapped Wicketkeepers Set 3",
+    'UWK4': "Uncapped Wicketkeepers Set 4",
+    'UWK5': "Uncapped Wicketkeepers Set 5",
+    'UWK6': "Uncapped Wicketkeepers Set 6",
 }
 
 def get_set_name(set_abbreviation: Union[str, List[str]]) -> Union[str, List[str]]:
@@ -402,7 +503,3 @@ def get_set_name(set_abbreviation: Union[str, List[str]]) -> Union[str, List[str
     if isinstance(set_abbreviation, list):
         return [SET_ABBREVIATION_MAPPING.get(abbr, "Unknown Set") for abbr in set_abbreviation]
     return SET_ABBREVIATION_MAPPING.get(set_abbreviation, "Unknown Set")
-
-def safe_prin(s):
-    print(s.encode('utf-8', errors='ignore').decode('utf-8'))
-

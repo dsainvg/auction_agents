@@ -123,7 +123,7 @@ def trademaster(state: AgentState) -> AgentState:
         # Calculate bid amount
         if current_bid_obj is None:
             # First bid - minimum raise is zero
-            current_price = current_player.base_price
+            current_price = current_player.reserve_price_lakh / 100  # Convert lakhs to crores
             if other_bid.is_raise:
                 if other_bid.is_normal:
                     bid_amount = current_price  # First bid at base price

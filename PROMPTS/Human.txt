@@ -1,7 +1,13 @@
 You are given the specific player and current auction context. Use the system prompt rules and return exactly one JSON object (nothing else).
 
 Player: ${player_name}
-Base Price: ${base_price} Cr
+Specialism: ${specialism}
+Batting Style: ${batting_style}
+Bowling Style: ${bowling_style}
+International Experience: Test Caps: ${test_caps}, ODI Caps: ${odi_caps}, T20 Caps: ${t20_caps}
+IPL Experience: ${ipl_matches} matches
+Player Status: ${player_status}
+Reserve Price: ${reserve_price_lakh} Lakhs (${reserve_price_cr} Cr)
 Current Price: ${current_price} Cr
 Minimum Bid Raise: ${min_bid_raise} Cr
 Price if normal raise: ${next_bid_price} Cr
