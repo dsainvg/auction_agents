@@ -4,7 +4,8 @@ import pickle
 import os
 from datetime import datetime
 from langgraph.graph import StateGraph, END
-from utils import AgentState, load_player_data, get_raise_amount, Player, Team
+from utils import AgentState, get_raise_amount, Player, Team
+from data_loader import load_player_data
 from host import host
 from host_assistant import host_assistant
 from agentpool import agent_pool
