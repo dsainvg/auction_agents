@@ -4,8 +4,8 @@ import pickle
 import os
 from datetime import datetime
 from langgraph.graph import StateGraph, END
-from utils import AgentState, get_raise_amount, Player, Team
-from data_loader import load_player_data
+from utils import AgentState, get_raise_amount, Player, load_api_keys
+from data_loader import load_player_data, initialize_auction
 from host import host
 from host_assistant import host_assistant
 from agentpool import agent_pool
@@ -14,6 +14,9 @@ import plotly.graph_objects as go
 
 # Suppress warnings
 warnings.filterwarnings('ignore')
+
+# Load API keys
+load_api_keys()
 
 def init_session_state():
     """Initialize session state variables"""
@@ -24,7 +27,7 @@ def init_session_state():
     if 'teams' not in st.session_state:
         st.session_state.teams = {'CSK': [], 'DC': [], 'GT': [], 'KKR': [], 'LSG': [], 'MI': [], 'PBKS': [], 'RR': [], 'RCB': [], 'SRH': []}
     if 'budgets' not in st.session_state:
-        st.session_state.budgets = {'CSK': 100.0, 'DC': 100.0, 'GT': 100.0, 'KKR': 100.0, 'LSG': 100.0, 'MI': 100.0, 'PBKS': 100.0, 'RR': 100.0, 'RCB': 100.0, 'SRH': 100.0}
+        st.session_state.budgets = {'CSK': 160.0, 'DC': 160.0, 'GT': 160.0, 'KKR': 160.0, 'LSG': 160.0, 'MI': 160.0, 'PBKS': 160.0, 'RR': 160.0, 'RCB': 160.0, 'SRH': 160.0}
     if 'host_active' not in st.session_state:
         st.session_state.host_active = False
     if 'current_state' not in st.session_state:
@@ -39,19 +42,20 @@ def init_session_state():
         st.session_state.auction_completed = False
     if 'unsold_players' not in st.session_state:
         st.session_state.unsold_players = []
-    if 'save_preallocation' not in st.session_state:
-        st.session_state.save_preallocation = True
 
 def create_graph():
     """Create and return the LangGraph"""
     graph_builder = StateGraph(AgentState)
     
+    graph_builder.add_node("data_loader", initialize_auction)
     graph_builder.add_node("host", lambda state: state)
     graph_builder.add_node("host_assistant", host_assistant)
     graph_builder.add_node("bidder_pool", agent_pool)
     graph_builder.add_node("trademaster", trademaster)
     
-    graph_builder.set_entry_point("host")
+    graph_builder.set_entry_point("data_loader")
+    
+    graph_builder.add_edge("data_loader", "host")
     
     graph_builder.add_conditional_edges(
         "host", host,
@@ -90,12 +94,10 @@ def process_state_update(state, node_name=None):
     print(f"[DEBUG] OtherTeamBidding: {other_bid}")
     print(f"[DEBUG] Has reason attr: {hasattr(other_bid, 'reason') if other_bid else False}")
     
-    # Update team info and budgets - handle both list and Team class
+    # Update team info and budgets
     for team in ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']:
-        team_data = state.get(team, [])
-        if team_data:
-            st.session_state.teams[team] = team_data
-        budget = state.get(f"{team}_Budget", 100.0)
+        st.session_state.teams[team] = state.get(team, [])
+        budget = state.get(f"{team}_Budget", 160.0)
         st.session_state.budgets[team] = budget
     
     # Update unsold players
@@ -135,25 +137,9 @@ def process_state_update(state, node_name=None):
         st.session_state.bid_history.append(bid_entry)
         print(f"[DEBUG] Added {bid_action}: {bid_entry}")
     
-    # Check for finalized sales - handle both list and Team class
+    # Check for finalized sales
     for team in ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']:
-        team_data = state.get(team, [])
-        team_players = []
-        
-        # Extract players from Team class or list
-        if isinstance(team_data, Team):
-            for attr in ['Captain', 'WicketKeeper', 'StrikingOpener', 'NonStrikingOpener',
-                       'OneDownBatsman', 'TwoDownBatsman', 'ThreeDownBatsman', 'FourDownBatsman',
-                       'FiveDownBatsman', 'SixDownBatsman', 'SevenDownBatsman', 'EightDownBatsman', 'NineDownBatsman']:
-                p = getattr(team_data, attr, None)
-                if p and isinstance(p, Player):
-                    team_players.append(p)
-            for attr in ['PowerplayBowlers', 'MiddleOversBowlers', 'DeathOversBowlers', 'PlayersNotInPlayingXI']:
-                plist = getattr(team_data, attr, [])
-                if plist:
-                    team_players.extend(plist)
-        elif isinstance(team_data, list):
-            team_players = team_data
+        team_players = state.get(team, [])
         
         for player in team_players:
             if hasattr(player, 'sold_price') and player.sold_price > 0:
@@ -212,74 +198,78 @@ def render_ui():
     st.divider()
     
     # Budget bars with plotly
-    if any(b < 100.0 for b in st.session_state.budgets.values()):
+    if any(b < 160.0 for b in st.session_state.budgets.values()):
         st.subheader("💰 Team Budgets")
         
+        teams = ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']
         fig = go.Figure()
-        team_colors_map = {'CSK': '#FFFF00', 'DC': '#000080', 'GT': '#1F4788', 'KKR': '#663399', 'LSG': '#0066cc', 'MI': '#0052cc', 'PBKS': '#FF6600', 'RR': '#FF69B4', 'RCB': '#FF0000', 'SRH': '#FF6600'}
+        
         player_colors = ['#FF6B6B', '#FFB84D', '#4ECDC4', '#95E1D3', '#F38181', '#AA96DA', '#FCBAD3', '#FFFFD2']
         
-        for idx, team in enumerate(['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']):
-            budget = st.session_state.budgets[team]
-            spent = 100.0 - budget
-            team_data = st.session_state.teams[team]
+        # Find max players to know how many traces we need
+        max_players = max(len(st.session_state.teams[t]) for t in teams) if teams else 0
+        
+        # Add traces for each player slot across all teams
+        for p_idx in range(max_players):
+            x_vals = []
+            y_vals = []
+            hover_texts = []
+            for team in teams:
+                players = st.session_state.teams[team]
+                if p_idx < len(players):
+                    player = players[p_idx]
+                    price = getattr(player, 'sold_price', 0)
+                    x_vals.append(price)
+                    y_vals.append(team)
+                    hover_texts.append(f'<b>{player.name}</b><br>₹{price:.2f}Cr')
+                else:
+                    x_vals.append(0)
+                    y_vals.append(team)
+                    hover_texts.append('')
             
-            # Extract players
-            players = []
-            if isinstance(team_data, Team):
-                for attr in ['Captain', 'WicketKeeper', 'StrikingOpener', 'NonStrikingOpener',
-                           'OneDownBatsman', 'TwoDownBatsman', 'ThreeDownBatsman', 'FourDownBatsman',
-                           'FiveDownBatsman', 'SixDownBatsman', 'SevenDownBatsman', 'EightDownBatsman', 'NineDownBatsman']:
-                    p = getattr(team_data, attr, None)
-                    if p and isinstance(p, Player):
-                        players.append(p)
-                for attr in ['PowerplayBowlers', 'MiddleOversBowlers', 'DeathOversBowlers', 'PlayersNotInPlayingXI']:
-                    plist = getattr(team_data, attr, [])
-                    if plist:
-                        players.extend(plist)
-                players = list({p.name: p for p in players}.values())
-            elif isinstance(team_data, list):
-                players = team_data
-            else:
-                players = []
-            
-            # Add individual player bars with different colors
-            for pidx, player in enumerate(players):
-                price = getattr(player, 'sold_price', 0)
-                color = player_colors[pidx % len(player_colors)]
-                fig.add_trace(go.Bar(
-                    y=[team],
-                    x=[price],
-                    orientation='h',
-                    name=player.name,
-                    marker=dict(color=color),
-                    hovertemplate=f'<b>{player.name}</b><br>₹{price:.2f}Cr<extra></extra>',
-                    showlegend=False
-                ))
-            
-            # Remaining bar
             fig.add_trace(go.Bar(
-                y=[team],
-                x=[budget],
+                name=f'Player {p_idx+1}',
+                y=y_vals,
+                x=x_vals,
                 orientation='h',
-                name='Remaining' if idx == 0 else '',
-                marker=dict(color='lightgray'),
-                text=f'₹{budget:.1f}Cr',
-                textposition='inside',
-                hovertemplate=f'<b>{team} - Remaining</b><br>₹{budget:.2f}Cr<extra></extra>',
-                showlegend=(idx == 0)
+                marker=dict(color=player_colors[p_idx % len(player_colors)]),
+                hovertemplate='%{text}<extra></extra>',
+                text=hover_texts,
+                showlegend=False
             ))
+            
+        # Add remaining budget trace
+        rem_x = []
+        rem_y = []
+        rem_text = []
+        for team in teams:
+            budget = st.session_state.budgets[team]
+            rem_x.append(budget)
+            rem_y.append(team)
+            rem_text.append(f'₹{budget:.1f}Cr')
+            
+        fig.add_trace(go.Bar(
+            name='Remaining',
+            y=rem_y,
+            x=rem_x,
+            orientation='h',
+            marker=dict(color='lightgray'),
+            text=rem_text,
+            textposition='inside',
+            hovertemplate='<b>%{y} - Remaining</b><br>₹%{x:.2f}Cr<extra></extra>',
+            showlegend=True
+        ))
         
         fig.update_layout(
             barmode='stack',
-            xaxis=dict(range=[0, 100], title='Budget (Crores)', fixedrange=True),
-            yaxis=dict(title='', fixedrange=True),
-            height=200,
+            xaxis=dict(range=[0, 160], title='Budget (Crores)', fixedrange=True),
+            yaxis=dict(title='', fixedrange=True, categoryorder='array', categoryarray=list(reversed(teams))),
+            height=600,
             margin=dict(l=80, r=20, t=20, b=40),
             hovermode='closest'
         )
         
-        st.plotly_chart(fig, width='stretch', config={'displayModeBar': False})
+        st.plotly_chart(fig, use_container_width=True, config={'displayModeBar': False})
     
     st.divider()
     
@@ -289,31 +279,12 @@ def render_ui():
     team_col1, team_col2, team_col3, team_col4, team_col5 = st.columns(5)
     for idx, (col, team) in enumerate(zip([team_col1, team_col2, team_col3, team_col4, team_col5], ['CSK', 'DC', 'GT', 'KKR', 'LSG'])):
         with col:
-            team_data = st.session_state.teams[team]
+            players = st.session_state.teams[team]
             budget = st.session_state.budgets[team]
-            spent = 100.0 - budget
+            spent = 160.0 - budget
             
             team_colors = {'CSK': '🟡', 'DC': '🔵', 'GT': '🔷', 'KKR': '🟣', 'LSG': '🔹', 'MI': '🔵', 'PBKS': '🟠', 'RR': '🔴', 'RCB': '❤️', 'SRH': '🟠'}
             team_circle = team_colors.get(team, '⚪')
-            
-            # Extract players - handle both list and Team class
-            players = []
-            if isinstance(team_data, Team):
-                for attr in ['Captain', 'WicketKeeper', 'StrikingOpener', 'NonStrikingOpener',
-                           'OneDownBatsman', 'TwoDownBatsman', 'ThreeDownBatsman', 'FourDownBatsman',
-                           'FiveDownBatsman', 'SixDownBatsman', 'SevenDownBatsman', 'EightDownBatsman', 'NineDownBatsman']:
-                    p = getattr(team_data, attr, None)
-                    if p and isinstance(p, Player):
-                        players.append(p)
-                for attr in ['PowerplayBowlers', 'MiddleOversBowlers', 'DeathOversBowlers', 'PlayersNotInPlayingXI']:
-                    plist = getattr(team_data, attr, [])
-                    if plist:
-                        players.extend(plist)
-                players = list({p.name: p for p in players}.values())
-            elif isinstance(team_data, list):
-                players = team_data
-            else:
-                players = []
             
             st.markdown(f"### {team_circle} {team}")
             st.metric("Players", len(players))
@@ -324,7 +295,7 @@ def render_ui():
                 with st.expander("View Squad", expanded=False):
                     for player in players:
                         price = getattr(player, 'sold_price', 0)
-                        role = getattr(player, 'role', 'N/A')
+                        role = getattr(player, 'specialism', 'N/A')
                         reason = getattr(player, 'reason_for_purchase', None)
                         
                         if reason:
@@ -338,31 +309,12 @@ def render_ui():
     team_col6, team_col7, team_col8, team_col9, team_col10 = st.columns(5)
     for idx, (col, team) in enumerate(zip([team_col6, team_col7, team_col8, team_col9, team_col10], ['MI', 'PBKS', 'RR', 'RCB', 'SRH'])):
         with col:
-            team_data = st.session_state.teams[team]
+            players = st.session_state.teams[team]
             budget = st.session_state.budgets[team]
-            spent = 100.0 - budget
+            spent = 160.0 - budget
             
             team_colors = {'CSK': '🟡', 'DC': '🔵', 'GT': '🔷', 'KKR': '🟣', 'LSG': '🔹', 'MI': '🔵', 'PBKS': '🟠', 'RR': '🔴', 'RCB': '❤️', 'SRH': '🟠'}
             team_circle = team_colors.get(team, '⚪')
-            
-            # Extract players - handle both list and Team class
-            players = []
-            if isinstance(team_data, Team):
-                for attr in ['Captain', 'WicketKeeper', 'StrikingOpener', 'NonStrikingOpener',
-                           'OneDownBatsman', 'TwoDownBatsman', 'ThreeDownBatsman', 'FourDownBatsman',
-                           'FiveDownBatsman', 'SixDownBatsman', 'SevenDownBatsman', 'EightDownBatsman', 'NineDownBatsman']:
-                    p = getattr(team_data, attr, None)
-                    if p and isinstance(p, Player):
-                        players.append(p)
-                for attr in ['PowerplayBowlers', 'MiddleOversBowlers', 'DeathOversBowlers', 'PlayersNotInPlayingXI']:
-                    plist = getattr(team_data, attr, [])
-                    if plist:
-                        players.extend(plist)
-                players = list({p.name: p for p in players}.values())
-            elif isinstance(team_data, list):
-                players = team_data
-            else:
-                players = []
             
             st.markdown(f"### {team_circle} {team}")
             st.metric("Players", len(players))
@@ -373,7 +325,7 @@ def render_ui():
                 with st.expander("View Squad", expanded=False):
                     for player in players:
                         price = getattr(player, 'sold_price', 0)
-                        role = getattr(player, 'role', 'N/A')
+                        role = getattr(player, 'specialism', 'N/A')
                         reason = getattr(player, 'reason_for_purchase', None)
                         
                         if reason:
@@ -478,9 +430,9 @@ def render_ui():
 def start_auction():
     """Initialize auction stream"""
     print("[DEBUG] Starting auction...")
-    initial_state = {
-        'RemainingPlayers': load_player_data(),
-        'RemainingSets': ['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10', 'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4', 'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15', 'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9', 'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10', 'USP1', 'USP2', 'USP3', 'USP4', 'USP5', 'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6'],
+    initial_state: AgentState = {
+        'RemainingPlayers': {},
+        'RemainingSets': [],
         'CurrentSet': None,
         'RemainingPlayersInSet': None,
         'AuctionStatus': False,
@@ -499,16 +451,16 @@ def start_auction():
         'RCB': [],
         'SRH': [],
         'UnsoldPlayers': [],
-        'CSK_Budget': 100.0,
-        'DC_Budget': 100.0,
-        'GT_Budget': 100.0,
-        'KKR_Budget': 100.0,
-        'LSG_Budget': 100.0,
-        'MI_Budget': 100.0,
-        'PBKS_Budget': 100.0,
-        'RR_Budget': 100.0,
-        'RCB_Budget': 100.0,
-        'SRH_Budget': 100.0,
+        'CSK_Budget': 160.0,
+        'DC_Budget': 160.0,
+        'GT_Budget': 160.0,
+        'KKR_Budget': 160.0,
+        'LSG_Budget': 160.0,
+        'MI_Budget': 160.0,
+        'PBKS_Budget': 160.0,
+        'RR_Budget': 160.0,
+        'RCB_Budget': 160.0,
+        'SRH_Budget': 160.0,
         'Messages': []
     }
     
@@ -562,23 +514,13 @@ def main():
     
     st.title("🏏 IPL Mock Auction Dashboard")
     
-    # Pre-auction settings
-    if not st.session_state.auction_running and not st.session_state.auction_completed:
-        with st.expander("⚙️ Auction Settings", expanded=False):
-            st.session_state.save_preallocation = st.checkbox(
-                "Save pre-allocation state (before team manager)",
-                value=st.session_state.save_preallocation,
-                key="save_preallocation_checkbox",
-                help="Auto-save auction state before team allocation process"
-            )
-    
     # Control buttons
     col1, col2, col3, col4 = st.columns([1, 1, 1, 1])
     with col1:
         if st.button("🚀 Start Mock Auction", key="start_btn", disabled=st.session_state.auction_running):
             st.session_state.bid_history = []
             st.session_state.teams = {'CSK': [], 'DC': [], 'GT': [], 'KKR': [], 'LSG': [], 'MI': [], 'PBKS': [], 'RR': [], 'RCB': [], 'SRH': []}
-            st.session_state.budgets = {'CSK': 100.0, 'DC': 100.0, 'GT': 100.0, 'KKR': 100.0, 'LSG': 100.0, 'MI': 100.0, 'PBKS': 100.0, 'RR': 100.0, 'RCB': 100.0, 'SRH': 100.0}
+            st.session_state.budgets = {'CSK': 160.0, 'DC': 160.0, 'GT': 160.0, 'KKR': 160.0, 'LSG': 160.0, 'MI': 160.0, 'PBKS': 160.0, 'RR': 160.0, 'RCB': 160.0, 'SRH': 160.0}
             st.session_state.unsold_players = []
             start_auction()
     

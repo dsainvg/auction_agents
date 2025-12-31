@@ -100,26 +100,6 @@ class CompetitiveBidInfo(BidInfo):
     raised_amount: float = 0.0 # Custom raised amount; ignored if not applicable
     reason: str = "" # Rationale for the bid decision
     
-@dataclass
-class Team:
-    Name: Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']
-    Captain: Player
-    WicketKeeper: Player
-    StrikingOpener: Player
-    NonStrikingOpener: Player
-    OneDownBatsman: Player
-    TwoDownBatsman: Player
-    ThreeDownBatsman: Player
-    FourDownBatsman: Player
-    FiveDownBatsman: Player
-    SixDownBatsman: Player
-    SevenDownBatsman: Player
-    EightDownBatsman: Player
-    NineDownBatsman: Player
-    PowerplayBowlers: List[Player]
-    MiddleOversBowlers: List[Player]
-    DeathOversBowlers: List[Player]
-    PlayersNotInPlayingXI: List[Player] 
 class AgentState(TypedDict):
     """State schema for the agent."""
     RemainingPlayers: Dict[Literal['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10', 'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4', 'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15', 'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9', 'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10', 'USP1', 'USP2', 'USP3', 'USP4', 'USP5', 'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6'],List[Player]]
@@ -131,16 +111,16 @@ class AgentState(TypedDict):
     CurrentBid: Union[CurrentBidInfo, None] = None
     OtherTeamBidding: Optional[CompetitiveBidInfo] = None
     Round :int = 0
-    CSK: Union[List[Player],Team] = []
-    DC: Union[List[Player],Team] = []
-    GT: Union[List[Player],Team] = []
-    KKR: Union[List[Player],Team] = []
-    LSG: Union[List[Player],Team] = []
-    MI: Union[List[Player],Team] = []
-    PBKS: Union[List[Player],Team] = []
-    RR: Union[List[Player],Team] = []
-    RCB: Union[List[Player],Team] = []
-    SRH: Union[List[Player],Team] = []
+    CSK: List[Player] = []
+    DC: List[Player] = []
+    GT: List[Player] = []
+    KKR: List[Player] = []
+    LSG: List[Player] = []
+    MI: List[Player] = []
+    PBKS: List[Player] = []
+    RR: List[Player] = []
+    RCB: List[Player] = []
+    SRH: List[Player] = []
     UnsoldPlayers: List[Player] = []
     CSK_Budget: float
     DC_Budget: float
@@ -167,43 +147,7 @@ def prettyprint(agent_state: AgentState) -> None:
     for key, value in agent_state.items():
         print(f"\n{key.upper()}:")
 
-        # Special handling for Team objects for a cleaner display
-        if key in ['TeamA', 'TeamB', 'TeamC'] and isinstance(value, Team):
-            print(f"  Team: {value.Name}")
-            
-            unique_players = set()
-
-            def get_player_details_str(player: Player, include_in_count: bool = True) -> str:
-                """Format a player string and optionally count toward playing XI."""
-                if player:
-                    if include_in_count:
-                        unique_players.add(player.name)
-                    return f"{player.name} ({player.specialism}, sold for {player.sold_price:.2f} Cr)"
-                return "None"
-
-            # Display each role and player
-            for field_name, field_value in value.__dict__.items():
-                if field_name == 'Name':
-                    continue
-                
-                is_bench = field_name == 'PlayersNotInPlayingXI'
-
-                if isinstance(field_value, Player):
-                    print(f"  - {field_name}: {get_player_details_str(field_value, not is_bench)}")
-                elif isinstance(field_value, list):
-                    print(f"  - {field_name}:")
-                    if not field_value:
-                        print("    - (empty)")
-                    else:
-                        for player in field_value:
-                            print(f"    - {get_player_details_str(player, not is_bench)}")
-
-            num_unique_players = len(unique_players)
-            print(f"\n  Unique Players in Team: {num_unique_players}")
-            if num_unique_players > 11:
-                print(f"  WARNING: Team has {num_unique_players} players, which is more than the typical 11.")
-
-        elif key == "Messages":
+        if key == "Messages":
             if not value:
                 print("  (empty)")
             else:
@@ -248,11 +192,11 @@ def get_raise_amount(current_price: float) -> float:
     else:
         return 1.5  # Raise by 1.5 crore
 
-def competitiveBidMaker(team: Literal['TeamA', 'TeamB', 'TeamC'], player: Player, bid_decision: BidderInput) -> CompetitiveBidInfo:
+def competitiveBidMaker(team: Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH'], player: Player, bid_decision: BidderInput) -> CompetitiveBidInfo:
     """Create a CompetitiveBidInfo object for a team's bid.
     
     Args:
-        team: The team making the bid (TeamA, TeamB, or TeamC).
+        team: The team making the bid.
         player: The player being bid on.
         bid_decision: Bid decision in the format:
             {

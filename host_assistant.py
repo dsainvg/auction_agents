@@ -1,5 +1,4 @@
 from utils import AgentState, AIMessage
-import random
 
 def host_assistant(state: AgentState) -> AgentState:
     """Host assistant function to update the agent state with current player selection."""
@@ -34,7 +33,7 @@ def host_assistant(state: AgentState) -> AgentState:
             print("[HOST_ASSISTANT] Message:\n" + joined, flush=True)
             state["Messages"] = [AIMessage(content=joined)]
             return state
-        state["CurrentSet"] = random.choice(available_sets)
+        state["CurrentSet"] = available_sets[0]
         state["RemainingPlayersInSet"] = state["RemainingPlayers"][state["CurrentSet"]].copy()
         state['RemainingSets'].remove(state["CurrentSet"])
         state["RemainingPlayers"][state["CurrentSet"]] = []
@@ -43,7 +42,7 @@ def host_assistant(state: AgentState) -> AgentState:
     
     # Select a player from the current set
     if state['RemainingPlayersInSet']:
-        state['CurrentPlayer'] = random.choice(state['RemainingPlayersInSet'])
+        state['CurrentPlayer'] = state['RemainingPlayersInSet'][0]
         state['RemainingPlayersInSet'].remove(state['CurrentPlayer'])
         state['AuctionStatus'] = True
         message_lines.append(f"Selected player: {state['CurrentPlayer'].name} ({state['CurrentPlayer'].specialism})")

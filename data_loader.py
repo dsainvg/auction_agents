@@ -136,7 +136,7 @@ def load_retained_players() -> Dict[Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI
                     status=True,  # Already sold
                     sold_price=sold_price,
                     sold_team=team,
-                    reason_for_purchase="Retained"
+                    reason_for_purchase=row['Reason_for_Retention'] if 'Reason_for_Retention' in row else "Retained"
                 )
                 
                 if team in retained_by_team:
@@ -149,11 +149,37 @@ def load_retained_players() -> Dict[Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI
     
     return retained_by_team
 
+def load_set_order() -> List[str]:
+    """Load the order of sets from orderOfSets.csv."""
+    set_order = []
+    csv_path = os.path.join(os.path.dirname(__file__), "DB", "orderOfSets.csv")
+    try:
+        with open(csv_path, 'r', encoding='utf-8') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                if '2025_Set' in row and row['2025_Set']:
+                    set_order.append(row['2025_Set'])
+    except Exception as e:
+        print(f"Error loading set order: {e}")
+        # Fallback to a default order if file not found
+        set_order = ['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 
+                    'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10',
+                    'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4',
+                    'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15',
+                    'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9',
+                    'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10',
+                    'USP1', 'USP2', 'USP3', 'USP4', 'USP5',
+                    'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6']
+    return set_order
+
 def initialize_auction(state: AgentState) -> AgentState:
     """Initialize auction state by loading all player data and retained players."""
     
     print("[DATA_LOADER] Loading player data from CSV...")
     players_by_set = load_player_data()
+    
+    print("[DATA_LOADER] Loading set order from CSV...")
+    set_order = load_set_order()
     
     print("[DATA_LOADER] Loading retained players...")
     retained_by_team = load_retained_players()
@@ -169,14 +195,7 @@ def initialize_auction(state: AgentState) -> AgentState:
     
     # Initialize state
     state['RemainingPlayers'] = players_by_set
-    state['RemainingSets'] = ['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 
-                               'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10',
-                               'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4',
-                               'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15',
-                               'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9',
-                               'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10',
-                               'USP1', 'USP2', 'USP3', 'USP4', 'USP5',
-                               'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6']
+    state['RemainingSets'] = set_order
     state['CurrentSet'] = None
     state['RemainingPlayersInSet'] = None
     state['AuctionStatus'] = False
