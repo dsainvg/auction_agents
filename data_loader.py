@@ -119,20 +119,20 @@ def load_retained_players() -> Dict[Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI
                 team = row['Team']
                 sold_price = float(row['Sold']) if row['Sold'] else 0.0
                 
-                # Create a Player object for retained player with minimal info
+                # Create a Player object for retained player with full info from CSV
                 player = Player(
                     name=row['Players'],
-                    specialism=row['Type'],  # BAT, BOWL, AR
-                    batting_style="",
-                    bowling_style="",
-                    test_caps=0,
-                    odi_caps=0,
-                    t20_caps=0,
-                    ipl_matches=0,
-                    player_status="Retained",
+                    specialism=row['Specialism'],
+                    batting_style=row['Batting_Style'] if 'Batting_Style' in row else "",
+                    bowling_style=row['Bowling_Style'] if 'Bowling_Style' in row else "",
+                    test_caps=int(float(row['Test_Caps'])) if 'Test_Caps' in row and row['Test_Caps'] else 0,
+                    odi_caps=int(float(row['ODI_Caps'])) if 'ODI_Caps' in row and row['ODI_Caps'] else 0,
+                    t20_caps=int(float(row['T20_Caps'])) if 'T20_Caps' in row and row['T20_Caps'] else 0,
+                    ipl_matches=int(float(row['IPL_Matches'])) if 'IPL_Matches' in row and row['IPL_Matches'] else 0,
+                    player_status=row['Player_Status'] if 'Player_Status' in row else "Retained",
                     reserve_price_lakh=0.0,
                     set="Retained",
-                    stats="",
+                    stats=row['Reason_for_Retention'] if 'Reason_for_Retention' in row else "",
                     status=True,  # Already sold
                     sold_price=sold_price,
                     sold_team=team,
