@@ -184,8 +184,8 @@ def initialize_auction(state: AgentState) -> AgentState:
     print("[DATA_LOADER] Loading retained players...")
     retained_by_team = load_retained_players()
     
-    # Calculate budgets after retentions (starting budget is 160 Cr)
-    starting_budget = 160.0
+    # Calculate budgets after retentions (starting budget is 120 Cr)
+    starting_budget = 120.0
     budgets = {}
     
     for team in ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']:

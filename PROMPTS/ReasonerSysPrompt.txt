@@ -5,10 +5,11 @@ Your job is to justify, in a single compact paragraph, why a franchise should bu
 You MUST follow these instructions:
 
 - Output exactly ONE paragraph (no headings, no line breaks, no bullet formatting).
-- Inside that one paragraph, clearly express around 10 distinct short points or ideas, separated naturally with commas and full stops, but NOT as a numbered/bulleted list.
+- Inside that one paragraph, provide a comprehensive analysis covering the points below, separated naturally with commas and full stops.
 - Keep the tone analytical but fan‑friendly: mix cricketing logic with commercial and brand impact.
+- Aim for a high-density paragraph that feels like a professional auction summary.
 
-Each paragraph must, in some form, cover ALL of the following aspects:
+Each paragraph must cover the following aspects:
 
 1 Player’s primary specialty and role:
    - Reference their `specialism`, `batting_style`, and `bowling_style` (e.g., power‑hitter, anchor, finisher, strike bowler, new‑ball bowler, middle‑overs enforcer, death‑overs specialist, or three‑dimensional all‑rounder).
@@ -35,6 +36,7 @@ Each paragraph must, in some form, cover ALL of the following aspects:
 
 6 Squad construction and risk management:
    - Briefly explain how buying this player helps the franchise hedge injury/form risks, rotate players, or manage workload across a long season.
+   - Mention how this purchase contributes to reaching the mandatory 16-player minimum or staying within the 25-player maximum.
 
 7 Future upside and development:
    - Include one short actionable suggestion for how to use or develop the player:
@@ -57,3 +59,4 @@ Global constraints:
 - One paragraph only, no lists, no numbering, no extra commentary before or after.
 - Be specific: mention the team name, the player name, their role, and the price explicitly.
 - Stay within 3–6 sentences total, but pack each sentence with clear, distinct points as above.
+- Avoid repetitive phrasing (e.g., "This player is a good buy because...") and instead use varied, professional sports journalism style.

@@ -103,15 +103,27 @@ def agent_pool(state: AgentState) -> AgentState:
             # Prepare context for this team
             budget = state.get(f"{team_id}_Budget", 0.0)
             squad = state.get(team_id, [])
-            # Build a minimal squad summary containing only player name and reason_for_purchase
+            # Build a detailed squad summary for own team
             squad_short = []
             for p in squad:
                 try:
                     name = p.name
                 except Exception:
                     name = str(p)
+                
+                # Include more details for own team to help with strategy
+                specialism = getattr(p, 'specialism', 'Unknown')
+                player_status = getattr(p, 'player_status', 'Unknown')
+                sold_price = getattr(p, 'sold_price', 0.0)
                 reason = getattr(p, 'reason_for_purchase', None)
-                squad_short.append({"name": name, "reason": reason})
+                
+                squad_short.append({
+                    "name": name, 
+                    "specialism": specialism,
+                    "player_status": player_status,
+                    "sold_price": sold_price,
+                    "reason": reason
+                })
             player_stats = current_player.stats
             
             # Update pricing for this team's evaluation
@@ -158,7 +170,9 @@ def agent_pool(state: AgentState) -> AgentState:
             remaining_sets_full_names = get_set_name(remaining_sets_list)
             remaining_sets_str = ", ".join(remaining_sets_full_names) if remaining_sets_full_names else "None"
 
-            remaining_in_set_players = str(state.get('RemainingPlayersInSet', []))
+            # Format remaining players in set more cleanly
+            remaining_players_list = state.get('RemainingPlayersInSet', [])
+            remaining_in_set_players = ", ".join([f"{p.name} ({p.specialism})" for p in remaining_players_list]) if remaining_players_list else "None"
 
             # Format other teams' bid history for this player
             other_teams_intentions = ""
@@ -229,6 +243,8 @@ def agent_pool(state: AgentState) -> AgentState:
                 'min_bid_raise': min_bid_raise,
                 'next_bid_price': next_bid_price,
                 'team_composition': json.dumps(squad_short, ensure_ascii=False),
+                'slots_filled': len(squad),
+                'slots_remaining': 25 - len(squad),
                 'budget': budget,
                 'other_team_compositions': other_team_compositions,
                 'other_team_budgets': other_team_budgets,

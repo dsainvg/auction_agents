@@ -185,12 +185,14 @@ def prettyprint(agent_state: AgentState) -> None:
 
 def get_raise_amount(current_price: float) -> float:
     """Determine the raise amount based on current price."""
-    if current_price < 2.0:
-        return 0.25  # Raise by 0.1 crore
+    if current_price < 1.0:
+        return 0.05  # Raise by 5 lakh
+    elif current_price < 2.0:
+        return 0.10  # Raise by 10 lakh
     elif current_price < 5.0:
-        return 0.75  # Raise by 0.75 crore
+        return 0.20  # Raise by 20 lakh
     else:
-        return 1.5  # Raise by 1.5 crore
+        return 0.25  # Raise by 25 lakh
 
 def competitiveBidMaker(team: Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH'], player: Player, bid_decision: BidderInput) -> CompetitiveBidInfo:
     """Create a CompetitiveBidInfo object for a team's bid.

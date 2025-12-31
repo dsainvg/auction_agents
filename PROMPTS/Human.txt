@@ -12,6 +12,8 @@ Current Price: ${current_price} Cr
 Minimum Bid Raise: ${min_bid_raise} Cr
 Price if normal raise: ${next_bid_price} Cr
 Team composition: ${team_composition}
+Slots filled: ${slots_filled}
+Slots remaining: ${slots_remaining}
 
 Other Team Compositions:
 ${other_team_compositions}
@@ -37,5 +39,6 @@ ${player_stats}
 
 Constraints reminder:
 - Do not recommend a total bid above your `${budget}`.
-- Never recommend spending more than 25 Cr on a single player (total bid <= 25); if `${budget}` < 25, obey `${budget}`.
-
+- Aim for a squad size of 16 to 25 players.
+- If your current squad has 25 players, you MUST pass (`is_raise`: false).
+- Ensure enough budget remains to reach at least 16 players with a balanced squad.
