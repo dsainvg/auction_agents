@@ -1,28 +1,32 @@
 ================================================================================
-IPL PLAYER PROFILE: KAGISO RABADA
+IPL PLAYER PROFILE: SARFARAZ KHAN
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Kagiso Rabada
-  IPL Debut                : 2017
-  Date of Birth            : 25 May 1995
-  Total IPL Matches        : 84
-  Role                     : WK-Batter
-  Nationality              : South African
+  Player Name              : Sarfaraz Khan
+  IPL Debut                : 2015
+  Date of Birth            : 22 October 1997
+  Total IPL Matches        : 50
+  Role                     : Batter
+  Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    One of the most lethal fast bowlers in world cricket, Kagiso Rabada is
-  known for consistently clocking speeds above 140 kmph and delivering
-  match-winning performances. With over 200 international appearances for
-  South Africa and more than 550 wickets across formats, his ability to turn
-  games single-handedly is well-documented. He has been a dominant force in
-  the IPL as well, picking up 100+ wickets while playing for Delhi Capitals
-  (2017-2021) and Punjab Kings (2022-2024). His best IPL season came in 2020,
-  where he scalped 30 wickets in 17 matches to win the Purple Cap and help DC
-  reach their first-ever IPL final. To strengthen their bowling attack,
-  Gujarat Titans secured Rabada for INR 10.75 Crore ahead of TATA IPL 2025.
+    The hard-hitting Sarfaraz Khan became the youngest to be picked up by a
+  franchise in the 2015 IPL Auction by Royal Challengers Bangalore and spent
+  four seasons under the tutelage of Virat Kohli, where he managed to make a
+  mark with his unique batting. Sarfaraz has the experience of playing against
+  opposition on pitches across the world thanks to exposure at the Under-19
+  level. After making a switch from Mumbai to Uttar Pradesh in domestic
+  cricket and then back to Mumbai, Sarfaraz is looking to revive his T20
+  standing. He was picked up by PBKS for INR 25 lakhs at the player auctions
+  prior to IPL 2019 and was retained ahead of the 2020 season. In 2019, he
+  played 8 games and made 180 runs. Sarfaraz is highly talented and he has it
+  in him to get that one big knock which will pitchfork him into prominence.
+  2020 was an average season for the righthander but he will be keeping his
+  hopes alive and back his abilities to support the PBKS batting in the 14th
+  edition with his unorthodox shots.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -32,15 +36,13 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    84    |    14    |   215    |    44    |  11.32   |   201    |  106.97  |    0     |    0     |    16    |    9     |    30    |    0    
-    2025   |    4     |    1     |    9     |    7*    |   9.00   |    8     |  112.50  |    0     |    0     |    0     |    1     |    0     |    0    
-    2024   |    11    |    2     |    20    |   11*    |  20.00   |    14    |  142.86  |    0     |    0     |    0     |    2     |    5     |    0    
-    2023   |    6     |    1     |    0     |    0     |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2022   |    13    |    3     |    48    |    25    |   9.60   |    43    |  111.63  |    0     |    0     |    5     |    2     |    2     |    0    
-    2021   |    15    |    2     |    13    |    9*    |  13.00   |    6     |  216.66  |    0     |    0     |    2     |    0     |    9     |    0    
-    2020   |    17    |    4     |    56    |   15*    |  14.00   |    49    |  114.28  |    0     |    0     |    4     |    2     |    8     |    0    
-    2019   |    12    |    1     |    14    |    9     |   4.66   |    15    |  93.33   |    0     |    0     |    0     |    1     |    6     |    0    
-    2017   |    6     |    0     |    55    |    44    |  18.33   |    64    |  85.93   |    0     |    0     |    5     |    1     |    0     |    0    
+   Career  |    40    |    9     |   441    |    67    |  23.21   |   319    |  138.24  |    0     |    1     |    50    |    11    |    4     |    0    
+    2021   |    2     |    0     |    0     |    0*    |   0.00   |    4     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2020   |    5     |    1     |    33    |   14*    |  16.50   |    29    |  113.79  |    0     |    0     |    5     |    0     |    2     |    0    
+    2019   |    8     |    1     |   180    |    67    |  45.00   |   143    |  125.87  |    0     |    1     |    19    |    4     |    0     |    0    
+    2018   |    7     |    1     |    51    |   22*    |  10.20   |    41    |  124.39  |    0     |    0     |    7     |    1     |    2     |    0    
+    2016   |    5     |    2     |    66    |   35*    |  33.00   |    31    |  212.90  |    0     |    0     |    7     |    4     |    0     |    0    
+    2015   |    13    |    4     |   111    |   45*    |  27.75   |    71    |  156.33  |    0     |    0     |    12    |    2     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -50,16 +52,53 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    84    |   1902   |   2732   |   119    |   4/21   |  22.96   |   8.62   |  15.98   |    6     |    0    
-    2025   |    4     |    84    |   162    |    2     |   1/41   |  81.00   |  11.57   |  42.00   |    0     |    0    
-    2024   |    11    |   252    |   372    |    11    |   2/18   |  33.82   |   8.86   |  22.91   |    0     |    0    
-    2023   |    6     |   138    |   232    |    7     |   2/34   |  33.14   |  10.09   |  19.71   |    0     |    0    
-    2022   |    13    |   288    |   406    |    23    |   4/33   |  17.65   |   8.46   |  12.52   |    2     |    0    
-    2021   |    15    |   336    |   456    |    15    |   3/36   |  30.40   |   8.14   |  22.40   |    0     |    0    
-    2020   |    17    |   394    |   548    |    30    |   4/24   |  18.26   |   8.34   |  13.13   |    2     |    0    
-    2019   |    12    |   282    |   368    |    25    |   4/21   |  14.72   |   7.82   |  11.28   |    2     |    0    
-    2017   |    6     |   128    |   188    |    6     |   2/20   |  31.33   |   8.81   |  21.33   |    0     |    0    
+   Career  |    38    |    2     |    6     |    0     |   0/6    |    -     |  18.00   |    -     |    0     |    0    
+    2020   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    8     |    2     |    6     |    0     |   0/6    |    -     |  18.00   |    -     |    0     |    0    
+    2018   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/kagiso-rabada/1664
+Source: https://www.iplt20.com/players/sarfaraz-khan/1564
 ================================================================================
+**Sarfaraz Naushad Khan** (born 22 October 1997) is an Indian international cricketer who plays for the national team in test cricket. He is an aggressive middle-order batsman, especially against spin bowling. He represents Mumbai in domestic cricket and Chennai Super Kings in the Indian Premier League (IPL).... As a 15-year-old in 2012, he was mentioned in the prestigious Wisden Cricketers' Almanack along with his younger brother Musheer Khan. He made his IPL debut for Royal Challengers Bengaluru in the 2015 and was then the youngest player, at only 17 years and 177 days old, to play an IPL match.... In the very next season, he was the only uncapped player to be retained by a franchise in the IPL. Sarfaraz was a member of the Indian U19 team that won the 2013–14 U19 Asia Cup and represented India in the U19 Cricket World Cup in 2014 and 2016.... ## Early life
+
+Sarfaraz was born and brought up in the suburbs of Mumbai. His family hails from Azamgarh, Uttar Pradesh. He spent most of his childhood in Azad Maidan. There Naushad Khan, his father and coach, nurtured young cricketers such as Iqbal Abdulla and Kamran Khan.... His coaching began at an early age when his father discovered his talent of timing the ball well. In monsoon conditions it was difficult for him to reach the *maidan* (grounds) from his home in the suburbs, so a synthetic pitch was laid beside his house for practice. "Not only does it save our time and energy but it has also helped him get used to bouncier wickets that he will have to deal with later on," his father commented.
+
+He was unable to attend school for 4 years due to his cricket commitments, so a private tutor was employed for his maths and English classes.... ## Youth and domestic career
+
+He came into the limelight when he broke the Harris Shield record of Sachin Tendulkar, set in 1988, by scoring 439 off 421 balls. It was his maiden Harris Shield game in 2009 when he was just 12 years old. He was playing for his school, Rizvi Springfield. The innings included 56 fours and 12 sixes. He soon started playing for the Mumbai Under-19 team and his performance for them led to selection for the Indian Under-19 team.... In 2013, he scored a match-winning 66 ball 101 against South Africa Under 19s, which included 17 fours and a six. Bharat Arun, the then head coach of the India Under 19 team, commented that:
+
+"He is a gutsy player, who reads the situation well. He has shots all around the wicket and looks even better when playing straight. He uses his feet well and plays cheeky strokes too.".... — Bharat Arun, Indian Cricketer and Coach,
+
+Sarfaraz played for India in two Under-19 World Cups (2014 and 2016). The 2014 Under-19 World Cup was played by 16 teams in a round robin format where India finished at the 5th position. He scored 211 runs in six games at an average of 70.33; two innings were fifties, and he ended up a strike rate of 105.5.... Following this performance, IPL franchise Royal Challengers Bangalore bought him for 5 million for the 2015 season. India finished as runners up in the 2016 Under 19 World Cup in Bangladesh. In the tournament Sarfaraz finished as the second highest run scorer. He scored 355 runs from six innings, with five scores of over 50, at an average of 71. At the Under-19 level he has the record for most number of fifties in World Cups (7 fifties across two World Cups).... Sarfaraz Khan got to his 2nd successive hundred, this time an unbeaten 200-plus score in Round of Ranji Trophy at the Himachal Pradesh Cricket Association Stadium.... Sarfaraz started his Ranji career with Mumbai when he played against Bengal in 2014. He started playing for Uttar Pradesh from the 2015–2016 season. By September 2019 he had played 11 first-class matches and has scored 535 runs with the highest score of 155. He had also played 12 list A matches and had scored 257 runs at a strike rate of 96.25. In January 2020, in the 2019–20 Ranji Trophy match against Uttar Pradesh, Sarfaraz scored his maiden triple century in first-class cricket.... In the 2022 season of the Syed Mushtaq Ali Trophy, Sarfaraz also began to don a new avatar as an occasional wicket-keeper. Although not a stranger to wicket-keeping in his junior playing days, this was his first time in senior cricket. His Test debut, postponed until February 2024, was followed by irregular selection for subsequent matches.... He was notably omitted from the India-England Test series in 2025 and excluded from the Indian Premier League (IPL) 2025 auctions majorly attributed to his weight management issues, in July 2025 he lost a remarkable 17 Kgs to get in shape.... ## International career
+
+### 2024: International debut
+
+In 2024, Sarfaraz Khan earned his maiden Indian call-up due to injuries to Ravindra Jadeja and KL Rahul in the first Test against England in Hyderabad.... On 15 February 2024, Sarfaraz Khan made his international debut in the third test against England in Rajkot. In his debut innings, Khan scored 62 runs off 66 balls and was run out on the non-strikers end after a mix-up with eventual centurion Ravindra Jadeja. His innings included 9 fours and a six.... Khan's fifty came in 48 balls and was the joint-fastest 50 by an Indian cricketer on debut alongside Hardik Pandya's fifty which came against Sri Lanka in 2017. After the stumps on Day 1, Ravindra Jadeja shared a story on his Instagram account admitting his mistake and appreciating Khan's knock after the debutant got run out following the mix up with Jadeja.... "Feeling bad for Sarfaraz Khan. It was my wrong call. Well played."
+
+— Ravindra Jadeja, Indian cricketer,... In the second innings of his debut test match Sarfaraz Khan scored 68 not out off 72 balls with a strike rate of 94.44. His innings included 6 fours and 3 sixes. With this knock Sarfaraz Khan became the fourth Indian cricketer to score twin fifties on Test debut joining the esteemed list with likes of Dilawar Hussain, Sunil Gavaskar and Shreyas Iyer.... Sarfaraz's strike rate (94.2) is by far the highest among the 43 batters with two fifty-plus scores on debut in men's Tests (where balls-faced data is available). Khan made a 158 run partnership with Yashasvi Jaiswal for fifth wicket at a run rate of 6.53 per over, this is the highest run-rate for an Indian pair which has added 150 or more runs in a Test innings and seventh highest run rate for 150-plus balls in men's Test(where data is available).... It became the highest and the longest partnership scored at more than run-a-ball for India in men's Test. The partnership helped India set target of 557 for England in the 4th innings, the target set by India in Rajkot became the second highest for them in Test cricket behind the 617 against New Zealand in Wellington in 2009.... This eventually led India to register victory over England by 434 runs, which is the biggest win by runs for India in Test cricket and the second biggest against England by any team, behind the 562-run win for Australia in 1934 at The Oval.... ## IPL career
+
+After a good performance in the 2014 Under-19 World Cup, Sarfaraz was bought by Royal Challengers Bangalore (RCB) in 2015 for 5 million. At an age of 17, he is the youngest player to have ever participated in an IPL match. In his debut game against Chennai Super Kings, he scored 11 runs off 7 balls.... With the trio of Virat Kohli, Chris Gayle and AB de Villiers dominating in the next two matches he did not get a chance to bat. In the next match he outshone the trio of more established batsmen, scoring 45 runs off 21 balls against Rajasthan Royals. The innings included six fours and a six and helped RCB post a large total.... Virat Kohli bowed down to him while he was walking back to the dressing room at the end of the innings. In total in the IPL season for 2015, he played 13 matches and scored 111 runs at a strike rate of 156.33. He started the 2016 season quickly when he played a cameo of 35 runs off 10 balls against Sunrisers Hyderabad.... In the 19th over he attacked the bowling of Bhuvaneshwar Kumar, the best bowler of the tournament and scored 4 fours and a six. His teammate Chris Gayle commented that "He's too young and he's like a son to me. He's definitely one for the future and one must keep an eye on him."... He kept on having short, eventful innings in the 2016 season for RCB. Eventually he was dropped from the team due to his lack of fitness. In 2016 he ended up played 5 matches and scored 66 runs at a strike rate of 212.90. In the 2017 season he injured his leg during a training session and had to miss the entire season.... In a surprising move, RCB retained Sarfaraz over the likes of Chris Gayle, K L Rahul, Kedar Jadhav and Yuzvendra Chahal for the 2018 season. Sarfaraz had a poor season and managed to score only 51 runs from six innings at a strike rate of 124.39.... He was eventually released by RCB ahead of the 2019 season. Punjab Kings picked him up for the next season for just 2.5 million. Having his former RCB team-mates like K L Rahul, Chris Gayle and Mandeep Singh helped him through this transfer. He scored 180 runs from eight matches at an average of 45 and a highest score of 67 runs.... In February 2022, he was bought by the Delhi Capitals in the auction for the 2022 Indian Premier League tournament. In the absence of Rishabh Pant at the 2023 Indian Premier League, Sarfaraz got the opportunity to play as a wicket-keeper-batter for Delhi Capitals but for only the first match. He played only 4 matches - the 1st as wicket-keeper batsman and 2nd, 7th and 8th match as a middle-order batsman.... In December 2025, he was bought by the Chennai Super Kings in the auction for the 2026 Indian Premier League tournament for his base price of ₹75 lakh (US$89,000).
+
+## Personal life
+
+On 6 August 2023, Khan married Romana Zahoor, who is from the Shopian district of Jammu and Kashmir.... ## Controversies
+
+In 2011, a school team accused him of being overage. Bone tests showed him to have an age of 15 but according to the birth date registered with the Mumbai Cricket Association he was 13 years old. Sarfaraz and his father went for a second, advanced test. This time the resulting age matched with the registered birth date. Sarfaraz himself was disturbed by this controversy and it affected his emotional health. It took him two to three months to get his focus back on cricket.... ## References
+
+## External links
+- Sarfaraz Khan at ESPNcricinfo
+
+Categories: - 1996 births
+- Living people
+- Indian Muslims
+- Indian cricketers
+- Mumbai cricketers
+- Uttar Pradesh cricketers
+- Royal Challengers Bengaluru cricketers
+- Delhi Capitals cricketers
+- Punjab Kings cricketers
+- 21st-century Indian sportsmen
+- India Test cricketers

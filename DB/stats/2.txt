@@ -1,47 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: SHREYAS IYER
+IPL PLAYER PROFILE: JAKE FRASER-MCGURK
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Shreyas Iyer
-  IPL Debut                : 2015
-  Date of Birth            : 06 December 1994
-  Total IPL Matches        : 133
-  Role                     : WK-Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Shreyas Iyer, a name synonymous with elegance and flair, has firmly
-  established himself in the cricketing world. Hailing from Mumbai, a city
-  renowned for producing legends, he is among the most promising batters of
-  his generation. He led India’s U19 side to the 2016 World Cup quarterfinals
-  with 315 runs in six matches and made waves in first-class cricket, debuting
-  for Mumbai in the 2014-15 Ranji Trophy with a stunning 173 against
-  Saurashtra. Iyer continued his dominance in domestic cricket, captaining
-  Mumbai to the Syed Mushtaq Ali Trophy title in 2024-25 with 281 runs at a
-  strike rate of 162.42, including a match-winning 73* off 33 in the final.
-  His brilliance was maximised in the 2023 ICC Cricket World Cup, where he
-  struck two centuries, including a sensational 105 against New Zealand in the
-  semi-final, playing a crucial role in India’s campaign. He further cemented
-  his stature in the ICC Champions Trophy 2025, finishing as the tournament’s
-  second-highest run-scorer and India's leading batter, proving instrumental
-  in India’s title-winning run. In the IPL, Iyer’s journey has been nothing
-  short of remarkable. After a breakthrough 2018 season with Delhi Daredevils
-  (now Delhi Capitals), where he amassed 411 runs, he took over the captaincy
-  in 2019, guiding them to consecutive playoffs in that year and the following
-  year. He was then picked by the Kolkata Knight Riders in 2024 and his
-  leadership peaked here. His led KKR to their third IPL title, scoring 351
-  runs at a strike rate of 146.86. At the 2025 mega auction, Punjab Kings
-  secured him for a record INR 26.75 crore, entrusting him with the captaincy
-  to spearhead their title quest. With PBKS chasing their maiden IPL triumph,
-  Iyer’s explosive batting and astute leadership will be pivotal in shaping a
-  core that could lead the franchise to long-awaited glory.
-
-CAREER HIGHLIGHTS
---------------------------------------------------------------------------------
-  1. Career best strike rate: 162.42
+  Player Name              : Jake Fraser-McGurk
+  IPL Debut                : 2024
+  Date of Birth            : 11 April 2002
+  Total IPL Matches        : 15
+  Role                     : Batter
+  Nationality              : Australian
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -51,17 +19,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   133    |    23    |   3731   |   97*    |  34.23   |   2798   |  133.35  |    0     |    27    |   314    |   152    |    56    |    0    
-    2025   |    17    |    5     |   604    |   97*    |  50.33   |   345    |  175.07  |    0     |    6     |    43    |    39    |    7     |    0    
-    2024   |    15    |    5     |   351    |   58*    |  39.00   |   239    |  146.86  |    0     |    2     |    34    |    14    |    10    |    0    
-    2022   |    14    |    1     |   401    |    85    |  30.85   |   298    |  134.56  |    0     |    3     |    41    |    11    |    5     |    0    
-    2021   |    8     |    3     |   175    |   47*    |  35.00   |   171    |  102.33  |    0     |    0     |    7     |    5     |    6     |    0    
-    2020   |    17    |    2     |   519    |   88*    |  34.60   |   421    |  123.27  |    0     |    3     |    40    |    16    |    6     |    0    
-    2019   |    16    |    1     |   463    |    67    |  30.86   |   386    |  119.94  |    0     |    3     |    41    |    14    |    8     |    0    
-    2018   |    14    |    3     |   411    |   93*    |  37.36   |   310    |  132.58  |    0     |    4     |    29    |    21    |    5     |    0    
-    2017   |    12    |    2     |   338    |    96    |  33.80   |   243    |  139.09  |    0     |    2     |    36    |    10    |    3     |    0    
-    2016   |    6     |    0     |    30    |    19    |   5.00   |    43    |  69.76   |    0     |    0     |    2     |    1     |    4     |    0    
-    2015   |    14    |    1     |   439    |    83    |  33.76   |   342    |  128.36  |    0     |    4     |    41    |    21    |    2     |    0    
+   Career  |    15    |    0     |   385    |    84    |  25.67   |   193    |  199.48  |    0     |    4     |    39    |    30    |    8     |    0    
+    2025   |    6     |    0     |    55    |    38    |   9.17   |    52    |  105.77  |    0     |    0     |    7     |    2     |    3     |    0    
+    2024   |    9     |    0     |   330    |    84    |  36.67   |   141    |  234.04  |    0     |    4     |    32    |    28    |    5     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -71,18 +31,70 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   133    |    6     |    7     |    0     |   0/7    |    -     |   7.00   |    -     |    0     |    0    
-    2025   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    14    |    6     |    7     |    0     |   0/7    |    -     |   7.00   |    -     |    0     |    0    
-    2021   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2019   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2017   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2015   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/shreyas-iyer/1563
+Source: https://www.iplt20.com/players/jake-fraser-mcgurk/20720
 ================================================================================
+**Jake Matthew Fraser-McGurk** (born 11 April 2002) is an Australian international cricketer who represents the Australia national cricket team in ODI and T20I cricket. McGurk is a right-handed batsman who plays for South Australia, Melbourne Renegades, Delhi Capitals and the San Francisco Unicorns.
+
+McGurk previously played for Victoria and the Dubai Capitals. He scored a fifty on his first-class, List A and IPL debut.
+
+## Early life
+
+Fraser-McGurk grew up in the Melbourne suburb of Mont Albert and attended Carey Baptist Grammar School until the end of year 10. He completed his final two years of school through SEDA College. He started playing junior cricket aged 9 at Boroondara Cricket Club.
+
+## Domestic career
+
+Fraser-McGurk made his first-class debut on 12 November 2019, for Victoria in the 2019–20 Sheffield Shield. He made his List A debut on 17 November 2019, for Victoria in the 2019–20 Marsh One-Day Cup.
+
+He made his Twenty20 debut on 12 December 2020, for the Melbourne Renegades, in the 2020–21 Big Bash League season. He scored the fastest List-A hundred off 29 balls on 8 October 2023, surpassing the previous record of 31 balls by AB de Villiers. During the 2024 IPL season, Fraser-McGurk played for the Delhi Capitals. On debut, he scored 55 off 35 against the Lucknow Super Giants. He ended the season with 330 runs in 9 innings with a strike rate of 234, and smashing 32 fours and 28 sixes.
+
+## International career
+
+In December 2019, Fraser-McGurk was named in Australia's squad for the 2020 Under-19 Cricket World Cup. However, he had to leave the tournament early, after being scratched by a monkey during a team trip to a nature reserve.
+
+In May 2024, he was named as a reserve player in Australia’s squad for the 2024 ICC Men's T20 World Cup tournament. On 15 July 2024, Fraser-McGurk was included in the Australia squad for a white-ball tour of England and Scotland to be held in September that year. On 4 September 2024, Fraser-McGurk made his T20I debut for Australia against Scotland. He scored 0 on his debut, becoming the first top 6 batter for Australia to be dismissed for a duck on T20I debut. The same month, he scored his maiden international half-century against England.
+
+## Statistics
+
+**T20 Franchise Statistics**
+|Team|Season|League|League|Batting|Batting|Batting|Batting|Batting|Batting|Bowling|Bowling|Bowling|Bowling|Bowling|Bowling|Fielding|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Team|Season|Competition|Matches|Innings|Not Outs|Runs|Average|High score|100s / 50s|Overs|Wickets|Runs|Economy|Average|BBM|Catches|
+|Melbourne Renegades|2020/21|BBL|10|10|3|127|18.14|40|0 / 0|1|0|10|10.00|–|–|7|
+|Melbourne Renegades|2021/22|BBL|9|8|0|112|14.00|32|0 / 0|0|0|0|–|–|–|4|
+|Melbourne Renegades|2022/23|BBL|6|6|0|40|6.66|24|0 / 0|0|0|0|–|–|–|6|
+|Melbourne Renegades|2023/24|BBL|9|8|0|257|32.12|70|0 / 2|0|0|0|–|–|–|3|
+|Melbourne Renegades|2024/25|BBL|10|10|0|188|18.80|95|0 / 1|0|0|0|–|–|–|3|
+|Melbourne Renegades|2025/26|BBL|3|3|0|35|11.67|14|0 / 0|0|0|0|–|–|–|3|
+|Melbourne Renegades|Total|Total|47|45|3|759|16.87|95|0 / 3|1|0|10|10.00|–|–|26|
+|Dubai Capitals|2023/24|ILT20|3|3|0|109|36.33|54|0 / 1|0|–|–|–|–|–|0|
+|Dubai Capitals|Total|Total|3|3|0|109|36.33|54|0 / 1|0|–|–|–|–|–|0|
+|Delhi Capitals|2024|IPL|9|9|0|330|36.66|84|0 / 4|0|–|–|–|–|–|3|
+|Delhi Capitals|2025|IPL|6|6|0|55|9.16|38|0 / 0|0|–|–|–|–|–|3|
+|Delhi Capitals|Total|Total|15|15|0|385|25.66|84|0 / 4|0|–|–|–|–|–|6|
+|San Francisco Unicorns|2024|MLC|7|7|0|81|18.00|23|0 / 0|0|–|–|–|–|–|0|
+|San Francisco Unicorns|2025|MLC|11|11|0|275|25.00|88|0 / 2|0|–|–|–|–|–|11|
+|San Francisco Unicorns|Total|Total|18|18|0|356|19.77|88|0 / 2|0|–|–|–|–|–|11|
+|Career Total|Career Total|Career Total|81|79|3|1588|20.89|95|0 / 10|1|0|10|10.00|–|–|41|
+  As of match played 15 December 2025
+
+## References
+
+## External links
+- Jake Fraser-McGurk at ESPNcricinfo
+
+Categories: - 2002 births
+- Living people
+- Australian cricketers
+- Victoria cricketers
+- Melbourne Renegades cricketers
+- Delhi Capitals cricketers
+- Australian expatriate cricketers in India
+- People educated at Carey Baptist Grammar School
+- Australia One Day International cricketers
+- Australia Twenty20 International cricketers
+- 21st-century Australian sportsmen

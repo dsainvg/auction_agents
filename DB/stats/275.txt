@@ -1,15 +1,51 @@
-================================================================================
-IPL PLAYER PROFILE: VICKY OSTWAL
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Vicky Ostwal
-  Date of Birth            : 01 September 2002
-  Total IPL Matches        : 0
-  Role                     : Bowler
-  Nationality              : Indian
-
-================================================================================
-Source: https://www.iplt20.com/players/vicky-ostwal/20624
-================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Karnataka|1|1|0|0|0|0|0|0|0|0|0.00|-|-|KAR|1211|1|-|5|SAU|Saurashtra|SAU|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Karnataka|1|10|0|79|0|0/79 v KAR|0|0|-|7.90|-|KAR|1211|1|5|SAU|Saurashtra|SAU|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |JMD Kutch Riders|4|1|1|1|1*|0|0|0|0|0.00|100.00|-|-|JKR|1916|0|-|73|AKH|Anmol Kings Halar|AKH|
+|Aryan Sorath Lions|2|0|0|0|-|0|0|0|0|0.00|0.00|-|-|ASL|1917|0|-|73|AKH|Anmol Kings Halar|AKH|... |Zalawad Strikers|2|0|0|0|0|0|0|0|0|0.00|0.00|-|-|ZWS|1918|0|-|73|AKH|Anmol Kings Halar|AKH|
+|Dita Gohilwad Titans|2|0|0|0|-|0|0|0|0|0.00|0.00|-|-|DGT|1919|0|-|73|AKH|Anmol Kings Halar|AKH|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |JMD Kutch Riders|3|7|0|54|2|1/12 v JKR|0|0|27.00|7.71|21.00|JKR|1916|4|73|AKH|Anmol Kings Halar|AKH|
+|Aryan Sorath Lions|2|6|0|55|3|3/29 v ASL|1|0|18.33|9.17|12.00|ASL|1917|2|73|AKH|Anmol Kings Halar|AKH|... |Zalawad Strikers|2|7|0|58|0|0/27 v ZWS|0|0|-|8.29|-|ZWS|1918|2|73|AKH|Anmol Kings Halar|AKH|
+|Dita Gohilwad Titans|2|8|0|46|5|3/22 v DGT|1|0|9.20|5.75|9.60|DGT|1919|2|73|AKH|Anmol Kings Halar|AKH|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |JMD Kutch Riders|4|1|1|1|1*|0|0|0|0|0.00|100.00|-|-|JKR|1916|0|-|73|AKH|Anmol Kings Halar|AKH|
+|Aryan Sorath Lions|2|0|0|0|-|0|0|0|0|0.00|0.00|-|-|ASL|1917|0|-|73|AKH|Anmol Kings Halar|AKH|... |Zalawad Strikers|2|0|0|0|0|0|0|0|0|0.00|0.00|-|-|ZWS|1918|0|-|73|AKH|Anmol Kings Halar|AKH|
+|Dita Gohilwad Titans|2|0|0|0|-|0|0|0|0|0.00|0.00|-|-|DGT|1919|0|-|73|AKH|Anmol Kings Halar|AKH|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |JMD Kutch Riders|3|7|0|54|2|1/12 v JKR|0|0|27.00|7.71|21.00|JKR|1916|4|73|AKH|Anmol Kings Halar|AKH|
+|Aryan Sorath Lions|2|6|0|55|3|3/29 v ASL|1|0|18.33|9.17|12.00|ASL|1917|2|73|AKH|Anmol Kings Halar|AKH|... |Zalawad Strikers|2|7|0|58|0|0/27 v ZWS|0|0|-|8.29|-|ZWS|1918|2|73|AKH|Anmol Kings Halar|AKH|
+|Dita Gohilwad Titans|2|8|0|46|5|3/22 v DGT|1|0|9.20|5.75|9.60|DGT|1919|2|73|AKH|Anmol Kings Halar|AKH|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Neutral|1|1|0|0|0 v KAR|0|0|0|0|0|0.00|-|-|KAR|1211|1|-|5|SAU|Saurashtra|SAU|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Neutral|1|10|0|79|0|0/79 v KAR|0|0|-|7.9|0.00|KAR|1211|1|5|SAU|Saurashtra|SAU|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Home|5|1|1|1|1* v KW|0|0|0|0|0.00|100.00|-|-|KW|1916|0|-|73|AKH|Anmol Kings Halar|AKH|
+|Away|3|0|0|0|-|0|0|-|-|0.00|-|-|-|KW|1916|0|-|73|AKH|Anmol Kings Halar|AKH|... |Neutral|10|1|1|1|1* v JKR|0|0|0|0|0.00|100.00|-|-|JKR|1916|0|-|73|AKH|Anmol Kings Halar|AKH|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Home|5|18|0|117|9|3/22 v GG|2|0|13|6.5|12.00|GG|1919|5|73|AKH|Anmol Kings Halar|AKH|... |Away|4|10|0|96|1|1/12 v KW|0|0|96|9.6|60.00|KW|1916|4|73|AKH|Anmol Kings Halar|AKH|
+|Neutral|9|28|0|213|10|3/22 v DGT|2|0|21.3|7.61|16.80|DGT|1919|10|73|AKH|Anmol Kings Halar|AKH|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Home|5|1|1|1|1* v KW|0|0|0|0|0.00|100.00|0|0|KW|1916|0|0|73|AKH|Anmol Kings Halar|AKH|
+|Away|3|0|0|0|-|0|0|-|-|0.00|-|0|0|KW|1916|0|0|73|AKH|Anmol Kings Halar|AKH|... |Neutral|10|1|1|1|1* v JKR|0|0|0|0|0.00|100.00|-|-|JKR|1916|0|-|73|AKH|Anmol Kings Halar|AKH|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Home|5|18|0|117|9|3/22 v GG|2|0|13|6.5|12.00|GG|1919|5|73|AKH|Anmol Kings Halar|AKH|... |Away|4|10|0|96|1|1/12 v KW|0|0|96|9.6|60.00|KW|1916|4|73|AKH|Anmol Kings Halar|AKH|
+|Neutral|9|28|0|213|10|3/22 v DGT|2|0|21.3|7.61|16.80|DGT|1919|10|73|AKH|Anmol Kings Halar|AKH|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |2025|1|1|0|0|-|0|0|0|0|0|0.00|-|-|KAR|1211|0|0|5|SAU|Saurashtra|SAU|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2025|1|10|0|79|0|-|0|0|-|7.90|-|KAR|1211|1|5|SAU|Saurashtra|SAU|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |2025|10|1|1|1|-|0|0|0|0|0.00|100.00|-|-|JKR|1916|1|0|73|AKH|Anmol Kings Halar|AKH|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2025|9|28|0|213|10|-|2|0|21.30|7.61|16.80|DGT|1919|10|73|AKH|Anmol Kings Halar|AKH|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |2025|10|1|1|1|-|0|0|0|0|0.00|100.00|-|-|JKR|1916|0|0|73|AKH|Anmol Kings Halar|AKH|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2025|9|28|0|213|10|-|2|0|21.30|7.61|16.80|DGT|1919|10|73|AKH|Anmol Kings Halar|AKH|... |Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|0(7)|0/79|Karnataka|January 3, 2025|
+|Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|... |1*(1)|0/21|JMD Kutch Riders|June 20, 2025|
+|DNB|2/24|Dita Gohilwad Titans|June 18, 2025|
+|DNB|1/12|JMD Kutch Riders|June 16, 2025|... |DNB|0/26|Aryan Sorath Lions|June 15, 2025|
+|DNB|-|JMD Kutch Riders|June 14, 2025|
+|Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|1*(1)|0/21|JMD Kutch Riders|June 20, 2025|... |DNB|2/24|Dita Gohilwad Titans|June 18, 2025|
+|DNB|1/12|JMD Kutch Riders|June 16, 2025|
+|DNB|0/26|Aryan Sorath Lions|June 15, 2025|
+|DNB|-|JMD Kutch Riders|June 14, 2025|

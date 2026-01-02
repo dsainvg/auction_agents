@@ -1,15 +1,25 @@
 ================================================================================
-IPL PLAYER PROFILE: YASH DHULL
+IPL PLAYER PROFILE: KAMLESH NAGARKOTI
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Yash Dhull
-  IPL Debut                : 2023
-  Date of Birth            : 11 November 2002
-  Total IPL Matches        : 4
-  Role                     : Batter
+  Player Name              : Kamlesh Nagarkoti
+  IPL Debut                : 2020
+  Date of Birth            : 28 December 1999
+  Total IPL Matches        : 12
   Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Karnataka seamer Kamlesh Nagarkoti was one of the bright sparks of the
+  2018 U19 World Cup who looked like a promising fast bowler ready to shine.
+  He was even drafted into the KKR squad for the 2018 IPL season.
+  Unfortunately, a back injury kept him out of action for more than one year
+  and he spent most of his time in rehab. KKR have not let go off him and they
+  definitely feel he can add a lot to the KKR pace battery. He played 10 games
+  in the 2020 IPL edition but picked up just 5 wickets. It will be interesting
+  to see how the pacer performs in 2021.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -19,9 +29,352 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    4     |    0     |    16    |    13    |   5.33   |    23    |  69.57   |    0     |    0     |    1     |    0     |    2     |    0    
-    2023   |    4     |    0     |    16    |    13    |   5.33   |    23    |  69.57   |    0     |    0     |    1     |    0     |    2     |    0    
+   Career  |    12    |    3     |    22    |    8*    |   5.50   |    33    |  66.67   |    0     |    0     |    1     |    0     |    6     |    0    
+    2022   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2021   |    1     |    0     |    0     |    0*    |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2020   |    10    |    3     |    22    |    8*    |   7.33   |    31    |  70.96   |    0     |    0     |    1     |    0     |    4     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    12    |   180    |   285    |    5     |   2/13   |  57.00   |   9.50   |  36.00   |    0     |    0    
+    2022   |    1     |    12    |    29    |    0     |   0/29   |    -     |  14.50   |    -     |    0     |    0    
+    2021   |    1     |    12    |    25    |    0     |   0/25   |    -     |  12.50   |    -     |    0     |    0    
+    2020   |    10    |   156    |   231    |    5     |   2/13   |  46.20   |   8.88   |  31.20   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/yash-dhull/20623
+Source: https://www.iplt20.com/players/kamlesh-nagarkoti/3766
 ================================================================================
+|## Kamlesh Nagarkoti Introduction|
+|--|
+|Role|Bowler|
+|Batting|Right Handed|
+|Bowling|fast Right-arm|
+|Country|India|
+|--|--|
+|Birth|28-Dec-1999 (25 yr), Barmer, Rajasthan|
+|Height|1.73 m|
+|Teams|India U19, Rajasthan, India U23, Kolkata Knight Riders (Mostly) Kolkata Knight Riders,|
+|Social Accounts|Instagram Wikipedia|
+|Last Updated|Last updated 3 hours ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Kamlesh Nagarkoti Upcoming Matches|
+|--|
+|CSK vs MI (3rd Match) Stats|
+|CSK vs RCB (8th Match) Stats|
+|RR vs CSK (11th Match) Stats|
+|CSK vs DC (17th Match) Stats|
+|PBKS vs CSK (22nd Match) Stats|
+|## Kamlesh Nagarkoti Stats|
+|--|
+|Competition|IPL|SMAT|DODI|
+|Matches|12|6|1|
+|Highest Score|8|39|4|
+|Runs|22|44|4|
+|50s|0|0|0|
+|100s|0|0|0|
+|Run Per Inn|3.1|22.0|4.0|
+|Run Per Match|1.8|7.3|4.0|
+|Boundary (In Ball)|33.0|13.5|-|
+|4s (In Ball)|33.0|13.5|-|
+|6s (In Ball)|-|-|-|
+|Wickets|5|7|0|
+|Over Per Match|2.3|3.2|3.0|
+|Wicket Per Inn|0.4|1.1|-|
+|Wicket Per Match|0.4|1.1|-|
+|Wicket (In Ball)|36.0|17.2|-|
+|Wicket (In Runs)|57.0|20.4|-|
+|Field In Match %|75 %|33 %|100 %|
+|Catch In Match %|75 %|33 %|100 %|
+|Check More Stats On Advance Cricket App|
+|## Kamlesh Nagarkoti Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|23 Nov 22|ODI|4|0|0|8|
+|21 Nov 22|ODI|0|0|0|4|
+|19 Nov 22|ODI|0|75|18|97|
+|17 Nov 22|ODI|13|25|0|42|
+|15 Nov 22|ODI|-3|93|0|94|
+|13 Nov 22|ODI|0|33|8|45|
+|12 Nov 22|ODI|0|50|0|54|
+|22 Oct 22|T20|0|31|0|35|
+|20 Oct 22|T20|25|62|16|107|
+|18 Oct 22|T20|1|2|0|7|
+|16 Oct 22|T20|-2|27|0|29|
+|14 Oct 22|T20|2|21|0|27|
+|12 Oct 22|T20|0|64|0|68|
+|11 Oct 22|T20|1|-6|0|-1|
+|27 Mar 22|T20|0|-6|0|-2|
+|19 Dec 21|ODI|-3|31|0|32|
+|14 Dec 21|ODI|18|4|8|34|
+|12 Dec 21|T20|0|101|0|105|
+|11 Dec 21|ODI|0|4|0|8|
+|## Kamlesh Nagarkoti Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|23 Nov 22|RJS vs KAR|7|4(6)|66.6|catch|
+|21 Nov 22|RJS vs MEG|DNB|
+|19 Nov 22|RJS vs VID|DNB|
+|17 Nov 22|RJS vs JHA|7|13(19)|68.4|catch|
+|15 Nov 22|RJS vs DEL|3|0(4)|0|catch|
+|13 Nov 22|RJS vs SIK|DNB|
+|12 Nov 22|RJS vs ASM|7|6(21)|28.5|bowled|
+|22 Oct 22|RJS vs MIZ|DNB|
+|20 Oct 22|RJS vs ASM|8|24(22)|109|run out|
+|18 Oct 22|RJS vs MUM|9|1(2)|50|not out|
+|16 Oct 22|RJS vs UT|7|0(1)|0|catch|
+|14 Oct 22|RJS vs RAI|8|2(1)|200|not out|
+|12 Oct 22|RJS vs VID|DNB|
+|11 Oct 22|RJS vs MP|7|1(3)|33.3|catch|
+|27 Mar 22|DC vs MI|DNB|
+|19 Dec 21|RAJ vs KAR|6|0(3)|0|catch|
+|Kamlesh Nagarkoti Recent Batting|
+|## Kamlesh Nagarkoti Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|23 Nov 22|RJS vs KAR|7.0|48|0|0|6.85|
+|21 Nov 22|RJS vs MEG|4.0|12|0|0|3.00|
+|19 Nov 22|RJS vs VID|10.0|49|3|0|4.90|
+|17 Nov 22|RJS vs JHA|5.0|30|1|0|6.00|
+|15 Nov 22|RJS vs DEL|8.0|33|3|0|4.12|
+|13 Nov 22|RJS vs SIK|8.0|23|1|1|2.87|
+|12 Nov 22|RJS vs ASM|8.0|40|2|0|5.00|
+|22 Oct 22|RJS vs MIZ|3.0|10|1|0|3.33|
+|20 Oct 22|RJS vs ASM|3.0|15|2|0|5.00|
+|18 Oct 22|RJS vs MUM|4.0|25|0|0|6.25|
+|16 Oct 22|RJS vs UT|3.0|19|1|0|6.33|
+|14 Oct 22|RJS vs RAI|4.0|45|1|0|11.25|
+|12 Oct 22|RJS vs VID|4.0|18|2|0|4.50|
+|11 Oct 22|RJS vs MP|3.0|44|0|0|14.66|
+|27 Mar 22|DC vs MI|2.0|29|0|0|14.50|
+|19 Dec 21|RAJ vs KAR|6.0|27|1|1|4.50|
+|Kamlesh Nagarkoti Recent Bowling All Recent Bowling Details|
+|Competition|IPL|SMAT|DODI|
+|--|--|--|--|
+|Matches|12|6|1|
+|Innings|7|2|1|
+|Not Out|3|1|0|
+|Runs|22|44|4|
+|Highest Score|8|39|4|
+|Average|5.50|44.00|4.00|
+|Balls Faced|33|54|12|
+|Strike Rate|66.6|81.4|33.3|
+|20s|0|0|0|
+|30s|0|1|0|
+|50s|0|0|0|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|1|4|0|
+|6s|0|0|0|
+|Outtype|
+|LBW|0|0|0|
+|Bowled|2|0|0|
+|Stumped|0|0|0|
+|Catch|2|1|1|
+|Run Out|0|0|0|
+|Wicket Taker|
+|Left Arm|0|0|1|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|0|
+|3- Medium|0|0|0|
+|4- Slow|0|0|1|
+|1- Bowled|0|0|0|
+|2- Catch|0|0|1|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Right Arm|4|1|0|
+|1- Fast|1|0|0|
+|2- Fast-Medium|2|0|0|
+|3- Medium|0|1|0|... |4- Slow|1|0|0|
+|1- Bowled|2|0|0|
+|2- Catch|2|1|0|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|... |Competition|IPL|SMAT|DODI|
+|--|--|--|--|
+|Matches|12|6|1|
+|Innings|11|6|1|
+|Balls|180|121|18|
+|Runs|285|143|21|
+|BBI|
+|Average|57.00|20.42|0|... |Strike Rate|36.00|17.28|
+|Maiden|0|0|0|
+|2w|1|1|0|
+|3w|0|1|0|
+|5w|0|0|0|
+|8w|0|0|0|
+|10w|0|0|0|... |Wickets|5|7|0|
+|LBW|0|0|0|
+|Bowled|0|0|0|
+|Stumped|0|0|0|
+|Catch|5|7|0|
+|Batsman Type|
+|Right Handed|5|4|0|... |1- LBW|0|0|0|
+|2- Bowled|0|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|5|4|0|
+|Left Handed|0|2|0|
+|1- LBW|0|0|0|... |2- Bowled|0|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|0|2|0|... Kamlesh Nagarkoti played 12 IPL matches and scored 22 runs in 7 Innings. Kamlesh Nagarkoti's Highest Score in IPL is 8. K Nagarkoti has 0 IPL centuries, 0 IPL half centuries and 0 times 30+ and 0 times 20+ IPL runs.... K Nagarkoti has a strike rate of 66.6 with run per match of 1.83 in 33 IPL balls. Kamlesh Nagarkoti made total 1 boundaries with 1 fours and 0 sixes in IPL. K Nagarkoti's IPL outtype analysis are lbw 0 times, bowled 2, stumped 0 times, catch 2 times, Run Out 0 times.... Kamlesh Nagarkoti's IPL wicket takers are 0 left arm and 4 right arm. K Nagarkoti's Left Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... Kamlesh Nagarkoti's Right Arm IPL Wicket Taker analysis are Fast bowler 1 wickets, Fast-Medium bowler 2 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets. K Nagarkoti's wicket taken by Left Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Kamlesh Nagarkoti's wicket taken by Right Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 2 wickets, stumped 0 wickets, catch 2 wickets.... Kamlesh Nagarkoti Took 5 Wickets (In 11 IPL innings) with Strike Rate of 36.00 and average of 57.00. K Nagarkoti's delivered 180 balls (with 0 Maiden over) and took 2 wickets 1 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 5 Right Handed and 0 Left Handed batsman out by Kamlesh Nagarkoti in IPL. Right Handed Batsman IPL outtype analysis (wicket taken by K Nagarkoti) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 5 times. Left Handed Batsman IPL outtype analysis (wicket taken by K Nagarkoti) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Kamlesh Nagarkoti Fielding analysis are Catch 9 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Kamlesh Nagarkoti played 6 SMAT matches and scored 44 runs in 2 Innings. Kamlesh Nagarkoti's Highest Score in SMAT is 39. K Nagarkoti has 0 SMAT centuries, 0 SMAT half centuries and 1 times 30+ and 0 times 20+ SMAT runs.... K Nagarkoti has a strike rate of 81.4 with run per match of 7.33 in 54 SMAT balls. Kamlesh Nagarkoti made total 4 boundaries with 4 fours and 0 sixes in SMAT. K Nagarkoti's SMAT outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 1 times, Run Out 0 times.... Kamlesh Nagarkoti's SMAT wicket takers are 0 left arm and 1 right arm. K Nagarkoti's Left Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... Kamlesh Nagarkoti's Right Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 1 wickets, Slow bowler 0 wickets. K Nagarkoti's wicket taken by Left Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Kamlesh Nagarkoti's wicket taken by Right Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets.... Kamlesh Nagarkoti Took 7 Wickets (In 6 SMAT innings) with Strike Rate of 17.28 and average of 20.42. K Nagarkoti's delivered 121 balls (with 0 Maiden over) and took 2 wickets 1 times 3 wickets 1 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 4 Right Handed and 2 Left Handed batsman out by Kamlesh Nagarkoti in SMAT. Right Handed Batsman SMAT outtype analysis (wicket taken by K Nagarkoti) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 4 times. Left Handed Batsman SMAT outtype analysis (wicket taken by K Nagarkoti) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 2 times.... Kamlesh Nagarkoti Fielding analysis are Catch 2 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Kamlesh Nagarkoti played 1 DODI matches and scored 4 runs in 1 Innings. Kamlesh Nagarkoti's Highest Score in DODI is 4. K Nagarkoti has 0 DODI centuries, 0 DODI half centuries and 0 times 30+ and 0 times 20+ DODI runs.... K Nagarkoti has a strike rate of 33.3 with run per match of 4.00 in 12 DODI balls. Kamlesh Nagarkoti made total 0 boundaries with 0 fours and 0 sixes in DODI. K Nagarkoti's DODI outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 1 times, Run Out 0 times.... Kamlesh Nagarkoti's DODI wicket takers are 1 left arm and 0 right arm. K Nagarkoti's Left Arm DODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets.... Kamlesh Nagarkoti's Right Arm DODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. K Nagarkoti's wicket taken by Left Arm Bowlers in DODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets.... Kamlesh Nagarkoti's wicket taken by Right Arm Bowlers in DODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Kamlesh Nagarkoti Took 0 Wickets (In 1 DODI innings) with Strike Rate of and average of 0. K Nagarkoti's delivered 18 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 0 Right Handed and 0 Left Handed batsman out by Kamlesh Nagarkoti in DODI. Right Handed Batsman DODI outtype analysis (wicket taken by K Nagarkoti) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times. Left Handed Batsman DODI outtype analysis (wicket taken by K Nagarkoti) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Kamlesh Nagarkoti Fielding analysis are Catch 1 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Kamlesh Nagarkoti plays cricket as Bowler. K Nagarkoti wicket per match stats are 0.4 in IPL, 1.1 in SMAT, 0 in DODI, 1.0 in DT20, 1.0 in VHT. Kamlesh Nagarkoti wicket in every 36.0 balls in IPL, 17.2 balls in SMAT, 0 balls in DODI, 20.5 balls in DT20, 41.0 balls in VHT.... K Nagarkoti catch chances in match are 75 % in IPL, 33.3 % in SMAT, 100 % in DODI, 28.5 % in DT20, 16.6 % in VHT. Kamlesh Nagarkoti field chances are 75 % in IPL, 33.3 % in SMAT, 100 % in DODI, 28.5 % in DT20, 33.3 % in VHT.... |## Kamlesh Nagarkoti stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|KKR|all|IPL|7|8|5.50|Stats|
+|DC|all|IPL|0|0|Stats|
+|RAJ|all|DODI|1|4|4.00|Stats|
+|RAJ|all|SMAT|2|39|44.00|Stats|
+|RAJ|all|VHT|7|16|6.00|Stats|
+|RJS|all|DT20|5|24|9.33|Stats|
+|## Kamlesh Nagarkoti stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Sheikh Zayed Stadium|all|IPL|1|0|0.00|Stats|
+|Dubai International Cricket St|all|IPL|2|8|4.50|Stats|
+|Sharjah Cricket Stadium|all|IPL|3|6|6.50|Stats|
+|Wankhede Stadium|all|IPL|1|0|0.00|Stats|
+|Brabourne Stadium|all|IPL|0|0|Stats|
+|MA Chidambaram Stadium|all|DODI|1|4|4.00|Stats|
+|FB Colony Ground|all|SMAT|0|0|Stats|
+|Reliance Stadium|all|SMAT|0|0|Stats|
+|Alembic Ground|all|SMAT|1|5|5.00|Stats|
+|Palam A Stadium|all|SMAT|1|39|39.00|Stats|
+|## Kamlesh Nagarkoti stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Sheikh Zayed Stadium|all|IPL|4|1|8.90|Stats|
+|Dubai International Cricket St|all|IPL|3|3|7.88|Stats|
+|Sharjah Cricket Stadium|all|IPL|2|1|10.14|Stats|
+|Wankhede Stadium|all|IPL|1|0|12.50|Stats|
+|Brabourne Stadium|all|IPL|1|0|14.50|Stats|
+|MA Chidambaram Stadium|all|DODI|1|0|7.00|Stats|
+|FB Colony Ground|all|SMAT|1|0|5.75|Stats|
+|Reliance Stadium|all|SMAT|2|2|7.62|Stats|
+|Alembic Ground|all|SMAT|2|5|6.97|Stats|
+|Palam A Stadium|all|SMAT|1|0|9.00|Stats|
+|## Kamlesh Nagarkoti stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|IPL 2020|all|IPL|6|8|7.33|Stats|
+|IPL 2021|all|IPL|1|0|0.00|Stats|
+|IPL 2022|all|IPL|0|0|Stats|
+|VHT 2018|all|DODI|1|4|4.00|Stats|
+|SMAT 2021-22|all|SMAT|2|39|44.00|Stats|
+|VHT 2021-22|all|VHT|3|16|6.33|Stats|
+|VHT 2022|all|VHT|4|13|5.75|Stats|
+|Syed Mushtaq Ali Trophy 2022|all|DT20|5|24|9.33|Stats|
+|## Kamlesh Nagarkoti stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|IPL 2020|all|IPL|9|5|8.88|Stats|
+|IPL 2021|all|IPL|1|0|12.50|Stats|
+|IPL 2022|all|IPL|1|0|14.50|Stats|
+|VHT 2018|all|DODI|1|0|7.00|Stats|
+|SMAT 2021-22|all|SMAT|6|7|7.09|Stats|
+|VHT 2021-22|all|VHT|5|3|4.56|Stats|
+|VHT 2022|all|VHT|7|10|4.70|Stats|
+|Syed Mushtaq Ali Trophy 2022|all|DT20|7|7|7.33|Stats|
+|## Kamlesh Nagarkoti stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|United Arab Emirates|all|IPL|6|8|7.33|Stats|
+|India|all|IPL|1|0|0.00|Stats|
+|India|all|SMAT|2|39|44.00|Stats|
+|India|all|VHT|7|16|6.00|Stats|
+|Malaysia|all|VHT|0|0|Stats|
+|India|all|DT20|5|24|9.33|Stats|
+|## Kamlesh Nagarkoti stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|RR|all|IPL|2|8|4.50|Stats|
+|DC|all|IPL|1|3|3.00|Stats|
+|CSK|all|IPL|2|0|0.00|Stats|
+|KXIP|all|IPL|1|6|6.00|Stats|
+|RCB|all|IPL|1|4|4.00|Stats|
+|SRH|all|IPL|0|0|Stats|
+|MI|all|IPL|0|0|Stats|
+|TN|all|DODI|1|4|4.00|Stats|
+|JK|all|SMAT|0|0|Stats|
+|VID|all|SMAT|1|39|39.00|Stats|
+|## Kamlesh Nagarkoti stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Sheikh Zayed Stadium|all|SRH|IPL|0|0|Stats|
+|Dubai International Cricket St|all|RR|IPL|2|8|4.50|Stats|
+|Sharjah Cricket Stadium|all|DC|IPL|1|3|3.00|Stats|
+|Sheikh Zayed Stadium|all|CSK|IPL|1|0|0.00|Stats|
+|Sheikh Zayed Stadium|all|KXIP|IPL|0|0|Stats|
+|Sharjah Cricket Stadium|all|RCB|IPL|1|4|4.00|Stats|
+|Sheikh Zayed Stadium|all|DC|IPL|0|0|Stats|
+|Sharjah Cricket Stadium|all|KXIP|IPL|1|6|6.00|Stats|
+|Dubai International Cricket St|all|CSK|IPL|0|0|Stats|
+|Wankhede Stadium|all|CSK|IPL|1|0|0.00|Stats|
+|## Kamlesh Nagarkoti stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Sheikh Zayed Stadium|all|SRH|IPL|1|0|8.50|Stats|
+|Dubai International Cricket St|all|RR|IPL|2|3|6.16|Stats|
+|Sharjah Cricket Stadium|all|DC|IPL|1|1|11.66|Stats|
+|Sheikh Zayed Stadium|all|CSK|IPL|1|1|7.00|Stats|
+|Sheikh Zayed Stadium|all|KXIP|IPL|1|0|13.33|Stats|
+|Sharjah Cricket Stadium|all|RCB|IPL|1|0|9.00|Stats|
+|Sheikh Zayed Stadium|all|DC|IPL|1|0|5.50|Stats|
+|Dubai International Cricket St|all|CSK|IPL|1|0|11.33|Stats|
+|Wankhede Stadium|all|CSK|IPL|1|0|12.50|Stats|
+|## Kamlesh Nagarkoti stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|IPL 2020|RR|IPL|2|8|4.50|Stats|
+|IPL 2020|DC|IPL|1|3|3.00|Stats|
+|IPL 2020|CSK|IPL|1|0|0.00|Stats|
+|IPL 2020|KXIP|IPL|1|6|6.00|Stats|
+|IPL 2020|RCB|IPL|1|4|4.00|Stats|
+|IPL 2021|CSK|IPL|1|0|0.00|Stats|
+|IPL 2020|SRH|IPL|0|0|Stats|... |IPL 2022|MI|IPL|0|0|Stats|
+|VHT 2018|TN|DODI|1|4|4.00|Stats|
+|SMAT 2021-22|JK|SMAT|0|0|Stats|
+|## Kamlesh Nagarkoti stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|IPL 2020|RR|IPL|2|3|6.16|Stats|
+|IPL 2020|DC|IPL|2|1|9.20|Stats|
+|IPL 2020|CSK|IPL|2|1|9.16|Stats|
+|IPL 2020|KXIP|IPL|1|0|13.33|Stats|
+|IPL 2020|RCB|IPL|1|0|9.00|Stats|
+|IPL 2021|CSK|IPL|1|0|12.50|Stats|
+|IPL 2020|SRH|IPL|1|0|8.50|Stats|
+|IPL 2022|MI|IPL|1|0|14.50|Stats|
+|VHT 2018|TN|DODI|1|0|7.00|Stats|
+|SMAT 2021-22|JK|SMAT|1|1|7.00|Stats|
+|## Kamlesh Nagarkoti stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|United Arab Emirates|all|RR|IPL|2|8|4.50|Stats|
+|India|all|MI|IPL|0|0|Stats|
+|United Arab Emirates|all|SRH|IPL|0|0|Stats|
+|India|all|CSK|IPL|1|0|0.00|Stats|
+|United Arab Emirates|all|RCB|IPL|1|4|4.00|Stats|
+|United Arab Emirates|all|CSK|IPL|1|0|0.00|Stats|
+|United Arab Emirates|all|DC|IPL|1|3|3.00|Stats|
+|United Arab Emirates|all|KXIP|IPL|1|6|6.00|Stats|
+|India|all|JHKD|SMAT|0|0|Stats|
+|India|all|JK|SMAT|0|0|Stats|
+|## Kamlesh Nagarkoti stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|United Arab Emirates|all|RR|IPL|2|3|6.16|Stats|
+|India|all|MI|IPL|1|0|14.50|Stats|
+|United Arab Emirates|all|SRH|IPL|1|0|8.50|Stats|
+|India|all|CSK|IPL|1|0|12.50|Stats|
+|United Arab Emirates|all|RCB|IPL|1|0|9.00|Stats|
+|United Arab Emirates|all|CSK|IPL|2|1|9.16|Stats|
+|United Arab Emirates|all|DC|IPL|2|1|9.20|Stats|
+|United Arab Emirates|all|KXIP|IPL|1|0|13.33|Stats|
+|India|all|JHKD|SMAT|1|0|5.75|Stats|
+|India|all|JK|SMAT|1|1|7.00|Stats|

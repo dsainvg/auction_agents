@@ -1,15 +1,22 @@
 ================================================================================
-IPL PLAYER PROFILE: WILL JACKS
+IPL PLAYER PROFILE: RILEY MEREDITH
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Will Jacks
-  IPL Debut                : 2024
-  Date of Birth            : 21 November 1998
-  Total IPL Matches        : 21
-  Role                     : WK-Batter
-  Nationality              : Indian
+  Player Name              : Riley Meredith
+  Date of Birth            : 21 June 1996
+  Total IPL Matches        : 18
+  Role                     : Bowler
+  Nationality              : Australian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The right-arm pacer from Tasmania is capable of clocking 140 kph very
+  consistently and has proved his worth in the domestic circuit. He made his
+  T20 debut against New Zealand in 2021 and now has the opportunity to make
+  his debut in the IPL after the Punjab Kings won the bidding war, eventually
+  acquiring the Aussie pacer for INR 8 Cr.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -19,9 +26,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    21    |    2     |   463    |   100*   |  27.24   |   303    |  152.81  |    1     |    2     |    38    |    29    |    9     |    0    
-    2025   |    13    |    1     |   233    |    53    |  23.30   |   172    |  135.47  |    0     |    1     |    22    |    11    |    6     |    0    
-    2024   |    8     |    1     |   230    |   100*   |  32.86   |   131    |  175.57  |    1     |    1     |    16    |    18    |    3     |    0    
+   Career  |    5     |    0     |    0     |    0     |   0.00   |    0     |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    5     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -31,10 +37,371 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    21    |   138    |   220    |    8     |   2/14   |  27.50   |   9.57   |  17.25   |    0     |    0    
-    2025   |    13    |    84    |   120    |    6     |   2/14   |  20.00   |   8.57   |  14.00   |    0     |    0    
-    2024   |    8     |    54    |   100    |    2     |   1/23   |  50.00   |  11.11   |  27.00   |    0     |    0    
+   Career  |    5     |   102    |   169    |    4     |   1/29   |  42.25   |   9.94   |  25.50   |    0     |    0    
+    2021   |    5     |   102    |   169    |    4     |   1/29   |  42.25   |   9.94   |  25.50   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/will-jacks/5629
+Source: https://www.iplt20.com/players/riley-meredith/4055
 ================================================================================
+|## Riley Meredith Introduction|
+|--|
+|Role|Bowler|
+|Batting|Left Handed|
+|Bowling|fast-medium Right-arm|
+|Country|Australia|
+|--|--|
+|Birth|21-Jun-1996 (28 yr), Hobart, Tasmania|
+|Height|6 ft 0 in|
+|Teams|Cricket Australia XI, Tasmania, Hobart Hurricanes, Australia A, Australia, Finch XI, Punjab Kings (Mostly) Hobart Hurricanes,|
+|Social Accounts|Instagram Wikipedia|
+|Last Updated|Last updated 8 days ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Riley Meredith Stats|
+|--|
+|Competition|ODI|T20|IPL|
+|Matches|1|6|15|
+|Highest Score|0|0|0|
+|Runs|0|0|0|
+|50s|0|0|0|
+|100s|0|0|0|
+|Run Per Inn|-|-|-|
+|Run Per Match|-|-|-|
+|Boundary (In Ball)|-|-|-|
+|4s (In Ball)|-|-|-|
+|6s (In Ball)|-|-|-|
+|Wickets|0|9|15|
+|Over Per Match|5.0|3.4|3.3|
+|Wicket Per Inn|-|1.5|1.0|
+|Wicket Per Match|-|1.5|1.0|
+|Wicket (In Ball)|-|15.2|21.0|
+|Wicket (In Runs)|-|24.6|31.9|
+|Field In Match %|-|-|13 %|
+|Catch In Match %|-|-|13 %|
+|Check More Stats On Advance Cricket App|
+|## Riley Meredith Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|27 Jan 25|T20|0|89|0|93|
+|21 Jan 25|T20|0|50|0|54|
+|16 Jan 25|T20|0|-6|8|6|
+|14 Jan 25|T20|0|79|8|91|
+|10 Jan 25|T20|0|50|0|54|
+|05 Jan 25|T20|0|27|0|31|
+|01 Jan 25|T20|0|31|8|43|
+|27 Dec 24|T20|0|-2|0|2|
+|21 Dec 24|T20|0|81|18|103|
+|19 Dec 24|T20|-2|23|0|25|
+|04 Sep 24|T20|0|25|0|29|
+|19 Jul 24|T20|-2|21|0|23|
+|18 Jul 24|T20|0|0|0|4|
+|12 Jul 24|T20|0|25|0|29|
+|07 Jul 24|T20|0|0|0|4|
+|21 Jun 24|T20|0|25|0|29|
+|16 Jun 24|T20|8|43|0|55|
+|14 Jun 24|T20|0|25|0|29|
+|11 Jun 24|T20|0|114|0|118|
+|## Riley Meredith Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|27 Jan 25|HUR vs THU|DNB|
+|21 Jan 25|HUR vs SIX|DNB|
+|16 Jan 25|HUR vs HEA|DNB|
+|14 Jan 25|HUR vs REN|DNB|
+|10 Jan 25|HUR vs THU|DNB|
+|05 Jan 25|HUR vs STR|DNB|
+|01 Jan 25|HUR vs SIX|DNB|
+|27 Dec 24|HUR vs STR|DNB|
+|21 Dec 24|HUR vs SCO|DNB|
+|19 Dec 24|HUR vs REN|9|0(2)|0|bowled|
+|04 Sep 24|AUS vs SCO|DNB|
+|19 Jul 24|SOM vs GLA|9|0(3)|0|bowled|
+|18 Jul 24|SOM vs SUS|DNB|
+|12 Jul 24|SOM vs SUR|DNB|
+|07 Jul 24|SOM vs GLO|DNB|
+|21 Jun 24|SOM vs GLO|DNB|
+|Riley Meredith Recent Batting|
+|## Riley Meredith Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|27 Jan 25|HUR vs THU|4.0|27|3|0|6.75|
+|21 Jan 25|HUR vs SIX|4.0|34|2|0|8.50|
+|16 Jan 25|HUR vs HEA|4.0|57|0|0|14.25|
+|14 Jan 25|HUR vs REN|4.0|36|3|0|9.00|
+|10 Jan 25|HUR vs THU|4.0|30|2|0|7.50|
+|05 Jan 25|HUR vs STR|4.0|26|1|0|6.50|
+|01 Jan 25|HUR vs SIX|3.0|12|1|0|4.00|
+|27 Dec 24|HUR vs STR|4.0|44|0|0|11.00|
+|21 Dec 24|HUR vs SCO|4.0|27|3|0|6.75|
+|19 Dec 24|HUR vs REN|3.0|31|1|0|10.33|
+|04 Sep 24|AUS vs SCO|4.0|34|1|0|8.50|
+|19 Jul 24|SOM vs GLA|4.0|47|1|0|11.75|
+|18 Jul 24|SOM vs SUS|4.0|29|0|0|7.25|
+|12 Jul 24|SOM vs SUR|4.0|31|1|0|7.75|
+|07 Jul 24|SOM vs GLO|2.0|17|0|0|8.50|
+|21 Jun 24|SOM vs GLO|4.0|37|1|0|9.25|
+|Riley Meredith Recent Bowling All Recent Bowling Details|
+|Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|1|6|15|
+|Innings|1|0|3|
+|Not Out|1|0|3|
+|Runs|0|0|0|
+|Highest Score|0|0|0|
+|Average|
+|Balls Faced|0|0|3|
+|Strike Rate|0|0|0|
+|20s|0|0|0|
+|30s|0|0|0|
+|50s|0|0|0|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|0|0|0|
+|6s|0|0|0|
+|Outtype|
+|LBW|0|0|0|
+|Bowled|0|0|0|
+|Stumped|0|0|0|
+|Catch|0|0|0|
+|Run Out|0|0|0|
+|Wicket Taker|
+|Left Arm|0|0|0|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|0|
+|3- Medium|0|0|0|
+|4- Slow|0|0|0|
+|1- Bowled|0|0|0|
+|2- Catch|0|0|0|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Right Arm|0|0|0|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|0|
+|3- Medium|0|0|0|
+|4- Slow|0|0|0|
+|1- Bowled|0|0|0|
+|2- Catch|0|0|0|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|1|6|15|
+|Innings|1|6|15|
+|Balls|30|137|316|
+|Runs|36|222|479|
+|BBI|
+|Average|0|24.66|31.93|
+|Strike Rate|15.22|21.06|
+|Maiden|0|0|0|
+|2w|0|2|5|
+|3w|0|1|0|
+|5w|0|0|0|
+|8w|0|0|0|
+|10w|0|0|0|
+|Wickets|0|9|15|... |LBW|0|2|0|
+|Bowled|0|0|2|
+|Stumped|0|0|0|
+|Catch|0|7|14|
+|Batsman Type|
+|Right Handed|0|6|10|
+|1- LBW|0|2|0|... |2- Bowled|0|0|1|
+|3- Stumped|0|0|0|
+|4- Catch|0|4|10|
+|Left Handed|0|3|6|
+|1- LBW|0|0|0|
+|2- Bowled|0|0|1|... |3- Stumped|0|0|0|
+|4- Catch|0|3|5|
+Riley Meredith played 1 ODI matches and scored 0 runs in 1 Innings. Riley Meredith's Highest Score in ODI is 0. R Meredith has 0 ODI centuries, 0 ODI half centuries and 0 times 30+ and 0 times 20+ ODI runs.... R Meredith has a strike rate of 0 with run per match of 0.00 in 0 ODI balls. Riley Meredith made total 0 boundaries with 0 fours and 0 sixes in ODI. R Meredith's ODI outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 0 times, Run Out 0 times.... Riley Meredith's ODI wicket takers are 0 left arm and 0 right arm. R Meredith's Left Arm ODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Riley Meredith's Right Arm ODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... R Meredith's wicket taken by Left Arm Bowlers in ODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Riley Meredith's wicket taken by Right Arm Bowlers in ODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Riley Meredith Took 0 Wickets (In 1 ODI innings) with Strike Rate of and average of 0. R Meredith's delivered 30 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 0 Right Handed and 0 Left Handed batsman out by Riley Meredith in ODI. Right Handed Batsman ODI outtype analysis (wicket taken by R Meredith) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times. Left Handed Batsman ODI outtype analysis (wicket taken by R Meredith) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Riley Meredith Took 9 Wickets (In 6 T20 innings) with Strike Rate of 15.22 and average of 24.66. R Meredith's delivered 137 balls (with 0 Maiden over) and took 2 wickets 2 times 3 wickets 1 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 6 Right Handed and 3 Left Handed batsman out by Riley Meredith in T20. Right Handed Batsman T20 outtype analysis (wicket taken by R Meredith) are LBW 2 times, Bowled 0 times, Stumped 0 times, Catch 4 times. Left Handed Batsman T20 outtype analysis (wicket taken by R Meredith) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 3 times.... Riley Meredith played 15 IPL matches and scored 0 runs in 3 Innings. Riley Meredith's Highest Score in IPL is 0. R Meredith has 0 IPL centuries, 0 IPL half centuries and 0 times 30+ and 0 times 20+ IPL runs. R Meredith has a strike rate of 0 with run per match of 0.00 in 3 IPL balls.... Riley Meredith made total 0 boundaries with 0 fours and 0 sixes in IPL. R Meredith's IPL outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 0 times, Run Out 0 times. Riley Meredith's IPL wicket takers are 0 left arm and 0 right arm.... R Meredith's Left Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Riley Meredith's Right Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... R Meredith's wicket taken by Left Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Riley Meredith's wicket taken by Right Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Riley Meredith Took 15 Wickets (In 15 IPL innings) with Strike Rate of 21.06 and average of 31.93. R Meredith's delivered 316 balls (with 0 Maiden over) and took 2 wickets 5 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 10 Right Handed and 6 Left Handed batsman out by Riley Meredith in IPL. Right Handed Batsman IPL outtype analysis (wicket taken by R Meredith) are LBW 0 times, Bowled 1 times, Stumped 0 times, Catch 10 times. Left Handed Batsman IPL outtype analysis (wicket taken by R Meredith) are LBW 0 times, Bowled 1 times, Stumped 0 times, Catch 5 times.... Riley Meredith Fielding analysis are Catch 2 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Riley Meredith plays cricket as Bowler. R Meredith wicket per match stats are 0 in ODI, 1.5 in T20, 1.0 in IPL, 1.3 in BBL, 1.1 in BLAST, 1.7 in DODI. Riley Meredith wicket in every 0 balls in ODI, 15.2 balls in T20, 21.0 balls in IPL, 16.3 balls in BBL, 18.5 balls in BLAST, 31.0 balls in DODI.... R Meredith catch chances in match are 0 % in ODI, 0 % in T20, 13.3 % in IPL, 19.4 % in BBL, 0 % in BLAST, 47 % in DODI. Riley Meredith field chances are 0 % in ODI, 0 % in T20, 13.3 % in IPL, 25.9 % in BBL, 0 % in BLAST, 47 % in DODI.... |## Riley Meredith stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|HBH|all|BBL|14|10|3.75|Stats|
+|AUS|all|ODI|1|0|0.00|Stats|
+|TAS|all|DODI|7|16|15.50|Stats|
+|CAXI|all|DODI|1|2|2.00|Stats|
+|PBKS|all|IPL|1|0|0.00|Stats|
+|MI|all|IPL|2|0|0.00|Stats|
+|SUS|all|BLAST|0|0|Stats|
+|SUR|all|BLAST|0|0|Stats|
+|GLO|all|BLAST|0|0|Stats|
+|GLA|all|BLAST|0|0|Stats|
+|## Riley Meredith stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Bellerive Oval|all|BBL|4|3|3.00|Stats|
+|Docklands Stadium|all|BBL|1|3|3.00|Stats|
+|Melbourne Cricket Ground|all|BBL|3|10|10.50|Stats|
+|Perth Stadium|all|BBL|0|0|Stats|
+|Adelaide Oval|all|BBL|1|1|1.00|Stats|
+|Sydney Cricket Ground|all|BBL|0|0|Stats|
+|Manuka Oval|all|BBL|0|0|Stats|
+|Traeger Park|all|BBL|0|0|Stats|
+|Ted Summerton Reserve|all|BBL|1|2|2.00|Stats|
+|Aurora Stadium|all|BBL|1|0|0.00|Stats|
+|## Riley Meredith stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Bellerive Oval|all|BBL|31|47|7.61|Stats|
+|Docklands Stadium|all|BBL|6|7|9.00|Stats|
+|Melbourne Cricket Ground|all|BBL|8|14|9.00|Stats|
+|Perth Stadium|all|BBL|6|7|7.15|Stats|
+|Adelaide Oval|all|BBL|6|2|10.67|Stats|
+|Sydney Cricket Ground|all|BBL|2|0|11.83|Stats|
+|Manuka Oval|all|BBL|1|1|13.00|Stats|
+|Traeger Park|all|BBL|1|1|2.50|Stats|
+|Ted Summerton Reserve|all|BBL|1|3|6.75|Stats|
+|Aurora Stadium|all|BBL|5|7|6.27|Stats|
+|## Riley Meredith stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|BBL 2022-23|all|BBL|3|7|7.00|Stats|
+|BBL 2018-19|all|BBL|0|0|Stats|
+|BBL 2021-22|all|BBL|3|10|14.00|Stats|
+|BBL 2017-18|all|BBL|0|0|Stats|
+|BBL 2024-25|all|BBL|1|0|0.00|Stats|
+|BBL 2019-20|all|BBL|2|2|1.00|Stats|
+|BBL 2020-21|all|BBL|4|4|2.33|Stats|
+|BBL 2023-24|all|BBL|1|0|0.00|Stats|
+|AUSTOWI 2021|all|ODI|1|0|0.00|Stats|
+|ADODC 2018|all|DODI|1|1|1.00|Stats|
+|## Riley Meredith stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|BBL 2022-23|all|BBL|14|21|8.10|Stats|
+|BBL 2018-19|all|BBL|13|16|8.58|Stats|
+|BBL 2021-22|all|BBL|11|16|7.94|Stats|
+|BBL 2017-18|all|BBL|2|1|10.50|Stats|
+|BBL 2024-25|all|BBL|10|16|8.52|Stats|
+|BBL 2019-20|all|BBL|6|10|6.68|Stats|
+|BBL 2020-21|all|BBL|13|16|7.82|Stats|
+|BBL 2023-24|all|BBL|9|7|8.45|Stats|
+|AUSTOWI 2021|all|ODI|1|0|7.20|Stats|
+|ADODC 2018|all|DODI|1|1|5.80|Stats|
+|## Riley Meredith stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|Australia|all|BBL|14|10|3.75|Stats|
+|Barbados|all|ODI|1|0|0.00|Stats|
+|Australia|all|DODI|8|16|16.50|Stats|
+|India|all|IPL|3|0|0.00|Stats|
+|Wales|all|BLAST|1|0|0.00|Stats|
+|England|all|BLAST|1|6|6.00|Stats|
+|New Zealand|all|T20|0|0|Stats|
+|Saint Lucia|all|T20|0|0|Stats|
+|Scotland|all|T20|0|0|Stats|
+|## Riley Meredith stats Bowling On Countries|
+|--|
+|Country|Year|Mode|Inn|Wkts|Eco|Stats|
+|Australia|all|BBL|77|103|8.13|Stats|
+|Barbados|all|ODI|1|0|7.20|Stats|
+|Australia|all|DODI|17|29|5.04|Stats|
+|India|all|IPL|15|15|9.09|Stats|
+|Wales|all|BLAST|1|1|11.75|Stats|
+|England|all|BLAST|9|10|6.66|Stats|
+|New Zealand|all|T20|3|4|7.54|Stats|
+|Saint Lucia|all|T20|2|4|13.40|Stats|
+|Scotland|all|T20|1|1|8.50|Stats|
+|## Riley Meredith stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|SYS|all|BBL|0|0|Stats|
+|MLR|all|BBL|3|4|2.00|Stats|
+|MLS|all|BBL|3|7|9.00|Stats|
+|PRS|all|BBL|1|3|3.00|Stats|
+|ADS|all|BBL|3|10|5.50|Stats|
+|SYT|all|BBL|1|0|0.00|Stats|
+|BRH|all|BBL|3|3|1.50|Stats|
+|WI|all|ODI|1|0|0.00|Stats|
+|SAUS|all|DODI|0|0|Stats|
+|NSW|all|DODI|2|16|18.00|Stats|
+|## Riley Meredith stats Bowling Against Teams|
+|--|
+|Team|Year|Mode|Inn|Wkts|Eco|Stats|
+|SYS|all|BBL|10|9|8.33|Stats|
+|MLR|all|BBL|13|21|8.62|Stats|
+|MLS|all|BBL|12|20|7.43|Stats|
+|PRS|all|BBL|10|15|7.26|Stats|
+|ADS|all|BBL|13|11|9.22|Stats|
+|SYT|all|BBL|10|14|8.48|Stats|
+|BRH|all|BBL|10|13|7.43|Stats|
+|WI|all|ODI|1|0|7.20|Stats|
+|SAUS|all|DODI|5|8|5.74|Stats|
+|NSW|all|DODI|4|4|5.73|Stats|
+|## Riley Meredith stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Bellerive Oval|all|SYS|BBL|0|0|Stats|... |Docklands Stadium|all|MLR|BBL|0|0|Stats|
+|Melbourne Cricket Ground|all|MLS|BBL|1|7|7.00|Stats|
+|Perth Stadium|all|PRS|BBL|0|0|Stats|
+|Adelaide Oval|all|ADS|BBL|1|1|1.00|Stats|
+|Sydney Cricket Ground|all|SYS|BBL|0|0|Stats|
+|Bellerive Oval|all|MLR|BBL|1|0|0.00|Stats|
+|Manuka Oval|all|SYT|BBL|0|0|Stats|
+|Bellerive Oval|all|MLS|BBL|1|0|0.00|Stats|
+|Traeger Park|all|SYS|BBL|0|0|Stats|
+|## Riley Meredith stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Bellerive Oval|all|SYS|BBL|5|6|7.47|Stats|
+|Docklands Stadium|all|MLR|BBL|4|4|9.20|Stats|
+|Melbourne Cricket Ground|all|MLS|BBL|3|7|8.50|Stats|
+|Perth Stadium|all|PRS|BBL|6|7|7.15|Stats|
+|Adelaide Oval|all|ADS|BBL|6|2|10.67|Stats|
+|Sydney Cricket Ground|all|SYS|BBL|2|0|11.83|Stats|
+|Bellerive Oval|all|MLR|BBL|6|12|8.59|Stats|
+|Manuka Oval|all|SYT|BBL|1|1|13.00|Stats|
+|Bellerive Oval|all|MLS|BBL|7|9|6.96|Stats|
+|Traeger Park|all|SYS|BBL|1|1|2.50|Stats|
+|## Riley Meredith stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|BBL 2018-19|SYS|BBL|0|0|Stats|
+|BBL 2018-19|MLR|BBL|0|0|Stats|
+|BBL 2018-19|MLS|BBL|0|0|Stats|
+|BBL 2018-19|PRS|BBL|0|0|Stats|
+|BBL 2018-19|ADS|BBL|0|0|Stats|
+|BBL 2018-19|SYT|BBL|0|0|Stats|
+|BBL 2019-20|SYS|BBL|0|0|Stats|
+|BBL 2019-20|MLS|BBL|1|2|2.00|Stats|
+|BBL 2019-20|MLR|BBL|0|0|Stats|
+|BBL 2019-20|BRH|BBL|1|0|0.00|Stats|
+|## Riley Meredith stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|BBL 2018-19|SYS|BBL|2|0|10.04|Stats|
+|BBL 2018-19|MLR|BBL|2|2|11.71|Stats|
+|BBL 2018-19|MLS|BBL|3|4|5.75|Stats|
+|BBL 2018-19|PRS|BBL|2|5|4.25|Stats|
+|BBL 2018-19|ADS|BBL|1|1|9.75|Stats|
+|BBL 2018-19|SYT|BBL|2|2|12.00|Stats|
+|BBL 2019-20|SYS|BBL|1|1|2.50|Stats|
+|BBL 2019-20|MLS|BBL|2|4|7.38|Stats|
+|BBL 2019-20|MLR|BBL|1|3|6.50|Stats|
+|BBL 2019-20|BRH|BBL|1|1|9.50|Stats|
+|## Riley Meredith stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Australia|all|SYS|BBL|0|0|Stats|
+|Australia|all|MLR|BBL|3|4|2.00|Stats|
+|Australia|all|MLS|BBL|3|7|9.00|Stats|
+|Australia|all|PRS|BBL|1|3|3.00|Stats|
+|Australia|all|ADS|BBL|3|10|5.50|Stats|
+|Australia|all|SYT|BBL|1|0|0.00|Stats|
+|Australia|all|BRH|BBL|3|3|1.50|Stats|
+|Australia|all|HUR|BBL|0|0|Stats|
+|Barbados|all|WI|ODI|1|0|0.00|Stats|
+|Australia|all|SAUS|DODI|0|0|Stats|
+|## Riley Meredith stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Australia|all|SYS|BBL|10|9|8.33|Stats|
+|Australia|all|MLR|BBL|13|21|8.62|Stats|
+|Australia|all|MLS|BBL|12|20|7.43|Stats|
+|Australia|all|PRS|BBL|10|15|7.26|Stats|
+|Australia|all|ADS|BBL|13|11|9.22|Stats|
+|Australia|all|SYT|BBL|10|14|8.48|Stats|
+|Australia|all|BRH|BBL|10|13|7.43|Stats|
+|Barbados|all|WI|ODI|1|0|7.20|Stats|
+|Australia|all|SAUS|DODI|5|8|5.74|Stats|
+|Australia|all|NSW|DODI|4|4|5.73|Stats|

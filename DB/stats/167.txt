@@ -1,30 +1,30 @@
 ================================================================================
-IPL PLAYER PROFILE: AZMATULLAH OMARZAI
+IPL PLAYER PROFILE: JHYE RICHARDSON
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Azmatullah Omarzai
-  IPL Debut                : 2024
-  Date of Birth            : 24 March 2000
-  Total IPL Matches        : 16
-  Role                     : WK-Batter
-  Nationality              : Afghan
+  Player Name              : Jhye Richardson
+  IPL Debut                : 2021
+  Date of Birth            : 20 September 1996
+  Total IPL Matches        : 4
+  Role                     : Bowler
+  Nationality              : Australian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  The versatile Afghan all-rounder Azmatullah Omarzai made waves in
-  Afghanistan’s U19 setup, starring in the 2018 U19 World Cup with 66 runs and
-  7 wickets. Omarzai played a key role in Afghanistan’s T20 World Cup 2024
-  semifinal run, scoring 87 runs and taking 6 wickets. He first stepped into
-  the IPL spotlight when Gujarat Titans (GT) signed him for INR 50 lakh at the
-  2024 auction. His IPL debut came against Mumbai Indians in 2024, where he
-  took 2/27. In that edition, he impressed with a brisk 33 off 20 against
-  Delhi Capitals, hinting at his finishing potential. Punjab Kings secured him
-  for INR 2.4 Crore after a bidding war with Chennai Super Kings at the 2025
-  TATA IPL Auction. As PBKS chase their maiden IPL title in 2025 with Ricky
-  Ponting’s mentorship, Omarzai’s ability to swing the new ball, hit big, and
-  perform in crunch moments makes him a vital cog in their quest.
+    Aussie bowlers and their obsession with pace is a match made in heaven as
+  young right arm pacer Jhye Richardson made it to the club, consistently
+  bowling at decent speeds as well as maintaining accuracy at the same time.
+  Richardson had rapid career progress after finding success in both Sheffield
+  Shield as well as the BBL. He was the fourth most expensive player sold in
+  the 2021 IPL auction after the Punjab Kings acquired him for a whopping
+  price of INR 14 cr. It would be a significant achievement for the right arm
+  pacer if he manages to translate his past success to the IPL.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Most expensive player in IPL history
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -34,9 +34,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    16    |    1     |    99    |   21*    |  12.38   |    74    |  133.78  |    0     |    0     |    8     |    5     |    1     |    0    
-    2025   |    9     |    1     |    57    |   21*    |  14.25   |    41    |  139.02  |    0     |    0     |    6     |    3     |    1     |    0    
-    2024   |    7     |    0     |    42    |    17    |  10.50   |    33    |  127.27  |    0     |    0     |    2     |    2     |    0     |    0    
+   Career  |    4     |    0     |    17    |    15    |   5.67   |    26    |  65.38   |    0     |    0     |    2     |    0     |    1     |    0    
+    2024   |    1     |    0     |    2     |    2     |   2.00   |    2     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    3     |    0     |    15    |    15    |   7.50   |    24    |  62.50   |    0     |    0     |    2     |    0     |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -46,10 +46,24 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    16    |   288    |   465    |    12    |   2/27   |  38.75   |   9.69   |  24.00   |    0     |    0    
-    2025   |    9     |   162    |   279    |    8     |   2/33   |  34.88   |  10.33   |  20.25   |    0     |    0    
-    2024   |    7     |   126    |   186    |    4     |   2/27   |  46.50   |   8.86   |  31.50   |    0     |    0    
+   Career  |    3     |    66    |   117    |    3     |   2/41   |  39.00   |  10.64   |  22.00   |    0     |    0    
+    2021   |    3     |    66    |   117    |    3     |   2/41   |  39.00   |  10.63   |  22.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/azmatullah-omarzai/20685
+Source: https://www.iplt20.com/players/jhye-richardson/3781
 ================================================================================
+Career-Stats
+
+Batting Stats
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|3|3|18|128.57|6.00|--|0/2|... |ODI|15|9|93|86.92|18.60|--|7/0|
+|T20I|18|8|45|88.24|15.00|--|3/1|
+|FC|26|34|675|64.78|21.77|4/0|89/3|... |listA|48|26|307|83.20|18.06|--|21/2|
+|T20s|97|49|349|110.44|13.96|--|23/13|
+Bowling Stats... |Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|3|6|535|11|2.73|48.64|22.09|1|... |ODI|15|15|810|27|5.87|30.00|29.37|0|
+|T20I|18|18|396|19|8.42|20.84|29.26|0|
+|FC|26|48|5239|110|2.64|48.08|20.95|4|... |listA|48|48|2451|82|5.36|29.92|26.66|1|
+|T20s|97|96|2129|124|8.01|18.67|22.90|0|

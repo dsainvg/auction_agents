@@ -1,14 +1,27 @@
 ================================================================================
-IPL PLAYER PROFILE: ALEX CAREY
+IPL PLAYER PROFILE: LUNGISANI NGIDI
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Alex Carey
-  Date of Birth            : 27 August 1991
-  Total IPL Matches        : 3
-  Role                     : Wicketkeeper Batter
-  Nationality              : Australian
+  Player Name              : Lungisani Ngidi
+  IPL Debut                : 2018
+  Date of Birth            : 29 March 1996
+  Total IPL Matches        : 16
+  Role                     : Bowler
+  Nationality              : South African
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A tall pacer, Lungi Ngidi made his debut for South Africa in 2017 against
+  Sri Lanka and was adjudged the Man of the Match. Ngidi was identified as a
+  T20 prospect early on when he finished as the joint second-highest
+  wicket-taker in the Africa Cup, a provincial T20 tournament that serves as a
+  curtain raiser to the season, in September 2015. Even though Ngidi was a
+  prospect for limited overs, his maiden Test call arrived against India at
+  Centurion. Once again Ngidi had a dream debut and was adjudged the Man of
+  the Match. Ngidi clearly came under the limelight that resulted in him
+  getting a contract with the Chennai Super Kings at the IPL.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -18,8 +31,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    1     |    32    |   14*    |  16.00   |    29    |  110.34  |    0     |    0     |    0     |    1     |    2     |    0    
-    2020   |    3     |    1     |    32    |   14*    |  16.00   |    29    |  110.34  |    0     |    0     |    0     |    1     |    2     |    0    
+   Career  |    16    |    1     |    0     |    0     |    -     |    2     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2025   |    2     |    1     |    0     |    0*    |    -     |    2     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    3     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2020   |    4     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2018   |    7     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -29,9 +45,111 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    16    |   372    |   529    |    29    |   4/10   |  18.24   |   8.53   |  12.83   |    1     |    0    
+    2025   |    2     |    48    |    81    |    4     |   3/30   |  20.25   |  10.13   |  12.00   |    0     |    0    
+    2021   |    3     |    72    |   125    |    5     |    -     |  25.00   |  10.41   |  14.40   |    0     |    0    
+    2020   |    4     |    96    |   167    |    9     |    -     |  18.55   |  10.43   |  10.66   |    0     |    0    
+    2018   |    7     |   156    |   156    |    11    |   4/10   |  14.18   |   6.00   |  14.18   |    1     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/alex-carey/3882
+Source: https://www.iplt20.com/players/lungisani-ngidi/3746
 ================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Australia|1|8|2|18|1|1/18|0|0|18.00|2.25|48.00|AUS|1|12|2|SA|South Africa|SA|
+|Bangladesh|1|4|0|34|0|0/34|0|0|-|8.50|-|BAN|2|12|2|SA|South Africa|SA|... |England|2|15|1|92|5|3/66|1|0|18.40|6.13|18.00|ENG|3|12|2|SA|South Africa|SA|
+|India|1|8.2|0|63|1|1/63|0|0|63.00|7.56|50.00|IND|4|12|2|SA|South Africa|SA|... |Netherlands|1|9|1|57|2|2/57|0|0|28.50|6.33|27.00|NED|15|12|2|SA|South Africa|SA|
+|New Zealand|2|16|2|75|1|1/47|0|0|75.00|4.68|96.00|NZ|5|12|2|SA|South Africa|SA|... |Pakistan|2|16.4|0|109|4|3/64|1|0|27.25|6.54|25.00|PAK|6|12|2|SA|South Africa|SA|
+|Sri Lanka|1|8|1|49|1|1/49|0|0|49.00|6.12|48.00|SL|8|12|2|SA|South Africa|SA|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Delhi Capitals|2|0|0|-|-|0|0|0|0|-|0.00|-|-|DC|1109|0|0|6|CSK|Chennai Super Kings|CSK|
+|Rajasthan Royals|1|0|0|-|-|0|0|0|0|-|0.00|-|-|RR|1110|0|0|6|CSK|Chennai Super Kings|CSK|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Chennai Super Kings|1|4|0|30|3|3/30|1|0|10.00|7.50|8.00|CSK|1108|2|6|RCB|Royal Challengers Bengaluru|RCB|
+|Delhi Capitals|2|7|0|40|3|2/14|0|0|13.33|5.71|14.00|DC|1109|2|6|RCB|Royal Challengers Bengaluru|RCB|... |Kolkata Knight Riders|3|11|0|98|6|3/28|1|0|16.33|8.90|11.00|KKR|1106|2|6|RCB|Royal Challengers Bengaluru|RCB|
+|Mumbai Indians|2|8|0|100|3|3/38|1|0|33.33|12.50|16.00|MI|1111|2|6|RCB|Royal Challengers Bengaluru|RCB|... |Punjab Kings|2|8|1|49|7|4/10|2|0|7.00|6.12|6.85|PBKS|1107|2|6|RCB|Royal Challengers Bengaluru|RCB|
+|Rajasthan Royals|1|4|0|56|1|1/56|0|0|56.00|14.00|24.00|RR|1110|2|6|RCB|Royal Challengers Bengaluru|RCB|... |Sunrisers Hyderabad|4|16|1|132|5|2/35|0|0|26.40|8.25|19.20|SRH|1379|2|6|RCB|Royal Challengers Bengaluru|RCB|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Cape Cobras|7|0|0|-|-|0|0|0|0|-|0.00|4|0|CC|1142|0|0|6|-|-|-|
+|Warriors|9|3|1|4|2|0|0|0|0|2.00|66.66|2|0|WAR|1187|1|1|6|-|-|-|... |DP World Lions|7|3|2|5|3*|0|0|0|0|5.00|55.55|1|0|LIO|1195|1|1|6|-|-|-|
+|Knights|6|1|1|2|2*|0|0|0|0|-|200.00|1|0|KTS|1376|0|0|6|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |AET Tuskers|2|4.4|0|30|3|2/12|0|0|10.00|6.42|9.33|TUS|462|39|6|-|-|-|
+|Cape Cobras|7|23|0|181|10|3/18|1|0|18.10|7.86|13.80|CC|1142|39|6|-|-|-|... |Dolphins|6|19|0|109|7|3/20|1|0|15.57|5.73|16.28|DOL|240|39|6|-|-|-|
+|DP World Lions|7|20|0|199|9|2/26|0|0|22.11|9.95|13.33|LIO|1195|39|6|-|-|-|... |Knights|6|19|1|119|4|2/19|0|0|29.75|6.26|28.50|KTS|1376|39|6|-|-|-|
+|Rocks|1|3|0|19|2|2/19|0|0|9.50|6.33|9.00|ROC|133|39|6|-|-|-|... |Warriors|9|19.2|1|172|10|4/14|1|0|17.20|8.89|11.60|WAR|1187|39|6|-|-|-|
+|Western Province|1|3|0|23|1|1/23|0|0|23.00|7.66|18.00|WEP|1033|39|6|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Australia|7|5|3|18|13*|0|0|2|0|9.00|100.00|-|-|AUS|1|1|0|3|SA|South Africa|SA|
+|England|9|1|1|1|1*|0|0|0|0|-|50.00|3|0|ENG|3|0|0|3|SA|South Africa|SA|... |India|5|1|0|4|4|0|0|0|0|4.00|40.00|1|0|IND|4|0|0|3|SA|South Africa|SA|
+|Pakistan|1|1|1|4|4*|0|0|1|0|-|400.00|-|-|PAK|6|0|0|3|SA|South Africa|SA|... |Sri Lanka|4|2|1|6|4|0|0|0|0|6.00|66.66|-|-|SL|8|0|0|3|SA|South Africa|SA|
+|West Indies|8|2|1|5|5*|0|0|1|0|5.00|50.00|1|0|WI|9|1|0|3|SA|South Africa|SA|... |England|9|31|0|298|19|5/39|2|1|15.68|9.61|9.78|ENG|3|43|3|SA|South Africa|SA|
+|India|5|15.3|0|155|10|4/29|1|0|15.50|10.00|9.30|IND|4|43|3|SA|South Africa|SA|... |Ireland|5|18.3|0|108|6|2/18|0|0|18.00|5.83|18.50|IRE|13|43|3|SA|South Africa|SA|
+|Netherlands|1|3|0|35|0|0/35|0|0|-|11.66|-|NED|15|43|3|SA|South Africa|SA|... |Pakistan|1|4|0|32|1|1/32|0|0|32.00|8.00|24.00|PAK|6|43|3|SA|South Africa|SA|
+|Sri Lanka|4|11|0|69|6|4/19|1|0|11.50|6.27|11.00|SL|8|43|3|SA|South Africa|SA|... |West Indies|8|30|0|324|9|3/32|1|0|36.00|10.80|20.00|WI|9|43|3|SA|South Africa|SA|... |Zimbabwe|3|9|0|63|5|2/20|0|0|12.60|7.00|10.80|ZIM|10|43|3|SA|South Africa|SA|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Zimbabwe President XI|1|0|0|-|-|0|0|0|0|-|0.00|1|0|ZMP|1495|0|0|6|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Border|1|4|0|18|1|1/18|0|0|18.00|4.50|24.00|BOR|255|7|6|-|-|-|
+|Garden Route Badgers|1|4|0|16|2|2/16|0|0|8.00|4.00|12.00|GRB|949|7|6|-|-|-|... |Kenya|1|3|0|22|0|0/22|0|0|-|7.33|-|KEN|14|7|6|-|-|-|
+|Kwazulu Natal|1|4|0|31|2|2/31|0|0|15.50|7.75|12.00|KZN|484|7|6|-|-|-|... |Northern Cape|1|3|0|35|0|0/35|0|0|-|11.66|-|NCH|355|7|6|-|-|-|
+|Zimbabwe President XI|1|4|2|14|3|3/14|1|0|4.66|3.50|8.00|ZMP|1495|7|6|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |MI Cape Town|4|2|1|6|4*|0|0|0|0|6.00|66.66|-|-|MICT|3280|0|1|6|PR|-|-|
+|Pretoria Capitals|6|3|3|3|2*|0|0|0|0|-|60.00|2|0|PC|3281|1|0|6|PR|-|-|... |Sunrisers Eastern Cape|5|2|1|16|13*|0|0|0|2|16.00|160.00|0|0|SEC|3282|0|0|6|PR|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Joburg Super Kings|4|14.5|0|119|6|3/17|1|0|19.83|8.02|14.83|JSK|3279|23|6|PR|
+|MI Cape Town|4|15.1|0|141|5|2/26|0|0|28.20|9.29|18.20|MICT|3280|23|6|PR|... |Pretoria Capitals|6|23|0|197|8|4/39|1|0|24.62|8.56|17.25|PC|3281|23|6|PR|
+|Sunrisers Eastern Cape|5|18|0|161|3|2/31|0|0|53.66|8.94|36.00|SEC|3282|23|6|PR|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Los Angeles Knight Riders|1|3.1|0|24|1|1/24|0|0|24.00|7.57|19.00|LAKR|3840|2|6|-|-|-|
+|San Francisco Unicorns|1|2|0|32|0|0/32|0|0|-|16.00|-|SFU|3842|2|6|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Australia|3|5|0|38|19|0|0|5|1|7.60|62.29|2|0|AUS|1|0|1|1|SA|South Africa|SA|
+|England|2|3|1|4|4*|0|0|1|0|2.00|22.22|-|-|ENG|3|2|0|1|SA|South Africa|SA|... |India|7|12|4|17|8|0|0|1|0|2.12|29.31|2|0|IND|4|7|0|1|SA|South Africa|SA|
+|Pakistan|1|2|1|11|8|0|0|2|0|11.00|57.89|-|-|PAK|6|0|0|1|SA|South Africa|SA|... |Sri Lanka|3|4|4|20|14*|0|0|4|0|-|60.60|2|0|SL|8|1|0|1|SA|South Africa|SA|
+|West Indies|3|4|0|7|6|0|0|1|0|1.75|17.50|1|0|WI|9|2|0|1|SA|South Africa|SA|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Australia|4|57.4|11|208|7|3/51|1|0|29.71|3.60|49.42|AUS|1|19|1|SA|South Africa|SA|
+|England|3|30|6|88|2|1/15|0|0|44.00|2.93|90.00|ENG|3|19|1|SA|South Africa|SA|... |India|12|163|45|493|27|6/39|3|2|18.25|3.02|36.22|IND|4|19|1|SA|South Africa|SA|
+|Pakistan|2|20|1|74|2|2/57|0|0|37.00|3.70|60.00|PAK|6|19|1|SA|South Africa|SA|... |Sri Lanka|6|77.2|19|253|8|4/44|1|0|31.62|3.27|58.00|SL|8|19|1|SA|South Africa|SA|
+|West Indies|6|60.4|17|157|9|5/19|0|1|17.44|2.58|40.44|WI|9|19|1|SA|South Africa|SA|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Australia|9|3|2|19|19*|0|0|1|1|19.00|57.57|3|0|AUS|1|2|0|2|SA|South Africa|SA|
+|Bangladesh|4|2|1|15|15*|0|0|0|2|15.00|62.50|-|-|BAN|2|1|0|2|SA|South Africa|SA|... |England|10|3|2|11|6*|0|0|1|1|11.00|73.33|2|0|ENG|3|1|0|2|SA|South Africa|SA|
+|India|10|6|4|10|6|0|0|2|0|5.00|55.55|1|0|IND|4|4|0|2|SA|South Africa|SA|... |New Zealand|4|1|1|1|1*|0|0|0|0|-|50.00|1|0|NZ|5|0|0|2|SA|South Africa|SA|
+|Pakistan|5|2|0|5|4|0|0|0|0|2.50|25.00|2|0|PAK|6|0|0|2|SA|South Africa|SA|... |Sri Lanka|10|2|1|7|6|0|0|0|0|7.00|58.33|4|0|SL|8|0|0|2|SA|South Africa|SA|
+|West Indies|2|1|1|12|12*|0|0|0|1|-|52.17|3|0|WI|9|0|0|2|SA|South Africa|SA|... |Zimbabwe|2|1|1|4|4*|0|0|1|0|-|28.57|-|-|ZIM|10|0|0|2|SA|South Africa|SA|
+|Ireland|4|2|1|29|20*|0|0|3|1|29.00|76.31|1|0|IRE|13|0|0|2|SA|South Africa|SA|... |Netherlands|2|2|2|8|7*|0|0|0|0|-|30.76|-|-|NED|15|0|0|2|SA|South Africa|SA|
+|Afghanistan|5|2|0|3|3|0|0|0|0|1.50|27.27|0|0|AFG|1188|1|0|2|SA|South Africa|SA|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Afghanistan|5|36.3|2|203|8|2/22|0|0|25.37|5.56|27.37|AFG|1188|66|2|SA|South Africa|SA|
+|Australia|9|74.1|6|371|19|6/58|2|1|19.52|5.00|23.42|AUS|1|66|2|SA|South Africa|SA|... |Bangladesh|4|29|3|167|2|1/34|0|0|83.50|5.75|87.00|BAN|2|66|2|SA|South Africa|SA|
+|England|9|71|3|446|15|4/62|3|0|29.73|6.28|28.40|ENG|3|66|2|SA|South Africa|SA|... |India|10|82.2|2|497|18|4/51|3|0|27.61|6.03|27.44|IND|4|66|2|SA|South Africa|SA|
+|Ireland|4|30|1|176|4|2/35|0|0|44.00|5.86|45.00|IRE|13|66|2|SA|South Africa|SA|... |Netherlands|2|17|1|90|3|2/57|0|0|30.00|5.29|34.00|NED|15|66|2|SA|South Africa|SA|
+|New Zealand|4|33|2|201|4|3/72|1|0|50.25|6.09|49.50|NZ|5|66|2|SA|South Africa|SA|... |Pakistan|5|44.4|1|314|6|3/64|1|0|52.33|7.02|44.66|PAK|6|66|2|SA|South Africa|SA|
+|Sri Lanka|10|70.4|6|387|19|4/57|3|0|20.36|5.47|22.31|SL|8|66|2|SA|South Africa|SA|... |West Indies|2|16|0|121|1|1/45|0|0|121.00|7.56|96.00|WI|9|66|2|SA|South Africa|SA|... |Zimbabwe|2|15.1|2|45|4|3/19|1|0|11.25|2.96|22.75|ZIM|10|66|2|SA|South Africa|SA|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Bangladesh Under-19|3|2|1|11|10*|0|0|2|0|11.00|73.33|1|0|BAN-U19|1155|0|0|22|-|-|-|
+|India Under-19|1|0|0|-|-|0|0|0|0|-|0.00|-|-|IND-U19|1163|0|0|22|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Bangladesh Under-19|3|15|0|83|2|1/17|0|0|41.50|5.53|45.00|BAN-U19|1155|4|22|-|-|-|
+|India Under-19|1|3.5|0|36|1|1/36|0|0|36.00|9.39|23.00|IND-U19|1163|4|22|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Border|2|1|0|0|0|0|0|0|0|0.00|0.00|1|0|BOR|109|1|0|4|-|-|-|
+|Dolphins|2|2|1|8|8|0|0|0|1|8.00|61.53|-|-|DOL|240|1|0|4|-|-|-|... |Neutral|3|2|1|11|10* v BAN-U19|0|0|2|0|11.00|73.33|1|0|BAN-U19|1155|0|0|22|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|1|3.5|0|36|1|1/17 v BAN-U19|0|0|36.00|9.39|23.00|BAN-U19|1155|4|22|-|-|-|... |Neutral|3|15|0|83|2|1/17 v BAN-U19|0|0|41.50|5.53|45.00|BAN-U19|1155|4|22|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|2|3|1|19|15 v IND-A|0|0|3|0|9.50|95.00|-|-|IND-A|395|1|0|4|-|-|-|... |Neutral|12|12|7|34|12* v LIO|0|0|2|1|6.80|28.33|5|0|LIO|1195|6|0|4|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|4|46|9|151|6|3/46 v LIO|1|0|25.16|3.28|46.00|LIO|1195|13|4|-|-|-|... |Neutral|20|245.1|58|825|33|6/37 v LIO|2|3|25.00|3.36|44.57|LIO|1195|13|4|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Neutral|25|11|7|46|17* v CC|0|0|5|0|11.50|75.40|4|0|CC|1142|2|0|5|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Neutral|25|188.4|13|990|32|5/33 v ROC|3|1|30.93|5.24|35.37|ROC|133|26|5|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2019|4|2|1|7|6* v ENG|0|0|0|1|7.00|63.63|1|0|ENG|3|0|0|2|SA|South Africa|SA|... |2023|8|3|1|11|7* v NED|0|0|0|0|5.50|26.82|1|0|NED|15|1|0|2|SA|South Africa|SA|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2019|4|33|1|211|7|3/64 v PAK|2|0|30.14|6.39|28.28|PAK|6|12|2|SA|South Africa|SA|... |2023|8|60.3|6|355|10|2/26 v ENG|0|0|35.50|5.86|36.30|ENG|3|12|2|SA|South Africa|SA|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2018|7|0|0|-|-|0|0|0|0|-|0.00|1|0|DC|1109|0|0|6|CSK|Chennai Super Kings|CSK|... |2021|3|0|0|-|-|0|0|0|0|-|0.00|1|0|KKR|1106|0|0|6|CSK|Chennai Super Kings|CSK|
+|2025|2|1|1|0|0* v SRH|0|0|0|0|-|0.00|-|-|SRH|1379|1|0|6|RCB|Royal Challengers Bengaluru|RCB|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |2018|7|26|2|156|11|4/10 v PBKS|1|0|14.18|6.00|14.18|PBKS|1107|2|6|RCB|Royal Challengers Bengaluru|RCB|
+|2020|4|16|0|167|9|3/38 v MI|2|0|18.55|10.43|10.66|MI|1111|2|6|RCB|Royal Challengers Bengaluru|RCB|... |2021|3|12|0|125|5|3/28 v KKR|1|0|25.00|10.41|14.40|KKR|1106|2|6|RCB|Royal Challengers Bengaluru|RCB|
+|2025|2|8|0|81|4|3/30 v CSK|1|0|20.25|10.12|12.00|CSK|1108|2|6|RCB|Royal Challengers Bengaluru|RCB|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |2015|7|1|1|2|2* v KTS|0|0|0|0|-|200.00|2|0|KTS|1376|0|0|6|-|-|-|
+|2016|11|1|1|0|0 v LIO|0|0|0|0|-|0.00|1|0|LIO|1195|1|0|6|-|-|-|... |2017|9|0|0|-|-|0|0|0|0|-|0.00|4|0|LIO|1195|0|0|6|-|-|-|
+|2021|5|2|1|5|3* v LIO|0|0|0|0|5.00|62.50|1|0|LIO|1195|0|0|6|-|-|-|... |2024|8|3|1|4|2 v WAR|0|0|0|0|2.00|57.14|3|0|WAR|1187|1|2|6|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2015|7|16|1|134|6|2/30 v LIO|0|0|22.33|8.37|16.00|LIO|1195|39|6|-|-|-|... |2016|11|36|0|298|9|2/21 v CC|0|0|33.11|8.27|24.00|CC|1142|39|6|-|-|-|
+|2017|8|23.2|1|167|13|4/14 v WAR|1|0|12.84|7.15|10.76|WAR|1187|39|6|-|-|-|... |2021|5|17|0|98|10|3/18 v CC|2|0|9.80|5.76|10.20|CC|1142|39|6|-|-|-|
+|2024|8|18.4|0|155|8|2/12 v TUS|0|0|19.37|8.30|14.00|TUS|462|39|6|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |2017|3|1|1|2|2* v SL|0|0|0|0|-|66.66|-|-|SL|8|0|0|3|SA|South Africa|SA|
+|2018|4|1|0|4|4 v SL|0|0|0|0|4.00|66.66|1|0|SL|8|0|0|3|SA|South Africa|SA|... |2020|9|2|0|1|1 v AUS|0|0|0|0|0.50|16.66|1|0|AUS|1|1|0|3|SA|South Africa|SA|
+|2021|7|1|0|0|0 v WI|0|0|0|0|0.00|0.00|1|0|WI|9|1|0|3|SA|South Africa|SA|... |2022|13|3|2|9|4* v PAK|0|0|1|0|9.00|69.23|5|0|PAK|6|0|0|3|SA|South Africa|SA|
+|2023|4|3|3|17|13* v AUS|0|0|2|0|-|141.66|-|-|AUS|1|0|0|3|SA|South Africa|SA|... |2024|3|2|2|8|5* v WI|0|0|1|0|-|80.00|-|-|WI|9|0|0|3|SA|South Africa|SA|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2017|3|8|0|44|6|4/19 v SL|1|0|7.33|5.50|8.00|SL|8|43|3|SA|South Africa|SA|... |2018|4|12|0|84|5|2/16 v AUS|0|0|16.80|7.00|14.40|AUS|1|43|3|SA|South Africa|SA|
+|2020|9|33.2|0|349|17|3/30 v ENG|3|0|20.52|10.47|11.76|ENG|3|43|3|SA|South Africa|SA|... |2021|7|25.3|0|229|8|3/32 v WI|1|0|28.62|8.98|19.12|WI|9|43

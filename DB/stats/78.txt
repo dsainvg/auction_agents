@@ -1,26 +1,25 @@
 ================================================================================
-IPL PLAYER PROFILE: SHREYAS GOPAL
+IPL PLAYER PROFILE: RAHUL TRIPATHI
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Shreyas Gopal
-  IPL Debut                : 2014
-  Date of Birth            : 04 September 1993
-  Total IPL Matches        : 52
-  Role                     : WK-Batter
+  Player Name              : Rahul Tripathi
+  IPL Debut                : 2017
+  Date of Birth            : 02 March 1991
+  Total IPL Matches        : 100
+  Role                     : Batter
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    An experienced campaigner, Shreyas Gopal is a utility player who brings a
-  lot to the table. An aggressive leg-spinner who can pick up wickets in the
-  middle overs, Gopal can provide crucial contributions with the bat in the
-  lower-middle order as well. He is one of those rare bowlers to have claimed
-  an IPL hat-trick, with his scalps including Virat Kohli, AB de Villiers, and
-  Marcus Stoinis. The Karnataka-born leg-spinner was part of the Mumbai
-  Indians squad that lifted the IPL trophy in 2015. CSK secured him at his
-  base price of INR 30 Lakh at the 2025 TATA IPL Auction.
+    Rahul Tripathi, who represents Maharashtra in domestic cricket, has been
+  making waves with his hard-hitting skills. In his debut season in 2017 with
+  Rising Pune Supergiant, he pummelled the bowlers to make his presence felt
+  in the IPL. He slammed a highest of 93 as he gathered 391 runs from 12
+  matches. He played for the Rajasthan Royals in 2018 and 2019 but did not
+  have the best of seasons. He was traded in the KKR line-up after being
+  brought in the 2020 IPL Auction for 60 lakhs.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -30,16 +29,16 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    52    |    8     |   180    |    24    |  12.86   |   169    |  106.51  |    0     |    0     |    19    |    2     |    12    |    0    
-    2024   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2022   |    1     |    1     |    9     |    9*    |    -     |    7     |  128.57  |    0     |    0     |    2     |    0     |    0     |    0    
-    2021   |    3     |    1     |    7     |    7*    |   7.00   |    5     |  140.00  |    0     |    0     |    0     |    1     |    0     |    0    
-    2020   |    14    |    1     |    37    |   23*    |   9.25   |    39    |  94.87   |    0     |    0     |    3     |    0     |    2     |    0    
-    2019   |    14    |    3     |    63    |   19*    |  15.75   |    46    |  136.95  |    0     |    0     |    8     |    1     |    5     |    0    
-    2018   |    11    |    1     |    50    |    24    |  16.66   |    45    |  111.11  |    0     |    0     |    5     |    0     |    3     |    0    
-    2016   |    1     |    0     |    2     |    2     |   2.00   |    16    |  12.50   |    0     |    0     |    0     |    0     |    0     |    0    
-    2015   |    1     |    1     |    1     |    1*    |   0.00   |    1     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
-    2014   |    4     |    0     |    11    |    11    |  11.00   |    10    |  110.00  |    0     |    0     |    1     |    0     |    1     |    0    
+   Career  |   100    |    11    |   2291   |    93    |  26.33   |   1662   |  137.85  |    0     |    12    |   229    |    85    |    34    |    0    
+    2025   |    5     |    0     |    55    |    23    |  11.00   |    57    |  96.49   |    0     |    0     |    6     |    1     |    1     |    0    
+    2024   |    6     |    0     |   165    |    55    |  27.50   |   115    |  143.48  |    0     |    1     |    18    |    6     |    2     |    0    
+    2023   |    13    |    1     |   273    |   74*    |  22.75   |   213    |  128.17  |    0     |    1     |    29    |    10    |    2     |    0    
+    2022   |    14    |    3     |   413    |    76    |  37.55   |   261    |  158.24  |    0     |    3     |    40    |    20    |    6     |    0    
+    2021   |    17    |    2     |   397    |   74*    |  28.35   |   283    |  140.28  |    0     |    2     |    41    |    11    |    8     |    0    
+    2020   |    11    |    1     |   230    |    81    |  23.00   |   181    |  127.07  |    0     |    1     |    21    |    10    |    3     |    0    
+    2019   |    8     |    1     |   141    |    50    |  23.50   |   118    |  119.49  |    0     |    1     |    13    |    2     |    3     |    0    
+    2018   |    12    |    3     |   226    |   80*    |  25.11   |   167    |  135.32  |    0     |    1     |    18    |    8     |    4     |    0    
+    2017   |    14    |    0     |   391    |    93    |  27.92   |   267    |  146.44  |    0     |    2     |    43    |    17    |    5     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -49,17 +48,1340 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    52    |   991    |   1349   |    52    |   4/16   |  25.94   |   8.17   |  19.06   |    1     |    0    
-    2024   |    3     |    42    |    67    |    3     |   1/9    |  22.33   |   9.57   |  14.00   |    0     |    0    
-    2022   |    1     |    18    |    34    |    1     |   1/34   |  34.00   |  11.33   |  18.00   |    0     |    0    
-    2021   |    3     |    42    |    84    |    0     |   0/9    |    -     |  12.00   |    -     |    0     |    0    
-    2020   |    14    |   300    |   427    |    10    |   2/28   |  42.70   |   8.54   |  30.00   |    0     |    0    
-    2019   |    14    |   288    |   347    |    20    |   3/12   |  17.35   |   7.22   |  14.40   |    0     |    0    
-    2018   |    11    |   186    |   236    |    11    |   4/16   |  21.45   |   7.61   |  16.90   |    1     |    0    
-    2016   |    1     |    18    |    18    |    0     |   0/18   |    -     |   6.00   |    -     |    0     |    0    
-    2015   |    1     |    13    |    23    |    1     |   1/23   |  23.00   |  10.61   |  13.00   |    0     |    0    
-    2014   |    4     |    84    |   113    |    6     |   2/25   |  18.83   |   8.07   |  14.00   |    0     |    0    
+   Career  |   100    |    6     |    12    |    0     |   0/12   |    -     |  12.00   |    -     |    0     |    0    
+    2025   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    14    |    6     |    12    |    0     |   0/12   |    -     |  12.00   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/shreyas-gopal/20696
+Source: https://www.iplt20.com/players/rahul-tripathi/3838
 ================================================================================
+Edition
+
+IN
+
+IN
+
+US
+
+English
+
+English
+
+हिन्दी
+
+मराठी
+
+ಕನ್ನಡ
+
+தமிழ்
+
+বাংলা
+
+മലയാളം
+
+తెలుగు
+
+ગુજરાતી
+
+Weather
+
+Sign In
+
+TOI
+
+IPL
+
+Schedule
+
+MI Schedule
+
+CSK Schedule
+
+RR Schedule
+
+KKR Schedule
+
+RCB Schedule... LSG Schedule
+
+GT Schedule
+
+DC Schedule
+
+PBKS Schedule
+
+SRH Schedule
+
+points table
+
+IPL Live Score
+
+IPL Results
+
+Orange Cap
+
+Purple Cap
+
+Teams
+
+MI IPL Squad
+
+RCB IPL Squad
+
+LSG IPL Squad
+
+CSK IPL Squad
+
+GT IPL Squad
+
+KKR IPL Squad
+
+RR IPL Squad... DC IPL Squad
+
+PBKS IPL Squad
+
+SRH IPL Squad
+
+Playoffs
+
+stats
+
+All-Time Records
+
+Highest IPL Score
+
+Most IPL Wickets
+
+Highest Innings Score
+
+Most IPL 6
+
+Team with Most Wins
+
+Prediction Hub
+
+photos
+
+News
+
+SPORTS NEWS
+
+CRICKET NEWS
+
+IPL
+
+RAHUL TRIPATHI IPL STATS... Rahul Tripathi IPL Stats
+
+Rahul Tripathi
+
+(Current/Last Team: CSK)
+
+Rahul Tripathi
+
+(Current/Last Team: CSK)
+
+Nationality:
+
+India
+
+Date of Birth:
+
+02/03/1991
+
+Role:
+
+Batsman
+
+Batting style:
+
+Right Handed
+
+Bowling style:... Right-arm medium
+
+Nick Name:
+
+
+
+IPL Debut
+
+Date:
+
+11/04/2017
+
+For Team:
+
+RPS
+
+Against Team:
+
+DC
+
+Venue:
+
+Maharashtra Cricket Association Stadium, Pune
+
+Rahul Tripathi Career Information
+
+Teams Played
+
+India
+
+India A
+
+West Zone
+
+Kolkata Knight Riders... Chennai Super Kings
+
+Rajasthan Royals
+
+Goa
+
+Maharashtra
+
+Sunrisers Hyderabad
+
+Rising Pune Supergiant
+
+BPCL
+
+Eagle Nashik Titans
+
+Kolhapur Tuskers
+
+Rahul Tripathi IPL Highest Score & Best Bowling Record
+
+Highest Score
+
+93
+
+Runs
+
+Against KKR in 2017... Best Bowling Record
+
+0/12
+
+Against KKR in 2017
+
+Rahul Tripathi Performance in Last 10 IPL Matches
+
+Season 2025 - 2026
+
+(played for CSK)
+
+No.
+
+vs
+
+Batting
+
+Bowling
+
+1
+
+vs Lucknow Super Giants
+
+9
+
+(10)... 0
+
+/0
+
+2
+
+vs Kolkata Knight Riders
+
+16
+
+(22)
+
+0
+
+/0
+
+3
+
+vs Rajasthan Royals
+
+23
+
+(19)
+
+0
+
+/0
+
+4
+
+vs Royal Challengers Bengaluru
+
+5
+
+(3)
+
+0
+
+/0
+
+5
+
+vs Mumbai Indians
+
+2
+
+(3)... 0
+
+/0
+
+Season 2024 - 2025
+
+(played for SRH)
+
+No.
+
+vs
+
+Batting
+
+Bowling
+
+1
+
+vs Kolkata Knight Riders
+
+9
+
+(13)
+
+0
+
+/0
+
+2
+
+vs Rajasthan Royals
+
+37
+
+(15)
+
+0
+
+/0
+
+3... vs Kolkata Knight Riders
+
+55
+
+(35)
+
+0
+
+/0
+
+4
+
+vs Punjab Kings
+
+33
+
+(18)
+
+0
+
+/0
+
+5
+
+vs Punjab Kings
+
+11
+
+(14)
+
+0
+
+/0
+
+Rahul Tripathi Overall IPL Records
+
+Batting Records
+
+MAT
+
+HS
+
+INS... N/O
+
+R
+
+BF
+
+100s
+
+50s
+
+4s
+
+6s
+
+AVG
+
+S/R
+
+Overall
+
+100
+
+93 vs KKR
+
+98
+
+11
+
+2291
+
+1662
+
+0
+
+12
+
+229
+
+85
+
+26.33
+
+137.85
+
+2025
+
+5
+
+23 vs RR... 5
+
+0
+
+55
+
+57
+
+0
+
+0
+
+6
+
+1
+
+11
+
+96.49
+
+2024
+
+6
+
+55 vs KKR
+
+6
+
+0
+
+165
+
+115
+
+0
+
+1
+
+18
+
+6
+
+27.5
+
+143.48
+
+2023
+
+13
+
+74 vs PBKS... 13
+
+1
+
+273
+
+213
+
+0
+
+1
+
+29
+
+10
+
+22.75
+
+128.17
+
+2022
+
+14
+
+76 vs MI
+
+14
+
+3
+
+413
+
+261
+
+0
+
+3
+
+40
+
+20
+
+37.55
+
+158.24
+
+2021
+
+17
+
+74 vs MI... 16
+
+2
+
+397
+
+283
+
+0
+
+2
+
+41
+
+11
+
+28.36
+
+140.28
+
+2020
+
+11
+
+81 vs CSK
+
+11
+
+1
+
+230
+
+181
+
+0
+
+1
+
+21
+
+10
+
+23
+
+127.07
+
+2019
+
+8
+
+50 vs PBKS... 7
+
+1
+
+141
+
+118
+
+0
+
+1
+
+13
+
+2
+
+23.5
+
+119.49
+
+2018
+
+12
+
+80 vs RCB
+
+12
+
+3
+
+226
+
+167
+
+0
+
+1
+
+18
+
+8
+
+25.11
+
+135.33
+
+2017
+
+14
+
+93 vs KKR... 14
+
+0
+
+391
+
+267
+
+0
+
+2
+
+43
+
+17
+
+27.93
+
+146.44
+
+Bowling Records
+
+MAT
+
+BEST
+
+INS
+
+B
+
+MDNS
+
+WKTS
+
+AVG
+
+S/R
+
+ECON
+
+3WK
+
+4WK
+
+5WK
+
+Overall
+
+100
+
+0/12 vs KKR... 1
+
+6
+
+0
+
+0
+
+
+
+12.00
+
+0
+
+0
+
+0
+
+2025
+
+
+
+2024
+
+
+
+2023
+
+
+
+2022
+
+
+
+2021
+
+
+
+2020
+
+
+
+2019
+
+
+
+2018
+
+
+
+2017
+
+14
+
+0/12 vs KKR
+
+1
+
+6
+
+0
+
+0
+
+0
+
+0... 12
+
+0
+
+0
+
+0
+
+Fielding Records
+
+Catches
+
+Stumping
+
+Run Outs
+
+Overall
+
+34
+
+0
+
+1
+
+2025
+
+1
+
+0
+
+0
+
+2024
+
+2
+
+0
+
+0
+
+2023
+
+2
+
+0
+
+0
+
+2022
+
+6
+
+0
+
+0... 2021
+
+8
+
+0
+
+1
+
+2020
+
+3
+
+0
+
+0
+
+2019
+
+3
+
+0
+
+0
+
+2018
+
+4
+
+0
+
+0
+
+2017
+
+5
+
+0
+
+0
+
+Chennai Super Kings Team
+
+Chennai Super Kings
+
+2010
+
+2011
+
+2018... 2021
+
+2023
+
+Captain
+
+Ruturaj Dashrat Gaikwad
+
+Team Stats
+
+Played
+
+253
+
+Won
+
+142
+
+Lost
+
+108
+
+Tied
+
+1
+
+N/R
+
+2
+
+Head Coach
+
+Stephen Paul Fleming
+
+Batting Coach
+
+Michael Edward Killeen Hussey
+
+Fielding Coach... Rajiv Kumar
+
+CSK Squad
+
+Team
+
+Batters
+
+Wicket Keepers
+
+All Rounders
+
+Bowlers
+
+Batters
+
+Andre Siddarth
+
+Ayush Mhatre
+
+Devon Conway
+
+Rahul Tripathi
+
+Shaik Rasheed
+
+Wicket keepers
+
+MS Dhoni
+
+Urvil Patel... All Rounders
+
+Deepak Hooda
+
+Dewald Brevis
+
+Jamie Overton
+
+Rachin Ravindra
+
+Ramakrishna Ghosh
+
+Ravichandran Ashwin
+
+Ravindra Jadeja
+
+Sam Curran
+
+Shivam Dube
+
+Vijay Shankar
+
+Bowlers... Anshul Kamboj
+
+Kamlesh Nagarkoti
+
+Khaleel Ahmed
+
+Matheesha Pathirana
+
+Mukesh Choudhary
+
+Nathan Ellis
+
+Noor Ahmad
+
+Shreyas Gopal
+
+Explore Every Corner
+
+Across The Globe
+
+Carter Hart
+
+Ben Johnson
+
+Who is Justin Gaethje Girlfriend... Ed Giacomin Passes Away
+
+Sri Lanka vs Hong Kong Live Score
+
+Michael Jordan
+
+Justin Herbert
+
+Charlie Kirk Assassination
+
+United Arab Emirates vs Oman Live Score
+
+Charlie Kirk NFL Tribute
+
+Lane Johnson
+
+LeBron James Wife
+
+Donald Trump
+
+Kawhi Leonard
+
+Michael Jordan Son
+
+Deshaun Watson Birthday... Kash Patel
+
+Daylight Saving Time
+
+Charlie Kirk Shooter
+
+Patrick Mahomes
+
+Kaleb Johnson
+
+Miley Cyrus
+
+Dan Campbell Wife
+
+Josh Allen
+
+Kash Patel
+
+Who is Stephanie Niles
+
+Who is Carlie Irsay Gordon
+
+Tyrese Haliburton
+
+Deebo Samuel
+
+ITR Filing Date... About us
+
+Create Your Own Ad
+
+Terms of Use and Grievance Redressal Policy
+
+Privacy policy
+
+Advertise with us
+
+RSS
+
+Newsletter
+
+Feedback
+
+ePaper
+
+Sitemap
+
+Archives
+
+Living and Entertainment
+
+Cricbuzz
+
+Lifestyle
+
+Newspaper Subscription
+
+Food News
+
+TV
+
+Times Prime
+
+Travel Destinations... Whats Hot
+
+ETimes
+
+Times Life
+
+Times Pets
+
+MyLifeXP
+
+Services
+
+CouponDunia
+
+TechGig
+
+TimesJobs
+
+Bollywood News
+
+Times Mobile
+
+Gadgets
+
+Times Events
+
+Work with Us
+
+Colombia
+
+Hot on the Web
+
+Google Gemini Saree Trend
+
+Longevity
+
+Blind Snakes... Katrina Kaif
+
+Heart Attack
+
+Priya Sachdev
+
+Prediabetes Symptoms
+
+Yogi Adityanath
+
+Blood Sugar
+
+Things That Attract Snakes
+
+Indian Foods
+
+Vegetables for Cholesterol
+
+Amitabh Bachchan
+
+Urine Serious Diseases Clues
+
+Aishwarya Rai
+
+Fish Oil Supplements... Heart Health
+
+Fatty Liver Symptoms
+
+Fatty Liver Symptoms
+
+Liver Detox Foods
+
+High Blood Pressure Symptoms
+
+Kidney Health
+
+Raj Kundra
+
+Prediabetes Symptoms
+
+Pest Control Tips
+
+Fatty Liver Symptoms
+
+Vitamin D Deficiency
+
+The Bengal Files Box Office Collection
+
+Baaghi 4 Box Office Collection... Paresh Rawal
+
+Don't Use Public Hand Dryers
+
+Pink Guava Vs White Guava
+
+Cross River Gorilla
+
+Ideal Weight For Your Height
+
+Baking Soda Water For Health
+
+Trick To Improve Sleep
+
+Throat Cancer Symptoms
+
+Nano Banana Trend
+
+Yellow Stains On Pillows
+
+Ovarian Cancer Symptoms... Tips To Keep Chapatis Soft
+
+Trending Topics
+
+Sushila Karki
+
+Donald Trump
+
+Jaylon Johnson Net Worth
+
+Chris Martin
+
+ITR filing last date... US China Trade
+
+Asia Cup 2025
+
+Ryan Reynolds
+
+Tommy Robinson
+
+Manitoba tragedy
+
+Savannah James
+
+Jay Shah
+
+CBSE Exams
+
+Marco Rubio
+
+Chris Godwin Jr
+
+Kevin Owens
+
+Elon Musk
+
+Kirill Kaprizov
+
+Donald Trump
+
+Jonathan Kuminga
+
+Adam Silver
+
+UAE National Day 2025... Volodymyr Zelenskyy
+
+CJ Stroud
+
+Jake Browning Girlfriend
+
+Fastest NFL Players
+
+Derwin James Jr
+
+Travis Kelce
+
+Orca Wiesblatt Accident
+
+Kirill Kaprizov
+
+Josh Allen Wife
+
+iOS 26
+
+Apple iPhone 16 Pro Max
+
+Starlink Outage... Satya Nadella
+
+Solar Eclipse
+
+Marc Benioff
+
+Satya Nadella
+
+Nano Banana Ai Saree
+
+Solar Eclipse 2025
+
+Wordle Today
+
+Nyt Connections
+
+Popular Categories
+
+Headlines
+
+Sports News
+
+Business News
+
+India News
+
+World News
+
+Bollywood News
+
+Health+ Tips
+
+Indian TV Shows... Technology
+
+Travel
+
+Etimes
+
+Health & Fitness
+
+Delhi Gold Rate Today
+
+Numerology Number 1 Horoscope
+
+Chinese Horoscope Predictions
+
+Astrology
+
+Weather Today
+
+Platinum Rate Today
+
+Silver Rate Today
+
+Gold Rate Today
+
+Is Bank open today
+
+Is Bank Open Tomorrow
+
+Bank Holidays in September
+
+Public Holidays in September... Stock Market Holidays
+
+NFL Schedule
+
+Technology News
+
+International Sports
+
+Public Holidays
+
+Bank Holidays
+
+Trending Videos
+
+Cancer Daily Horoscope Today, September 16, 2025: Moon Brings Mood Swings That Impact Love and Work
+
+BTS’s V and BLACKPINK’s Jennie reignite romance rumours; singers spotted at Tyler, The Creator’s Seoul Concert: Pics... Ex-Axis MF fund mgr pays Rs 86L, case shut
+
+Pine Labs, others get Sebi approval for IPO
+
+Singh: Didn't attend Tata Sons board meet on Friday
+
+AI startup Krutrim faces reality check
+
+“Leave her alone”: Justin Baldoni slammed by fans for “using” Taylor Swift’s name to “gain attention” in new twist of Blake Lively lawsuit... Govt asks e-tailers to promote GST rejig
+
+Savings in store: FMCG companies to cut prices, increase pack sizes
+
+'The Batman: Part 2': Robert Pattinson starrer will not have THIS villain from Colin Farrell's 'The Penguin' series - All you need to know
+
+SC refuses to stall waqf act, but stays some provisions... Gemini Daily Horoscope Today, September 16, 2025: Mercury Pushes You Toward Bold Talks and Sudden Shifts
+
+Bloody faces and flying fists, Bengals fans brawl in stands after Joe Burrow goes down
+
+"She's too sexy": Justin Herbert’s rumoured girlfriend Madison Beer breaks her silence about being sexualised at 14 by her record label... 'We are hunting you': Trump says US military hit Venezuela-based drug traffickers, 3 'terrorists' killed
+
+From Mandarin in menus to shop signs in Thamel, Chinese influence rising in Nepal
+
+Starmer condemns Musk's comments as 'dangerous', but says won't sanction him
+
+US, China reach framework deal on TikTok; Trump, Xi to speak Fri... Latest News
+
+Cancer Daily Horoscope Today, September 16, 2025: Moon Brings Mood Swings That Impact Love and Work
+
+BTS’s V and BLACKPINK’s Jennie reignite romance rumours; singers spotted at Tyler, The Creator’s Seoul Concert: Pics
+
+Ex-Axis MF fund mgr pays Rs 86L, case shut... Pine Labs, others get Sebi approval for IPO
+
+Singh: Didn't attend Tata Sons board meet on Friday
+
+AI startup Krutrim faces reality check
+
+“Leave her alone”: Justin Baldoni slammed by fans for “using” Taylor Swift’s name to “gain attention” in new twist of Blake Lively lawsuit... Govt asks e-tailers to promote GST rejig
+
+Savings in store: FMCG companies to cut prices, increase pack sizes
+
+'The Batman: Part 2': Robert Pattinson starrer will not have THIS villain from Colin Farrell's 'The Penguin' series - All you need to know
+
+SC refuses to stall waqf act, but stays some provisions... Gemini Daily Horoscope Today, September 16, 2025: Mercury Pushes You Toward Bold Talks and Sudden Shifts
+
+Bloody faces and flying fists, Bengals fans brawl in stands after Joe Burrow goes down
+
+"She's too sexy": Justin Herbert’s rumoured girlfriend Madison Beer breaks her silence about being sexualised at 14 by her record label... 'We are hunting you': Trump says US military hit Venezuela-based drug traffickers, 3 'terrorists' killed
+
+From Mandarin in menus to shop signs in Thamel, Chinese influence rising in Nepal
+
+Starmer condemns Musk's comments as 'dangerous', but says won't sanction him
+
+US, China reach framework deal on TikTok; Trump, Xi to speak Fri... Copyright © 2025 Bennett, Coleman & Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service
+
+Follow Us On

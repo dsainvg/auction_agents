@@ -1,53 +1,19 @@
-================================================================================
-IPL PLAYER PROFILE: XAVIER BARTLETT
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Xavier Bartlett
-  IPL Debut                : 2025
-  Date of Birth            : 17 December 1998
-  Total IPL Matches        : 4
-  Role                     : WK-Batter
-  Nationality              : Australian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  A standout performer in Australia’s U19 setup, Xavier Bartlett is a
-  promising Australian pacer who was part of the 2018 ICC U19 World Cup squad,
-  where he honed his skills as a right-arm fast-medium bowler. Bartlett made
-  his ODI debut against the West Indies in February 2024, claiming 4/21,
-  followed by a T20I debut later that month with 2 wickets against the same
-  opposition. Realising his immense potential, Punjab Kings made Bartlett a
-  part of their squad for INR 80 Lakhs ahead of IPL 2025. This will provide
-  Bartlett with a golden opportunity to sharpen his skills and learn from the
-  likes of fellow Australian and coach Ricky Ponting, prominent fast bowlers
-  like Lockie Ferguson, Marco Jansen, etc. Joining Punjab Kings, Bartlett adds
-  depth to an already formidable pace attack, with the franchise banking on
-  his early breakthroughs and slog-over brilliance.
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    4     |    0     |    11    |    11    |  11.00   |    15    |  73.33   |    0     |    0     |    1     |    0     |    5     |    0    
-    2025   |    4     |    0     |    11    |    11    |  11.00   |    15    |  73.33   |    0     |    0     |    1     |    0     |    5     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    4     |    60    |    96    |    2     |   1/26   |  48.00   |   9.60   |  30.00   |    0     |    0    
-    2025   |    4     |    60    |    96    |    2     |   1/26   |  48.00   |   9.60   |  30.00   |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/xavier-bartlett/22112
-================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Mumbai|1|2|0|1|1|0|0|0|0|0.5|10.00|-|-|MUM|1198|1|-|4|ODS|Odisha|ODS|
+|Delhi|1|2|0|38|38|0|0|5|1|19|90.48|1|0|DEL|1199|1|0|4|ODS|Odisha|ODS|... |Uttar Pradesh|1|2|1|75|71*|0|1|9|1|75|64.10|-|-|UP|1209|0|-|4|ODS|Odisha|ODS|
+|Haryana|1|1|0|1|1|0|0|0|0|1|9.09|1|0|HAR|1210|0|0|4|ODS|Odisha|ODS|... |Andhra|1|2|0|36|36|0|0|7|0|18|62.07|1|0|AND|1218|1|0|4|ODS|Odisha|ODS|
+|Maharashtra|1|2|0|127|118|1|0|10|2|63.5|49.03|1|0|MAH|1222|0|0|4|ODS|Odisha|ODS|... |Services|1|2|0|46|37|0|0|8|0|23|71.88|-|-|SER|1223|0|-|4|ODS|Odisha|ODS|
+|Baroda|1|2|0|30|24|0|0|6|0|15|38.96|1|0|BRD|1224|0|0|4|ODS|Odisha|ODS|... |Meghalaya|1|1|0|80|80|0|1|16|0|80|74.77|1|0|MEG|1664|0|0|4|ODS|Odisha|ODS|
+|Nagaland|2|3|0|178|169|1|0|13|6|59.33|75.42|2|0|NAG|1666|1|0|4|ODS|Odisha|ODS|... |Vidarbha|1|2|0|74|65|0|1|10|1|37|45.68|1|0|VID|1221|0|0|4|ODS|Odisha|ODS|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Mumbai|1|4|0|14|0|0/14 v MUM|0|0|-|3.50|-|MUM|1198|1|4|ODS|Odisha|ODS|... |Delhi|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|1|4|-|-|-|
+|Uttar Pradesh|1|3|1|12|0|0/12 v UP|0|0|-|4.00|-|UP|1209|1|4|ODS|Odisha|ODS|... |Haryana|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|1|4|-|-|-|
+|Andhra|1|2|0|13|0|0/13 v AND|0|0|-|6.50|-|AND|1218|1|4|ODS|Odisha|ODS|... |Maharashtra|1|2|0|8|0|0/8 v MAH|0|0|-|4.00|-|MAH|1222|1|4|ODS|Odisha|ODS|
+|Services|1|7|1|26|0|0/26 v SER|0|0|-|3.71|-|SER|1223|1|4|ODS|Odisha|ODS|... |Baroda|1|1|1|0|0|0/0 v BRD|0|0|-|0.00|-|BRD|1224|1|4|ODS|Odisha|ODS|
+|Meghalaya|2|7|2|21|0|0/9 v MEG|0|0|-|3.00|-|MEG|1664|1|4|ODS|Odisha|ODS|... |Nagaland|1|1|0|10|0|0/10 v NAG|0|0|-|10.00|-|NAG|1666|2|4|ODS|Odisha|ODS|
+|Vidarbha|1|4|1|8|0|0/8 v VID|0|0|-|2.00|-|VID|1221|1|4|ODS|Odisha|ODS|... |Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|9(37) & 169(195)|-|Nagaland|November 16, 2025|
+|9(39) & 65(123)|0/8|Vidarbha|November 8, 2025|... |0(11) & 36(47)|0/13|Andhra|November 1, 2025|
+|4(4) & 71*(113)|0/12|Uttar Pradesh|October 25, 2025|
+|24(64) & 6(13)|0/0|Baroda|October 15, 2025|

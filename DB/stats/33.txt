@@ -1,25 +1,27 @@
 ================================================================================
-IPL PLAYER PROFILE: KHALEEL AHMED
+IPL PLAYER PROFILE: MUJEEB-UR-RAHMAN
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Khaleel Ahmed
+  Player Name              : Mujeeb-ur-Rahman
   IPL Debut                : 2018
-  Date of Birth            : 05 December 1997
-  Total IPL Matches        : 71
-  Role                     : WK-Batter
-  Nationality              : Indian
+  Date of Birth            : 28 March 2001
+  Total IPL Matches        : 20
+  Role                     : Bowler
+  Nationality              : Afghan
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    Left-arm pacer Syed Khaleel Ahmed is known for his effectiveness with the
-  new ball. He brings aggression and energy to his team. He previously played
-  for Sunrisers Hyderabad and Delhi Capitals in the IPL. His breakthrough
-  season came in IPL 2019, where he scalped 19 wickets in just nine matches
-  for SRH. Khaleel also has international experience under his belt and was
-  picked up by CSK for INR 4.8 crore, making him one of their major signings
-  for TATA IPL 2025.
+  Afghanistan’s Mujeeb-ur Rahman had taken IPL 2018 by storm on his way to
+  picking 14 wickets in 11 matches at under 7 runs an over. Mujeeb also became
+  a part of Afghanistan’s first-ever Test match against India in 2018,
+  following a superb season with the ball. He didn’t have a memorable 2019 and
+  2020 season as he picked up only three wickets from a total of seven games
+  in two years. After being part of Kings XI Punjab (now Punjab Kings) and
+  having toured around the globe in other T20 Leagues, Mujeeb would have
+  gained some much-needed experience and will be looking to make the most of
+  his outing in 2021 with Sunrisers Hyderabad.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -29,15 +31,12 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    71    |    2     |    2     |    1*    |   0.50   |    9     |  22.22   |    0     |    0     |    0     |    0     |    5     |    0    
-    2025   |    14    |    2     |    1     |    1*    |    -     |    2     |  50.00   |    0     |    0     |    0     |    0     |    1     |    0    
-    2024   |    14    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2023   |    9     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
-    2022   |    10    |    0     |    0     |    0     |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2021   |    7     |    0     |    1     |    1     |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2020   |    7     |    0     |    0     |    0*    |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
-    2019   |    9     |    0     |    0     |    0*    |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2018   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+   Career  |    20    |    4     |    12    |   10*    |   4.00   |    15    |  80.00   |    0     |    0     |    2     |    0     |    2     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    1     |    1     |    1     |    1*    |   0.00   |    1     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
+    2020   |    2     |    0     |    1     |    1     |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    0     |    0    
+    2019   |    5     |    2     |    0     |    0*    |   0.00   |    4     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2018   |    11    |    1     |    10    |   10*    |  10.00   |    7     |  142.85  |    0     |    0     |    2     |    0     |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -47,16 +46,48 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    71    |   1556   |   2328   |    89    |   3/21   |  26.16   |   8.98   |  17.48   |    0     |    0    
-    2025   |    14    |   280    |   447    |    15    |   3/29   |  29.80   |   9.58   |  18.67   |    0     |    0    
-    2024   |    14    |   300    |   479    |    17    |   2/21   |  28.18   |   9.58   |  17.65   |    0     |    0    
-    2023   |    9     |   198    |   301    |    9     |   2/24   |  33.44   |   9.12   |  22.00   |    0     |    0    
-    2022   |    10    |   235    |   315    |    16    |   3/25   |  19.69   |   8.04   |  14.69   |    0     |    0    
-    2021   |    7     |   162    |   219    |    5     |   3/21   |  43.80   |   8.11   |  32.40   |    0     |    0    
-    2020   |    7     |   154    |   242    |    8     |   2/24   |  30.25   |   9.42   |  19.25   |    0     |    0    
-    2019   |    9     |   209    |   287    |    19    |   3/30   |  15.10   |   8.23   |  11.00   |    0     |    0    
-    2018   |    1     |    18    |    38    |    0     |   0/38   |    -     |  12.66   |    -     |    0     |    0    
+   Career  |    20    |   446    |   620    |    20    |   3/27   |  31.00   |   8.34   |  22.30   |    0     |    0    
+    2025   |    1     |    12    |    28    |    1     |   1/28   |  28.00   |  14.00   |  12.00   |    0     |    0    
+    2021   |    1     |    24    |    29    |    2     |   2/29   |  14.50   |   7.25   |  12.00   |    0     |    0    
+    2020   |    2     |    48    |    83    |    0     |   0/39   |    -     |  10.37   |    -     |    0     |    0    
+    2019   |    5     |   114    |   191    |    3     |   2/31   |  63.66   |  10.05   |  38.00   |    0     |    0    
+    2018   |    11    |   248    |   289    |    14    |   3/27   |  20.64   |   6.99   |  17.71   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/khaleel-ahmed/2964
+Source: https://www.iplt20.com/players/mujeeb-ur-rahman/4572
 ================================================================================
+**Mujeeb Ur Rahman Zadran** (Pashto: مجیب الرحمن ځدراڼ; born 28 March 2001) is an Afghan cricketer, who plays for the Afghanistan national cricket team. Two months after his international debut, at the age of 16 years and 325 days, he became the youngest player to take a five-wicket haul in a One Day International.... He was one of the eleven cricketers to play in Afghanistan's first Test match, against India, in June 2018. Afghanistan lost the one-sided Test within two days. Mujeeb scored 15 and 3 in the two innings, respectively, and got one wicket after conceding 75 runs. It was also Mujeeb's first-class cricket debut. His uncle, Noor Ali Zadran, is also an Afghan international cricketer.... ## Domestic and T20 franchise career
+
+He made his List A debut for Speen Ghar Region in the 2017 Ghazi Amanullah Khan Regional One Day Tournament on 10 August 2017. He made his Twenty20 debut for Boost Defenders in the 2017 Shpageeza Cricket League on 11 September 2017. In November 2017, he was signed by Comilla Victorians for 2017–18 Bangladesh Premier League season.... In January 2018, he was bought by the Kings XI Punjab in the 2018 IPL auction. On 8 April 2018, at the age of 17 years and 11 days, he became the youngest cricketer to play in the Indian Premier League.... In May 2018, he was signed by Hampshire County Cricket Club to play in the 2018 t20 Blast tournament in England. In September 2018, he was named in Nangarhar's squad in the first edition of the Afghanistan Premier League tournament. He was the joint-leading wicket-taker for the Nangarhar Leopards in the tournament, with twelve dismissals in nine matches.... In February 2019, he was signed by Middlesex County Cricket Club to play in the 2019 t20 Blast tournament in England. In November 2019, he was selected to play for the Cumilla Warriors in the 2019–20 Bangladesh Premier League. On 30 December 2020, in the 2020–21 Big Bash League season, he took his first five-wicket haul in T20 cricket, with 5 for 15 for the Brisbane Heat against the Hobart Hurricanes.... In February 2021, Mujeeb was bought by the Sunrisers Hyderabad in the IPL auction ahead of the 2021 Indian Premier League.... ## International career
+
+He was the leading wicket-taker in the 2017 ACC Under-19 Asia Cup with twenty wickets in five matches that helped Afghanistan win their maiden ACC Under-19 Cup title. As a result of this performance, he was named in Afghanistan's One Day International (ODI) squad in December 2017 for their series against Ireland. He made his ODI debut for Afghanistan against Ireland on 5 December 2017. On debut he took 4 wickets for 24 runs, from his quota of 10 overs, and helped his team win by 138 runs. He was awarded man of the match for his performance.... In December 2017, he was named in Afghanistan's squad for the 2018 Under-19 Cricket World Cup. He made his Twenty20 International (T20I) debut for Afghanistan against Zimbabwe on 5 February 2018. On 16 February 2018 against Zimbabwe at Sharjah, Mujeeb took his maiden ODI five-wicket haul. He became the youngest player ever to take an ODI five-wicket haul and was named the man of the match.... In February 2018, the International Cricket Council (ICC) named Mujeeb as one of the ten players to watch ahead of the 2018 Cricket World Cup Qualifier tournament. On 15 March 2018 in the first match of the Super Sixes at the World Cup Qualifier, he took 3 wickets for 33 runs against the West Indies. He also took a catch off the bowling of Rashid Khan as Afghanistan beat them by 3 wickets, with Mujeeb earning his third ODI man of the match award.... During the final of the 2018 Cricket World Cup Qualifier, between the West Indies and Afghanistan, Mujeeb returned with match figures of 4/43 in 9.5 overs, helping Afghanistan to restrict the West Indies to a score of 204. Afghanistan chased the target of 205 losing only 3 wickets with ten overs to spare and clinched its first ICC Cricket World Cup Qualifier title. He was also the joint-leading wicket-taker in the tournament, along with fellow wrist spinner, Rashid Khan and Safyaan Sharif of Scotland with 17 wickets each.... Following the conclusion of the Cricket World Cup Qualifier tournament, the ICC named Mujeeb as the rising star of Afghanistan's squad.... In May 2018, he was named in Afghanistan's squad for their inaugural Test match, played against India. He made his Test debut for Afghanistan, against India, on 14 June 2018. Mujeeb became the sixth player, and first for Afghanistan, to make his first-class debut in a Test match. He became the first player born in the 21st century to play Test cricket and also became the youngest player to feature in their country's inaugural Test match (17 years and 78 days). His first, and only, Test wicket was Cheteshwar Pujara.... In April 2019, he was named in Afghanistan's squad for the 2019 Cricket World Cup. Following the World Cup, the International Cricket Council (ICC) named Mujeeb as the rising star of the squad.... In September 2021, he was named in Afghanistan's squad for the 2021 ICC Men's T20 World Cup. In Afghanistan's first match of the tournament, against Scotland, Mujeeb took his first five-wicket haul in T20I cricket, with five wickets for twenty runs. With this, he also became the first player to take a five-wicket haul on T20 World Cup debut.
+
+In May 2024, he was named in Afghanistan’s squad for the 2024 ICC Men's T20 World Cup tournament.... ## Personal life
+
+In 2020, he got married in Kabul at the age of 19.
+
+## References... ## External links
+- Media related to Mujeeb-ur-Rahman at Wikimedia Commons
+- Mujeeb Ur Rahman at ESPNcricinfo
+
+Categories: - 2001 births... - Living people
+- Afghan cricketers
+- 21st-century Afghan sportsmen
+- Afghanistan Test cricketers
+- Afghanistan One Day International cricketers
+- Afghanistan Twenty20 International cricketers
+- Cricketers at the 2019 Cricket World Cup
+- Boost Defenders cricketers... - Brisbane Heat cricketers
+- Comilla Victorians cricketers
+- Hampshire cricketers
+- Melbourne Renegades cricketers
+- Middlesex cricketers
+- Nangarhar Leopards cricketers
+- Sunrisers Leeds cricketers
+- Peshawar Zalmi cricketers... - Punjab Kings cricketers
+- Spin Ghar Tigers cricketers
+- Sunrisers Hyderabad cricketers
+- Sportspeople from Khost
+- Cricketers at the 2023 Cricket World Cup
+- Paarl Royals cricketers
+- Mumbai Indians cricketers

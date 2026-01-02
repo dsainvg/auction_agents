@@ -1,27 +1,280 @@
-================================================================================
-IPL PLAYER PROFILE: KESHAV MAHARAJ
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Keshav Maharaj
-  IPL Debut                : 2024
-  Date of Birth            : 07 February 1990
-  Total IPL Matches        : 0
-  Role                     : Bowler
-  Nationality              : Indian
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    2     |    0     |    1     |    1     |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    1     |    0    
-    2024   |    2     |    0     |    1     |    1     |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    1     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/keshav-maharaj/20726
-================================================================================
+|## Salman Nizar Introduction|
+|--|
+|Role|Batsman|
+|Batting|Left Handed|
+|Bowling|spin Right-arm offbreak|
+|Country|
+|--|
+|Birth|30-Jun-1997 (27 yr), Thalassery, Cannanore, Kerala|
+|Height|--|
+|Teams|India, Kerala, TUTI Patriots (Mostly)|
+|Social Accounts|
+|Last Updated|Last updated 21 hours ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Salman Nizar Stats|
+|--|
+|Competition|SMAT|DODI|DT20|
+|Matches|11|1|48|
+|Highest Score|42|2|80|
+|Runs|124|2|1354|
+|50s|0|0|13|
+|100s|0|0|0|
+|Run Per Inn|13.7|2.0|31.4|
+|Run Per Match|11.2|2.0|28.2|
+|Boundary (In Ball)|0.2|-|6.9|
+|4s (In Ball)|6.8|-|13.7|
+|6s (In Ball)|0.2|-|14.0|
+|Wickets|0|0|0|
+|Over Per Match|-|-|-|
+|Wicket Per Inn|-|-|-|
+|Wicket Per Match|-|-|-|
+|Wicket (In Ball)|-|-|-|
+|Wicket (In Runs)|-|-|-|
+|Field In Match %|63 %|-|70 %|
+|Catch In Match %|63 %|-|60 %|
+|Check More Stats On Advance Cricket App|
+|## Salman Nizar Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|18 Sep 24|T20|31|0|8|43|
+|17 Sep 24|T20|28|0|8|40|
+|15 Sep 24|T20|42|0|16|62|
+|13 Sep 24|T20|49|0|0|53|
+|12 Sep 24|T20|102|0|0|106|
+|10 Sep 24|T20|78|0|16|98|
+|09 Sep 24|T20|10|0|14|28|
+|07 Sep 24|T20|57|0|16|77|
+|06 Sep 24|T20|96|0|0|100|
+|04 Sep 24|T20|73|0|8|85|
+|03 Sep 24|T20|16|0|0|20|
+|16 May 24|T20|23|0|0|27|
+|15 May 24|T20|78|0|14|96|
+|14 May 24|T20|98|0|0|102|
+|13 May 24|T20|76|0|8|88|
+|05 Dec 23|ODI|2|0|0|6|
+|27 Oct 23|T20|5|0|16|25|
+|25 Oct 23|T20|14|0|8|26|
+|21 Oct 23|T20|537.4|0|0|541.4|
+|## Salman Nizar Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|18 Sep 24|CG vs AKS|5|24(17)|141.1|catch|
+|17 Sep 24|CG vs TR|5|23(16)|143.7|not out|
+|15 Sep 24|CG vs TR|5|34(30)|113.3|catch|
+|13 Sep 24|CG vs AKS|4|37(26)|142.3|catch|
+|12 Sep 24|CG vs KBT|5|73(41)|178|not out|
+|10 Sep 24|CG vs TT|5|53(27)|196.2|not out|
+|09 Sep 24|CG vs AP|6|9(10)|90|not out|
+|07 Sep 24|CG vs TT|5|45(37)|121.6|not out|
+|06 Sep 24|CG vs TR|4|72(48)|150|not out|
+|04 Sep 24|CG vs KBT|5|55(38)|144.7|catch|
+|03 Sep 24|CG vs AKS|5|18(27)|66.6|catch|
+|16 May 24|KAN vs CDS|6|22(24)|91.6|run out|
+|15 May 24|KAN vs WAN|3|60(42)|142.8|not out|
+|14 May 24|KAN vs KOY|4|71(40)|177.5|catch|
+|13 May 24|KAN vs TVR|4|58(46)|126|not out|
+|05 Dec 23|KER vs RAI|4|2(9)|22.2|bowled|
+|Salman Nizar Recent Batting|
+|## Salman Nizar Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|18 Sep 24|CG vs AKS|DNB|
+|17 Sep 24|CG vs TR|DNB|
+|15 Sep 24|CG vs TR|DNB|
+|13 Sep 24|CG vs AKS|DNB|
+|12 Sep 24|CG vs KBT|DNB|
+|10 Sep 24|CG vs TT|DNB|
+|09 Sep 24|CG vs AP|DNB|
+|07 Sep 24|CG vs TT|DNB|
+|06 Sep 24|CG vs TR|DNB|
+|04 Sep 24|CG vs KBT|DNB|
+|03 Sep 24|CG vs AKS|DNB|
+|16 May 24|KAN vs CDS|DNB|
+|15 May 24|KAN vs WAN|DNB|
+|14 May 24|KAN vs KOY|DNB|
+|13 May 24|KAN vs TVR|DNB|
+|05 Dec 23|KER vs RAI|DNB|
+|Salman Nizar Recent Bowling All Recent Bowling Details|
+|Competition|SMAT|DODI|DT20|
+|--|--|--|--|
+|Matches|11|1|48|
+|Innings|9|1|43|
+|Not Out|6|0|17|
+|Runs|124|2|1354|
+|Highest Score|42|2|80|
+|Average|41.33|2.00|52.07|
+|Balls Faced|75|9|1057|
+|Strike Rate|165.3|22.2|128|
+|20s|2|0|7|
+|30s|1|0|5|
+|50s|0|0|13|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|11|0|77|
+|6s|273|0|75|
+|Outtype|
+|LBW|0|0|2|
+|Bowled|0|1|0|
+|Stumped|1|0|2|
+|Catch|2|0|21|
+|Run Out|0|0|1|
+|Wicket Taker|
+|Left Arm|0|0|1|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|0|
+|3- Medium|0|0|1|
+|4- Slow|0|0|0|
+|1- Bowled|0|0|0|
+|2- Catch|0|0|1|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Right Arm|2|1|21|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|1|
+|3- Medium|1|1|17|
+|4- Slow|1|0|3|
+|1- Bowled|0|1|0|
+|2- Catch|1|0|18|
+|3- Stumped|1|0|1|
+|4- Lbw|0|0|2|
+|Competition|SMAT|DODI|DT20|
+|--|--|--|--|
+|Matches|11|1|48|
+|Innings|0|0|0|
+|Balls|0|0|0|
+|Runs|0|0|0|
+|BBI|
+|Average|0|0|0|
+|Strike Rate|
+|Maiden|0|0|0|
+|2w|0|0|0|
+|3w|0|0|0|
+|5w|0|0|0|
+|8w|0|0|0|
+|10w|0|0|0|
+|Wickets|0|0|0|
+|LBW|0|0|0|
+|Bowled|0|0|0|
+|Stumped|0|0|0|
+|Catch|0|0|0|
+|Batsman Type|
+|Right Handed|0|0|0|... |1- LBW|0|0|0|
+|2- Bowled|0|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|0|0|0|
+|Left Handed|0|0|0|
+|1- LBW|0|0|0|... |2- Bowled|0|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|0|0|0|
+Salman Nizar played 11 SMAT matches and scored 124 runs in 9 Innings. Salman Nizar's Highest Score in SMAT is 42.... S Nizar has 0 SMAT centuries, 0 SMAT half centuries and 1 times 30+ and 2 times 20+ SMAT runs. S Nizar has a strike rate of 165.3 with run per match of 11.27 in 75 SMAT balls. Salman Nizar made total 284 boundaries with 11 fours and 273 sixes in SMAT.... S Nizar's SMAT outtype analysis are lbw 0 times, bowled 0, stumped 1 times, catch 2 times, Run Out 0 times. Salman Nizar's SMAT wicket takers are 0 left arm and 2 right arm. S Nizar's Left Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... Salman Nizar's Right Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 1 wickets, Slow bowler 1 wickets. S Nizar's wicket taken by Left Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Salman Nizar's wicket taken by Right Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 0 wickets, stumped 1 wickets, catch 1 wickets.... Salman Nizar Fielding analysis are Catch 7 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Salman Nizar played 1 DODI matches and scored 2 runs in 1 Innings. Salman Nizar's Highest Score in DODI is 2. S Nizar has 0 DODI centuries, 0 DODI half centuries and 0 times 30+ and 0 times 20+ DODI runs.... S Nizar has a strike rate of 22.2 with run per match of 2.00 in 9 DODI balls. Salman Nizar made total 0 boundaries with 0 fours and 0 sixes in DODI. S Nizar's DODI outtype analysis are lbw 0 times, bowled 1, stumped 0 times, catch 0 times, Run Out 0 times.... Salman Nizar's DODI wicket takers are 0 left arm and 1 right arm. S Nizar's Left Arm DODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... Salman Nizar's Right Arm DODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 1 wickets, Slow bowler 0 wickets. S Nizar's wicket taken by Left Arm Bowlers in DODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Salman Nizar's wicket taken by Right Arm Bowlers in DODI analysis are lbw 0 wickets, bowled 1 wickets, stumped 0 wickets, catch 0 wickets.... Salman Nizar played 48 DT20 matches and scored 1354 runs in 43 Innings. Salman Nizar's Highest Score in DT20 is 80. S Nizar has 0 DT20 centuries, 13 DT20 half centuries and 5 times 30+ and 7 times 20+ DT20 runs.... S Nizar has a strike rate of 128 with run per match of 28.20 in 1057 DT20 balls. Salman Nizar made total 152 boundaries with 77 fours and 75 sixes in DT20. S Nizar's DT20 outtype analysis are lbw 2 times, bowled 0, stumped 2 times, catch 21 times, Run Out 1 times.... Salman Nizar's DT20 wicket takers are 1 left arm and 21 right arm. S Nizar's Left Arm DT20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 1 wickets, Slow bowler 0 wickets.... Salman Nizar's Right Arm DT20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 1 wickets, Medium bowler 17 wickets, Slow bowler 3 wickets. S Nizar's wicket taken by Left Arm Bowlers in DT20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets. Salman Nizar's wicket taken by Right Arm Bowlers in DT20 analysis are lbw 2 wickets, bowled 0 wickets, stumped 1 wickets, catch 18 wickets.... Salman Nizar Fielding analysis are Catch 29 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Salman Nizar plays cricket as Batsman. Salman Nizar run per match stats are 11.2 runs in SMAT, 2.0 runs in DODI, 28.2 runs in DT20, 11.8 runs in VHT. S Nizar make boundary in every 0.2 balls in SMAT, 0 balls in DODI, 6.9 balls in DT20, 11.3 balls in VHT.... Salman Nizar hits six in every 0.2 balls in SMAT, every 0 balls in DODI, every 14.0 balls in DT20, every 91.0 balls in VHT. Salman Nizar score four in every 6.8 balls in SMAT, 0 balls in DODI, 13.7 balls in DT20, 13.0 balls in VHT.... |## Salman Nizar stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|KER|all|DT20|2|20|28.00|Stats|
+|LIO|all|DT20|3|35|20.33|Stats|
+|BKK|all|DT20|9|73|28.62|Stats|
+|ROY|all|DT20|7|72|18.66|Stats|
+|KAN|all|DT20|4|71|105.50|Stats|
+|EAG|all|DT20|5|80|48.60|Stats|
+|KRL|all|DT20|2|19|27.00|Stats|
+|AKS|all|DT20|0|0|Stats|
+|AP|all|DT20|0|0|Stats|
+|TR|all|DT20|0|0|Stats|
+|## Salman Nizar stats Bowling For Teams|
+|--|
+|Team|Year|Mode|Inn|Wkts|Eco|Stats|
+|## Salman Nizar stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Wankhede Stadium|all|DT20|1|20|20.00|Stats|
+|Sanatana Dharma College Ground|all|DT20|24|80|37.94|Stats|
+|Dr YS Rajasekhara Reddy ACA VD|all|DT20|1|8|8.00|Stats|
+|Bandra Kurla Complex|all|DT20|0|0|Stats|
+|St Xaviers College Ground|all|DT20|0|0|Stats|
+|Barabati Stadium|all|DT20|2|19|27.00|Stats|
+|Greenfield International Stadi|all|DT20|11|73|88.60|Stats|
+|St Xaviers College Ground Thum|all|DT20|4|71|105.50|Stats|
+|MChinnaswamy Stadium|all|DODI|1|2|2.00|Stats|
+|Palam A Stadium|all|VHT|1|9|9.00|Stats|
+|## Salman Nizar stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|## Salman Nizar stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|KCA C CHAMP 2022|all|DT20|6|55|21.50|Stats|
+|Kerala T20 2024|all|DT20|4|71|105.50|Stats|
+|Kerala League T20 2024|all|DT20|11|73|88.60|Stats|
+|Bhairab Chandra Mohanty Memori|all|DT20|2|19|27.00|Stats|
+|KCA TCM Presidents Cup T20 202|all|DT20|5|80|48.60|Stats|
+|NSK Trophy State T20 Champions|all|DT20|0|0|Stats|
+|KCA Presidents Cup T20 2022|all|DT20|7|72|18.66|Stats|
+|KCA C CHAMP 2021|all|DT20|3|73|50.00|Stats|
+|Z T20L 2018|all|DT20|1|8|8.00|Stats|
+|KKT20 -2021|all|DT20|3|35|20.33|Stats|
+|## Salman Nizar stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|## Salman Nizar stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|KOD|all|DT20|0|0|Stats|
+|JKC|all|DT20|0|0|Stats|
+|CGC|all|DT20|1|19|19.00|Stats|
+|ASC|all|DT20|1|8|8.00|Stats|
+|OHB|all|DT20|0|0|Stats|
+|PAN|all|DT20|1|80|80.00|Stats|
+|TIG|all|DT20|4|41|35.00|Stats|
+|SWC|all|DT20|1|55|55.00|Stats|
+|ENC|all|DT20|1|25|25.00|Stats|
+|AP|all|DT20|1|9|9.00|Stats|
+|## Salman Nizar stats Bowling Against Teams|
+|--|
+|Team|Year|Mode|Inn|Wkts|Eco|Stats|
+|## Salman Nizar stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Wankhede Stadium|all|MUM|DT20|0|0|Stats|
+|Sanatana Dharma College Ground|all|ROY|DT20|3|55|135.00|Stats|
+|Sanatana Dharma College Ground|all|EAG|DT20|3|72|39.00|Stats|
+|Sanatana Dharma College Ground|all|TUS|DT20|3|35|14.33|Stats|
+|Dr YS Rajasekhara Reddy ACA VD|all|AP|DT20|1|8|8.00|Stats|
+|Just Cricket Academy Ground|all|SAUR|VHT|1|8|8.00|Stats|
+|MChinnaswamy Stadium|all|KAR|VHT|1|9|9.00|Stats|
+|## Salman Nizar stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|## Salman Nizar stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|NSK Trophy State T20 Champions|KOD|DT20|0|0|Stats|
+|Bhairab Chandra Mohanty Memori|CGC|DT20|1|19|19.00|Stats|
+|Bhairab Chandra Mohanty Memori|ASC|DT20|1|8|8.00|Stats|
+|Bhairab Chandra Mohanty Memori|OHB|DT20|0|0|Stats|
+|KCA TCM Presidents Cup T20 202|TIG|DT20|2|41|27.00|Stats|
+|KCA TCM Presidents Cup T20 202|ROY|DT20|2|55|54.50|Stats|
+|KCA TCM Presidents Cup T20 202|PAN|DT20|1|80|80.00|Stats|
+|KCA Presidents Cup T20 2022|TIG|DT20|2|14|8.00|Stats|
+|KCA C CHAMP 2022|MTC|DT20|2|13|8.00|Stats|
+|KCA C CHAMP 2022|MRC|DT20|1|10|10.00|Stats|
+|## Salman Nizar stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|## Salman Nizar stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|India|all|KOD|DT20|0|0|Stats|
+|India|all|DT20|0|0|Stats|
+|India|all|CGC|DT20|1|19|19.00|Stats|
+|India|all|ASC|DT20|1|8|8.00|Stats|
+|India|all|OHB|DT20|0|0|Stats|
+|India|all|PAN|DT20|1|80|80.00|Stats|
+|India|all|MRC|DT20|1|10|10.00|Stats|
+|India|all|SWC|DT20|1|55|55.00|Stats|
+|India|all|ENC|DT20|1|25|25.00|Stats|
+|India|all|JKC|DT20|0|0|Stats|
+|## Salman Nizar stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|

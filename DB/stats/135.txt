@@ -1,14 +1,21 @@
 ================================================================================
-IPL PLAYER PROFILE: SAURAV CHUAHAN
+IPL PLAYER PROFILE: KM ASIF
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Saurav Chuahan
-  Date of Birth            : 27 May 2000
-  Total IPL Matches        : 3
-  Role                     : Batter
+  Player Name              : KM Asif
+  IPL Debut                : 2018
+  Date of Birth            : 24 July 1993
+  Total IPL Matches        : 7
+  Role                     : Bowler
   Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Born and brought up in Kerala, KM Asif has been playing age-group cricket
+  for Kerala. In the eleventh edition of the league, the young gun will
+  represent Chennai Super Kings.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -18,9 +25,22 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    0     |    18    |    9     |   6.00   |    15    |  120.00  |    0     |    0     |    1     |    1     |    0     |    0    
-    2024   |    3     |    0     |    18    |    9     |   6.00   |    15    |  120.00  |    0     |    0     |    1     |    1     |    0     |    0    
+   Career  |    3     |    0     |    0     |    0     |    -     |    0     |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2018   |    2     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    3     |    49    |    93    |    4     |   2/43   |  23.25   |  11.39   |  12.25   |    0     |    0    
+    2021   |    1     |    13    |    18    |    1     |   1/18   |  18.00   |   8.30   |  13.00   |    0     |    0    
+    2018   |    2     |    36    |    75    |    3     |   2/43   |  25.00   |  12.50   |  12.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/saurav-chuahan/20718
+Source: https://www.iplt20.com/players/km-asif/4944
 ================================================================================

@@ -1,23 +1,272 @@
-================================================================================
-IPL PLAYER PROFILE: MOHAMMED AZHARUDDEEN
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Mohammed Azharuddeen
-  Date of Birth            : 22 March 1994
-  Total IPL Matches        : 0
-  Role                     : Wicketkeeper Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    Mohammed Azharuddeen hogged the limelight scoring the first T20 century
-  for Kerala in the 2021 edition of the Syed Mushtaq Ali trophy. The Kerala
-  batsman, Azharuddeen scored his century from 37 balls, the second-fastest in
-  the Syed Mushtaq Ali Trophy. In the 2021 edition of the league, Azharuddeen
-  is all set to Play Bold.
-
-================================================================================
-Source: https://www.iplt20.com/players/mohammed-azharuddeen/7743
-================================================================================
+|## Chintal Gandhi Introduction|
+|--|
+|Role|Batting Allrounder|
+|Batting|Right Handed|
+|Bowling|spin Right-arm offbreak|
+|Country|India 1|
+|--|--|
+|Birth|25-Aug-1994 (31 yr), Navsari, Gujarat|
+|Height|
+|Teams|(Mostly) Baroda 401,|
+|Social Accounts|
+|Last Updated|Last updated 19 days ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Chintal Gandhi Stats|
+|--|
+|Competition|SMAT|DT20|C3|
+|Matches|3|14|0|
+|Highest Score|9|22|-|
+|Runs|9|38|-|
+|50s|0|0|-|
+|100s|0|0|-|
+|Run Per Inn|9.0|4.7|-|
+|Run Per Match|3.0|2.7|-|
+|Boundary (In Ball)|-|5.1|-|
+|4s (In Ball)|-|6.0|-|
+|6s (In Ball)|-|36.0|-|
+|Wickets|2|10|-|
+|Over Per Match|2.4|3.4|-|
+|Wicket Per Inn|0.6|0.7|-|
+|Wicket Per Match|0.6|0.7|-|
+|Wicket (In Ball)|24.0|31.7|-|
+|Wicket (In Runs)|29.5|33.6|-|
+|Field In Match %|-|35 %|-|
+|Catch In Match %|-|35 %|-|
+|Check More Stats On Advance Cricket App|
+|## Chintal Gandhi Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|22 Oct 22|T20|0|4|0|8|
+|20 Oct 22|T20|0|-4|0|0|
+|14 Oct 22|T20|1|2|0|7|
+|12 Oct 22|T20|0|51|8|63|
+|11 Oct 22|T20|0|39|0|43|
+|20 Jan 22|T20|5|6|8|23|
+|19 Jan 22|T20|0|6|8|18|
+|18 Jan 22|T20|6|21|8|39|
+|16 Jan 22|T20|33|0|0|37|
+|14 Jan 22|T20|-2|33|0|35|
+|12 Jan 22|T20|-2|6|8|16|
+|10 Jan 22|T20|0|50|0|54|
+|09 Jan 22|T20|0|54|0|58|
+|08 Jan 22|T20|1|39|0|44|
+|07 Jan 22|T20|6|25|0|35|
+|09 Nov 21|T20|9|-2|0|11|
+|12 Jan 21|T20|0|27|0|31|
+|10 Jan 21|T20|0|35|0|39|
+|## Chintal Gandhi Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|22 Oct 22|BRD vs AND|DNB|
+|20 Oct 22|BRD vs HIM|DNB|
+|14 Oct 22|BRD vs GUJ|11|1(1)|100|run out|
+|12 Oct 22|BRD vs SAU|DNB|
+|20 Jan 22|STA vs FIG|9|4(6)|66.6|catch|
+|19 Jan 22|STA vs WAR|DNB|
+|18 Jan 22|STA vs CHA|3|5(8)|62.5|bowled|
+|16 Jan 22|STA vs TIT|3|22(12)|183.3|catch|
+|14 Jan 22|STA vs GLA|9|0(0)|run out|
+|12 Jan 22|STA vs FIG|8|0(4)|bowled|
+|10 Jan 22|STA vs CHA|DNB|
+|09 Jan 22|STA vs WAR|DNB|
+|08 Jan 22|STA vs TIT|10|1(2)|50|not out|
+|07 Jan 22|STA vs GLA|9|5(3)|166.6|not out|
+|09 Nov 21|BRD vs MUM|11|9(10)|90|not out|
+|12 Jan 21|BRD vs HP|DNB|
+|Chintal Gandhi Recent Batting|
+|## Chintal Gandhi Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|22 Oct 22|BRD vs AND|3.0|16|0|0|5.33|
+|20 Oct 22|BRD vs HIM|4.0|46|0|0|11.50|
+|14 Oct 22|BRD vs GUJ|4.0|26|0|0|6.50|
+|12 Oct 22|BRD vs SAU|4.0|17|1|1|4.25|
+|11 Oct 22|BRD vs NAG|2.0|4|1|0|2.00|
+|20 Jan 22|STA vs FIG|3.0|12|0|0|4.00|
+|19 Jan 22|STA vs WAR|4.0|15|0|0|3.75|
+|18 Jan 22|STA vs CHA|4.0|46|1|0|11.50|
+|16 Jan 22|STA vs TIT|3.5|31|0|0|8.08|
+|14 Jan 22|STA vs GLA|4.0|29|1|0|7.25|
+|12 Jan 22|STA vs FIG|4.0|14|0|0|3.50|
+|10 Jan 22|STA vs CHA|4.0|30|2|0|7.50|
+|09 Jan 22|STA vs WAR|4.0|20|2|0|5.00|
+|08 Jan 22|STA vs TIT|4.0|16|1|0|4.00|
+|07 Jan 22|STA vs GLA|4.0|30|1|0|7.50|
+|09 Nov 21|BRD vs MUM|2.0|21|0|0|10.50|
+|Chintal Gandhi Recent Bowling All Recent Bowling Details|
+|Competition|SMAT|DT20|C3|
+|--|--|--|--|
+|Matches|3|14|0|
+|Innings|1|8|-|
+|Not Out|1|2|-|
+|Runs|9|38|-|
+|Highest Score|9|22|-|
+|Average|6.33|-|
+|Balls Faced|10|36|-|
+|Strike Rate|90|105.5|-|
+|20s|0|1|-|
+|30s|0|0|-|
+|50s|0|0|-|
+|100s|0|0|-|
+|200s|0|0|-|
+|90s|0|0|-|
+|150s|0|0|-|
+|4s|0|6|-|
+|6s|0|1|-|
+|Outtype|
+|LBW|0|0|-|
+|Bowled|0|2|-|
+|Stumped|0|0|-|
+|Catch|0|2|-|
+|Run Out|0|2|-|
+|Wicket Taker|
+|Left Arm|0|1|-|
+|1- Fast|0|0|-|
+|2- Fast-Medium|0|0|-|
+|3- Medium|0|1|-|
+|4- Slow|0|0|-|
+|1- Bowled|0|0|-|
+|2- Catch|0|1|-|
+|3- Stumped|0|0|-|
+|4- Lbw|0|0|-|
+|Right Arm|0|3|-|
+|1- Fast|0|0|-|
+|2- Fast-Medium|0|0|-|
+|3- Medium|0|3|-|
+|4- Slow|0|0|-|
+|1- Bowled|0|2|-|
+|2- Catch|0|1|-|
+|3- Stumped|0|0|-|
+|4- Lbw|0|0|-|
+|Competition|SMAT|DT20|C3|
+|--|--|--|--|
+|Matches|3|14|0|
+|Innings|3|14|-|
+|Balls|48|317|-|
+|Runs|59|336|-|
+|BBI|-|
+|Average|29.50|33.60|-|
+|Strike Rate|24.00|31.70|-|
+|Maiden|0|1|-|
+|2w|0|2|-|
+|3w|0|0|-|
+|5w|0|0|-|
+|8w|0|0|-|
+|10w|0|0|-|
+|Wickets|2|10|-|
+|LBW|0|2|-|
+|Bowled|1|2|-|... |Stumped|0|0|-|
+|Catch|1|6|-|
+|Batsman Type|
+|Right Handed|1|9|-|
+|1- LBW|0|2|-|
+|2- Bowled|0|2|-|
+|3- Stumped|0|0|-|... |4- Catch|1|5|-|
+|Left Handed|1|1|-|
+|1- LBW|0|0|-|
+|2- Bowled|1|0|-|
+|3- Stumped|0|0|-|
+|4- Catch|0|1|-|
+Chintal Gandhi played 3 SMAT matches and scored 9 runs in 1 Innings.... Chintal Gandhi's Highest Score in SMAT is 9. C Gandhi has 0 SMAT centuries, 0 SMAT half centuries and 0 times 30+ and 0 times 20+ SMAT runs. C Gandhi has a strike rate of 90 with run per match of 3.00 in 10 SMAT balls.... Chintal Gandhi made total 0 boundaries with 0 fours and 0 sixes in SMAT. C Gandhi's SMAT outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 0 times, Run Out 0 times. Chintal Gandhi's SMAT wicket takers are 0 left arm and 0 right arm.... C Gandhi's Left Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Chintal Gandhi's Right Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... C Gandhi's wicket taken by Left Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Chintal Gandhi's wicket taken by Right Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Chintal Gandhi Took 2 Wickets (In 3 SMAT innings) with Strike Rate of 24.00 and average of 29.50. C Gandhi's delivered 48 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 1 Right Handed and 1 Left Handed batsman out by Chintal Gandhi in SMAT. Right Handed Batsman SMAT outtype analysis (wicket taken by C Gandhi) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 1 times. Left Handed Batsman SMAT outtype analysis (wicket taken by C Gandhi) are LBW 0 times, Bowled 1 times, Stumped 0 times, Catch 0 times.... Chintal Gandhi played 14 DT20 matches and scored 38 runs in 8 Innings. Chintal Gandhi's Highest Score in DT20 is 22. C Gandhi has 0 DT20 centuries, 0 DT20 half centuries and 0 times 30+ and 1 times 20+ DT20 runs.... C Gandhi has a strike rate of 105.5 with run per match of 2.71 in 36 DT20 balls. Chintal Gandhi made total 7 boundaries with 6 fours and 1 sixes in DT20. C Gandhi's DT20 outtype analysis are lbw 0 times, bowled 2, stumped 0 times, catch 2 times, Run Out 2 times.... Chintal Gandhi's DT20 wicket takers are 1 left arm and 3 right arm. C Gandhi's Left Arm DT20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 1 wickets, Slow bowler 0 wickets.... Chintal Gandhi's Right Arm DT20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 3 wickets, Slow bowler 0 wickets. C Gandhi's wicket taken by Left Arm Bowlers in DT20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets. Chintal Gandhi's wicket taken by Right Arm Bowlers in DT20 analysis are lbw 0 wickets, bowled 2 wickets, stumped 0 wickets, catch 1 wickets.... Chintal Gandhi Took 10 Wickets (In 14 DT20 innings) with Strike Rate of 31.70 and average of 33.60. C Gandhi's delivered 317 balls (with 1 Maiden over) and took 2 wickets 2 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 9 Right Handed and 1 Left Handed batsman out by Chintal Gandhi in DT20. Right Handed Batsman DT20 outtype analysis (wicket taken by C Gandhi) are LBW 2 times, Bowled 2 times, Stumped 0 times, Catch 5 times. Left Handed Batsman DT20 outtype analysis (wicket taken by C Gandhi) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 1 times.... Chintal Gandhi Fielding analysis are Catch 5 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Chintal Gandhi plays cricket as Batting Allrounder. Chintal Gandhi run per match stats are 3.0 runs in SMAT, 2.7 runs in DT20. C Gandhi wicket per match stats are 0.6 in SMAT, 0.7 in DT20. C Gandhi make boundary in every 0 balls in SMAT, 5.1 balls in DT20.... Chintal Gandhi wicket in every 24.0 balls in SMAT, 31.7 balls in DT20. Chintal Gandhi hits six in every 0 balls in SMAT, every 36.0 balls in DT20. Chintal Gandhi score four in every 0 balls in SMAT, 6.0 balls in DT20.... |## Chintal Gandhi stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Reliance Stadium|all|SMAT|0|0|Stats|
+|Barsapara Cricket Stadium|all|SMAT|1|9|9.00|Stats|
+|Alembic Ground|all|DT20|7|22|7.40|Stats|
+|Holkar Cricket Stadium|all|DT20|1|1|1.00|Stats|
+|TBC TBC|all|DT20|0|0|Stats|
+|Daly College Ground Indore|all|DT20|0|0|Stats|
+|## Chintal Gandhi stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Reliance Stadium|all|SMAT|2|2|6.33|Stats|
+|Barsapara Cricket Stadium|all|SMAT|1|0|10.50|Stats|
+|Alembic Ground|all|DT20|10|8|6.25|Stats|
+|Holkar Cricket Stadium|all|DT20|4|2|6.64|Stats|
+|Daly College Ground Indore|all|DT20|1|0|5.33|Stats|
+|## Chintal Gandhi stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|SYAT 2021|all|SMAT|0|0|Stats|
+|SMAT 2021-22|all|SMAT|1|9|9.00|Stats|
+|BARODA T20L 2022|all|DT20|7|22|7.40|Stats|
+|Syed Mushtaq Ali Trophy 2022|all|DT20|1|1|1.00|Stats|
+|## Chintal Gandhi stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|SYAT 2021|all|SMAT|2|2|6.33|Stats|
+|SMAT 2021-22|all|SMAT|1|0|10.50|Stats|
+|BARODA T20L 2022|all|DT20|10|8|6.25|Stats|
+|Syed Mushtaq Ali Trophy 2022|all|DT20|5|2|6.41|Stats|
+|## Chintal Gandhi stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|UTK|all|SMAT|0|0|Stats|
+|MUM|all|SMAT|1|9|9.00|Stats|
+|HP|all|SMAT|0|0|Stats|
+|GLA|all|DT20|2|5|5.00|Stats|
+|TIT|all|DT20|2|22|23.00|Stats|
+|WAR|all|DT20|0|0|Stats|
+|CHA|all|DT20|1|5|5.00|Stats|
+|FIG|all|DT20|2|4|2.00|Stats|
+|NAG|all|DT20|0|0|Stats|
+|SAU|all|DT20|0|0|Stats|
+|## Chintal Gandhi stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|## Chintal Gandhi stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|## Chintal Gandhi stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|SYAT 2021|UTK|SMAT|0|0|Stats|
+|SMAT 2021-22|MUM|SMAT|1|9|9.00|Stats|
+|SYAT 2021|HP|SMAT|0|0|Stats|
+|BARODA T20L 2022|GLA|DT20|2|5|5.00|Stats|
+|BARODA T20L 2022|TIT|DT20|2|22|23.00|Stats|
+|BARODA T20L 2022|WAR|DT20|0|0|Stats|
+|BARODA T20L 2022|CHA|DT20|1|5|5.00|Stats|
+|BARODA T20L 2022|FIG|DT20|2|4|2.00|Stats|
+|Syed Mushtaq Ali Trophy 2022|NAG|DT20|0|0|Stats|
+|Syed Mushtaq Ali Trophy 2022|SAU|DT20|0|0|Stats|
+|## Chintal Gandhi stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|SYAT 2021|UTK|SMAT|1|1|6.50|Stats|
+|SMAT 2021-22|MUM|SMAT|1|0|10.50|Stats|
+|SYAT 2021|HP|SMAT|1|1|6.00|Stats|
+|BARODA T20L 2022|GLA|DT20|2|2|7.37|Stats|
+|BARODA T20L 2022|TIT|DT20|2|1|6.00|Stats|
+|BARODA T20L 2022|WAR|DT20|2|2|4.37|Stats|
+|BARODA T20L 2022|CHA|DT20|2|3|9.50|Stats|
+|BARODA T20L 2022|FIG|DT20|2|0|3.71|Stats|
+|Syed Mushtaq Ali Trophy 2022|NAG|DT20|1|1|2.00|Stats|
+|Syed Mushtaq Ali Trophy 2022|SAU|DT20|1|1|4.25|Stats|
+|## Chintal Gandhi stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|India|all|UTK|SMAT|0|0|Stats|
+|India|all|MUM|SMAT|1|9|9.00|Stats|
+|India|all|HP|SMAT|0|0|Stats|
+|India|all|GLA|DT20|2|5|5.00|Stats|
+|India|all|TIT|DT20|2|22|23.00|Stats|
+|India|all|WAR|DT20|0|0|Stats|
+|India|all|CHA|DT20|1|5|5.00|Stats|
+|India|all|FIG|DT20|2|4|2.00|Stats|
+|India|all|NAG|DT20|0|0|Stats|
+|India|all|SAU|DT20|0|0|Stats|
+|## Chintal Gandhi stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|India|all|UTK|SMAT|1|1|6.50|Stats|
+|India|all|MUM|SMAT|1|0|10.50|Stats|
+|India|all|HP|SMAT|1|1|6.00|Stats|
+|India|all|GLA|DT20|2|2|7.37|Stats|
+|India|all|TIT|DT20|2|1|6.00|Stats|
+|India|all|WAR|DT20|2|2|4.37|Stats|
+|India|all|CHA|DT20|2|3|9.50|Stats|
+|India|all|FIG|DT20|2|0|3.71|Stats|
+|India|all|NAG|DT20|1|1|2.00|Stats|
+|India|all|SAU|DT20|1|1|4.25|Stats|

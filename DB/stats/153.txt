@@ -1,16 +1,345 @@
-================================================================================
-IPL PLAYER PROFILE: JHATHAVEDH SUBRAMANYAN
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Jhathavedh Subramanyan
-  IPL Debut                : 2024
-  Date of Birth            : 16 September 1999
-  Total IPL Matches        : 0
-  Role                     : Bowler
-  Nationality              : Indian
-
-================================================================================
-Source: https://www.iplt20.com/players/jhathavedh-subramanyan/20708
-================================================================================
+|## Rehan Ahmed Introduction|
+|--|
+|Role|Batsman|
+|Batting|Right Handed|
+|Bowling|spin Right-arm legbreak|
+|Country|England|
+|--|--|
+|Birth|13-Aug-2004 (20 yr), Nottingham|
+|Height|
+|Teams|(Mostly) Leicestershire,|
+|Social Accounts|
+|Last Updated|Last updated 18 hours ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Rehan Ahmed Upcoming Matches|
+|--|
+|SOB vs LNS (Match 2) Stats|
+|SOB vs MNR (Match 11) Stats|
+|BPH vs SOB (Match 13) Stats|
+|WEF vs SOB (Match 17) Stats|
+|OVI vs SOB (Match 22) Stats|
+|## Rehan Ahmed Stats|
+|--|
+|Competition|ODI|T20|Hundred|
+|Matches|7|7|14|
+|Highest Score|12|11|33|
+|Runs|31|33|37|
+|50s|0|0|0|
+|100s|0|0|0|
+|Run Per Inn|6.2|6.6|7.4|
+|Run Per Match|4.4|4.7|2.6|
+|Boundary (In Ball)|9.6|5.0|9.0|
+|4s (In Ball)|29.0|8.3|9.0|
+|6s (In Ball)|14.5|12.5|-|
+|Wickets|13|9|11|
+|Over Per Match|6.5|3.2|2.4|
+|Wicket Per Inn|2.1|1.2|0.8|
+|Wicket Per Match|1.8|1.2|0.7|
+|Wicket (In Ball)|22.1|16.0|21.4|
+|Wicket (In Runs)|21.6|25.3|24.0|
+|Field In Match %|57 %|42 %|21 %|
+|Catch In Match %|42 %|28 %|14 %|
+|Check More Stats On Advance Cricket App|
+|## Rehan Ahmed Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|19 Jul 24|T20|10|23|0|37|
+|11 Jul 24|T20|3|37|0|44|
+|12 Jun 24|T20|23|-2|0|25|
+|01 Jun 24|T20|51|23|0|78|
+|21 Dec 23|T20|-2|0|0|2|
+|19 Dec 23|T20|0|52|0|56|
+|14 Dec 23|T20|13|29|0|46|
+|12 Dec 23|T20|1|79|8|92|
+|06 Dec 23|ODI|0|56|0|60|
+|03 Dec 23|ODI|14|64|0|82|
+|23 Sep 23|ODI|6|120|0|130|
+|05 Sep 23|T20|13|52|14|83|
+|26 Aug 23|Hundred|0|0|8|12|
+|23 Aug 23|Hundred|0|53|0|57|
+|19 Aug 23|Hundred|1|33|6|44|
+|16 Aug 23|Hundred|0|96|0|100|
+|12 Aug 23|Hundred|0|0|8|12|
+|06 Aug 23|Hundred|0|25|0|29|
+|04 Aug 23|Hundred|1|53|0|58|
+|## Rehan Ahmed Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|19 Jul 24|LEI vs WAS|3|8(4)|200|catch|
+|11 Jul 24|LEI vs WOR|3|3(5)|60|catch|
+|12 Jun 24|LEI vs DUR|3|20(16)|125|run out|
+|01 Jun 24|LEI vs DER|8|36(22)|163.6|not out|
+|21 Dec 23|ENG vs WI|9|0(1)|0|catch|
+|19 Dec 23|ENG vs WI|DNB|
+|14 Dec 23|ENG vs WI|9|10(3)|333.3|not out|
+|12 Dec 23|ENG vs WI|9|1(3)|33.3|catch|
+|06 Dec 23|ENG vs WI|DNB|
+|03 Dec 23|ENG vs WI|10|12(8)|150|catch|
+|26 Sep 23|ENG vs IRE|DNB|
+|23 Sep 23|ENG vs IRE|8|6(8)|75|catch|
+|05 Sep 23|ENG vs NZ|8|11(7)|157.1|run out|
+|26 Aug 23|SOB vs MNR|DNB|
+|23 Aug 23|SOB vs MNR|DNB|
+|19 Aug 23|SOB vs OVI|9|1(1)|100|not out|
+|Rehan Ahmed Recent Batting|
+|## Rehan Ahmed Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|19 Jul 24|LEI vs WAS|4.0|43|1|0|10.75|
+|11 Jul 24|LEI vs WOR|4.0|20|1|0|5.00|
+|12 Jun 24|LEI vs DUR|2.0|20|0|0|10.00|
+|01 Jun 24|LEI vs DER|3.0|32|1|0|10.66|
+|21 Dec 23|ENG vs WI|4.0|36|0|0|9.00|
+|19 Dec 23|ENG vs WI|3.0|42|2|0|14.00|
+|14 Dec 23|ENG vs WI|4.0|47|1|0|11.75|
+|12 Dec 23|ENG vs WI|4.0|39|3|0|9.75|
+|06 Dec 23|ENG vs WI|10.0|40|2|1|4.00|
+|03 Dec 23|ENG vs WI|10.0|40|2|1|4.00|
+|26 Sep 23|ENG vs IRE|DNB|
+|23 Sep 23|ENG vs IRE|10.0|54|4|0|5.40|
+|05 Sep 23|ENG vs NZ|4.0|27|2|0|6.75|
+|26 Aug 23|SOB vs MNR|4.0|31|0|0|7.75|
+|23 Aug 23|SOB vs MNR|4.0|26|2|0|6.50|
+|19 Aug 23|SOB vs OVI|4.0|14|1|0|3.50|
+|Rehan Ahmed Recent Bowling All Recent Bowling Details|
+|Competition|ODI|T20|Hundred|
+|--|--|--|--|
+|Matches|7|7|14|
+|Innings|5|5|5|
+|Not Out|1|1|3|
+|Runs|31|33|37|
+|Highest Score|12|11|33|
+|Average|7.75|8.25|18.50|
+|Balls Faced|29|25|36|
+|Strike Rate|106.8|132|102.7|
+|20s|0|0|0|
+|30s|0|0|1|
+|50s|0|0|0|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|1|3|4|
+|6s|2|2|0|
+|Outtype|
+|LBW|0|0|0|
+|Bowled|0|0|0|
+|Stumped|0|0|0|
+|Catch|4|2|1|
+|Run Out|0|2|1|
+|Wicket Taker|
+|Left Arm|1|0|1|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|1|
+|3- Medium|0|0|0|
+|4- Slow|1|0|0|
+|1- Bowled|0|0|0|
+|2- Catch|1|0|1|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Right Arm|3|2|0|
+|1- Fast|3|2|0|
+|2- Fast-Medium|0|0|0|
+|3- Medium|0|0|0|
+|4- Slow|0|0|0|
+|1- Bowled|0|0|0|
+|2- Catch|3|2|0|
+|3- Stumped|0|0|0|... |4- Lbw|0|0|0|
+|Competition|ODI|T20|Hundred|
+|--|--|--|--|
+|Matches|7|7|14|
+|Innings|6|7|13|
+|Balls|288|144|236|
+|Runs|282|228|265|
+|BBI|
+|Average|21.69|25.33|24.09|... |Strike Rate|22.15|16.00|21.45|
+|Maiden|2|0|0|
+|2w|2|2|3|
+|3w|2|1|1|
+|5w|0|0|0|
+|8w|0|0|0|... |10w|0|0|0|
+|Wickets|13|9|11|
+|LBW|2|1|2|
+|Bowled|2|1|1|
+|Stumped|0|0|2|
+|Catch|9|7|6|
+|Batsman Type|... |Right Handed|8|7|7|
+|1- LBW|1|0|2|
+|2- Bowled|1|1|0|
+|3- Stumped|0|0|1|
+|4- Catch|6|6|4|
+|Left Handed|5|2|4|... |1- LBW|1|1|0|
+|2- Bowled|1|0|1|
+|3- Stumped|0|0|1|
+|4- Catch|3|1|2|... Rehan Ahmed played 7 ODI matches and scored 31 runs in 5 Innings. Rehan Ahmed's Highest Score in ODI is 12. R Ahmed has 0 ODI centuries, 0 ODI half centuries and 0 times 30+ and 0 times 20+ ODI runs. R Ahmed has a strike rate of 106.8 with run per match of 4.42 in 29 ODI balls.... Rehan Ahmed made total 3 boundaries with 1 fours and 2 sixes in ODI. R Ahmed's ODI outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 4 times, Run Out 0 times. Rehan Ahmed's ODI wicket takers are 1 left arm and 3 right arm.... R Ahmed's Left Arm ODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets. Rehan Ahmed's Right Arm ODI Wicket Taker analysis are Fast bowler 3 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... R Ahmed's wicket taken by Left Arm Bowlers in ODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets. Rehan Ahmed's wicket taken by Right Arm Bowlers in ODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 3 wickets.... Rehan Ahmed Took 13 Wickets (In 6 ODI innings) with Strike Rate of 22.15 and average of 21.69. R Ahmed's delivered 288 balls (with 2 Maiden over) and took 2 wickets 2 times 3 wickets 2 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 8 Right Handed and 5 Left Handed batsman out by Rehan Ahmed in ODI. Right Handed Batsman ODI outtype analysis (wicket taken by R Ahmed) are LBW 1 times, Bowled 1 times, Stumped 0 times, Catch 6 times. Left Handed Batsman ODI outtype analysis (wicket taken by R Ahmed) are LBW 1 times, Bowled 1 times, Stumped 0 times, Catch 3 times.... Rehan Ahmed Fielding analysis are Catch 3 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 1 times.... Rehan Ahmed played 7 T20 matches and scored 33 runs in 5 Innings. Rehan Ahmed's Highest Score in T20 is 11. R Ahmed has 0 T20 centuries, 0 T20 half centuries and 0 times 30+ and 0 times 20+ T20 runs.... R Ahmed has a strike rate of 132 with run per match of 4.71 in 25 T20 balls. Rehan Ahmed made total 5 boundaries with 3 fours and 2 sixes in T20. R Ahmed's T20 outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 2 times, Run Out 2 times.... Rehan Ahmed's T20 wicket takers are 0 left arm and 2 right arm. R Ahmed's Left Arm T20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Rehan Ahmed's Right Arm T20 Wicket Taker analysis are Fast bowler 2 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... R Ahmed's wicket taken by Left Arm Bowlers in T20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Rehan Ahmed's wicket taken by Right Arm Bowlers in T20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 2 wickets.... Rehan Ahmed Took 9 Wickets (In 7 T20 innings) with Strike Rate of 16.00 and average of 25.33. R Ahmed's delivered 144 balls (with 0 Maiden over) and took 2 wickets 2 times 3 wickets 1 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 7 Right Handed and 2 Left Handed batsman out by Rehan Ahmed in T20. Right Handed Batsman T20 outtype analysis (wicket taken by R Ahmed) are LBW 0 times, Bowled 1 times, Stumped 0 times, Catch 6 times. Left Handed Batsman T20 outtype analysis (wicket taken by R Ahmed) are LBW 1 times, Bowled 0 times, Stumped 0 times, Catch 1 times.... Rehan Ahmed Fielding analysis are Catch 2 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 1 times.... Rehan Ahmed played 14 Hundred matches and scored 37 runs in 5 Innings. Rehan Ahmed's Highest Score in Hundred is 33. R Ahmed has 0 Hundred centuries, 0 Hundred half centuries and 1 times 30+ and 0 times 20+ Hundred runs. R Ahmed has a strike rate of 102.7 with run per match of 2.64 in 36 Hundred balls.... Rehan Ahmed made total 4 boundaries with 4 fours and 0 sixes in Hundred. R Ahmed's Hundred outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 1 times, Run Out 1 times. Rehan Ahmed's Hundred wicket takers are 1 left arm and 0 right arm.... R Ahmed's Left Arm Hundred Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 1 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Rehan Ahmed's Right Arm Hundred Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... R Ahmed's wicket taken by Left Arm Bowlers in Hundred analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets. Rehan Ahmed's wicket taken by Right Arm Bowlers in Hundred analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Rehan Ahmed Took 11 Wickets (In 13 Hundred innings) with Strike Rate of 21.45 and average of 24.09. R Ahmed's delivered 236 balls (with 0 Maiden over) and took 2 wickets 3 times 3 wickets 1 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 7 Right Handed and 4 Left Handed batsman out by Rehan Ahmed in Hundred. Right Handed Batsman Hundred outtype analysis (wicket taken by R Ahmed) are LBW 2 times, Bowled 0 times, Stumped 1 times, Catch 4 times. Left Handed Batsman Hundred outtype analysis (wicket taken by R Ahmed) are LBW 0 times, Bowled 1 times, Stumped 1 times, Catch 2 times.... Rehan Ahmed Fielding analysis are Catch 2 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 1 times.... Rehan Ahmed plays cricket as Batsman. Rehan Ahmed run per match records are 4.4 runs in ODI, 4.7 runs in T20, 2.6 runs in Hundred, 8.8 runs in BLAST, 12.7 runs in RoyalODI, 16.0 runs in DODI, 8.0 runs in DT20.... R Ahmed make boundary in every 9.6 balls in ODI, 5.0 balls in T20, 9.0 balls in Hundred, 6.2 balls in BLAST, 26.8 balls in RoyalODI, 14.5 balls in DODI, 5.0 balls in DT20.... Rehan Ahmed hits six in every 14.5 balls in ODI, every 12.5 balls in T20, every 0 balls in Hundred, every 19.4 balls in BLAST, every 134.0 balls in RoyalODI, every 96.6 balls in DODI, every 20.0 balls in DT20.... Rehan Ahmed score four in every 29.0 balls in ODI, 8.3 balls in T20, 9.0 balls in Hundred, 9.3 balls in BLAST, 33.5 balls in RoyalODI, 17.0 balls in DODI, 6.6 balls in DT20.... |## Rehan Ahmed stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|SOB|all|Hundred|5|33|18.50|Stats|
+|LEI|all|BLAST|26|49|13.94|Stats|
+|LEIC|all|RoyalODI|6|40|44.50|Stats|
+|ENGU19|all|DODI|10|68|21.44|Stats|
+|GG|all|DT20|5|28|9.60|Stats|
+|ENG|all|T20|5|11|8.25|Stats|
+|ENG|all|ODI|5|12|7.75|Stats|
+|## Rehan Ahmed stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Trent Bridge|all|Hundred|1|1|1.00|Stats|
+|Sophia Garden|all|Hundred|0|0|Stats|
+|County Ground|all|Hundred|1|1|1.00|Stats|
+|Headingley|all|Hundred|1|33|33.00|Stats|
+|Emirates Old Trafford|all|Hundred|0|0|Stats|
+|Lords|all|Hundred|0|0|Stats|
+|Kennington Oval|all|Hundred|0|0|Stats|
+|The Rose Bowl|all|Hundred|2|1|1.00|Stats|
+|Headingley|all|BLAST|2|5|5.00|Stats|
+|New Road|all|BLAST|3|6|3.33|Stats|
+|## Rehan Ahmed stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Trent Bridge|all|Hundred|1|0|6.80|Stats|
+|Emirates Old Trafford|all|Hundred|1|2|7.80|Stats|
+|County Ground|all|Hundred|1|2|8.40|Stats|
+|Headingley|all|Hundred|1|2|5.00|Stats|
+|Sophia Garden|all|Hundred|1|0|6.00|Stats|
+|Kennington Oval|all|Hundred|2|0|10.92|Stats|
+|The Rose Bowl|all|Hundred|6|5|5.68|Stats|
+|Headingley|all|BLAST|2|0|11.50|Stats|
+|New Road|all|BLAST|3|3|7.25|Stats|
+|County Ground|all|BLAST|1|1|6.50|Stats|
+|## Rehan Ahmed stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|The Hundred 2022|all|Hundred|2|33|34.00|Stats|
+|The Hundred 2023|all|Hundred|3|1|3.00|Stats|
+|T20BLAST 2022|all|BLAST|12|19|8.25|Stats|
+|Vitality Blast 2023|all|BLAST|10|49|16.50|Stats|
+|RoyalODI 2021|all|RoyalODI|6|40|44.50|Stats|
+|ENGU19 VS WIU19 2021|all|DODI|4|68|42.00|Stats|
+|ENGU19 TO SLU19 2021|all|DODI|3|19|12.00|Stats|
+|ICC U19 WC 2022|all|DODI|3|16|10.33|Stats|
+|International League T20 2023|all|DT20|5|28|9.60|Stats|
+|England tour of Bangladesh 202|all|T20|1|11|11.00|Stats|
+|## Rehan Ahmed stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|The Hundred 2022|all|Hundred|5|2|6.34|Stats|
+|The Hundred 2023|all|Hundred|8|9|6.96|Stats|
+|T20BLAST 2022|all|BLAST|14|19|7.34|Stats|
+|Vitality Blast 2023|all|BLAST|12|9|8.53|Stats|
+|RoyalODI 2021|all|RoyalODI|7|5|5.74|Stats|
+|ENGU19 VS WIU19 2021|all|DODI|4|6|3.76|Stats|
+|ENGU19 TO SLU19 2021|all|DODI|3|4|3.62|Stats|
+|ICC U19 WC 2022|all|DODI|4|12|4.19|Stats|
+|International League T20 2023|all|DT20|6|8|8.81|Stats|
+|England tour of Bangladesh 202|all|T20|2|1|7.40|Stats|
+|## Rehan Ahmed stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|England|all|Hundred|5|33|18.50|Stats|
+|Wales|all|Hundred|0|0|Stats|
+|England|all|BLAST|26|49|13.94|Stats|
+|England|all|RoyalODI|6|40|44.50|Stats|
+|England|all|DODI|4|68|42.00|Stats|
+|Sri Lanka|all|DODI|3|19|12.00|Stats|
+|Saint Kitts and Nevis|all|DODI|1|5|5.00|Stats|
+|West Indies|all|DODI|2|16|13.00|Stats|
+|United Arab Emirates|all|DT20|5|28|9.60|Stats|
+|Barbados|all|T20|1|1|1.00|Stats|
+|## Rehan Ahmed stats Bowling On Countries|
+|--|
+|Country|Year|Mode|Inn|Wkts|Eco|Stats|
+|England|all|Hundred|12|11|6.78|Stats|
+|Wales|all|Hundred|1|0|6.00|Stats|
+|England|all|BLAST|30|31|8.00|Stats|
+|England|all|RoyalODI|7|5|5.74|Stats|
+|England|all|DODI|4|6|3.76|Stats|
+|Sri Lanka|all|DODI|3|4|3.62|Stats|
+|Saint Kitts and Nevis|all|DODI|1|4|3.00|Stats|
+|West Indies|all|DODI|3|8|4.65|Stats|
+|United Arab Emirates|all|DT20|6|8|8.81|Stats|
+|Barbados|all|T20|1|3|9.75|Stats|
+|## Rehan Ahmed stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|LNS|all|Hundred|1|1|1.00|Stats|
+|TRT|all|Hundred|1|1|1.00|Stats|
+|OVI|all|Hundred|1|1|1.00|Stats|
+|WEF|all|Hundred|1|1|1.00|Stats|
+|NOS|all|Hundred|1|33|33.00|Stats|
+|MNR|all|Hundred|0|0|Stats|
+|BPH|all|Hundred|0|0|Stats|
+|NOT|all|BLAST|3|3|1.66|Stats|
+|DER|all|BLAST|4|36|68.00|Stats|
+|DUR|all|BLAST|3|20|22.50|Stats|
+|## Rehan Ahmed stats Bowling Against Teams|
+|--|
+|Team|Year|Mode|Inn|Wkts|Eco|Stats|
+|LNS|all|Hundred|1|0|7.00|Stats|
+|TRT|all|Hundred|2|0|6.15|Stats|
+|OVI|all|Hundred|2|1|7.28|Stats|
+|WEF|all|Hundred|3|2|6.45|Stats|
+|NOS|all|Hundred|2|3|5.59|Stats|
+|MNR|all|Hundred|2|2|8.55|Stats|
+|BPH|all|Hundred|1|3|6.60|Stats|
+|NOT|all|BLAST|3|4|6.36|Stats|
+|DER|all|BLAST|4|4|6.93|Stats|
+|DUR|all|BLAST|5|6|7.72|Stats|
+|## Rehan Ahmed stats Batting Against Teams On Stadiums|
+|--|... |Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|## Rehan Ahmed stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|## Rehan Ahmed stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|The Hundred 2023|NOS|Hundred|0|0|Stats|
+|The Hundred 2022|LNS|Hundred|1|1|1.00|Stats|
+|The Hundred 2022|TRT|Hundred|0|0|Stats|
+|The Hundred 2022|OVI|Hundred|0|0|Stats|
+|The Hundred 2022|WEF|Hundred|0|0|Stats|
+|The Hundred 2022|NOS|Hundred|1|33|33.00|Stats|
+|The Hundred 2023|WEF|Hundred|1|1|1.00|Stats|
+|The Hundred 2023|TRT|Hundred|1|1|1.00|Stats|
+|The Hundred 2023|LNS|Hundred|0|0|Stats|
+|The Hundred 2023|BPH|Hundred|0|0|Stats|
+|## Rehan Ahmed stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|The Hundred 2023|NOS|Hundred|1|1|6.30|Stats|
+|The Hundred 2022|LNS|Hundred|1|0|7.00|Stats|
+|The Hundred 2022|TRT|Hundred|1|0|5.75|Stats|
+|The Hundred 2022|OVI|Hundred|1|0|15.00|Stats|
+|The Hundred 2022|WEF|Hundred|1|0|4.66|Stats|
+|The Hundred 2022|NOS|Hundred|1|2|5.00|Stats|
+|The Hundred 2023|WEF|Hundred|2|2|7.37|Stats|
+|The Hundred 2023|TRT|Hundred|1|0|6.80|Stats|
+|The Hundred 2023|BPH|Hundred|1|3|6.60|Stats|
+|The Hundred 2023|OVI|Hundred|1|1|4.20|Stats|
+|## Rehan Ahmed stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|England|all|MNR|Hundred|0|0|Stats|
+|England|all|LNS|Hundred|1|1|1.00|Stats|
+|England|all|TRT|Hundred|1|1|1.00|Stats|
+|England|all|OVI|Hundred|1|1|1.00|Stats|
+|England|all|WEF|Hundred|1|1|1.00|Stats|
+|England|all|NOS|Hundred|1|33|33.00|Stats|
+|England|all|BPH|Hundred|0|0|Stats|
+|Wales|all|WEF|Hundred|0|0|Stats|
+|England|all|NOT|BLAST|3|3|1.66|Stats|
+|England|all|DUR|BLAST|3|20|22.50|Stats|
+|## Rehan Ahmed stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|England|all|MNR|Hundred|2|2|8.55|Stats|
+|England|all|LNS|Hundred|1|0|7.00|Stats|
+|England|all|TRT|Hundred|2|0|6.15|Stats|
+|England|all|OVI|Hundred|2|1|7.28|Stats|
+|England|all|WEF|Hundred|2|2|6.63|Stats|
+|England|all|NOS|Hundred|2|3|5.59|Stats|
+|England|all|BPH|Hundred|1|3|6.60|Stats|
+|Wales|all|WEF|Hundred|1|0|6.00|Stats|
+|England|all|NOT|BLAST|3|4|6.36|Stats|
+|England|all|DUR|BLAST|5|6|7.72|Stats|

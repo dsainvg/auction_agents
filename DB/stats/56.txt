@@ -1,23 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: SAMEER RIZVI
+IPL PLAYER PROFILE: RP SINGH
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Sameer Rizvi
-  IPL Debut                : 2024
-  Date of Birth            : 06 December 2003
-  Total IPL Matches        : 13
-  Role                     : WK-Batter
+  Player Name              : RP Singh
+  IPL Debut                : 2008
+  Date of Birth            : 06 December 1985
+  Total IPL Matches        : 82
+  Role                     : Bowler
   Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    A young lower-order power-hitter, Sameer Rizvi gained attention for his
-  aggressive approach against spin. He made a mark in IPL 2024 when he
-  slog-swept Rashid Khan for a six off his very first ball in the league while
-  playing for CSK. Delhi Capitals secured him for INR 95 Lakh at the 2025 TATA
-  IPL Auction to strengthen their batting depth.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -27,9 +19,12 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    13    |    2     |   172    |   58*    |  24.57   |   122    |  140.98  |    0     |    1     |    15    |    9     |    6     |    0    
-    2025   |    5     |    1     |   121    |   58*    |  40.33   |    79    |  153.16  |    0     |    1     |    11    |    7     |    2     |    0    
-    2024   |    8     |    1     |    51    |    21    |  12.75   |    43    |  118.60  |    0     |    0     |    4     |    2     |    4     |    0    
+   Career  |    67    |    15    |    52    |    10    |   3.47   |    76    |  68.42   |    0     |    0     |    2     |    1     |    16    |    0    
+    2012   |    11    |    3     |    6     |    3     |   3.00   |    12    |  50.00   |    0     |    0     |    0     |    0     |    3     |    0    
+    2011   |    14    |    2     |    2     |    1*    |   0.66   |    4     |  50.00   |    0     |    0     |    0     |    0     |    3     |    0    
+    2010   |    12    |    3     |    9     |    4*    |   4.50   |    19    |  47.36   |    0     |    0     |    0     |    0     |    1     |    0    
+    2009   |    16    |    2     |    8     |    4     |   2.00   |    17    |  47.05   |    0     |    0     |    0     |    0     |    4     |    0    
+    2008   |    14    |    5     |    27    |    10    |   6.75   |    24    |  112.50  |    0     |    0     |    2     |    1     |    5     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -39,10 +34,280 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    82    |   1775   |   2338   |    90    |   4/22   |  25.98   |   7.90   |  19.72   |    2     |    0    
+    2016   |    4     |    72    |   111    |    3     |   1/23   |  37.00   |   9.25   |  24.00   |    0     |    0    
+    2013   |    11    |   239    |   335    |    13    |   3/13   |  25.76   |   8.41   |  18.38   |    0     |    0    
+    2012   |    11    |   246    |   318    |    10    |   3/28   |  31.80   |   7.75   |  24.60   |    0     |    0    
+    2011   |    14    |   300    |   345    |    13    |   4/25   |  26.53   |   6.90   |  23.07   |    1     |    0    
+    2010   |    12    |   252    |   370    |    13    |   3/17   |  28.46   |   8.80   |  19.38   |    0     |    0    
+    2009   |    16    |   358    |   417    |    23    |   4/22   |  18.13   |   6.98   |  15.56   |    1     |    0    
+    2008   |    14    |   308    |   442    |    15    |   3/35   |  29.46   |   8.61   |  20.53   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/sameer-rizvi/20689
+Source: https://www.iplt20.com/players/rp-singh/112
 ================================================================================
+ENG
+
+Select Languages
+
+हिंदी | Hindi
+
+WPL auction 2026
+
+Cricket
+
+Football
+
+NDTV Podcast
+
+Formula 1
+
+Tennis
+
+Golf
+
+Badminton
+
+Badminton
+
+Kabaddi
+
+NBA
+
+Boxing
+
+Athletics
+
+Chess
+
+Swimming
+
+Shooting
+
+Wrestling
+
+Table tennis... Othersports
+
+Login
+
+Dark / Light mode
+
+Select Language
+
+Languages
+
+हिंदी | Hindi
+
+Dark / Light mode
+
+Search
+
+Featured Links
+
+IPL 2026
+
+India vs South Africa
+
+Golf Pro-Am
+
+Ashes
+
+Featured Sports
+
+Cricket
+
+Football
+
+Formula 1
+
+Tennis
+
+Hockey... Golf
+
+Badminton
+
+More Sports
+
+Kabaddi
+
+NBA
+
+Boxing
+
+Athletics
+
+Chess
+
+Swimming
+
+Shooting
+
+Wrestling
+
+Table tennis
+
+Othersports
+
+More from NDTV
+
+NDTV
+
+Business
+
+Hindi
+
+Movies
+
+Cricket
+
+Health
+
+Food
+
+Tech
+
+Auto
+
+Apps
+
+Trains... Cricket
+
+Scores
+
+Series
+
+All Series
+
+Australia vs England, Ashes 2025-26
+
+Fixtures
+
+Results
+
+News
+
+Photos
+
+Videos
+
+Features
+
+Teams
+
+More
+
+Players
+
+Venues
+
+ICC Rankings
+
+Test Championship
+
+arrow-down
+
+reddit
+
+snapchat
+
+twitter
+
+facebook
+
+comments
+
+email... printer
+
+search
+
+bell
+
+top-nav
+
+reddit-fill
+
+snapchat-fill
+
+twitter-fill
+
+facebook-fill
+
+share
+
+whatsapp-fill
+
+bookmark
+
+arrow-rgt
+
+arrow-next
+
+arrow-up
+
+refresh
+
+close
+
+link
+
+cog
+
+star
+
+book
+
+zap
+
+cricket
+
+football
+
+tennis
+
+formula-1... badminton
+
+hockey
+
+golf
+
+boxing
+
+ndtv-n
+
+check
+
+left-arrow
+
+right-arrow
+
+Sports Home
+
+Cricket
+
+Players
+
+Tejasvi Singh
+
+Stats
+
+Tejasvi Singh
+
+India
+
+facebook
+
+twitter
+
+WhatsApp
+
+reddit
+
+Player bio
+
+Tejasvi Singh Overall Stats
+
+Against Opposition
+
+Location Wise Stats
+
+Year Wise Stats

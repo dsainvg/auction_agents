@@ -1,27 +1,30 @@
 ================================================================================
-IPL PLAYER PROFILE: JONNY BAIRSTOW
+IPL PLAYER PROFILE: SHIVAM MAVI
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Jonny Bairstow
-  IPL Debut                : 2019
-  Date of Birth            : 26 September 1989
-  Total IPL Matches        : 52
-  Role                     : Wicketkeeper Batter
-  Nationality              : English
+  Player Name              : Shivam Mavi
+  IPL Debut                : 2018
+  Date of Birth            : 26 November 1998
+  Total IPL Matches        : 32
+  Role                     : Bowler
+  Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    Tenacious England wicketkeeper-batsman was a new entrant to the IPL who
-  was bought for Rs. 1.5 crore by the SRH team management for the 2019 season.
-  A proven performer at the highest level for his country, Bairstow is also a
-  useful performer at the T20 level. He had a brilliant debut IPL season
-  scoring 445 runs that included a century while opening the batting with
-  David Warner. Along with Warner, the duo formed a threatening opening pair
-  often helping the Sunrisers get off to a blazing start. One can expect
-  nothing different this year as well when Bairstow takes charge of the SRH
-  top order.
+  Shivam Mavi caught everyone’s attention in the 2018 India U19 World Cup
+  where he bowled at a seething pace. He clocked more than 140 kmph regularly
+  and soon became the talk of the tournament owing to his fast bowling
+  abilities. Known to have a lethal bouncer and a constant drive to improve
+  and become faster, Mavi is definitely one of the most exciting young
+  upcoming fast bowlers. After a brilliant outing in the U19 World Cup, Mavi
+  was quick to grab attention in the IPL Auction and was ultimately picked up
+  by KKR for a cool 3 crores. He made his IPL debut for KKR in 2018 but picked
+  up just 5 wickets. A stress fracture in his back ruled him out of playing
+  competitive cricket since December 2019 and after spending most of his time
+  in rehab, Mavi was fit and raring to go in the 2020 edition. He played in 8
+  games and picked up 9 wickets in the 2020 IPL season.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -31,13 +34,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    52    |    4     |   1674   |   114    |  34.88   |   1146   |  146.07  |    2     |    9     |   173    |    74    |    29    |    4    
-    2025   |    2     |    0     |    85    |    47    |  42.50   |    46    |  184.78  |    0     |    0     |    7     |    5     |    1     |    0    
-    2024   |    11    |    1     |   298    |   108*   |  29.80   |   195    |  152.82  |    1     |    0     |    33    |    14    |    8     |    0    
-    2022   |    11    |    0     |   253    |    66    |  23.00   |   175    |  144.57  |    0     |    2     |    34    |    9     |    2     |    0    
-    2021   |    7     |    1     |   248    |   63*    |  41.33   |   175    |  141.71  |    0     |    2     |    20    |    15    |    2     |    1    
-    2020   |    11    |    0     |   345    |    97    |  31.36   |   272    |  126.83  |    0     |    3     |    31    |    13    |    7     |    1    
-    2019   |    10    |    2     |   445    |   114    |  55.62   |   283    |  157.24  |    1     |    2     |    48    |    18    |    9     |    2    
+   Career  |    32    |    3     |    51    |    20    |   5.67   |    56    |  91.07   |    0     |    0     |    4     |    2     |    16    |    0    
+    2022   |    6     |    1     |    3     |    2     |   1.50   |    7     |  42.86   |    0     |    0     |    0     |    0     |    4     |    0    
+    2021   |    9     |    0     |    25    |    20    |  12.50   |    20    |  125.00  |    0     |    0     |    2     |    2     |    5     |    0    
+    2020   |    8     |    1     |    10    |    9     |   5.00   |    14    |  71.42   |    0     |    0     |    1     |    0     |    4     |    0    
+    2018   |    9     |    1     |    13    |    7     |   4.33   |    15    |  86.66   |    0     |    0     |    1     |    0     |    3     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -47,14 +48,32 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    52    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2021   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2019   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    26    |   517    |   715    |    25    |   4/21   |  28.60   |   8.30   |  20.68   |    1     |    0    
+    2021   |    9     |   193    |   233    |    11    |   4/21   |  21.18   |   7.24   |  17.54   |    1     |    0    
+    2020   |    8     |   156    |   212    |    9     |   2/15   |  23.55   |   8.15   |  17.33   |    0     |    0    
+    2018   |    9     |   168    |   270    |    5     |   1/14   |  54.00   |   9.64   |  33.60   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/jonny-bairstow/506
+Source: https://www.iplt20.com/players/shivam-mavi/3779
 ================================================================================
+**Shivam Pankaj Mavi** (born 26 November 1998) is an Indian international cricketer, who is a right-arm fast-medium bowler. He made his international debut for the Indian cricket team in January 2023.... ## Domestic and T20 franchise career
+
+In January 2018, he was bought by the Kolkata Knight Riders in the 2018 IPL auction. He made his Twenty20 debut for the Kolkata Knight Riders in the 2018 Indian Premier League on 14 April 2018.
+
+On the opening day of the 2018–19 Vijay Hazare Trophy in September 2018, Mavi took a hat-trick for Uttar Pradesh against Saurashtra.... He made his first-class debut for Uttar Pradesh in the 2018–19 Ranji Trophy on 1 November 2018. On his Ranji debut, Mavi took a 4-fer against Goa in Kanpur, as Uttar Pradesh bowled Goa out for just 152. In his second first-class match against Odisha, he picked up his maiden five-wicket haul.
+
+In February 2018, he was bought by the Kolkata Knight Riders in the auction for the 2018 Indian Premier League tournament.... ## International career
+
+In December 2017, he was named in India's squad for the 2018 Under-19 Cricket World Cup. In July 2018, he was selected to play for the India A cricket team in the 2018 India Quadrangular Series. He made his List A debut for India A against South Africa A in the Quadrangular Series on 27 August 2018.... In December 2018, he was named in India's team for the 2018 ACC Emerging Teams Asia Cup. In November 2019, he replaced injured Arshdeep Singh in India's squad for the 2019 ACC Emerging Teams Asia Cup.... In December 2022, Mavi earned his maiden call-up to the Indian cricket team for their Twenty20 International (T20I) series against Sri Lanka. On 3 January 2023, he made his T20I debut for India against Sri Lanka at Wankhede Stadium, Mumbai. He picked up 4 wickets for 22 runs and became the third Indian cricketer to take four wickets on T20I debut. His outstanding spell on debut helped India to register a thrilling 2-run victory over Sri Lanka in the opening T20I match.... ## References
+
+## External links
+- Shivam Mavi at ESPNcricinfo
+
+Categories: - 1998 births
+- Living people
+- Indian cricketers
+- Kolkata Knight Riders cricketers
+- Uttar Pradesh cricketers
+- Sportspeople from Noida
+- India Twenty20 International cricketers
+- 21st-century Indian sportsmen

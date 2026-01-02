@@ -1,24 +1,26 @@
 ================================================================================
-IPL PLAYER PROFILE: KUMAR KUSHAGRA
+IPL PLAYER PROFILE: KARTIK TYAGI
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Kumar Kushagra
-  IPL Debut                : 2024
-  Date of Birth            : 23 October 2004
-  Total IPL Matches        : 4
-  Role                     : Wicketkeeper Batter
+  Player Name              : Kartik Tyagi
+  IPL Debut                : 2020
+  Date of Birth            : 08 November 2000
+  Total IPL Matches        : 20
+  Role                     : Bowler
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  A promising wicketkeeper-batter from Jharkhand, Kumar Kushagra was part
-  of India’s runners-up finish in the U19 World Cup 2022. He made headlines in
-  domestic cricket with a double century in his maiden Ranji Trophy season.
-  His performances earned him a massive INR 7.20 Crore deal with Delhi
-  Capitals in IPL 2024. For TATA IPL 2025, Gujarat Titans secured his services
-  for INR 65 Lakh, adding depth to their wicketkeeping options.
+  A key member of India’s Under 19 World Cup 2020, Kartik Tyagi picked up
+  11 wickets during India’s run to the final. The right-arm pacer impressed
+  one and all with his ability to move the ball around with good pace during
+  the tournament. Rajasthan Royals bought Tyagi for INR 1.30 crores during the
+  IPL 2020 Player Auction and went on to pick 9 wickets in his first season of
+  the tournament. The right-arm pacer has since travelled to Australia as a
+  net bowler with the Indian team and will be looking to put into practice
+  whatever he has learnt from that stint in the IPL 2021.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -28,8 +30,12 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    4     |    0     |    3     |    2     |   1.00   |    7     |  42.86   |    0     |    0     |    0     |    0     |    1     |    0    
-    2024   |    4     |    0     |    3     |    2     |   1.00   |    7     |  42.86   |    0     |    0     |    0     |    0     |    1     |    0    
+   Career  |    20    |    3     |    13    |    7     |   3.25   |    16    |  81.25   |    0     |    0     |    1     |    0     |    3     |    0    
+    2024   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2023   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2022   |    2     |    0     |    7     |    7     |   3.50   |    6     |  116.67  |    0     |    0     |    1     |    0     |    0     |    0    
+    2021   |    4     |    1     |    2     |    1*    |   2.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2020   |    10    |    2     |    4     |    2*    |   4.00   |    6     |  66.66   |    0     |    0     |    0     |    0     |    2     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -39,9 +45,25 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    14    |   313    |   491    |    13    |   2/29   |  37.77   |   9.41   |  24.08   |    0     |    0    
+    2021   |    4     |    84    |   124    |    4     |   2/29   |  31.00   |   8.85   |  21.00   |    0     |    0    
+    2020   |    10    |   229    |   367    |    9     |   2/36   |  40.77   |   9.61   |  25.44   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/kumar-kushagra/20694
+Source: https://www.iplt20.com/players/kartik-tyagi/10059
 ================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Royal Challengers Bengaluru|4|2|1|1|1*|0|0|0|0|1.00|50.00|-|-|RCB|1105|1|0|
+|Kolkata Knight Riders|2|1|0|2|2|0|0|0|0|2.00|66.66|-|-|KKR|1106|0|0|... |Punjab Kings|2|1|0|1|1|0|0|0|0|1.00|33.33|1|0|PBKS|1107|0|0|
+|Chennai Super Kings|2|0|0|-|-|0|0|0|0|-|0.00|-|-|CSK|1108|0|0|... |Delhi Capitals|4|2|1|9|7|0|0|1|0|9.00|112.50|2|0|DC|1109|0|0|
+|Mumbai Indians|3|1|1|0|0*|0|0|0|0|-|0.00|-|-|MI|1111|1|0|... |Sunrisers Hyderabad|3|0|0|-|-|0|0|0|0|-|0.00|-|-|SRH|1379|0|0|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Chennai Super Kings|2|8|0|86|1|1/35|0|0|86.00|10.75|48.00|CSK|1108|20|... |Delhi Capitals|4|16|0|142|3|1/30|0|0|47.33|8.87|32.00|DC|1109|20|
+|Kolkata Knight Riders|2|6|0|66|3|2/36|0|0|22.00|11.00|12.00|KKR|1106|20|... |Mumbai Indians|3|10.5|0|122|2|1/36|0|0|61.00|11.26|32.50|MI|1111|20|
+|Punjab Kings|2|8|0|76|2|2/29|0|0|38.00|9.50|24.00|PBKS|1107|20|... |Royal Challengers Bengaluru|4|11.2|0|118|2|1/32|0|0|59.00|10.41|34.00|RCB|1105|20|
+|Sunrisers Hyderabad|3|10.1|0|103|2|1/29|0|0|51.50|10.13|30.50|SRH|1379|20|... |Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|DNB|0/51|Chennai Super Kings|May 10, 2024|
+|DNB|0/41|Mumbai Indians|May 21, 2023|
+|DNB|0/21|Royal Challengers Bengaluru|May 18, 2023|... |DNB|1/30|Kolkata Knight Riders|May 04, 2023|
+|0(1)|1/42|Royal Challengers Bengaluru|May 08, 2022|

@@ -1,30 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: TIM DAVID
+IPL PLAYER PROFILE: ALZARRI JOSEPH
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Tim David
-  IPL Debut                : 2021
-  Date of Birth            : 16 March 1996
-  Total IPL Matches        : 50
-  Role                     : WK-Batter
+  Player Name              : Alzarri Joseph
+  IPL Debut                : 2019
+  Date of Birth            : 20 November 1996
+  Total IPL Matches        : 22
+  Role                     : Bowler
   Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    The tall and powerful middle-order batter earned a reputation as one of
-  the most sought-after T20 finishers in the world with his impactful batting
-  in a range of tournaments. His first stint in the TATA IPL was with Royal
-  Challengers Bengaluru (RCB) in 2021, but he grabbed great attention when
-  Mumbai Indians spent INR 8.25 crore to bring him on board in the 2022 Mega
-  Auction. He showed why he was rated so highly in the first season itself,
-  boasting a strike rate of more than 200, including a match-winning 46 off 18
-  against Sunrisers Hyderabad which was his most prominent knock from that
-  campaign. David has been a regular feature in the Australian T20I set-up
-  over the past few years. Now back with RCB ahead of IPL 2025, the
-  Bengaluru-based team will bank on him to provide that crucial impetus in the
-  slog overs.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -34,12 +19,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    50    |    18    |   846    |   50*    |  32.54   |   488    |  173.36  |    0     |    1     |    54    |    60    |    29    |    0    
-    2025   |    12    |    6     |   187    |   50*    |  62.33   |   101    |  185.15  |    0     |    1     |    16    |    14    |    7     |    0    
-    2024   |    13    |    3     |   241    |   45*    |  30.13   |   152    |  158.55  |    0     |    0     |    14    |    15    |    6     |    0    
-    2023   |    16    |    6     |   231    |   45*    |  25.67   |   146    |  158.22  |    0     |    0     |    12    |    15    |    10    |    0    
-    2022   |    8     |    3     |   186    |    46    |  37.20   |    86    |  216.28  |    0     |    0     |    12    |    16    |    6     |    0    
-    2021   |    1     |    0     |    1     |    1     |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    0     |    0    
+   Career  |    22    |    6     |    27    |   15*    |  27.00   |    32    |  84.38   |    0     |    0     |    3     |    0     |    4     |    0    
+    2024   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2023   |    7     |    2     |    7     |    7*    |    -     |    12    |  58.33   |    0     |    0     |    1     |    0     |    2     |    0    
+    2022   |    9     |    2     |    5     |    4*    |   5.00   |    7     |  71.43   |    0     |    0     |    0     |    0     |    1     |    0    
+    2019   |    3     |    2     |    15    |   15*    |   0.00   |    13    |  115.38  |    0     |    0     |    2     |    0     |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -49,13 +33,109 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    50    |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
-    2025   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2021   |    1     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
+   Career  |    3     |    52    |    87    |    6     |   6/12   |  14.50   |  10.04   |   8.67   |    0     |    1    
+    2019   |    3     |    52    |    87    |    6     |   6/12   |  14.50   |  10.03   |   8.66   |    0     |    1    
 
 ================================================================================
-Source: https://www.iplt20.com/players/tim-david/4524
+Source: https://www.iplt20.com/players/alzarri-joseph/3098
 ================================================================================
+|Australia|6|12|1|175|43|0|0|19|8|15.90|66.79|-|-|AUS|1|3|0|1|WI|West Indies|WI|
+|Bangladesh|5|8|0|130|82|0|1|13|6|16.25|65.32|1|0|BAN|2|1|0|1|WI|West Indies|WI|... |England|12|18|0|217|34|0|0|23|5|12.05|50.34|11|0|ENG|3|2|0|1|WI|West Indies|WI|
+|India|3|5|0|21|13|0|0|2|1|4.20|38.88|1|0|IND|4|2|0|1|WI|West Indies|WI|... |New Zealand|2|4|0|110|86|0|1|12|5|27.50|76.92|-|-|NZ|5|2|0|1|WI|West Indies|WI|
+|Pakistan|5|9|0|48|17|0|0|7|0|5.33|32.43|2|0|PAK|6|2|0|1|WI|West Indies|WI|... |South Africa|2|4|0|30|18|0|0|3|2|7.50|81.08|1|0|SA|7|0|0|1|WI|West Indies|WI|
+|Sri Lanka|2|2|0|29|29|0|0|3|1|14.50|59.18|-|-|SL|8|1|0|1|WI|West Indies|WI|... |Zimbabwe|2|1|0|4|4|0|0|1|0|4.00|200.00|-|-|ZIM|10|0|0|1|WI|West Indies|WI|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Australia|12|184.2|22|693|20|4/61|3|0|34.65|3.75|55.30|AUS|1|39|1|WI|West Indies|WI|... |Bangladesh|10|139.3|26|478|23|3/33|6|0|20.78|3.42|36.39|BAN|2|39|1|WI|West Indies|WI|
+|England|22|325.3|49|1356|33|4/122|3|0|41.09|4.16|59.18|ENG|3|39|1|WI|West Indies|WI|... |India|5|72.2|8|306|4|3/69|1|0|76.50|4.23|108.50|IND|4|39|1|WI|West Indies|WI|
+|New Zealand|2|53|10|208|4|3/109|1|0|52.00|3.92|79.50|NZ|5|39|1|WI|West Indies|WI|... |Pakistan|10|160.1|36|481|14|3/53|2|0|34.35|3.00|68.64|PAK|6|39|1|WI|West Indies|WI|
+|South Africa|4|58.5|4|220|12|5/81|1|1|18.33|3.73|29.41|SA|7|39|1|WI|West Indies|WI|... |Sri Lanka|4|64|10|212|4|2/64|0|0|53.00|3.31|96.00|SL|8|39|1|WI|West Indies|WI|
+|Zimbabwe|4|47|5|146|5|3/75|1|0|29.20|3.10|56.40|ZIM|10|39|1|WI|West Indies|WI|... |Australia|5|5|1|62|19|0|0|5|3|15.50|56.88|1|0|AUS|1|0|0|2|WI|West Indies|WI|
+|Bangladesh|9|7|3|69|29*|0|0|6|3|17.25|95.83|1|0|BAN|2|1|1|2|WI|West Indies|WI|... |England|11|6|2|101|41|0|0|10|4|25.25|121.68|5|0|ENG|3|0|0|2|WI|West Indies|WI|
+|India|14|7|3|83|29|0|0|3|5|20.75|59.71|5|0|IND|4|1|0|2|WI|West Indies|WI|... |New Zealand|3|2|1|69|49|0|0|6|4|69.00|186.48|-|-|NZ|5|0|0|2|WI|West Indies|WI|
+|Pakistan|6|4|1|24|15|0|0|0|0|8.00|37.50|2|0|PAK|6|0|0|2|WI|West Indies|WI|... |South Africa|2|2|2|14|13*|0|0|1|1|-|107.69|-|-|SA|7|0|0|2|WI|West Indies|WI|
+|Sri Lanka|9|3|1|1|1|0|0|0|0|0.50|11.11|2|0|SL|8|2|0|2|WI|West Indies|WI|... |Zimbabwe|1|1|0|3|3|0|0|0|0|3.00|37.50|2|0|ZIM|10|0|0|2|WI|West Indies|WI|
+|Ireland|9|5|1|26|16|0|0|4|0|6.50|49.05|3|0|IRE|13|2|0|2|WI|West Indies|WI|... |Netherlands|3|0|0|-|-|0|0|0|0|-|0.00|-|-|NED|15|0|0|2|WI|West Indies|WI|
+|Scotland|1|1|0|6|6|0|0|0|1|6.00|85.71|1|0|SCO|16|0|0|2|WI|West Indies|WI|... |USA|1|1|0|3|3|0|0|0|0|3.00|60.00|-|-|USA|22|0|0|2|WI|West Indies|WI|
+|Nepal|1|0|0|-|-|0|0|0|0|-|0.00|1|0|NEP|637|0|0|2|WI|West Indies|WI|... |Afghanistan|6|2|1|28|27|0|0|2|1|28.00|71.79|1|0|AFG|1188|0|0|2|WI|West Indies|WI|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Afghanistan|5|36|1|190|5|2/15|0|0|38.00|5.27|43.20|AFG|1188|79|2|WI|West Indies|WI|
+|Australia|5|33.1|0|197|9|3/39|1|0|21.88|5.93|22.11|AUS|1|79|2|WI|West Indies|WI|... |Bangladesh|9|77|5|361|8|2/43|0|0|45.12|4.68|57.75|BAN|2|79|2|WI|West Indies|WI|
+|England|11|93.2|2|603|24|5/56|3|1|25.12|6.46|23.33|ENG|3|79|2|WI|West Indies|WI|... |India|14|122|6|731|23|2/35|0|0|31.78|5.99|31.82|IND|4|79|2|WI|West Indies|WI|
+|Ireland|8|72|5|311|15|4/32|3|0|20.73|4.31|28.80|IRE|13|79|2|WI|West Indies|WI|... |Nepal|1|10|0|45|2|2/45|0|0|22.50|4.50|30.00|NEP|637|79|2|WI|West Indies|WI|
+|Netherlands|3|27|1|139|5|2/30|0|0|27.80|5.14|32.40|NED|15|79|2|WI|West Indies|WI|... |New Zealand|3|27.2|2|144|5|3/36|1|0|28.80|5.26|32.80|NZ|5|79|2|WI|West Indies|WI|
+|Pakistan|6|57|2|330|9|2/33|0|0|36.66|5.78|38.00|PAK|6|79|2|WI|West Indies|WI|... |Scotland|1|7|1|29|0|0/29|0|0|-|4.14|-|SCO|16|79|2|WI|West Indies|WI|
+|South Africa|2|16.4|0|103|6|3/50|2|0|17.16|6.18|16.66|SA|7|79|2|WI|West Indies|WI|... |Sri Lanka|9|77|1|416|18|4/65|3|0|23.11|5.40|25.66|SL|8|79|2|WI|West Indies|WI|
+|USA|1|10|0|68|2|2/68|0|0|34.00|6.80|30.00|USA|22|79|2|WI|West Indies|WI|... |Zimbabwe|1|10|2|42|2|2/42|0|0|21.00|4.20|30.00|ZIM|10|79|2|WI|West Indies|WI|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Australia|5|3|2|20|11*|0|0|2|1|20.00|105.26|1|0|AUS|1|0|0|3|WI|West Indies|WI|... |Bangladesh|3|3|0|10|9|0|0|1|0|3.33|66.66|0|0|BAN|2|1|0|3|WI|West Indies|WI|
+|England|10|1|1|21|21*|0|0|3|0|-|110.52|3|0|ENG|3|0|0|3|WI|West Indies|WI|... |India|8|3|3|21|10*|0|0|0|1|-|72.41|3|0|IND|4|0|0|3|WI|West Indies|WI|
+|New Zealand|2|1|0|6|6|0|0|1|0|6.00|100.00|1|0|NZ|5|0|0|3|WI|West Indies|WI|... |South Africa|3|2|2|25|14*|0|0|1|2|-|156.25|1|0|SA|7|0|0|3|WI|West Indies|WI|
+|Sri Lanka|3|2|1|18|16|0|0|1|1|18.00|163.63|-|-|SL|8|0|0|3|WI|West Indies|WI|... |Afghanistan|1|0|0|-|-|0|0|0|0|-|0.00|-|-|AFG|1188|0|0|3|WI|West Indies|WI|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Afghanistan|1|3|0|30|1|1/30|0|0|30.00|10.00|18.00|AFG|1188|41|3|WI|West Indies|WI|... |Australia|5|20|0|153|8|3/21|1|0|19.12|7.65|15.00|AUS|1|41|3|WI|West Indies|WI|
+|Bangladesh|3|12|0|106|2|1/21|0|0|53.00|8.83|36.00|BAN|2|41|3|WI|West Indies|WI|... |England|9|34|0|401|11|3/39|2|0|36.45|11.79|18.54|ENG|3|41|3|WI|West Indies|WI|
+|India|8|31|0|276|9|2/25|0|0|30.66|8.90|20.66|IND|4|41|3|WI|West Indies|WI|... |Ireland|2|8|0|83|0|0/39|0|0|-|10.37|-|IRE|13|41|3|WI|West Indies|WI|
+|New Zealand|2|8|0|54|4|4/19|1|0|13.50|6.75|12.00|NZ|5|41|3|WI|West Indies|WI|... |Papua New Guinea|1|4|0|34|2|2/34|0|0|17.00|8.50|12.00|PNG|750|41|3|WI|West Indies|WI|
+|Scotland|1|4|0|28|2|2/28|0|0|14.00|7.00|12.00|SCO|16|41|3|WI|West Indies|WI|... |South Africa|3|10|0|86|8|5/40|0|1|10.75|8.60|7.50|SA|7|41|3|WI|West Indies|WI|
+|Sri Lanka|3|11|0|111|2|1/33|0|0|55.50|10.09|33.00|SL|8|41|3|WI|West Indies|WI|... |Uganda|1|3|0|6|2|2/6|0|0|3.00|2.00|9.00|UGA|29|41|3|WI|West Indies|WI|
+|USA|1|4|0|31|2|2/31|0|0|15.50|7.75|12.00|USA|22|41|3|WI|West Indies|WI|... |Zimbabwe|1|4|0|16|4|4/16|1|0|4.00|4.00|6.00|ZIM|10|41|3|WI|West Indies|WI|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Derbyshire|3|3|0|62|46|0|0|10|1|20.66|59.61|-|-|DER|225|0|0|4|-|-|-|
+|Essex|1|1|0|0|0|0|0|0|0|0.00|0.00|-|-|ESS|282|1|0|4|-|-|-|... |Jamaica Scorpions|4|8|1|104|89|0|1|10|6|14.85|64.59|3|0|JAM|423|3|0|4|-|-|-|
+|Kent|1|1|0|31|31|0|0|4|0|31.00|50.00|1|0|KET|469|0|0|4|-|-|-|... |Nottinghamshire|2|3|0|69|61|0|1|8|1|23.00|57.98|-|-|NOT|660|0|0|4|-|-|-|
+|New Zealand A|1|1|0|22|22|0|0|2|0|22.00|68.75|-|-|NZ-A|688|0|1|4|-|-|-|... |Warwickshire|1|1|0|17|17|0|0|2|1|17.00|100.00|-|-|WAS|1007|0|0|4|-|-|-|
+|Windward Islands Volcanoes|7|11|4|114|64*|0|1|8|7|16.28|66.66|1|0|WIS|1027|3|0|4|-|-|-|... |Combined Campuses And Colleges|1|2|0|28|19|0|0|3|1|14.00|103.70|-|-|CCC|1049|0|0|4|-|-|-|
+|Trinidad & Tobago Red Force|6|9|2|137|47*|0|0|13|6|19.57|70.98|3|0|TRI|1138|0|0|4|-|-|-|... |Guyana Harpy Eagles|4|6|5|33|23*|0|0|4|0|33.00|57.89|3|0|GUY|1197|3|0|4|-|-|-|
+|Pakistan Cricket Board Patrons XI|1|1|0|6|6|0|0|1|0|6.00|60.00|1|0|PPX|1545|0|0|4|-|-|-|... |Prime Ministers XI|1|2|0|45|31|0|0|7|1|22.50|44.55|-|-|PM-XI|1551|0|0|4|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Combined Campuses And Colleges|2|29|12|54|9|6/35|1|1|6.00|1.86|19.33|CCC|1049|37|4|-|-|-|
+|Derbyshire|5|69.2|10|281|8|2/28|0|0|35.12|4.05|52.00|DER|225|37|4|-|-|-|... |Essex|1|24|3|92|2|2/92|0|0|46.00|3.83|72.00|ESS|282|37|4|-|-|-|
+|Guyana Harpy Eagles|6|108.4|17|384|19|5/94|1|2|20.21|3.53|34.31|GUY|1197|37|4|-|-|-|... |Jamaica Scorpions|6|106|17|367|14|5/43|2|1|26.21|3.46|45.42|JAM|423|37|4|-|-|-|
+|Kent|1|22|5|72|4|4/72|1|0|18.00|3.27|33.00|KET|469|37|4|-|-|-|... |New Zealand A|1|18|6|38|0|0/38|0|0|-|2.11|-|NZ-A|688|37|4|-|-|-|
+|Nottinghamshire|3|47.4|8|131|3|2/33|0|0|43.66|2.74|95.33|NOT|660|37|4|-|-|-|... |Pakistan Cricket Board Patrons XI|1|3|1|4|0|0/4|0|0|-|1.33|-|PPX|1545|37|4|-|-|-|
+|Prime Ministers XI|2|30.5|5|97|5|4/65|1|0|19.40|3.14|37.00|PM-XI|1551|37|4|-|-|-|... |Trinidad & Tobago Red Force|10|165.3|28|591|16|4/22|3|0|36.93|3.57|62.06|TRI|1138|37|4|-|-|-|
+|Warwickshire|2|29|3|102|3|2/22|0|0|34.00|3.51|58.00|WAS|1007|37|4|-|-|-|... |Windward Islands Volcanoes|12|167.4|39|622|25|7/46|2|3|24.88|3.70|40.24|WIS|1027|37|4|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |West Indies Academy|1|1|0|2|2|0|0|0|0|2.00|66.66|1|0|WIC|1022|0|0|5|-|-|-|
+|Windward Islands Volcanoes|5|3|0|43|24|0|0|0|5|14.33|93.47|1|0|WIS|1027|0|1|5|-|-|-|... |Trinidad & Tobago Red Force|5|4|2|65|51*|0|1|1|6|32.50|90.27|-|-|TRI|1138|0|0|5|-|-|-|
+|West Indies Under-19|2|1|1|6|6*|0|0|0|0|-|75.00|-|-|WI-U19|1176|0|0|5|-|-|-|... |Guyana Harpy Eagles|2|1|0|10|10|0|0|0|1|10.00|71.42|-|-|GUY|1197|0|0|5|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Guyana Harpy Eagles|2|15|2|91|1|1/48|0|0|91.00|6.06|90.00|GUY|1197|21|5|-|-|-|
+|Jamaica Scorpions|1|5|1|24|2|2/24|0|0|12.00|4.80|15.00|JAM|423|21|5|-|-|-|... |Kent|2|19.3|1|109|4|3/62|1|0|27.25|5.58|29.25|KET|469|21|5|-|-|-|
+|Trinidad & Tobago Red Force|5|38.2|3|223|7|3/45|1|0|31.85|5.81|32.85|TRI|1138|21|5|-|-|-|... |West Indies Academy|1|6|0|26|0|0/26|0|0|-|4.33|-|WIC|1022|21|5|-|-|-|
+|West Indies Under-19|2|20|5|49|4|2/20|0|0|12.25|2.45|30.00|WI-U19|1176|21|5|-|-|-|... |Windward Islands Volcanoes|4|27|3|128|10|6/31|1|1|12.80|4.74|16.20|WIS|1027|21|5|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Barbados Royals|13|4|3|45|29*|0|0|3|2|45.00|121.62|8|0|BR|1405|0|0|6|-|-|-|... |Saint Lucia Kings|3|3|2|27|21*|0|0|0|2|27.00|128.57|2|0|SLK|1406|0|0|6|-|-|-|
+|Guyana Amazon Warriors|13|7|4|56|25*|0|0|3|4|18.66|130.23|4|0|GUY|1407|2|0|6|-|-|-|... |Trinbago Knight Riders|15|9|6|35|11|0|0|1|2|11.66|89.74|4|0|TKR|1408|2|0|6|-|-|-|
+|Jamaica Tallawahs|12|7|2|59|28*|0|0|6|3|11.80|105.35|7|0|JAM|1410|1|1|6|-|-|-|... |St Kitts And Nevis Patriots|8|3|1|8|8*|0|0|1|0|4.00|88.88|5|0|SKN|1480|2|0|6|-|-|-|
+|Antigua & Barbuda Falcons|2|1|0|2|2|0|0|0|0|2.00|66.66|-|-|ABF|4497|0|0|6|-|-|-|... |Antigua & Barbuda Falcons|2|8|0|65|2|1/32|0|0|32.50|8.12|24.00|ABF|4497|63|6|-|-|-|
+|Barbados Royals|13|49.2|0|410|20|4/22|3|0|20.50|8.31|14.80|BR|1405|63|6|-|-|-|... |Guyana Amazon Warriors|13|38.3|1|324|10|2/31|0|0|32.40|8.41|23.10|GUY|1407|63|6|-|-|-|
+|Jamaica Tallawahs|10|39|0|357|12|2/21|0|0|29.75|9.15|19.50|JAM|1410|63|6|-|-|-|... |Saint Lucia Kings|2|8|0|61|6|4/41|1|0|10.16|7.62|8.00|SLK|1406|63|6|-|-|-|
+|St Kitts And Nevis Patriots|8|28.5|1|224|9|3/27|1|0|24.88|7.76|19.22|SKN|1480|63|6|-|-|-|... |Trinbago Knight Riders|15|54|1|401|17|4/17|1|0|23.58|7.42|19.05|TKR|1408|63|6|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Gulf Giants|2|0|0|-|-|0|0|0|0|-|0.00|-|-|GG|3383|0|0|6|MIE|-|-|
+|Sharjah Warriorz|3|1|1|3|3*|0|0|0|0|-|100.00|-|-|SW|3385|0|0|6|MIE|-|-|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Abu Dhabi Knight Riders|2|8|0|65|5|3/32|1|0|13.00|8.12|9.60|ADKR|3381|10|6|MIE|-|-|... |Desert Vipers|1|3|1|17|3|3/17|1|0|5.66|5.66|6.00|DV|3380|10|6|MIE|-|-|
+|Dubai Capitals|2|8|0|72|3|2/43|0|0|24.00|9.00|16.00|DC|3382|10|6|MIE|-|-|... |Gulf Giants|2|8|0|66|3|2/31|0|0|22.00|8.25|16.00|GG|3383|10|6|MIE|-|-|
+|Sharjah Warriorz|3|11.2|0|117|2|2/39|0|0|58.50|10.32|34.00|SW|3385|10|6|MIE|-|-|... |Punjab Kings|4|2|2|19|15*|0|0|2|0|-|105.55|1|0|PBKS|1107|0|0|6|MI|Mumbai Indians|MI|
+|Chennai Super Kings|4|1|0|0|0|0|0|0|0|0.00|0.00|-|-|CSK|1108|1|0|6|GT|-|-|... |Delhi Capitals|1|0|0|-|-|0|0|0|0|-|0.00|1|0|DC|1109|0|0|6|GT|-|-|
+|Rajasthan Royals|3|1|1|0|0|0|0|0|0|-|0.00|1|0|RR|1110|1|0|6|MI|Mumbai Indians|MI|... |Mumbai Indians|2|1|1|7|7*|0|0|1|0|-|58.33|-|-|MI|1111|0|0|6|GT|-|-|
+|Sunrisers Hyderabad|2|1|1|0|0*|0|0|0|0|-|0.00|1|0|SRH|1379|1|0|6|MI|Mumbai Indians|MI|... |Lucknow Super Giants|2|0|0|-|-|0|0|0|0|-|0.00|-|-|LSG|2954|0|0|6|GT|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Delhi Capitals|1|4|0|29|2|2/29|0|0|14.50|7.25|12.00|DC|1109|3|6|RCB|Royal Challengers Bengaluru|RCB|
+|Kolkata Knight Riders|3|10|0|92|3|2/27|0|0|30.66|9.20|20.00|KKR|1106|3|6|RCB|Royal Challengers Bengaluru|RCB|... |Lucknow Super Giants|2|3|0|19|0|0/5|0|0|-|6.33|-|LSG|2954|3|6|RCB|Royal Challengers Bengaluru|RCB|
+|Mumbai Indians|2|8|0|93|1|1/41|0|0|93.00|11.62|48.00|MI|1111|3|6|RCB|Royal Challengers Bengaluru|RCB|... |Punjab Kings|4|13|0|122|2|1/32|0|0|61.00|9.38|39.00|PBKS|1107|3|6|RCB|Royal Challengers Bengaluru|RCB|
+|Rajasthan Royals|3|8|0|127|0|0/27|0|0|-|15.87|-|RR|1110|3|6|RCB|Royal Challengers Bengaluru|RCB|... |Royal Challengers Bengaluru|1|4|0|42|1|1/42|0|0|42.00|10.50|24.00|RCB|1105|3|6|RCB|Royal Challengers Bengaluru|RCB|
+|Sunrisers Hyderabad|2|7.4|1|47|7|6/12|0|1|6.71|6.13|6.57|SRH|1379|3|6|RCB|Royal Challengers Bengaluru|RCB|... |Pretoria Capitals|2|1|0|5|5|0|0|1|0|5.00|100.00|0|0|PC|3281|0|0|6|JSK|-|-|
+|Sunrisers Eastern Cape|1|0|0|-|-|0|0|0|0|-|0.00|1|0|SEC|3282|0|0|6|JSK|-|-|... |Paarl Royals|1|1|0|13|13|0|0|2|0|13.00|118.18|1|0|PR|3283|0|0|6|JSK|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Durban's Super Giants|2|8|0|68|2|2/30|0|0|34.00|8.50|24.00|DSG|3278|7|6|JSK|-|-|... |MI Cape Town|1|4|0|26|0|0/26|0|0|-|6.50|-|MICT|3280|7|6|JSK|-|-|
+|Paarl Royals|1|3|0|14|0|0/14|0|0|-|4.66|-|PR|3283|7|6|JSK|-|-|... |Pretoria Capitals|2|7|0|74|2|2/34|0|0|37.00|10.57|21.00|PC|3281|7|6|JSK|-|-|... |Bangladesh Under-19|7|5|1|4|1|0|0|0|0|1.00|14.28|-|-|BAN-U19|1155|1|0|22|-|-|-|
+|England Under-19|1|1|1|4|4*|0|0|0|0|-|133.33|-|-|ENG-U19|1159|0|0|22|-|-|-|... |Bangladesh Under-19|7|51|2|259|9|3/30|1|0|28.77|5.07|34.00|BAN-U19|1155|12|22|-|-|-|
+|England Under-19|1|10|0|34|1|1/34|0|0|34.00|3.40|60.00|ENG-U19|1159|12|22|-|-|-|... |Fiji Under-19|1|7|1|15|3|3/15|1|0|5.00|2.14|14.00|FIJ-U19|1506|12|22|-|-|-|
+|India Under-19|1|10|0|39|3|3/39|1|0|13.00|3.90|20.00|IND-U19|1163|12|22|-|-|-|... |Pakistan Under-19|1|10|0|28|1|1/28|0|0|28.00|2.80|60.00|PAK-U19|1170|12|22|-|-|-|
+|Zimbabwe Under-19|1|10|1|30|4|4/30|1|0|7.50|3.00|15.00|ZIM-U19|1177|12|22|-|-|-|... |Away|17|30|0|472|86 v NZ|0|2|56|16|15.73|68.30|5|0|NZ|5|5|0|1|WI|West Indies|WI|
+|Home|21|32|1|286|34 v ENG|0|0|26|12|9.22|45.83|10|0|ENG|3|8|0|1|WI|West Indies|WI|... |Neutral|1|1|0|6|6 v BAN|0|0|1|0|6.00|60.00|1|0|BAN|2|0|0|1|WI|West Indies|WI|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|30|455|52|1873|48|5/81 v SA|7|1|39.02|4.11|56.87|SA|7|39|1|WI|West Indies|WI|... |Home|41|618.5|110|2129|69|4/61 v AUS|11|0|30.85|3.44|53.81|AUS|1|39|1|WI|West Indies|WI|
+|Neutral|2|30.5|8|98|2|2/12 v ENG|0|0|49.00|3.17|92.50|ENG|3|39|1|WI|West Indies|WI|... |Away|32|21|5|194|41 v ENG|0|0|16|9|12.12|74.32|7|0|ENG|3|4|1|2|WI|West Indies|WI|
+|Home|40|21|10|283|49 v NZ|0|0|21|12|25.72|79.71|14|0|NZ|5|2|0|2|WI|West Indies|WI|... |Neutral|9|4|1|12|6 v SCO|0|0|0|1|4.00|54.54|3|0|SCO|16|0|0|2|WI|West Indies|WI|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|31|261.5|12|1435|59|5/56 v ENG|6|1|24.32|5.48|26.62|ENG|3|79|2|WI|West Indies|WI|... |Home|39|338.4|14|1812|62|4/31 v ENG|7|0|29.22|5.35|32.77|ENG|3|79|2|WI|West Indies|WI|
+|Neutral|9|75|2|462|12|2/15 v AFG|0|0|38.50|6.16|37.50|AFG|1188|79|2|WI|West Indies|WI|... |Away|14|6|4|52|16 v SL|0|0|4|3|26.00|133.33|1|0|SL|8|0|0|3|WI|West Indies|WI|
+|Home|18|7|4|52|21* v ENG|0|0|4|1|17.33|82.53|6|0|ENG|3|1|0|3|WI|West Indies|WI|... |Neutral|10|3|1|17|11* v AUS|0|0|1|1|8.50|121.42|3|0|AUS|1|1|0|3|WI|West Indies|WI|... |Away|14|53|0|525|19|5/40 v SA|1|1|27.63|9.90|16.73|SA|7|41|3|WI|West Indies|WI|
+|Home|17|66.3|0|630|19|3/21 v AUS|2|0|33.15|9.47|21.00|AUS|1|41|3|WI|West Indies|WI|... |Neutral|10|36.3|0|260|19|4/16 v ZIM|2|0|13.68|7.12|11.52|ZIM|10|41|3|WI|West Indies|WI|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|

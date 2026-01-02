@@ -1,15 +1,22 @@
 ================================================================================
-IPL PLAYER PROFILE: NITISH RANA
+IPL PLAYER PROFILE: TIM SEIFERT
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Nitish Rana
-  IPL Debut                : 2016
-  Date of Birth            : 27 December 1993
-  Total IPL Matches        : 118
-  Role                     : WK-Batter
-  Nationality              : Indian
+  Player Name              : Tim Seifert
+  IPL Debut                : 2021
+  Date of Birth            : 14 December 1994
+  Total IPL Matches        : 3
+  Role                     : Wicketkeeper Batter
+  Nationality              : New Zealander
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  A wicketkeeper and an aggressive batsman, Tim Seifert, is one of the
+  latest entrants in KKR’s unit. The right-hander has so far played 35 T20Is
+  for New Zealand and has scored 695 runs at the strike-rate of 133.10 and has
+  five half-centuries to his name.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -19,17 +26,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   118    |    10    |   2853   |    87    |  27.97   |   2086   |  136.77  |    0     |    20    |   261    |   141    |    26    |    0    
-    2025   |    11    |    1     |   217    |    81    |  21.70   |   134    |  161.94  |    0     |    2     |    27    |    9     |    2     |    0    
-    2024   |    2     |    0     |    42    |    33    |  21.00   |    34    |  123.53  |    0     |    0     |    5     |    1     |    0     |    0    
-    2023   |    14    |    1     |   413    |    75    |  31.77   |   293    |  140.96  |    0     |    3     |    39    |    20    |    3     |    0    
-    2022   |    14    |    1     |   361    |    57    |  27.77   |   251    |  143.82  |    0     |    2     |    29    |    22    |    6     |    0    
-    2021   |    17    |    3     |   383    |    80    |  29.46   |   314    |  121.97  |    0     |    2     |    34    |    17    |    4     |    0    
-    2020   |    14    |    0     |   352    |    87    |  25.14   |   254    |  138.58  |    0     |    3     |    43    |    12    |    2     |    0    
-    2019   |    14    |    1     |   344    |   85*    |  34.40   |   235    |  146.38  |    0     |    3     |    27    |    21    |    3     |    0    
-    2018   |    15    |    2     |   304    |    59    |  23.38   |   232    |  131.03  |    0     |    1     |    26    |    14    |    2     |    0    
-    2017   |    13    |    1     |   333    |   62*    |  30.27   |   264    |  126.13  |    0     |    3     |    24    |    17    |    4     |    0    
-    2016   |    4     |    0     |   104    |    70    |  34.66   |    75    |  138.66  |    0     |    1     |    7     |    8     |    0     |    0    
+   Career  |    3     |    0     |    26    |    21    |   8.67   |    23    |  113.04  |    0     |    0     |    4     |    0     |    1     |    0    
+    2022   |    2     |    0     |    24    |    21    |  12.00   |    19    |  126.32  |    0     |    0     |    4     |    0     |    1     |    0    
+    2021   |    1     |    0     |    2     |    2     |   2.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -39,18 +38,312 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   118    |   192    |   270    |    10    |   2/11   |  27.00   |   8.44   |  19.20   |    0     |    0    
-    2025   |    11    |    12    |    18    |    0     |   0/9    |    -     |   9.00   |    -     |    0     |    0    
-    2024   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    14    |    53    |    75    |    3     |   2/17   |  25.00   |   8.49   |  17.67   |    0     |    0    
-    2022   |    14    |    12    |    23    |    0     |   0/9    |    -     |  11.50   |    -     |    0     |    0    
-    2021   |    17    |    12    |    12    |    0     |   0/5    |    -     |   6.00   |    -     |    0     |    0    
-    2020   |    14    |    12    |    23    |    0     |   0/7    |    -     |  11.50   |    -     |    0     |    0    
-    2019   |    14    |    48    |    72    |    3     |   1/8    |  24.00   |   9.00   |  16.00   |    0     |    0    
-    2018   |    15    |    37    |    44    |    4     |   2/11   |  11.00   |   7.13   |   9.25   |    0     |    0    
-    2017   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    4     |    6     |    3     |    0     |   0/3    |    -     |   3.00   |    -     |    0     |    0    
+   Career  |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/nitish-rana/2738
+Source: https://www.iplt20.com/players/tim-seifert/1619
 ================================================================================
+|## Tim Seifert Introduction|
+|--|
+|Role|WK-Batsman|
+|Batting|Right Handed|
+|Bowling|
+|Country|New Zealand|
+|--|--|
+|Birth|14-Dec-1994 (31 yr), Wanganui|
+|Height|6 ft 0 in|
+|Teams|New Zealand, New Zealand U19, New Zealand XI, Northern Knights, New Zealand A, Trinbago Knight Riders, Kolkata Knight Riders (Mostly) New Zealand,|
+|Social Accounts|Instagram Wikipedia|
+|Last Updated|Last updated 5 hours ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Tim Seifert Upcoming Matches|
+|--|
+|NZ vs PAK (3rd T20I) Stats|
+|NZ vs PAK (4th T20I) Stats|
+|NZ vs PAK (5th T20I) Stats|
+|NZ vs PAK (1st ODI) Stats|
+|NZ vs PAK (2nd ODI) Stats|
+|## Tim Seifert Stats|
+|--|
+|Competition|ODI|T20|IPL|
+|Matches|3|64|3|
+|Highest Score|22|88|21|
+|Runs|33|1382|26|
+|50s|0|9|0|
+|100s|0|0|0|
+|Run Per Inn|16.5|23.4|8.6|
+|Run Per Match|11.0|21.5|8.6|
+|Boundary (In Ball)|9.0|5.5|5.7|
+|4s (In Ball)|13.5|8.3|5.7|
+|6s (In Ball)|27.0|16.1|-|
+|Wickets|0|0|0|
+|Over Per Match|-|-|-|
+|Wicket Per Inn|-|-|-|
+|Wicket Per Match|-|-|-|
+|Wicket (In Ball)|-|-|-|
+|Wicket (In Runs)|-|-|-|
+|Field In Match %|333 %|81 %|33 %|
+|Catch In Match %|233 %|56 %|33 %|
+|Check More Stats On Advance Cricket App|
+|## Tim Seifert Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|18 Mar 25|T20|68|0|0|72|
+|16 Mar 25|T20|61|0|8|73|
+|07 Feb 25|T20|16|0|0|20|
+|06 Feb 25|T20|59|0|14|77|
+|02 Feb 25|T20|0|0|8|12|
+|30 Jan 25|T20|12|0|16|32|
+|26 Jan 25|T20|9|0|0|13|
+|25 Jan 25|T20|18|0|0|22|
+|22 Jan 25|T20|7|0|0|11|
+|20 Jan 25|T20|-2|0|12|14|
+|14 Jan 25|T20|26|0|6|36|
+|12 Jan 25|T20|28|0|16|48|
+|07 Jan 25|T20|-2|0|28|30|
+|04 Jan 25|T20|20|0|14|38|
+|02 Jan 25|T20|4|0|0|8|
+|30 Dec 24|T20|10|0|8|22|
+|23 Dec 24|T20|41|0|0|45|
+|19 Dec 24|T20|55|0|28|87|
+|16 Dec 24|T20|73|0|8|85|
+|## Tim Seifert Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|18 Mar 25|NZ vs PAK|1|45(22)|204.5|catch|
+|16 Mar 25|NZ vs PAK|1|44(29)|151.7|catch|
+|07 Feb 25|SWR vs DV|4|15(16)|93.7|catch|
+|06 Feb 25|SWR vs MIE|5|40(20)|200|not out|
+|02 Feb 25|SWR vs MIE|DNB|
+|30 Jan 25|SWR vs ADKR|5|10(9)|111.1|catch|
+|28 Jan 25|SWR vs DC|DNB|
+|26 Jan 25|SWR vs GG|5|11(18)|61.1|catch|
+|25 Jan 25|SWR vs DV|5|16(15)|106.6|bowled|
+|22 Jan 25|SWR vs DV|5|9(14)|64.2|lbw|
+|20 Jan 25|REN vs HEA|5|0(1)|0|bowled|
+|14 Jan 25|REN vs HUR|5|24(23)|104.3|catch|
+|12 Jan 25|REN vs STA|5|26(26)|100|catch|
+|07 Jan 25|REN vs SCO|1|0(4)|0|catch|
+|04 Jan 25|REN vs STA|3|17(16)|106.2|bowled|
+|02 Jan 25|REN vs STR|3|4(7)|57.1|stumped|
+|Tim Seifert Recent Batting|
+|## Tim Seifert Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|18 Mar 25|NZ vs PAK|DNB|
+|16 Mar 25|NZ vs PAK|DNB|
+|07 Feb 25|SWR vs DV|DNB|
+|06 Feb 25|SWR vs MIE|DNB|
+|02 Feb 25|SWR vs MIE|DNB|
+|30 Jan 25|SWR vs ADKR|DNB|
+|28 Jan 25|SWR vs DC|DNB|
+|26 Jan 25|SWR vs GG|DNB|
+|25 Jan 25|SWR vs DV|DNB|
+|22 Jan 25|SWR vs DV|DNB|
+|20 Jan 25|REN vs HEA|DNB|
+|14 Jan 25|REN vs HUR|DNB|
+|12 Jan 25|REN vs STA|DNB|
+|07 Jan 25|REN vs SCO|DNB|
+|04 Jan 25|REN vs STA|DNB|
+|02 Jan 25|REN vs STR|DNB|
+|Tim Seifert Recent Bowling All Recent Bowling Details|
+|Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|3|64|3|
+|Innings|2|59|3|
+|Not Out|0|6|0|
+|Runs|33|1382|26|
+|Highest Score|22|88|21|
+|Average|16.50|26.07|8.66|
+|Balls Faced|27|1018|23|
+|Strike Rate|122.2|135.7|113|
+|20s|1|2|1|
+|30s|0|10|0|
+|50s|0|9|0|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|2|122|4|
+|6s|1|63|0|
+|Outtype|
+|LBW|0|2|0|
+|Bowled|0|15|1|
+|Stumped|0|3|0|
+|Catch|1|31|1|
+|Run Out|1|2|1|
+|Wicket Taker|
+|Left Arm|0|11|0|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|6|0|
+|3- Medium|0|2|0|
+|4- Slow|0|3|0|
+|1- Bowled|0|3|0|
+|2- Catch|0|7|0|
+|3- Stumped|0|1|0|
+|4- Lbw|0|0|0|
+|Right Arm|1|40|2|
+|1- Fast|1|5|0|
+|2- Fast-Medium|0|16|1|
+|3- Medium|0|8|0|
+|4- Slow|0|11|1|
+|1- Bowled|0|12|1|
+|2- Catch|1|24|1|
+|3- Stumped|0|2|0|
+|4- Lbw|0|2|0|
+|Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|3|64|3|
+|Innings|0|0|0|
+|Balls|0|0|0|
+|Runs|0|0|0|
+|BBI|
+|Average|0|0|0|
+|Strike Rate|
+|Maiden|0|0|0|
+|2w|0|0|0|
+|3w|0|0|0|... |5w|0|0|0|
+|8w|0|0|0|
+|10w|0|0|0|
+|Wickets|0|0|0|
+|LBW|0|0|0|
+|Bowled|0|0|0|
+|Stumped|0|0|0|... |Catch|0|0|0|
+|Batsman Type|
+|Right Handed|0|0|0|
+|1- LBW|0|0|0|
+|2- Bowled|0|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|0|0|0|... |Left Handed|0|0|0|
+|1- LBW|0|0|0|
+|2- Bowled|0|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|0|0|0|
+Tim Seifert played 3 ODI matches and scored 33 runs in 2 Innings.... Tim Seifert's Highest Score in ODI is 22. T Seifert has 0 ODI centuries, 0 ODI half centuries and 0 times 30+ and 1 times 20+ ODI runs. T Seifert has a strike rate of 122.2 with run per match of 11.00 in 27 ODI balls.... Tim Seifert made total 3 boundaries with 2 fours and 1 sixes in ODI. T Seifert's ODI outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 1 times, Run Out 1 times. Tim Seifert's ODI wicket takers are 0 left arm and 1 right arm.... T Seifert's Left Arm ODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Tim Seifert's Right Arm ODI Wicket Taker analysis are Fast bowler 1 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... T Seifert's wicket taken by Left Arm Bowlers in ODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Tim Seifert's wicket taken by Right Arm Bowlers in ODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets.... Tim Seifert Fielding analysis are Catch 7 times, Stumping 1 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 2 times.... Tim Seifert played 64 T20 matches and scored 1382 runs in 59 Innings. Tim Seifert's Highest Score in T20 is 88. T Seifert has 0 T20 centuries, 9 T20 half centuries and 10 times 30+ and 2 times 20+ T20 runs.... T Seifert has a strike rate of 135.7 with run per match of 21.59 in 1018 T20 balls. Tim Seifert made total 185 boundaries with 122 fours and 63 sixes in T20. T Seifert's T20 outtype analysis are lbw 2 times, bowled 15, stumped 3 times, catch 31 times, Run Out 2 times.... Tim Seifert's T20 wicket takers are 11 left arm and 40 right arm. T Seifert's Left Arm T20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 6 wickets, Medium bowler 2 wickets, Slow bowler 3 wickets.... Tim Seifert's Right Arm T20 Wicket Taker analysis are Fast bowler 5 wickets, Fast-Medium bowler 16 wickets, Medium bowler 8 wickets, Slow bowler 11 wickets. T Seifert's wicket taken by Left Arm Bowlers in T20 analysis are lbw 0 wickets, bowled 3 wickets, stumped 1 wickets, catch 7 wickets. Tim Seifert's wicket taken by Right Arm Bowlers in T20 analysis are lbw 2 wickets, bowled 12 wickets, stumped 2 wickets, catch 24 wickets.... Tim Seifert Fielding analysis are Catch 36 times, Stumping 8 times, Direct Throw(Run Out) 2 times, Throw(Run Out) 2 times.... Tim Seifert played 3 IPL matches and scored 26 runs in 3 Innings. Tim Seifert's Highest Score in IPL is 21. T Seifert has 0 IPL centuries, 0 IPL half centuries and 0 times 30+ and 1 times 20+ IPL runs.... T Seifert has a strike rate of 113 with run per match of 8.66 in 23 IPL balls. Tim Seifert made total 4 boundaries with 4 fours and 0 sixes in IPL. T Seifert's IPL outtype analysis are lbw 0 times, bowled 1, stumped 0 times, catch 1 times, Run Out 1 times.... Tim Seifert's IPL wicket takers are 0 left arm and 2 right arm. T Seifert's Left Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... Tim Seifert's Right Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 1 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets. T Seifert's wicket taken by Left Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Tim Seifert's wicket taken by Right Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 1 wickets, stumped 0 wickets, catch 1 wickets.... Tim Seifert Fielding analysis are Catch 1 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Tim Seifert plays cricket as WK-Batsman. Tim Seifert run per match stats are 11.0 runs in ODI, 21.5 runs in T20, 8.6 runs in IPL, 18.3 runs in T10, 20.0 runs in BBL, 34.7 runs in BLAST, 20.3 runs in CPL, 26.0 runs in PSL, 24.5 runs in SMASH, 37.1 runs in LPL, 30.8 runs in DODI, 15.5 runs in DT20.... T Seifert catch chances in match are 233.3 % in ODI, 56.2 % in T20, 33.3 % in IPL, 53.8 % in T10, 100 % in BBL, 75 % in BLAST, 40.6 % in CPL, 42.8 % in PSL, 84.6 % in SMASH, 58.8 % in LPL, 120 % in DODI, 75 % in DT20.... T Seifert make boundary in every 9.0 balls in ODI, 5.5 balls in T20, 5.7 balls in IPL, 3.4 balls in T10, 6.5 balls in BBL, 3.7 balls in BLAST, 6.9 balls in CPL, 5.0 balls in PSL, 5.4 balls in SMASH, 5.5 balls in LPL, 9.8 balls in DODI, 7.6 balls in DT20.... Tim Seifert hits six in every 27.0 balls in ODI, every 16.1 balls in T20, every 0 balls in IPL, every 8.1 balls in T10, every 27.1 balls in BBL, every 13.8 balls in BLAST, every 18.2 balls in CPL, every 34.2 balls in PSL, every 17.5 balls in SMASH, every 17.3 balls in LPL, every 44.2 balls in DODI, every 17.2 balls in DT20.... Tim Seifert score four in every 13.5 balls in ODI, 8.3 balls in T20, 5.7 balls in IPL, 5.9 balls in T10, 8.5 balls in BBL, 5.1 balls in BLAST, 11.1 balls in CPL, 5.9 balls in PSL, 7.9 balls in SMASH, 8.0 balls in LPL, 12.7 balls in DODI, 13.8 balls in DT20.... Tim Seifert field chances are 333.3 % in ODI, 81.2 % in T20, 33.3 % in IPL, 61.5 % in T10, 140 % in BBL, 125 % in BLAST, 59.3 % in CPL, 57.1 % in PSL, 124.3 % in SMASH, 58.8 % in LPL, 150 % in DODI, 93.7 % in DT20.... |## Tim Seifert stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|PAK|all|T20|0|0|Stats|
+|NZXI|all|T20|2|20|16.00|Stats|
+|NZ|all|T20|57|88|26.21|Stats|
+|NZA|all|T20|2|26|22.50|Stats|
+|NZ|all|ODI|2|22|16.50|Stats|
+|OV|all|SMASH|1|36|36.00|Stats|
+|CTB|all|SMASH|1|9|9.00|Stats|
+|NK|all|SMASH|15|88|26.61|Stats|
+|NK|all|SMASH|57|107|27.72|Stats|
+|NK|all|DODI|2|9|5.00|Stats|
+|## Tim Seifert stats Bowling For Teams|
+|--|
+|Team|Year|Mode|Inn|Wkts|Eco|Stats|
+|## Tim Seifert stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Hagley Oval|all|T20|5|44|19.20|Stats|
+|Dubai International Cricket St|all|T20|6|55|18.80|Stats|
+|Sheikh Zayed Stadium|all|T20|1|0|0.00|Stats|
+|Pallekele International Cricke|all|T20|3|15|12.66|Stats|
+|Saxton Oval|all|T20|1|7|7.00|Stats|
+|Bert Sutcliffe Oval|all|T20|2|20|16.00|Stats|
+|University Oval|all|T20|4|79|52.66|Stats|
+|Seddon Park|all|T20|3|84|127.00|Stats|
+|Eden Park|all|T20|11|57|19.70|Stats|
+|Bay Oval|all|T20|3|50|23.00|Stats|
+|## Tim Seifert stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|## Tim Seifert stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|PAVNZAIUAE 2018|all|T20|2|26|22.50|Stats|
+|NZTOSL 2019|all|T20|3|15|12.66|Stats|
+|PVNZIUAE 2018|all|T20|3|11|3.66|Stats|
+|EANZ T20ITS 2018|all|T20|3|14|14.50|Stats|
+|SLTONZ 2018-19|all|T20|1|2|2.00|Stats|
+|ICC MENS T20 WC WARMUP MATCHES|all|T20|1|8|8.00|Stats|
+|NZ TO IND 2021|all|T20|3|17|14.00|Stats|
+|SL TO NZ 2023|all|T20|2|88|167.00|Stats|
+|NZ TO UAE 2023|all|T20|3|55|25.00|Stats|
+|WITONZ 2020|all|T20|2|18|17.50|Stats|
+|## Tim Seifert stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|## Tim Seifert stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|England|all|T20|4|48|28.75|Stats|
+|New Zealand|all|T20|36|88|30.80|Stats|
+|Sri Lanka|all|T20|3|15|12.66|Stats|
+|United Arab Emirates|all|T20|10|55|16.33|Stats|
+|Pakistan|all|T20|3|52|28.33|Stats|
+|India|all|T20|3|17|14.00|Stats|
+|New Zealand|all|ODI|2|22|16.50|Stats|
+|England|all|ODI|0|0|Stats|
+|New Zealand|all|SMASH|74|107|27.37|Stats|
+|New Zealand|all|DODI|18|103|33.50|Stats|
+|## Tim Seifert stats Bowling On Countries|
+|--|
+|Country|Year|Mode|Inn|Wkts|Eco|Stats|
+|## Tim Seifert stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|WI|all|T20|2|18|17.50|Stats|
+|SL|all|T20|6|88|41.40|Stats|
+|AUS|all|T20|8|19|7.42|Stats|
+|ENG|all|T20|11|48|23.40|Stats|
+|IND|all|T20|11|84|35.77|Stats|
+|PKA|all|T20|2|26|22.50|Stats|
+|NZ|all|T20|0|0|Stats|
+|BAN|all|T20|2|1|0.50|Stats|
+|UAE|all|T20|3|55|25.00|Stats|
+|PAK|all|T20|15|84|29.92|Stats|
+|## Tim Seifert stats Bowling Against Teams|
+|--|
+|Team|Year|Mode|Inn|Wkts|Eco|Stats|
+|## Tim Seifert stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Eden Park|all|AUS|T20|4|19|9.00|Stats|
+|Eden Park|all|IND|T20|3|33|23.00|Stats|
+|Seddon Park|all|IND|T20|2|43|43.00|Stats|
+|Sky Stadium|all|IND|T20|2|84|70.50|Stats|
+|Bay Oval|all|IND|T20|1|50|50.00|Stats|
+|Sky Stadium|all|ENG|T20|2|16|30.00|Stats|
+|Hagley Oval|all|AUS|T20|1|1|1.00|Stats|
+|University Oval|all|AUS|T20|1|3|3.00|Stats|
+|Sky Stadium|all|AUS|T20|1|4|4.00|Stats|
+|Pallekele International Cricke|all|SL|T20|3|15|12.66|Stats|
+|## Tim Seifert stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|## Tim Seifert stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|NZ TO PAK 2024|PAK|T20|3|52|28.33|Stats|
+|NZ TO PAK 2024|NZ|T20|0|0|Stats|
+|PAK TO NZ 2025|PAK|T20|2|45|44.50|Stats|
+|BAN TO NZ 2023|BAN|T20|2|1|0.50|Stats|
+|NZ TO UAE 2023|UAE|T20|3|55|25.00|Stats|
+|ITONZ 2020|IND|T20|5|57|47.00|Stats|
+|NZ TO ENG 2023|ENG|T20|4|48|28.75|Stats|
+|WITONZ 2020|WI|T20|2|18|17.50|Stats|
+|ICC MENS T20 WC WARMUP MATCHES|AUS|T20|0|0|Stats|
+|PAVNZAIUAE 2018|PKA|T20|2|26|22.50|Stats|
+|## Tim Seifert stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|## Tim Seifert stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|New Zealand|all|WI|T20|2|18|17.50|Stats|
+|New Zealand|all|SL|T20|3|88|84.50|Stats|
+|United Arab Emirates|all|AUS|T20|1|8|8.00|Stats|
+|United Arab Emirates|all|PKA|T20|2|26|22.50|Stats|... |United Arab Emirates|all|ENG|T20|1|8|8.00|Stats|
+|India|all|IND|T20|3|17|14.00|Stats|
+|New Zealand|all|BAN|T20|2|1|0.50|Stats|
+|Pakistan|all|NZ|T20|0|0|Stats|
+|Pakistan|all|PAK|T20|3|52|28.33|Stats|
+|New Zealand|all|NZ|T20|0|0|Stats|... |## Tim Seifert stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|

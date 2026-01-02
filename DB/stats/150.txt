@@ -1,25 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: M. SIDDHARTH
+IPL PLAYER PROFILE: MOHIT RATHEE
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : M. Siddharth
-  IPL Debut                : 2024
-  Date of Birth            : 03 July 1998
-  Total IPL Matches        : 5
-  Role                     : WK-Batter
+  Player Name              : Mohit Rathee
+  IPL Debut                : 2023
+  Date of Birth            : 13 January 1999
+  Total IPL Matches        : 1
+  Role                     : Bowler
   Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    M. Siddharth has been a mainstay in the Tamil Nadu domestic side in the
-  recent few years. The left-arm spinner has been pretty economical in the
-  domestic circuit and has been a part of KKR and DC setups in IPL. He moved
-  to LSG in IPL 2024, where he got the wicket of Virat Kohli as his maiden IPL
-  scalp. Siddharth can drift the ball in the air and extract turn away from
-  the right-handers. LSG showed their trust in him and secured him once again
-  for TATA IPL 2025 at the price of INR 75 Lakh.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -29,9 +19,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    5     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2025   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2024   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+   Career  |    1     |    1     |    1     |    1*    |    -     |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2023   |    1     |    1     |    1     |    1*    |    -     |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -41,10 +30,9 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    5     |    96    |   138    |    3     |   2/39   |  46.00   |   8.63   |  32.00   |    0     |    0    
-    2025   |    2     |    42    |    67    |    2     |   2/39   |  33.50   |   9.57   |  21.00   |    0     |    0    
-    2024   |    3     |    54    |    71    |    1     |   1/21   |  71.00   |   7.89   |  54.00   |    0     |    0    
+   Career  |    1     |    12    |    29    |    0     |   0/29   |    -     |  14.50   |    -     |    0     |    0    
+    2023   |    1     |    12    |    29    |    0     |   0/29   |    -     |  14.50   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/m-siddharth/7119
+Source: https://www.iplt20.com/players/mohit-rathee/5856
 ================================================================================

@@ -1,22 +1,62 @@
 ================================================================================
-IPL PLAYER PROFILE: UTKARSH SINGH
+IPL PLAYER PROFILE: SIMARJEET SINGH
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Utkarsh Singh
-  Date of Birth            : 07 May 1998
-  Total IPL Matches        : 0
+  Player Name              : Simarjeet Singh
+  IPL Debut                : 2022
+  Date of Birth            : 17 January 1998
+  Total IPL Matches        : 14
+  Role                     : Bowler
   Nationality              : Indian
 
-BIOGRAPHY
+BATTING STATISTICS
 --------------------------------------------------------------------------------
-    Utkarsh made his first class debut for Jharkhand in the 2017-18 Ranji
-  Trophy. A hard-hitting batsman is always a preferred option when it comes to
-  the IPL and PBKS picked him in the 2021 IPL auction for INR 20 lakh. The
-  left-handed batsman would be eyeing to make it count at the big stage, given
-  the opportunity.
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    14    |    3     |    10    |    3*    |   3.33   |    15    |  66.67   |    0     |    0     |    0     |    0     |    3     |    0    
+    2025   |    4     |    1     |    3     |    3*    |   1.50   |    7     |  42.86   |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    4     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2022   |    6     |    2     |    7     |    3*    |   7.00   |    8     |  87.50   |    0     |    0     |    0     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    14    |   240    |   400    |    11    |   3/26   |  36.36   |  10.00   |  21.82   |    0     |    0    
+    2025   |    4     |    60    |   141    |    2     |   2/46   |  70.50   |  14.10   |  30.00   |    0     |    0    
+    2024   |    4     |    72    |   121    |    5     |   3/26   |  24.20   |  10.08   |  14.40   |    0     |    0    
+    2022   |    6     |   108    |   138    |    4     |   2/27   |  34.50   |   7.67   |  27.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/utkarsh-singh/3841
+Source: https://www.iplt20.com/players/simarjeet-singh/10789
 ================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Assam|1|1|0|12|12|0|0|1|1|12.00|85.71|-|-|ASM|1200|0|0|4|-|-|-|
+|Bengal|1|1|0|0|0|0|0|0|0|0.00|0.00|1|0|BEN|1201|1|0|4|-|-|-|... |Gujarat|1|2|0|15|15|0|0|3|0|7.50|39.47|1|0|GUJ|1202|1|0|4|-|-|-|
+|Tamil Nadu|1|1|0|19|19|0|0|3|0|19.00|33.33|-|-|TN|1203|0|0|4|-|-|-|... |Punjab|2|3|1|1|1|0|0|0|0|0.50|7.69|-|-|PUN|1208|2|0|4|-|-|-|
+|Hyderabad|2|2|0|11|11|0|0|1|0|5.50|20.75|-|-|HYD|1213|1|0|4|-|-|-|... |Jharkhand|1|0|0|-|-|0|0|0|0|-|0.00|-|-|JHA|1214|0|0|4|-|-|-|
+|Rajasthan|1|1|0|5|5|0|0|1|0|5.00|50.00|-|-|RJS|1217|0|0|4|-|-|-|... |Andhra|2|3|1|15|10|0|0|0|1|7.50|30.61|-|-|AND|1218|0|0|4|-|-|-|
+|Vidarbha|1|1|1|23|23*|0|0|3|0|-|53.48|-|-|VID|1221|0|0|4|-|-|-|... |Maharashtra|1|2|0|12|12|0|0|1|1|6.00|70.58|-|-|MAH|1222|1|0|4|-|-|-|
+|Chhattisgarh|1|1|0|4|4|0|0|0|0|4.00|23.52|-|-|CHA|1531|0|0|4|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Andhra|4|63.3|8|248|4|2/106|0|0|62.00|3.90|95.25|AND|1218|15|4|-|-|-|
+|Assam|1|22|2|96|1|1/96|0|0|96.00|4.36|132.00|ASM|1200|15|4|-|-|-|... |Bengal|1|20.4|1|77|4|4/77|1|0|19.25|3.72|31.00|BEN|1201|15|4|-|-|-|
+|Chhattisgarh|2|27.4|9|71|1|1/44|0|0|71.00|2.56|166.00|CHA|1531|15|4|-|-|-|... |Gujarat|2|31.2|5|103|5|5/75|0|1|20.60|3.28|37.60|GUJ|1202|15|4|-|-|-|
+|Hyderabad|4|65.2|10|214|8|4/23|2|0|26.75|3.27|49.00|HYD|1213|15|4|-|-|-|... |Jharkhand|1|27.4|12|52|3|3/52|1|0|17.33|1.87|55.33|JHA|1214|15|4|-|-|-|
+|Maharashtra|2|37|9|77|4|4/69|1|0|19.25|2.08|55.50|MAH|1222|15|4|-|-|-|... |Punjab|3|44|8|151|7|4/43|1|0|21.57|3.43|37.71|PUN|1208|15|4|-|-|-|
+|Rajasthan|2|34.2|4|121|5|4/46|1|0|24.20|3.52|41.20|RJS|1217|15|4|-|-|-|... |Tamil Nadu|1|17|5|68|0|0/68|0|0|-|4.00|-|TN|1203|15|4|-|-|-|
+|Vidarbha|2|33.5|8|107|4|4/39|1|0|26.75|3.16|50.75|VID|1221|15|4|-|-|-|... |Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|DNB|3/52|Jharkhand|Nov 13, 2024|
+|4(17)|1/44 & 0/27|Chhattisgarh|Oct 11, 2024|... |12(14) & DNB|1/96|Assam|Dec 20, 2022|
+|0(2) & 12(15)|4/69 & 0/8|Maharashtra|Dec 13, 2022|
+|19(57) & DNB|0/68|Tamil Nadu|Feb 17, 2022|

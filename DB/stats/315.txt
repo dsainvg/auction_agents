@@ -1,54 +1,29 @@
-================================================================================
-IPL PLAYER PROFILE: NATHAN ELLIS
-================================================================================
+## Akash Pugazhanthi
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Nathan Ellis
-  IPL Debut                : 2021
-  Date of Birth            : 22 September 1994
-  Total IPL Matches        : 17
-  Role                     : WK-Batter
-  Nationality              : Australian
+Puducherry
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-    Australian speedster Nathan Ellis has made a name for himself as a
-  specialist in T20 cricket with his variations and ability to bowl under
-  pressure. A smart operator, Ellis is a wicket-taker who can bowl in
-  different phases of the game. After four seasons with Punjab Kings, Ellis
-  was snapped up by CSK for INR 2 Crore at the 2025 TATA IPL Auction.
+NationalityIND
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    17    |    1     |    19    |    12    |   4.75   |    25    |  76.00   |    0     |    0     |    0     |    1     |    3     |    0    
-    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2024   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2023   |    10    |    0     |    1     |    1     |   0.50   |    7     |  14.29   |    0     |    0     |    0     |    0     |    2     |    0    
-    2022   |    2     |    0     |    0     |    0     |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
-    2021   |    3     |    1     |    18    |    12    |  18.00   |    16    |  112.50  |    0     |    0     |    0     |    1     |    0     |    0    
+Position
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    17    |   384    |   554    |    19    |   4/30   |  29.16   |   8.66   |  20.21   |    1     |    0    
-    2025   |    1     |    24    |    38    |    1     |   1/38   |  38.00   |   9.50   |  24.00   |    0     |    0    
-    2024   |    1     |    24    |    24    |    1     |   1/24   |  24.00   |   6.00   |  24.00   |    0     |    0    
-    2023   |    10    |   228    |   339    |    13    |   4/30   |  26.08   |   8.92   |  17.54   |    1     |    0    
-    2022   |    2     |    36    |    55    |    3     |   3/40   |  18.33   |   9.17   |  12.00   |    0     |    0    
-    2021   |    3     |    72    |    98    |    1     |   1/12   |  98.00   |   8.16   |  72.00   |    0     |    0    
+Batter
 
-================================================================================
-Source: https://www.iplt20.com/players/nathan-ellis/17118
-================================================================================
+Batting
+
+Left
+
+Bowling
+
+Off Spin
+
+### Akash Pugazhanthi
+
+Akash Pugazhanthi statistics are available during live games and after every game played.
+
+Akash Pugazhanthi statistics may be available on Sofascore for some of the games.... ## Akash PugazhanthiPuducherryIndiaBatterLeftOff SpinMatches
+
+### Akash Pugazhanthi
+
+Akash Pugazhanthi statistics are available during live games and after every game played.
+
+Akash Pugazhanthi statistics may be available on Sofascore for some of the games.Advertisement

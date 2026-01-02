@@ -1,27 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: GLENN PHILLIPS
+IPL PLAYER PROFILE: DASUN SHANAKA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Glenn Phillips
-  IPL Debut                : 2021
-  Date of Birth            : 06 December 1996
-  Total IPL Matches        : 8
-  Role                     : WK-Batter
-  Nationality              : New Zealander
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  A player who can bat explosively, bowl off-spin, keep wickets, and field
-  like a livewire, Glenn Phillips is a true multi-dimensional cricketer. The
-  South Africa-born New Zealand international has been a consistent performer
-  for the Black Caps, with a century in the T20 World Cup 2022 to his name. He
-  also had IPL stints with Rajasthan Royals and Sunrisers Hyderabad. His
-  recent Champions Trophy 2025 campaign, where he played a crucial role in New
-  Zealand’s runners-up finish, further established his credentials, especially
-  with his multiple one-handed stunners on the field. Gujarat Titans secured
-  his services for INR 2 Crore at the 2025 TATA IPL Auction.
+  Player Name              : Dasun shanaka
+  IPL Debut                : 2023
+  Date of Birth            : 09 September 1991
+  Total IPL Matches        : 3
+  Nationality              : Sri Lankan
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -31,9 +18,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    8     |    1     |    65    |    25    |   9.29   |    55    |  118.18  |    0     |    0     |    3     |    6     |    3     |    0    
-    2023   |    5     |    0     |    39    |    25    |   7.80   |    22    |  177.27  |    0     |    0     |    2     |    4     |    2     |    0    
-    2021   |    3     |    1     |    26    |   14*    |  13.00   |    33    |  78.78   |    0     |    0     |    1     |    2     |    1     |    0    
+   Career  |    3     |    1     |    26    |    17    |  13.00   |    26    |  100.00  |    0     |    0     |    2     |    1     |    2     |    0    
+    2023   |    3     |    1     |    26    |    17    |  13.00   |    26    |  100.00  |    0     |    0     |    2     |    1     |    2     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -43,10 +29,53 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    8     |    30    |    40    |    2     |   1/10   |  20.00   |   8.00   |  15.00   |    0     |    0    
-    2023   |    5     |    18    |    20    |    1     |   1/10   |  20.00   |   6.67   |  18.00   |    0     |    0    
-    2021   |    3     |    12    |    20    |    1     |   1/17   |  20.00   |  10.00   |  12.00   |    0     |    0    
+   Career  |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/glenn-phillips/3027
+Source: https://www.iplt20.com/players/dasun-shanaka/1095
 ================================================================================
+**Madagamagamage Dasun Shanaka** (born 9 September 1991) is a professional Sri Lankan cricketer who serves as the captain of the Sri Lanka national cricket team in Twenty20 Internationals.
+
+An all-rounder, Shanaka is a right-arm medium-fast bowler and an aggressive lower-order batsman.... In 2019, he captained the Twenty20 International (T20I) side against Pakistan, with Sri Lanka whitewashing Pakistan 3–0 in the series under his captaincy. In February 2021, ahead of their tour of the West Indies, Shanaka was formally appointed as Sri Lanka's T20I captain, replacing Lasith Malinga. In July 2021, Shanaka was also named as the captain of Sri Lanka's One Day International (ODI) squad for their series against India. Shanaka led Sri Lanka to win the 2022 Asia Cup, the six title the team won.... ## Domestic and T20 franchise career
+
+In May 2016, Shanaka scored a century against Leicestershire County Cricket Club in a first-class match on the tour of England.
+
+In March 2018, he was named the vice-captain of Galle's squad for the 2017–18 Super Four Provincial Tournament. The following month, he was also named as the vice-captain of Galle's squad for the 2018 Super Provincial One Day Tournament.... On 3 June 2018, he was selected to play for the Montreal Tigers in the players' draft for the inaugural edition of the Global T20 Canada tournament. In August 2018, he was named in Kandy's squad the 2018 SLC T20 League. He was the leading run-scorer for Kandy in the tournament, with 312 runs in six matches, including a century in Kandy's final match.... In October 2018, he was named in the squad for the Chittagong Vikings team, following the draft for the 2018–19 Bangladesh Premier League. In March 2019, he was named in Dambulla's squad for the 2019 Super Provincial One Day Tournament. In November 2019, he was selected to play for the Cumilla Warriors in the 2019–20 Bangladesh Premier League.... In October 2020, he was drafted by the Dambulla Viiking for the inaugural edition of the Lanka Premier League. In August 2021, he was named as the captain of the SLC Greys team for the 2021 SLC Invitational T20 League tournament. Shanaka was the leading run-scorer in the tournament, and he was named the player of the series.... In November 2021, he was selected to play for the Dambulla Giants following the players' draft for the 2021 Lanka Premier League. In July 2022, he was signed by the Dambulla Giants for the third edition of the Lanka Premier League.... On 5 February 2023, in International League T20 against Mumbai Indians Emirates Dasun scored 15th T20 half century. He scored unbeaten 58 runs from 36 balls. He also put 122 run partnership with Sikander Raza and brought 7 wicket victory for Dubai Capitals. Due to his knock Dasun won player of the match award.... In the Eliminator match Mumbai Indians Emirates beat Dubai Capitals at Sharjah. They are left of the tournament. Later Same month Shanaka joined with Rangpur Riders in Bangladesh Premier League 2023. He played two matches in BPL 2023 and he took 4 wickets. In February 2023 he signed with Peshawar Zalmi in Pakistan Super League.... In April 2023, he was signed by Gujarat Titans for the 2023 Indian Premier League as a replacement player for Kane Williamson.... ## International career
+
+### Debut years
+
+He was named in Sri Lanka's Twenty20 International (T20I) squad for their series against Pakistan in July 2015. He made his T20I debut on 1 August 2015 as the 58th T20I cap for Sri Lanka.... He made his Test debut for Sri Lanka on 19 May 2016 against England on the same tour. He was the 134th Test player for Sri Lanka. He took his first Test wicket by dismissing England captain Alastair Cook. Though he took 3 for 46 runs, he only scored 4 runs in the two innings, and Sri Lanka lost the match by an innings and 88 runs.... He made his One Day International (ODI) debut against Ireland on 16 June 2016. Shanaka scored 42 runs from 19 balls. Bowling, he took five wickets for 42 runs. He became the twelfth player, and third Sri Lankan, to take five wickets on debut in an ODI. After the two matches against Ireland, he was named as the player of the series.... ### All-round ability
+
+He was re-called for the one-off T20I against India in September 2017. Shanaka was out LBW for nought in the match and did not bowl. India won the match by 8 wickets.
+
+During the second Test against India, Shanaka was found guilty of changing the condition of the ball. The incident was caught on cameras and informed to the match referee David Boon by on-field umpires as well as the third umpire. By being found guilty, Shanaka was fined 75% of his match fee and handed three demerit points.... In May 2018, he was one of 33 cricketers to be awarded a national contract by Sri Lanka Cricket ahead of the 2018–19 season.... Shanaka was included in the ODI squad for South Africa series in 2018. However, he was not included in the playing XI in the first three matches. In the fourth ODI against South Africa on 8 August 2018 at Pallekele Cricket Stadium, Shanka top-scored with 65 off 34 balls, which marked his maiden ODI fifty.... The innings witnessed 4 fours and 5 huge sixes with a strike rate of 191. Shanka along with Thisara Perera breakneck seventh-wicket stand of 109 runs to lift Sri Lanka to pass 300+ in a rain-hit day. During the fielding, Shanaka took the wicket of Reeza Hendricks and was involved in the run out of JP Duminy.... Sri Lanka finally won the match by 3 runs, by the D/L method, which was their first win against South Africa after 11 consecutive losses. For his all-round match-winning performances, Shanaka was adjudged man of the match.... ### Captaincy
+
+In September 2019, Shanaka was named as the captain of Sri Lanka's T20I squad for the series against Pakistan in Pakistan. Under his captaincy, Sri Lanka won the first T20I by 64 runs. This was Sri Lanka's first T20I win against Pakistan in six years. Shanaka lead Sri Lanka in winning all three T20Is against Pakistan, which was Sri Lanka's first T20I series whitewash, and Pakistan's first whitewash loss.... In the meantime, he became only the third captain to win their first three T20I against Pakistan along with MS Dhoni and Michael Clarke. In February 2021, Shanaka was again named as Sri Lanka's T20I captain, this time for their series against the West Indies. However, he missed the T20I matches, after he was unable to travel due to visa issues.... After Sri Lanka lost the series against England in June 2021, Kusal Perera was removed as the team's captain, with Shanaka reappointed as captain for the limited overs series against India. Under his captaincy, the ODI series was lost 2–1. However, Sri Lanka won the T20I series 2–1, recording the first bilateral T20I series win against India.... In September, Sri Lanka played a limited over series against South Africa, where Shanaka was lifted as the regular captain of ODI squad. Sri Lanka later won the ODI series 2–1, which is recorded as the first series win over South Africa after 8 years. Later the same month, Shanaka was named as the captain of Sri Lanka's squad for the 2021 ICC Men's T20 World Cup.... In January 2022, in the second fixture against Zimbabwe, Shanaka scored his first century in an ODI match, with 102 runs. Despite his century, Sri Lanka lost the match by 22 runs. On 11 June 2022, Shanaka made a match-winning batting performance against Australia. Sri Lanka needed 59 runs from the final three overs.... Shanaka, who had scored 6 runs in 12 balls, then made 48 off his next 13 deliveries, with Sri Lanka reaching their target with one ball to spare. Shanaka later won the man of the match for his fifty. However, Australia won the series 2–1.... In September 2022, Shanaka captained Sri Lanka in the 2022 Asia Cup twenty20 series held in the UAE. In the first match against Afghanistan, Sri Lanka lost the match by 8 wickets. However, in the next match against Bangladesh, Shanaka made a match-winning knock of 45 runs and Sri Lanka later won the match by 1 wicket and entered Super 4 round.... Sri Lanka met Afghanistan again in Super 4s, where this time completed a four-wicket win in the first match of the Super 4 round with a ground record chase at Sharjah of 174. After two consecutive wins, Sri Lanka made another match winning chase against India in the next match by 6 wickets.... In the last Super 4 match against Pakistan, Shanaka led the team from the front and won the match comprehensively with a fourth consecutive chase. In the final, Shanaka lost the toss and batted first. After a match-winning partnership by Bhanuka Rajapaksa and Wanindu Hasaranga, Sri Lanka posted a total of 170 runs. Pakistan in chase lost the plot and ended 23 runs short. Sri Lanka finally won the Asia Cup title for the sixth time under Shanaka's captaincy.... On 5 January 2023, against India, Dasun scored his 5th T20I half-century. He scored unbeaten 56 runs from 22 balls hitting two boundaries and six sixes putting 206 runs on the board. While bowling, he took two wickets in the final over and helped Sri Lanka to a 16-run victory. Due to his all-round performance, Dasun won the Player of the Match award.... On 10 January 2023, against India in the first ODI match, Dasun Shanaka scored his 2nd ODI century in a losing cause. He scored unbeaten 108 runs from 88 deliveries hitting 12 boundaries and three sixes.
+
+After failing to directly qualify for the 2023 Cricket World Cup, Sri Lanka was forced to play a World Cup Qualifier to enter the competition. Sri Lanka won all eight matches including the final to qualify for the World Cup under Dasun Shanaka's captaincy.... Dasun led the victory against Bangladesh at the first match of Asia Cup 2023. This was Sri Lanka’s record 11th consecutive ODI win after being unbeaten in World Cup qualifiers. Sri Lanka also created history in men’s ODI cricket, clinching 11 consecutive all-out dismissals of opponents. Australia and South Africa managed 10 in a row previously.
+
+In May 2024, he was named in Sri Lanka’s squad for the 2024 ICC Men's T20 World Cup tournament.... ## Personal life
+
+Shanaka got married on 5 September 2020 to his girlfriend Chevanthi, who have been together for almost three years. Their wedding was held at the Avanra Garden Hotel in Negombo.
+
+## References... ## External links
+- Dasun Shanaka at ESPNcricinfo
+
+Categories: - 1991 births... - Living people
+- Sri Lankan cricketers
+- Sri Lanka Test cricketers
+- Sri Lanka One Day International cricketers
+- Sri Lanka Twenty20 International cricketers
+- 21st-century Sri Lankan sportsmen
+- People from Negombo
+- Colombo Commandos cricketers
+- Cricketers who have taken five wickets on One Day International debut... - Alumni of Maris Stella College
+- Rangpur Riders cricketers
+- Sri Lankan expatriate cricketers in Bangladesh
+- Sylhet Strikers cricketers
+- Saint Lucia Kings cricketers
+- Chattogram Challengers cricketers
+- Dambulla Aura cricketers
+- Gujarat Titans cricketers... - Sri Lankan expatriate cricketers in India
+- Cricketers from Western Province, Sri Lanka

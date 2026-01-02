@@ -1,26 +1,29 @@
 ================================================================================
-IPL PLAYER PROFILE: DAVID MILLER
+IPL PLAYER PROFILE: DEEPAK HOODA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : David Miller
-  IPL Debut                : 2012
-  Date of Birth            : 10 June 1989
-  Total IPL Matches        : 141
-  Role                     : Batter
-  Nationality              : South African
+  Player Name              : Deepak Hooda
+  IPL Debut                : 2015
+  Date of Birth            : 19 April 1995
+  Total IPL Matches        : 125
+  Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  After playing for Kings XI Punjab over number of years, David Miller was
-  bought by Rajasthan Royals bought the South African for INR 75 lakh during
-  the IPL Players Auction ahead of IPL 2020 and despite playing just one game
-  in the IPL 2020, retained him for the IPL 2021, keeping in mind his ability
-  to single-handedly change the course of the match. His 38-ball hundred
-  against RCB in his in 2013 is still remembered by the IPL fans. The
-  left-handed batsman has grown to become South Africaâ€™s middle order mainstay
-  and will be an important member for RR.
+  Deepak Hooda made his Indian Premier League debut with the Rajasthan
+  Royals. The youngster, who has established a reputation of being a powerful
+  striker of the cricket ball, has been in the know for the Sunrisers of late.
+  His gentle off-spinners and hard-hitting lower down the order has been
+  recognised and the franchise sees some potential in the youngster. He has
+  not quite set the stage on fire but he can be a handy all-rounder. Sunrisers
+  over the years have trusted his abilities lower down the order and he played
+  a similar role for PBKS in the 2020 season after being bought for INR 50
+  lakh at the IPL auction. He has a reputation of successfully finishing the
+  innings with the bat and can quickly help recover the team in case of early
+  wickets. If he fires at the right time, the PBKS batting unit will be a
+  settled one in the 2021 season.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -30,21 +33,18 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   141    |    49    |   3077   |   101*   |  36.20   |   2220   |  138.60  |    1     |    13    |   220    |   138    |    80    |    0    
-    2025   |    11    |    6     |   153    |   27*    |  30.60   |   120    |  127.50  |    0     |    0     |    13    |    4     |    5     |    0    
-    2024   |    9     |    3     |   210    |    55    |  35.00   |   139    |  151.08  |    0     |    1     |    20    |    8     |    5     |    0    
-    2023   |    16    |    5     |   259    |    46    |  32.38   |   178    |  145.51  |    0     |    0     |    18    |    13    |    11    |    0    
-    2022   |    16    |    9     |   481    |   94*    |  68.71   |   337    |  142.73  |    0     |    2     |    32    |    23    |    6     |    0    
-    2021   |    9     |    3     |   124    |    62    |  24.80   |   113    |  109.73  |    0     |    1     |    11    |    3     |    4     |    0    
-    2020   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2019   |    10    |    2     |   213    |   59*    |  26.62   |   164    |  129.87  |    0     |    1     |    19    |    7     |    7     |    0    
-    2018   |    3     |    1     |    74    |    26    |  37.00   |    64    |  115.62  |    0     |    0     |    3     |    2     |    0     |    0    
-    2017   |    5     |    1     |    83    |   30*    |  27.66   |    80    |  103.75  |    0     |    0     |    4     |    4     |    2     |    0    
-    2016   |    14    |    3     |   161    |    31    |  16.10   |   131    |  122.90  |    0     |    0     |    11    |    4     |    10    |    0    
-    2015   |    13    |    2     |   357    |   89*    |  32.45   |   266    |  134.21  |    0     |    2     |    21    |    21    |    7     |    0    
-    2014   |    16    |    6     |   446    |    66    |  44.60   |   299    |  149.16  |    0     |    3     |    34    |    21    |    14    |    0    
-    2013   |    12    |    5     |   418    |   101*   |  59.71   |   254    |  164.56  |    1     |    3     |    28    |    24    |    8     |    0    
-    2012   |    6     |    3     |    98    |   34*    |  32.66   |    75    |  130.66  |    0     |    0     |    6     |    4     |    1     |    0    
+   Career  |   125    |    16    |   1496   |    64    |  17.60   |   1172   |  127.65  |    0     |    8     |    98    |    62    |    57    |    0    
+    2025   |    7     |    0     |    31    |    22    |   6.20   |    41    |  75.61   |    0     |    0     |    2     |    1     |    3     |    0    
+    2024   |    11    |    1     |   145    |    50    |  18.13   |   105    |  138.10  |    0     |    1     |    16    |    3     |    4     |    0    
+    2023   |    12    |    1     |    84    |    17    |   7.64   |    90    |  93.33   |    0     |    0     |    3     |    2     |    10    |    0    
+    2022   |    15    |    0     |   451    |    59    |  32.21   |   330    |  136.67  |    0     |    4     |    36    |    18    |    8     |    0    
+    2021   |    12    |    1     |   160    |    64    |  16.00   |   123    |  130.08  |    0     |    1     |    9     |    9     |    7     |    0    
+    2020   |    7     |    4     |   101    |   62*    |  101.00  |    71    |  142.25  |    0     |    1     |    5     |    5     |    3     |    0    
+    2019   |    11    |    1     |    64    |    20    |  10.66   |    63    |  101.58  |    0     |    0     |    5     |    1     |    10    |    0    
+    2018   |    9     |    4     |    87    |   32*    |  21.75   |    81    |  107.40  |    0     |    0     |    2     |    3     |    3     |    0    
+    2017   |    10    |    3     |    78    |   19*    |  26.00   |    52    |  150.00  |    0     |    0     |    5     |    4     |    5     |    0    
+    2016   |    17    |    1     |   144    |    34    |  10.28   |   121    |  119.00  |    0     |    0     |    9     |    5     |    3     |    0    
+    2015   |    14    |    0     |   151    |    54    |  16.77   |    95    |  158.94  |    0     |    1     |    6     |    11    |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -54,22 +54,1630 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   141    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2021   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    1     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
-    2019   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2017   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2015   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2014   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2013   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2012   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |   125    |   379    |   546    |    10    |   2/16   |  54.60   |   8.64   |  37.90   |    0     |    0    
+    2025   |    7     |    6     |    15    |    0     |   0/15   |    -     |  15.00   |    -     |    0     |    0    
+    2024   |    11    |    18    |    22    |    0     |   0/9    |    -     |   7.33   |    -     |    0     |    0    
+    2023   |    12    |    6     |    8     |    0     |   0/8    |    -     |   8.00   |    -     |    0     |    0    
+    2022   |    15    |    24    |    43    |    1     |   1/31   |  43.00   |  10.75   |  24.00   |    0     |    0    
+    2021   |    12    |    96    |   136    |    2     |   1/15   |  68.00   |   8.50   |  48.00   |    0     |    0    
+    2020   |    7     |    6     |    9     |    0     |   0/9    |    -     |   9.00   |    -     |    0     |    0    
+    2019   |    11    |    12    |    21    |    1     |   1/13   |  21.00   |  10.50   |  12.00   |    0     |    0    
+    2018   |    9     |    18    |    24    |    0     |   0/8    |    -     |   8.00   |    -     |    0     |    0    
+    2017   |    10    |    24    |    42    |    2     |   1/7    |  21.00   |  10.50   |  12.00   |    0     |    0    
+    2016   |    17    |    78    |    97    |    3     |   2/16   |  32.33   |   7.46   |  26.00   |    0     |    0    
+    2015   |    14    |    91    |   129    |    1     |   1/35   |  129.00  |   8.50   |  91.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/david-miller/187
+Source: https://www.iplt20.com/players/deepak-hooda/1556
 ================================================================================
+Edition
+
+IN
+
+IN
+
+US
+
+English
+
+English
+
+हिन्दी
+
+मराठी
+
+ಕನ್ನಡ
+
+தமிழ்
+
+বাংলা
+
+മലയാളം
+
+తెలుగు
+
+ગુજરાતી
+
+Weather
+
+Sign In
+
+TOI
+
+IPL
+
+Schedule
+
+MI Schedule
+
+CSK Schedule
+
+RR Schedule
+
+KKR Schedule
+
+RCB Schedule... LSG Schedule
+
+GT Schedule
+
+DC Schedule
+
+PBKS Schedule
+
+SRH Schedule
+
+points table
+
+IPL Live Score
+
+IPL Results
+
+Orange Cap
+
+Purple Cap
+
+Teams
+
+MI IPL Squad
+
+RCB IPL Squad
+
+LSG IPL Squad
+
+CSK IPL Squad
+
+GT IPL Squad
+
+KKR IPL Squad
+
+RR IPL Squad... DC IPL Squad
+
+PBKS IPL Squad
+
+SRH IPL Squad
+
+Playoffs
+
+stats
+
+All-Time Records
+
+Highest IPL Score
+
+Most IPL Wickets
+
+Highest Innings Score
+
+Most IPL 6
+
+Team with Most Wins
+
+Prediction Hub
+
+photos
+
+News
+
+SPORTS NEWS
+
+CRICKET NEWS
+
+IPL
+
+DEEPAK HOODA IPL STATS... Deepak Hooda IPL Stats
+
+Deepak Hooda
+
+(Current/Last Team: CSK)
+
+Deepak Hooda
+
+(Current/Last Team: CSK)
+
+Nationality:
+
+India
+
+Date of Birth:
+
+19/04/1995
+
+Role:
+
+All Rounder
+
+Batting style:
+
+Right Handed
+
+Bowling style:... Off break
+
+Nick Name:
+
+
+
+IPL Debut
+
+Date:
+
+10/04/2015
+
+For Team:
+
+RR
+
+Against Team:
+
+PBKS
+
+Venue:
+
+Maharashtra Cricket Association Stadium, Pune
+
+Deepak Hooda Career Information
+
+Teams Played
+
+India
+
+India A
+
+India B
+
+India Blue
+
+West Zone... Punjab Kings
+
+Chennai Super Kings
+
+Rajasthan Royals
+
+India Under-19
+
+Rajasthan
+
+Baroda
+
+Sunrisers Hyderabad
+
+India Under-23
+
+Lucknow Super Giants
+
+Jaanbaaz Kota Challengers
+
+Deepak Hooda IPL Highest Score & Best Bowling Record
+
+Highest Score
+
+64
+
+Runs... Against RR in 2021
+
+Best Bowling Record
+
+2/16
+
+Against KKR in 2016
+
+Deepak Hooda Performance in Last 10 IPL Matches
+
+Season 2025 - 2026
+
+(played for CSK)
+
+No.
+
+vs
+
+Batting
+
+Bowling
+
+1
+
+vs Gujarat Titans... 0
+
+(0)
+
+0
+
+/15
+
+2
+
+vs Royal Challengers Bengaluru
+
+0
+
+(0)
+
+0
+
+/0
+
+3
+
+vs Punjab Kings
+
+2
+
+(2)
+
+0
+
+/0
+
+4
+
+vs Sunrisers Hyderabad
+
+22
+
+(21)
+
+0
+
+/0
+
+5
+
+vs Kolkata Knight Riders... 0
+
+(4)
+
+0
+
+/0
+
+6
+
+vs Royal Challengers Bengaluru
+
+4
+
+(9)
+
+0
+
+/0
+
+7
+
+vs Mumbai Indians
+
+3
+
+(5)
+
+0
+
+/0
+
+Season 2024 - 2025
+
+(played for LSG)
+
+No.
+
+vs
+
+Batting... Bowling
+
+1
+
+vs Mumbai Indians
+
+11
+
+(9)
+
+0
+
+/0
+
+2
+
+vs Delhi Capitals
+
+0
+
+(2)
+
+0
+
+/9
+
+3
+
+vs Sunrisers Hyderabad
+
+0
+
+(0)
+
+0
+
+/0
+
+Deepak Hooda Overall IPL Records
+
+Batting Records... MAT
+
+HS
+
+INS
+
+N/O
+
+R
+
+BF
+
+100s
+
+50s
+
+4s
+
+6s
+
+AVG
+
+S/R
+
+Overall
+
+125
+
+64 vs RR
+
+101
+
+16
+
+1496
+
+1172
+
+0
+
+8
+
+98
+
+62
+
+17.60
+
+127.65
+
+2025... 7
+
+22 vs SRH
+
+5
+
+0
+
+31
+
+41
+
+0
+
+0
+
+2
+
+1
+
+6.2
+
+75.61
+
+2024
+
+11
+
+50 vs RR
+
+9
+
+1
+
+145
+
+105
+
+0
+
+1
+
+16
+
+3
+
+18.13
+
+138.1
+
+2023... 12
+
+17 vs DC
+
+12
+
+1
+
+84
+
+90
+
+0
+
+0
+
+3
+
+2
+
+7.64
+
+93.33
+
+2022
+
+15
+
+59 vs RR
+
+14
+
+0
+
+451
+
+330
+
+0
+
+4
+
+36
+
+18
+
+32.21
+
+136.67
+
+2021... 12
+
+64 vs RR
+
+11
+
+1
+
+160
+
+123
+
+0
+
+1
+
+9
+
+9
+
+16
+
+130.08
+
+2020
+
+7
+
+62 vs CSK
+
+5
+
+4
+
+101
+
+71
+
+0
+
+1
+
+5
+
+5
+
+101
+
+142.25
+
+2019
+
+11... 20 vs MI
+
+7
+
+1
+
+64
+
+63
+
+0
+
+0
+
+5
+
+1
+
+10.67
+
+101.59
+
+2018
+
+9
+
+32 vs MI
+
+8
+
+4
+
+87
+
+81
+
+0
+
+0
+
+2
+
+3
+
+21.75
+
+107.41
+
+2017
+
+10... 19 vs RPS
+
+6
+
+3
+
+78
+
+52
+
+0
+
+0
+
+5
+
+4
+
+26
+
+150
+
+2016
+
+17
+
+34 vs PBKS
+
+15
+
+1
+
+144
+
+121
+
+0
+
+0
+
+9
+
+5
+
+10.29
+
+119.01
+
+2015
+
+14
+
+54 vs DC... 9
+
+0
+
+151
+
+95
+
+0
+
+1
+
+6
+
+11
+
+16.78
+
+158.95
+
+Bowling Records
+
+MAT
+
+BEST
+
+INS
+
+B
+
+MDNS
+
+WKTS
+
+AVG
+
+S/R
+
+ECON
+
+3WK
+
+4WK
+
+5WK
+
+Overall
+
+125
+
+2/16 vs KKR... 34
+
+379
+
+0
+
+10
+
+54.60
+
+37.90
+
+8.64
+
+0
+
+0
+
+0
+
+2025
+
+7
+
+0/15 vs GT
+
+1
+
+6
+
+0
+
+0
+
+0
+
+0
+
+15
+
+0
+
+0
+
+0
+
+2024
+
+11
+
+0/9 vs DC... 2
+
+18
+
+0
+
+0
+
+0
+
+0
+
+7.33
+
+0
+
+0
+
+0
+
+2023
+
+12
+
+0/8 vs SRH
+
+1
+
+6
+
+0
+
+0
+
+0
+
+0
+
+8
+
+0
+
+0
+
+0
+
+2022
+
+15
+
+1/31 vs GT... 2
+
+24
+
+0
+
+1
+
+43
+
+24
+
+10.75
+
+0
+
+0
+
+0
+
+2021
+
+12
+
+1/15 vs MI
+
+7
+
+96
+
+0
+
+2
+
+68
+
+48
+
+8.5
+
+0
+
+0
+
+0
+
+2020
+
+7
+
+0/9 vs MI... 1
+
+6
+
+0
+
+0
+
+0
+
+0
+
+9
+
+0
+
+0
+
+0
+
+2019
+
+11
+
+1/13 vs DC
+
+2
+
+12
+
+0
+
+1
+
+21
+
+12
+
+10.5
+
+0
+
+0
+
+0
+
+2018
+
+9
+
+0/8 vs CSK... 2
+
+18
+
+0
+
+0
+
+0
+
+0
+
+8
+
+0
+
+0
+
+0
+
+2017
+
+10
+
+1/7 vs RCB
+
+3
+
+24
+
+0
+
+2
+
+21
+
+12
+
+10.5
+
+0
+
+0
+
+0
+
+2016
+
+17
+
+2/16 vs KKR... 6
+
+78
+
+0
+
+3
+
+32.33
+
+26
+
+7.46
+
+0
+
+0
+
+0
+
+2015
+
+14
+
+1/35 vs PBKS
+
+7
+
+91
+
+0
+
+1
+
+129
+
+91
+
+8.51
+
+0
+
+0
+
+0
+
+Fielding Records
+
+Catches... Stumping
+
+Run Outs
+
+Overall
+
+55
+
+0
+
+5
+
+2025
+
+3
+
+0
+
+0
+
+2024
+
+2
+
+0
+
+0
+
+2023
+
+10
+
+0
+
+1
+
+2022
+
+8
+
+0
+
+0
+
+2021
+
+7
+
+0
+
+0
+
+2020
+
+3
+
+0... 0
+
+2019
+
+10
+
+0
+
+1
+
+2018
+
+3
+
+0
+
+0
+
+2017
+
+5
+
+0
+
+0
+
+2016
+
+3
+
+0
+
+2
+
+2015
+
+1
+
+0
+
+1
+
+Chennai Super Kings Team
+
+Chennai Super Kings
+
+2010
+
+2011
+
+2018... 2021
+
+2023
+
+Captain
+
+Ruturaj Dashrat Gaikwad
+
+Team Stats
+
+Played
+
+253
+
+Won
+
+142
+
+Lost
+
+108
+
+Tied
+
+1
+
+N/R
+
+2
+
+Head Coach
+
+Stephen Paul Fleming
+
+Batting Coach
+
+Michael Edward Killeen Hussey
+
+Fielding Coach... Rajiv Kumar
+
+CSK Squad
+
+Team
+
+Batters
+
+Wicket Keepers
+
+All Rounders
+
+Bowlers
+
+Batters
+
+Andre Siddarth
+
+Ayush Mhatre
+
+Devon Conway
+
+Rahul Tripathi
+
+Shaik Rasheed
+
+Wicket keepers
+
+MS Dhoni
+
+Urvil Patel... All Rounders
+
+Deepak Hooda
+
+Dewald Brevis
+
+Jamie Overton
+
+Rachin Ravindra
+
+Ramakrishna Ghosh
+
+Ravichandran Ashwin
+
+Ravindra Jadeja
+
+Sam Curran
+
+Shivam Dube
+
+Vijay Shankar
+
+Bowlers... Anshul Kamboj
+
+Kamlesh Nagarkoti
+
+Khaleel Ahmed
+
+Matheesha Pathirana
+
+Mukesh Choudhary
+
+Nathan Ellis
+
+Noor Ahmad
+
+Shreyas Gopal
+
+Explore Every Corner
+
+Across The Globe
+
+Adam Sandler
+
+Stephen Curry Wife
+
+Los Angeles Lakers vs Golden State Warriors... PAK vs SA Live Score
+
+Navjot Singh
+
+Doug Martin Death Reason
+
+Asmongold Net Worth
+
+Oklahoma City Thunder vs Houston Rockets
+
+Michael Penix Jr
+
+Naroditskys Death
+
+Nicolas Sarkozy
+
+Tallest NBA Players
+
+Lauren Kyle
+
+Stephen Curry
+
+Orionid Meteor Shower
+
+Chennai School Holiday... Daniel Naroditsky
+
+Sean Diddy
+
+H1B Visa Fee
+
+China Cyberattack
+
+White House Demolition
+
+Top Streamers Who Finished God of War
+
+Aaron Rodgers
+
+Income tax refund... UAE Golden Visa
+
+Bihar elections 2025
+
+Virat and Anushka Combine Networth
+
+Josh Allen
+
+Muhurat Trading 2025
+
+Muhurat trading Stocks
+
+About us
+
+Create Your Own Ad
+
+Terms of Use and Grievance Redressal Policy
+
+Privacy policy
+
+Advertise with us... RSS
+
+Newsletter
+
+Feedback
+
+ePaper
+
+Sitemap
+
+Archives
+
+Living and Entertainment
+
+Cricbuzz
+
+Lifestyle
+
+Newspaper Subscription
+
+Food News
+
+TV
+
+Times Prime
+
+Travel Destinations
+
+Whats Hot
+
+ETimes
+
+Times Life
+
+Times Pets
+
+MyLifeXP
+
+Services
+
+CouponDunia
+
+TechGig... TimesJobs
+
+Bollywood News
+
+Times Mobile
+
+Gadgets
+
+Times Events
+
+Work with Us
+
+Colombia
+
+Hot on the Web
+
+Govardhan Puja 2025
+
+IMD Weather Warning
+
+Alia Bhatt
+
+Pooja Bedi
+
+Thamma X Review
+
+Deepika Padukone... Psoriatic Arthritis Symptoms
+
+Cholesterol Lowering Foods
+
+Asrani
+
+Diwali Puja Time
+
+Blood Sugar Control
+
+Parineeti Chopra
+
+Delhi Air Pollution
+
+Kidney Problem Symptoms
+
+Parineeti Chopra Baby News
+
+Vande Bharat Sleeper Train 2025
+
+Heart Death Risk
+
+Jackie Shroff... Heart Health
+
+Lower Cholesterol
+
+Kidney Heath
+
+Cholesterol Lowering Foods
+
+Harrdy Sandu
+
+Lokah Chapter 1
+
+Miracle Seed
+
+Lemon Water Benefits
+
+Facial Paralysis Symptoms
+
+Brown Eggs Vs White Eggs
+
+Bison Kalamaadan Movie Review
+
+Kantara Box Office Collection... Elephant Safari National Park
+
+Eye Symptoms That Never Ignore
+
+Brain Tumour Warning Signs
+
+Hair Oiling Mistakes
+
+Chronic Constipation
+
+Youtuber Lilly Singh
+
+Iranian Snake
+
+Elon Musk
+
+Multigrain Flour Benefits
+
+Vitamin b12 Deficiency
+
+Colon Cancer
+
+Trending Topics
+
+Josh Allen
+
+Daniel Naroditsky... Marco Rubio
+
+Stephen A Smith
+
+Navjot Singh Sidhu
+
+H-1B Status Change
+
+Pat McAfee
+
+Jack Nicklaus
+
+Auston Matthews Parents
+
+Panthers vs Bruins
+
+Lamar Jackson Injury
+
+Travis Kelce
+
+Chennai Rain
+
+Mohamed Alabbar
+
+Patrick Mahomes
+
+AIIMS INI CET Registration... NIACL AO Mains Admit Card
+
+Virender Sehwag
+
+Rishabh Pant
+
+Stephen Curry Wife
+
+Trevon Diggs
+
+TNPSC Group 4 Exam Results
+
+Bill Belichick
+
+Carter Hurt
+
+Stefon Diggs
+
+Carolina Hurricanes
+
+Leon Draisaitl
+
+Ukraine Russia Conflict... Nasser Hussain
+
+Ajit Agarkar
+
+Bihar Election Date
+
+Mark Zuckerberg
+
+Sam Altman
+
+Jeff Bezos
+
+Gemini Ai Diwali Picture Prompts
+
+Demis Hassabis
+
+Nyt Connections
+
+Wordle Today
+
+Samsung Galaxy s26
+
+Psoriatic Arthritis
+
+Jensen Huang
+
+Marc Benioff... Popular Categories
+
+Headlines
+
+Sports News
+
+Business News
+
+India News
+
+World News
+
+Bollywood News
+
+Health+ Tips
+
+Indian TV Shows
+
+Technology
+
+Travel
+
+Etimes
+
+Health & Fitness
+
+Delhi Gold Rate Today
+
+Numerology Number 1 Horoscope
+
+Chinese Horoscope Predictions
+
+Astrology
+
+Weather Today
+
+Platinum Rate Today... Silver Rate Today
+
+Gold Rate Today
+
+Is Bank open today
+
+Is Bank Open Tomorrow
+
+Bank Holidays in September
+
+Public Holidays in September
+
+Stock Market Holidays
+
+NFL Schedule
+
+Technology News
+
+International Sports
+
+Public Holidays
+
+Bank Holidays
+
+Trending Videos
+
+‘If You Cancel…’: Trump ‘Warns Xi Against No Show At Summit; Says US Built China’s Military... Kate Cassidy OPEN To Dating? Liam’s Girlfriend’s Life Takes UNEXPECTED Turn After His Tragic Death
+
+Putin, Trump To Fly To Hungary Together For Summit? Kremlin Responds As Poland Threatens Arrest
+
+'Trump Lost Patience With Putin': Republicans Push Tough Russia Sanctions But After Shutdown Ends
+
+Britain Announces Troop Deployment To Ukraine Ahead Of Trump-Putin Peace Talks... LIVE TV HORROR: Thief’s Death Airs as Passing Cars MOW HIM DOWN In Jaw-Dropping Moment
+
+U.S. Troops To Tame Hamas Fighters In Gaza? JD Vance’s Shocker From Israel's Truce HQ | Full
+
+Trump Declares Muslim Nations ‘Ready To Storm’ Gaza With ‘Heavy Force’ To ‘Straighten Out Hamas’... Lokpal Floats Tender For 7 Luxury BMW Cars, Request Sparks Massive Outrage
+
+Illinois Student Who Attacked TPUSA Booth Gets KARMA | University TA Derek Lopez Loses Job
+
+Trump's New Russian Oil Threat; What It Means For India-US Ties | Global Pulse
+
+Shah Rukh Khan Shares Glimpse Of Diwali Celebration - Grabs Netizen's Attention... Ektaa Kapoor’s Grand Diwali Bash: Huma Qureshi, Nargis Fakhri & Other Stars Shine in Traditionals!
+
+Salman Khan's Viral Remark Separating Balochistan from Pakistan Sparks Debate
+
+“Greedy and Without Morals”: Royal Biographer’s Explosive Claims About Sarah Ferguson SHOCK... Diwali Festival Village Draws Massive Crowds in Singapore’s Little India
+
+India Upgrades Technical Mission In Kabul To Full Embassy After Afghan FM Muttaqi’s Delhi Visit
+
+Russia’s Spy Chief Slams West Says Europe’s 'Russophobia', Military Buildup Risk Future Conflict
+
+Latest News
+
+FIDE World Cup logo: Soul of Goa, spirit of chess... ACL2: FC Goa count on David Timor’s grit and rich experience
+
+‘Indian football needs more of these big games’
+
+Is LeBron James playing tonight vs Golden State Warriors? Latest update on the Los Angeles Lakers star's injury report (October 21, 2025)
+
+ACL2: Star-packed Al-Nassr pose serious threat to FC Goa... ‘We all would have enjoyed if Ronaldo had come...’
+
+Diet for lung health: How omega-3 fatty acids may support respiratory wellness
+
+Bedbugs confirmed at New York City office: Steps offices should take to prevent bedbug spread
+
+Bihar Assembly polls: Fewer Yadav candidates fielded by NDA as it looks to consolidate its core base... NBA's opening-night rosters boast record 135 international players including Luka Doncic, Nikola Jokic, Victor Wembanyama, and more
+
+Zeishan Quadri reveals he got just Rs 5 lakh for writing Anurag Kashyap's directorial Gangs of Wasseypur Part 1, nothing for Part 2... How a single 'technical rule' change by America angered China, leading to escalation in US-China trade tensions
+
+Delhi has worst Diwali air in 4 years, Tuesday winds prevent ‘severe’ drop
+
+Airbnb CEO Brian Chesky makes it clear, says: We don't use OpenAI's latest models in production because …... Stephen Colbert vs Karine Jean-Pierre: Heated clash over Joe Biden’s health — who had the upper hand?
+
+Curtains rise again this Nov at Ravindra Bhavan
+
+The broken ladder: How Pell Grant cuts have hit Southern US colleges and Black students hardest
+
+Goa’s Velip women preserve an ancient harvest ritual during Diwali... Copyright © 2025 Bennett, Coleman & Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service
+
+Follow Us On

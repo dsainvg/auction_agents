@@ -1,24 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: VENKATESH IYER
+IPL PLAYER PROFILE: GERALD COETZEE
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Venkatesh Iyer
-  IPL Debut                : 2021
-  Date of Birth            : 25 December 1994
-  Total IPL Matches        : 62
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  A look at Venkatesh Iyerâ€™s domestic record would tell you why the Kolkata
-  Knight Riders were keen to pick him ahead of the 2021 season. The Madhya
-  Pradesh all-rounder has made quite a name with his hard-hitting batting and
-  useful bowling. A T20 batting strike-rate of 137.64 reflects his hitting
-  abilities, while an economy under seven shows he can keep it tight. Kolkata
-  picked him up at the 2021 IPL Auction and he responded by smashing 198 in a
-  Vijay Hazare Trophy match against Punjab in late February 2021.
+  Player Name              : Gerald Coetzee
+  IPL Debut                : 2024
+  Date of Birth            : 02 October 2000
+  Total IPL Matches        : 14
+  Role                     : Bowler
+  Nationality              : South African
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -28,12 +19,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    62    |    7     |   1468   |   104    |  29.96   |   1069   |  137.32  |    1     |    12    |   136    |    65    |    22    |    0    
-    2025   |    11    |    0     |   142    |    60    |  20.29   |   102    |  139.22  |    0     |    1     |    15    |    4     |    4     |    0    
-    2024   |    15    |    5     |   370    |    70    |  46.25   |   233    |  158.80  |    0     |    4     |    35    |    19    |    4     |    0    
-    2023   |    14    |    0     |   404    |   104    |  28.86   |   277    |  145.85  |    1     |    2     |    32    |    21    |    3     |    0    
-    2022   |    12    |    1     |   182    |   50*    |  16.55   |   169    |  107.69  |    0     |    1     |    17    |    7     |    4     |    0    
-    2021   |    10    |    1     |   370    |    67    |  41.11   |   288    |  128.47  |    0     |    4     |    37    |    14    |    7     |    0    
+   Career  |    14    |    1     |    31    |    12    |   5.17   |    33    |  93.94   |    0     |    0     |    2     |    2     |    4     |    0    
+    2025   |    4     |    0     |    17    |    12    |   8.50   |    11    |  154.55  |    0     |    0     |    2     |    1     |    2     |    0    
+    2024   |    10    |    1     |    14    |    8     |   3.50   |    22    |  63.64   |    0     |    0     |    0     |    1     |    2     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -43,13 +31,35 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    62    |    81    |   143    |    3     |   2/29   |  47.67   |  10.59   |  27.00   |    0     |    0    
-    2025   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    15    |    6     |    28    |    0     |   0/28   |    -     |  28.00   |    -     |    0     |    0    
-    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    12    |    24    |    46    |    0     |   0/8    |    -     |  11.50   |    -     |    0     |    0    
-    2021   |    10    |    51    |    69    |    3     |   2/29   |  23.00   |   8.11   |  17.00   |    0     |    0    
+   Career  |    14    |   273    |   472    |    15    |   4/34   |  31.47   |  10.37   |  18.20   |    1     |    0    
+    2025   |    4     |    72    |   131    |    2     |   1/10   |  65.50   |  10.92   |  36.00   |    0     |    0    
+    2024   |    10    |   201    |   341    |    13    |   4/34   |  26.23   |  10.18   |  15.46   |    1     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/venkatesh-iyer/8540
+Source: https://www.iplt20.com/players/gerald-coetzee/20686
 ================================================================================
+**Gerald Coetzee** (born 2 October 2000) is a South African cricketer. In December 2017, he was named in South Africa's squad for the 2018 Under-19 Cricket World Cup. In January 2019, he was named in the South Africa national under-19 cricket team's squad, ahead of their tour to India. He is well known for his passionate, aggressive celebrations after taking wickets and has often drawn comparisons to his body language being similar to that of former South African pacer Dale Steyn.... ## Career
+Coetzee made his List A debut for Free State in the 2018–19 CSA Provincial One-Day Challenge on 14 October 2018. He made his Twenty20 debut for Knights in the 2018–19 CSA T20 Challenge on 12 April 2019. He made his first-class debut for Knights in the 2019–20 CSA 4-Day Franchise Series on 7 October 2019.... In December 2019, he was named in South Africa's squad for the 2020 Under-19 Cricket World Cup. In April 2021, he was named in Free State's squad, ahead of the 2021–22 cricket season in South Africa. On 1 May 2021, he was signed by the Rajasthan Royals as a replacement for Liam Livingstone, during the 2021 Indian Premier League (IPL).... In June 2023, Coetzee was added to the Texas Super Kings roster for the inaugural season of Major League Cricket and has time and again showed his interest to joining the Chennai Super Kings franchise as well. For the 2024 Indian Premier League, Gerald Coetzee was picked up by Mumbai Indians for ₹5 crores. In the IPL 2025 Mega Auction, he was picked by Gujarat Titans for price of ₹2.40 crore on November 25, 2024.... ### International career
+
+In June 2022, Coetzee was named in South Africa's Twenty20 International (T20I) squad for their tour of England to play the England and Ireland cricket teams.... In February 2023, he was selected in South Africa Test squad for the series against West Indies. He made his Test debut against West Indies on 28 February 2023. In March 2023, he was named in South Africa's One Day International (ODI) squad for their series against West Indies. He made his ODI debut in the second ODI of the series on 18 March 2023 in East London, when he took three wickets.... #### 2023 Cricket World Cup
+In September 2023, he was named in South Africa's squad for the 2023 Cricket World Cup and it marked his maiden World Cup tournament at the age of 23. He broke into the South African side as one of the key pacers for the 2023 World Cup following the injury concerns to senior fast bowlers Anrich Nortje and Sisanda Magala.... He became a vital cog in South Africa's pace battery during the course of the World Cup by being South Africa's second or third change bowler and became a canny operator in the middle overs by capturing over 10 wickets in between 11th and 40th over. He ended the tournament as the leading wicket taker for South Africa with 20 scalps in 8 matches.... He also became the leading wicket-taker for South Africa in a single edition of the World Cup when he took his record 18th scalp in group stage match against Afghanistan. He was called by many as one of the breakout stars of 2023 Cricket World Cup following his impressive performances.
+
+#### 2024 Cricket World Cup
+
+In May 2024, he was named in South Africa's squad for the 2024 ICC Men's T20 World Cup tournament.... ## References
+## External links
+- Gerald Coetzee at ESPNcricinfo
+
+Categories: - 2000 births... - Living people
+- Cricketers from Bloemfontein
+- South African cricketers
+- South Africa Test cricketers
+- South Africa One Day International cricketers
+- South Africa Twenty20 International cricketers
+- 21st-century South African sportsmen
+- Free State cricketers... - Knights cricketers
+- Jozi Stars cricketers
+- Joburg Super Kings cricketers
+- Mumbai Indians cricketers
+- South African expatriate cricketers in India
+- Gujarat Titans cricketers

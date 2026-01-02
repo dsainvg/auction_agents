@@ -1,22 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: ARJUN TENDULKAR
+IPL PLAYER PROFILE: TEJAS BAROKA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Arjun Tendulkar
-  IPL Debut                : 2023
-  Date of Birth            : 24 September 1999
-  Total IPL Matches        : 5
-  Role                     : WK-Batter
+  Player Name              : Tejas Baroka
+  Date of Birth            : 01 February 1996
+  Total IPL Matches        : 1
+  Role                     : Bowler
   Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    Arjun Tendulkar has been a part of Mumbai Indians since 2021. The
-  left-arm pacer is not just handy with the ball but is also capable of adding
-  some valuable runs with the bat. He plays for Goa in the domestic arena. At
-  the TATA IPL 2025 auction, Arjun was bought back by MI for INR 30 Lakh.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -26,9 +18,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    5     |    0     |    13    |    13    |  13.00   |    9     |  144.44  |    0     |    0     |    0     |    1     |    0     |    0    
-    2024   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2023   |    4     |    0     |    13    |    13    |  13.00   |    9     |  144.44  |    0     |    0     |    0     |    1     |    0     |    0    
+   Career  |    1     |    0     |    0     |    0     |    -     |    0     |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2017   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -38,10 +29,45 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    5     |    73    |   114    |    3     |   1/9    |  38.00   |   9.37   |  24.33   |    0     |    0    
-    2024   |    1     |    14    |    22    |    0     |   0/22   |    -     |   9.43   |    -     |    0     |    0    
-    2023   |    4     |    59    |    92    |    3     |   1/9    |  30.67   |   9.36   |  19.67   |    0     |    0    
+   Career  |    1     |    21    |    33    |    0     |   0/33   |    -     |   9.43   |    -     |    0     |    0    
+    2017   |    1     |    21    |    33    |    0     |   0/33   |    -     |   9.42   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/arjun-tendulkar/10244
+Source: https://www.iplt20.com/players/tejas-baroka/3827
 ================================================================================
+# Tejas Baroka Player Profile, Age, Career, Bowling & Batting Stats
+
+#### Tejas Baroka
+
+**India**| Bowler
+
+|Full Name|Tejas Baroka|
+|--|--|
+|Nationality|India|
+|Others Name|
+|Role|Bowler|
+|Birth Date|February 1, 1996 (29 Years)|
+|--|--|
+|Birth Place|
+|Batting Style|Right Hand Bat|
+|Bowling Style|Right Arm Leg Spin|... #### About
+
+Tejas Baroka is a/an 29 years old India cricketer, born in 1996 in . Tejas Baroka is a Right Hand Bat batsman and bowls Right Arm Leg Spin. According to the cricket career of Tejas Baroka, he has been a pivotal player in the team’s success and Tejas Baroka records looks glittering. Read more for detailed and updated information on Tejas Baroka stats list in all format on Cricket Addictor... Tejas Baroka is a/an 29 years old India cricketer, born in 1996 in . Tejas Baroka is a Right Hand Bat batsman and bowls Right Arm Leg Spin. According to the cricket career of Tejas Baroka, he has been a pivotal player in the team’s success and Tejas Baroka records looks glittering.
+
+Read more for detailed and updated information on Tejas Baroka stats list in all format on Cricket Addictor... ## Batting Statistics
+
+|M|Inns|Runs|BF|NO|HS|AVG|S/R|100|50|4s|6s|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|T20 (Domestic)|6|1|1|1|1|1|100|0|0|0|0|... |List A|2|1|10|11|1|10|90.9|0|0|0|0|
+|First Class|4|4|17|38|3|7|17|44.73|0|0|1|0|
+|T10|5|5|64|44|2|29|21.33|145.45|0|0|2|6|... ## Bowling Statistics
+
+|M|Inns|Runs|OV|WKTS|AVG|ECO|BEST|5W|
+|--|--|--|--|--|--|--|--|--|
+|T20 (Domestic)|6|5|114|9|0|12.66|0|... |List A|2|2|72|17|1|72|4.23|1/30|0|
+|First Class|4|4|245|57.3|6|40.83|4.26|3/45|0|
+|T10|5|5|74|10|3|24.67|7.4|1/4|0|... ## Tejas Baroka FAQs
+
+You can visit CricketAddictor for the updated and detailed player stats, record and career numbers.
+
+Stats and records of a player tells you about the number of runs, wickets, centuries, fifties, etc scored by that certain player throughout the career.

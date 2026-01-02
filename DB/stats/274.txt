@@ -1,22 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: VIPRAJ NIGAM
+IPL PLAYER PROFILE: ANIKET CHOUDHARY
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Vipraj Nigam
-  IPL Debut                : 2025
-  Date of Birth            : 28 July 2004
-  Total IPL Matches        : 14
-  Role                     : WK-Batter
+  Player Name              : Aniket Choudhary
+  Date of Birth            : 28 January 1990
+  Total IPL Matches        : 5
+  Role                     : Bowler
   Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    A talented leg-spinner from Uttar Pradesh, Vipraj Nigam has proven to be
-  a reliable bowler in domestic cricket, especially in middle-over
-  containment. His performances caught the attention of Delhi Capitals, who
-  signed him for INR 50 Lakh at the 2025 TATA IPL auction.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -26,8 +18,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    14    |    1     |   142    |    39    |  20.29   |    79    |  179.75  |    0     |    0     |    15    |    8     |    3     |    0    
-    2025   |    14    |    1     |   142    |    39    |  20.29   |    79    |  179.75  |    0     |    0     |    15    |    8     |    3     |    0    
+   Career  |    5     |    2     |    25    |   15*    |  25.00   |    20    |  125.00  |    0     |    0     |    1     |    1     |    0     |    0    
+    2017   |    5     |    2     |    25    |   15*    |  25.00   |    20    |  125.00  |    0     |    0     |    1     |    1     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -37,9 +29,134 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    14    |   234    |   356    |    11    |   2/18   |  32.36   |   9.13   |  21.27   |    0     |    0    
-    2025   |    14    |   234    |   356    |    11    |   2/18   |  32.36   |   9.13   |  21.27   |    0     |    0    
+   Career  |    5     |   101    |   144    |    5     |   2/17   |  28.80   |   8.55   |  20.20   |    0     |    0    
+    2017   |    5     |   101    |   144    |    5     |   2/17   |  28.80   |   8.55   |  20.20   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/vipraj-nigam/22053
+Source: https://www.iplt20.com/players/aniket-choudhary/1111
 ================================================================================
+# Nikhil Chaudhary
+
+29-Year-Old
+
+Hobart Hurricanes
+
+India
+
+T20 Stats
+
+Dream11 PPG
+
+32.15
+
+Innings
+
+30
+
+Wickets
+
+16
+
+Overs
+
+72
+
+ERate
+
+7.56
+
+ODI Stats
+
+Dream11 PPG
+
+57.00... Innings
+
+0
+
+Wickets
+
+0
+
+Overs
+
+0
+
+ERate
+
+0.00
+
+Scores 34 chasing 151
+
+**Bowler**Hobart Hurricanes
+
+Chaudhary scored 34 off 30 balls with the help of two sixes for the Hobart Hurricanes during a four-wicket win against the Perth Scorchers in the Big Bash League (BBL) 2025 in Perth on Friday.... **ANALYSIS**
+
+Chaudhary had a decent day with the bat in hand. The right-hander scored 34 valuable runs for the winning team. It was Chaudhary's third score of 30 or more in four innings in the BBL 2025.
+
+Batting Stats - Format
+
+By Format... By Competition
+
+Batting Stats - Format
+
+Loading Batting Stats...
+
+Bowling Stats - Format
+
+Loading Bowling Stats...
+
+Batting Stats - Competition
+
+Loading Batting Stats...
+
+Bowling Stats - Competition
+
+Loading Bowling Stats...
+
+Cricket Game Log - Bowling
+
+Calculate Stats Over Time
+
+Just click on any two dates.... Scoring
+
+Dream11
+
+Loading Bowling Game Log...
+
+Cricket Game Log - Batting
+
+Calculate Stats Over Time
+
+Just click on any two dates.
+
+Scoring
+
+Dream11
+
+Loading Batting Game Log...
+
+Cricket Game Log - Fielding
+
+Calculate Stats Over Time
+
+Just click on any two dates.
+
+Scoring... Dream11
+
+Loading Fielding Game Log...
+
+More Fantasy News
+
+Scores 36 while chasing 155
+
+**Bowler**Hobart Hurricanes
+
+Chaudhary scored 36 off 27 balls, including two fours and two sixes, for Hobart Hurricanes in a four-wicket victory against Melbourne Renegades during Tuesday's 34th Big Bash League (BBL) 2024-25 match in Hobart.... Scores 42 while batting first
+
+**Bowler**Hobart Hurricanes
+
+Chaudhary scored 42 off 31 balls, including four fours and two sixes, for Hobart Hurricanes in a 50-run victory against Sydney Sixers during Wednesday's 18th Big Bash League (BBL) 2024-25 match in Hobart.... Scores 55 while chasing 133
+
+**Bowler**Hobart Hurricanes
+
+Chaudhary scored 55 off 37 balls, including four fours and two sixes, for Hobart Hurricanes in a one-run (DLS Method) defeat against Brisbane Heat during the 29th BBL match in Brisbane on Sunday.

@@ -1,14 +1,301 @@
-================================================================================
-IPL PLAYER PROFILE: DILSHAN MADUSHANKA
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Dilshan Madushanka
-  Date of Birth            : 18 September 2000
-  Total IPL Matches        : 0
-  Role                     : Bowler
-
-================================================================================
-Source: https://www.iplt20.com/players/dilshan-madushanka/20687
-================================================================================
+|## Saransh Jain Introduction|
+|--|
+|Role|--|
+|Batting|Left Handed|
+|Bowling|spin Right-arm offbreak|
+|Country|
+|--|
+|Birth|31-Mar-1993 (31 yr), Indore, Madhya Pradesh|
+|Height|--|
+|Teams|India, Madhya Pradesh (Mostly)|
+|Social Accounts|
+|Last Updated|Last updated 6 months ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Saransh Jain Stats|
+|--|
+|Competition|SMAT|DODI|DT20|
+|Matches|11|1|10|
+|Highest Score|11|0|16|
+|Runs|23|0|37|
+|50s|0|0|0|
+|100s|0|0|0|
+|Run Per Inn|5.7|-|6.1|
+|Run Per Match|2.0|-|3.7|
+|Boundary (In Ball)|-|-|11.0|
+|4s (In Ball)|-|-|11.0|
+|6s (In Ball)|-|-|-|
+|Wickets|10|2|6|
+|Over Per Match|3.0|10.0|1.5|
+|Wicket Per Inn|1.0|2.0|0.7|
+|Wicket Per Match|0.9|2.0|0.6|
+|Wicket (In Ball)|19.8|30.0|19.0|
+|Wicket (In Runs)|22.1|12.0|22.0|
+|Field In Match %|18 %|-|50 %|
+|Catch In Match %|9 %|-|30 %|
+|Check More Stats On Advance Cricket App|
+|## Saransh Jain Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|03 Dec 23|ODI|-3|64|0|65|
+|25 Oct 23|T20|0|37|0|41|
+|19 Oct 23|T20|-2|31|0|33|
+|17 Oct 23|T20|4|31|0|39|
+|08 Oct 23|T20|0|2|0|6|
+|07 Oct 23|T20|6|29|0|39|
+|06 Oct 23|T20|9|0|26|39|
+|05 Oct 23|T20|0|0|0|4|
+|03 Oct 23|T20|18|27|0|49|
+|23 Nov 22|ODI|35|4|0|43|
+|21 Nov 22|ODI|0|0|0|4|
+|19 Nov 22|ODI|48|50|0|102|
+|15 Nov 22|ODI|0|56|0|60|
+|12 Nov 22|ODI|-3|58|8|67|
+|09 Nov 21|T20|11|-2|0|13|
+|08 Nov 21|T20|0|0|0|4|
+|17 Nov 19|T20|0|0|0|4|
+|15 Nov 19|T20|6|35|0|45|
+|14 Nov 19|T20|0|77|6|87|
+|## Saransh Jain Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|03 Dec 23|MP vs TN|3|0(1)|0.0|catch|
+|25 Oct 23|MP vs TN|DNB|
+|19 Oct 23|MP vs KAR|10|0(1)|0|bowled|
+|17 Oct 23|MP vs DEL|10|4(5)|80|not out|
+|08 Oct 23|MP vs KER|DNB|
+|07 Oct 23|MP vs KER|7|5(2)|250|not out|
+|06 Oct 23|MP vs CHR|9|9(10)|90|not out|
+|05 Oct 23|MP vs JHA|DNB|
+|03 Oct 23|MP vs CHB|7|16(14)|114.2|not out|
+|23 Nov 22|MP vs BRD|4|29(25)|116|catch|
+|21 Nov 22|MP vs NAG|DNB|
+|19 Nov 22|MP vs PUN|6|43(48)|89.5|stumped|
+|15 Nov 22|MP vs ODS|DNB|
+|12 Nov 22|MP vs JAM|3|0(1)|0|catch|
+|09 Nov 21|MP vs KER|5|11(13)|84.6|catch|
+|08 Nov 21|MP vs BIH|DNB|
+|Saransh Jain Recent Batting|
+|## Saransh Jain Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|03 Dec 23|MP vs TN|10.0|24|2|2|2.4|
+|25 Oct 23|MP vs TN|4.0|21|1|0|5.25|
+|19 Oct 23|MP vs KAR|4.0|13|1|0|3.25|
+|17 Oct 23|MP vs DEL|4.0|16|1|0|4.00|
+|08 Oct 23|MP vs KER|2.0|13|0|0|6.50|
+|07 Oct 23|MP vs KER|2.0|11|1|0|5.50|
+|06 Oct 23|MP vs CHR|2.0|18|0|0|9.00|
+|05 Oct 23|MP vs JHA|3.0|25|0|0|8.33|
+|03 Oct 23|MP vs CHB|3.0|19|1|0|6.33|
+|23 Nov 22|MP vs BRD|1.0|0|0|1|1.75|
+|21 Nov 22|MP vs NAG|3.0|8|0|0|2.66|
+|19 Nov 22|MP vs PUN|9.0|57|2|0|6.33|
+|15 Nov 22|MP vs ODS|10.0|38|2|1|3.80|
+|12 Nov 22|MP vs JAM|8.0|47|2|0|5.87|
+|09 Nov 21|MP vs KER|2.0|22|0|0|11.00|
+|17 Nov 19|MP vs HAR|1.0|10|0|0|10.00|
+|Saransh Jain Recent Bowling All Recent Bowling Details|
+|Competition|SMAT|DODI|DT20|
+|--|--|--|--|
+|Matches|11|1|10|
+|Innings|4|1|6|
+|Not Out|1|0|4|
+|Runs|23|0|37|
+|Highest Score|11|0|16|
+|Average|7.66|0.00|18.50|
+|Balls Faced|32|1|33|
+|Strike Rate|71.8|0|112.1|
+|20s|0|0|0|
+|30s|0|0|0|
+|50s|0|0|0|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|0|0|3|
+|6s|0|0|0|
+|Outtype|
+|LBW|0|0|0|
+|Bowled|1|0|0|
+|Stumped|0|0|0|
+|Catch|2|1|2|
+|Run Out|0|0|0|
+|Wicket Taker|
+|Left Arm|1|1|0|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|0|
+|3- Medium|0|0|0|
+|4- Slow|1|1|0|
+|1- Bowled|0|0|0|
+|2- Catch|1|1|0|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Right Arm|2|0|2|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|1|
+|3- Medium|1|0|0|
+|4- Slow|1|0|1|
+|1- Bowled|1|0|0|
+|2- Catch|1|0|2|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Competition|SMAT|DODI|DT20|
+|--|--|--|--|
+|Matches|11|1|10|
+|Innings|10|1|8|
+|Balls|198|60|114|
+|Runs|221|24|132|
+|BBI|... |Average|22.10|12.00|22.00|
+|Strike Rate|19.80|30.00|19.00|
+|Maiden|0|2|1|
+|2w|0|1|1|
+|3w|2|0|0|
+|5w|0|0|0|... |8w|0|0|0|
+|10w|0|0|0|
+|Wickets|10|2|6|
+|LBW|1|0|1|
+|Bowled|2|0|0|
+|Stumped|0|0|1|
+|Catch|9|2|4|... |Batsman Type|
+|Right Handed|7|1|5|
+|1- LBW|0|0|1|
+|2- Bowled|2|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|5|1|4|... |Left Handed|6|1|1|
+|1- LBW|1|0|0|
+|2- Bowled|0|0|0|
+|3- Stumped|0|0|1|
+|4- Catch|5|1|0|
+Saransh Jain played 11 SMAT matches and scored 23 runs in 4 Innings.... Saransh Jain's Highest Score in SMAT is 11. S Jain has 0 SMAT centuries, 0 SMAT half centuries and 0 times 30+ and 0 times 20+ SMAT runs. S Jain has a strike rate of 71.8 with run per match of 2.09 in 32 SMAT balls.... Saransh Jain made total 0 boundaries with 0 fours and 0 sixes in SMAT. S Jain's SMAT outtype analysis are lbw 0 times, bowled 1, stumped 0 times, catch 2 times, Run Out 0 times. Saransh Jain's SMAT wicket takers are 1 left arm and 2 right arm.... S Jain's Left Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets. Saransh Jain's Right Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 1 wickets, Slow bowler 1 wickets.... S Jain's wicket taken by Left Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets. Saransh Jain's wicket taken by Right Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 1 wickets, stumped 0 wickets, catch 1 wickets.... Saransh Jain Took 10 Wickets (In 10 SMAT innings) with Strike Rate of 19.80 and average of 22.10. S Jain's delivered 198 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 2 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 7 Right Handed and 6 Left Handed batsman out by Saransh Jain in SMAT. Right Handed Batsman SMAT outtype analysis (wicket taken by S Jain) are LBW 0 times, Bowled 2 times, Stumped 0 times, Catch 5 times. Left Handed Batsman SMAT outtype analysis (wicket taken by S Jain) are LBW 1 times, Bowled 0 times, Stumped 0 times, Catch 5 times.... Saransh Jain Fielding analysis are Catch 1 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Saransh Jain played 1 DODI matches and scored 0 runs in 1 Innings. Saransh Jain's Highest Score in DODI is 0. S Jain has 0 DODI centuries, 0 DODI half centuries and 0 times 30+ and 0 times 20+ DODI runs.... S Jain has a strike rate of 0 with run per match of 0.00 in 1 DODI balls. Saransh Jain made total 0 boundaries with 0 fours and 0 sixes in DODI. S Jain's DODI outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 1 times, Run Out 0 times.... Saransh Jain's DODI wicket takers are 1 left arm and 0 right arm. S Jain's Left Arm DODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets.... Saransh Jain's Right Arm DODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. S Jain's wicket taken by Left Arm Bowlers in DODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets. Saransh Jain's wicket taken by Right Arm Bowlers in DODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Saransh Jain Took 2 Wickets (In 1 DODI innings) with Strike Rate of 30.00 and average of 12.00. S Jain's delivered 60 balls (with 2 Maiden over) and took 2 wickets 1 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 1 Right Handed and 1 Left Handed batsman out by Saransh Jain in DODI. Right Handed Batsman DODI outtype analysis (wicket taken by S Jain) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 1 times. Left Handed Batsman DODI outtype analysis (wicket taken by S Jain) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 1 times.... Saransh Jain Fielding analysis are Catch 0 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Saransh Jain played 10 DT20 matches and scored 37 runs in 6 Innings. Saransh Jain's Highest Score in DT20 is 16. S Jain has 0 DT20 centuries, 0 DT20 half centuries and 0 times 30+ and 0 times 20+ DT20 runs.... S Jain has a strike rate of 112.1 with run per match of 3.70 in 33 DT20 balls. Saransh Jain made total 3 boundaries with 3 fours and 0 sixes in DT20. S Jain's DT20 outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 2 times, Run Out 0 times.... Saransh Jain's DT20 wicket takers are 0 left arm and 2 right arm. S Jain's Left Arm DT20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... Saransh Jain's Right Arm DT20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 1 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets. S Jain's wicket taken by Left Arm Bowlers in DT20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Saransh Jain's wicket taken by Right Arm Bowlers in DT20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 2 wickets.... Saransh Jain Took 6 Wickets (In 8 DT20 innings) with Strike Rate of 19.00 and average of 22.00. S Jain's delivered 114 balls (with 1 Maiden over) and took 2 wickets 1 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 5 Right Handed and 1 Left Handed batsman out by Saransh Jain in DT20. Right Handed Batsman DT20 outtype analysis (wicket taken by S Jain) are LBW 1 times, Bowled 0 times, Stumped 0 times, Catch 4 times. Left Handed Batsman DT20 outtype analysis (wicket taken by S Jain) are LBW 0 times, Bowled 0 times, Stumped 1 times, Catch 0 times.... Saransh Jain Fielding analysis are Catch 3 times, Stumping 0 times, Direct Throw(Run Out) 1 times, Throw(Run Out) 0 times.... Saransh Jain run per match stats are 2.0 runs in SMAT, 0 runs in DODI, 3.7 runs in DT20, 11.4 runs in VHT. S Jain wicket per match stats are 0.9 in SMAT, 2.0 in DODI, 0.6 in DT20, 1.0 in VHT.... S Jain make boundary in every 0 balls in SMAT, 0 balls in DODI, 11.0 balls in DT20, 10.5 balls in VHT. Saransh Jain wicket in every 19.8 balls in SMAT, 30.0 balls in DODI, 19.0 balls in DT20, 44.3 balls in VHT.... Saransh Jain hits six in every 0 balls in SMAT, every 0 balls in DODI, every 0 balls in DT20, every 147.0 balls in VHT. Saransh Jain score four in every 0 balls in SMAT, 0 balls in DODI, 11.0 balls in DT20, 11.3 balls in VHT.... |## Saransh Jain stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|MP|all|SMAT|4|11|7.66|Stats|
+|MP|all|VHT|8|43|19.57|Stats|
+|MP|all|DT20|6|16|18.50|Stats|
+|MP|all|DODI|1|0|0.00|Stats|
+|## Saransh Jain stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Bandra Kurla Complex|all|SMAT|1|8|8.00|Stats|
+|Wankhede Stadium|all|SMAT|0|0|Stats|
+|Palam A Stadium|all|SMAT|0|0|Stats|
+|Arun Jaitley Stadium|all|SMAT|1|11|11.00|Stats|
+|Abhimanyu Cricket Academy|all|SMAT|1|4|4.00|Stats|
+|Palam A Stadium|all|VHT|1|8|8.00|Stats|
+|KSCA Cricket Ground|all|VHT|0|0|Stats|
+|Bandra Kurla Complex|all|VHT|0|0|Stats|
+|Kinrara Academy Oval|all|VHT|1|43|43.00|Stats|
+|Dr DY Patil Sports Academy|all|VHT|2|29|14.50|Stats|
+|## Saransh Jain stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Bandra Kurla Complex|all|SMAT|4|4|5.92|Stats|
+|Wankhede Stadium|all|SMAT|2|3|12.00|Stats|
+|Arun Jaitley Stadium|all|SMAT|1|0|11.00|Stats|
+|Abhimanyu Cricket Academy|all|SMAT|2|2|4.62|Stats|
+|Arun Jaitley Stadium|all|VHT|1|3|3.22|Stats|
+|Palam A Stadium|all|VHT|1|0|3.30|Stats|
+|Sawai Mansingh Stadium|all|VHT|3|2|4.72|Stats|
+|KL Saini Ground|all|VHT|1|1|3.33|Stats|
+|Jaipuria Vidyalaya Ground|all|VHT|1|1|3.62|Stats|
+|Dr DY Patil Sports Academy|all|VHT|2|2|5.22|Stats|
+|## Saransh Jain stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|SYAT 2019-20|all|SMAT|1|8|8.00|Stats|
+|SMAT 2021-22|all|SMAT|1|11|11.00|Stats|
+|SMAT 2023|all|SMAT|2|4|4.00|Stats|
+|VHT 2018-19|all|VHT|2|13|10.50|Stats|
+|VHT 2019-20|all|VHT|3|33|22.00|Stats|
+|VHT 2022|all|VHT|3|43|24.00|Stats|
+|Z T20L 2017|all|DT20|3|4|3.50|Stats|
+|CG Mens T20 Cup 2023|all|DT20|3|16|10.00|Stats|
+|Vijay Hazare Trophy 2023|all|DODI|1|0|0.00|Stats|
+|## Saransh Jain stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|SYAT 2019-20|all|SMAT|6|7|7.84|Stats|
+|SMAT 2021-22|all|SMAT|1|0|11.00|Stats|
+|SMAT 2023|all|SMAT|3|3|4.16|Stats|
+|VHT 2018-19|all|VHT|2|3|3.26|Stats|
+|VHT 2019-20|all|VHT|5|4|4.26|Stats|
+|VHT 2022|all|VHT|5|6|4.83|Stats|
+|Z T20L 2017|all|DT20|3|4|6.57|Stats|
+|CG Mens T20 Cup 2023|all|DT20|5|2|7.16|Stats|
+|Vijay Hazare Trophy 2023|all|DODI|1|2|2.40|Stats|
+|## Saransh Jain stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|India|all|SMAT|4|11|7.66|Stats|
+|India|all|VHT|7|33|15.66|Stats|
+|Malaysia|all|VHT|1|43|43.00|Stats|
+|India|all|DT20|6|16|18.50|Stats|
+|India|all|DODI|1|0|0.00|Stats|
+|## Saransh Jain stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|DEL|all|SMAT|1|4|4.00|Stats|
+|ASM|all|SMAT|0|0|Stats|
+|MUM|all|SMAT|0|0|Stats|
+|MIZ|all|SMAT|0|0|Stats|
+|MGLY|all|SMAT|0|0|Stats|
+|BEN|all|SMAT|1|8|8.00|Stats|
+|HAR|all|SMAT|0|0|Stats|
+|KAR|all|SMAT|1|0|0.00|Stats|
+|BIH|all|SMAT|0|0|Stats|
+|KER|all|SMAT|1|11|11.00|Stats|
+|## Saransh Jain stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Sawai Mansingh Stadium|all|RLYS|DT20|1|4|4.00|Stats|
+|## Saransh Jain stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Sawai Mansingh Stadium|all|RLYS|DT20|1|1|8.00|Stats|
+|## Saransh Jain stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|SMAT 2023|DEL|SMAT|1|4|4.00|Stats|
+|SYAT 2019-20|ASM|SMAT|0|0|Stats|
+|SYAT 2019-20|MUM|SMAT|0|0|Stats|
+|SYAT 2019-20|MIZ|SMAT|0|0|Stats|
+|SYAT 2019-20|MGLY|SMAT|0|0|Stats|
+|SYAT 2019-20|BEN|SMAT|1|8|8.00|Stats|
+|SYAT 2019-20|HAR|SMAT|0|0|Stats|
+|SMAT 2023|KAR|SMAT|1|0|0.00|Stats|
+|SMAT 2021-22|BIH|SMAT|0|0|Stats|
+|SMAT 2021-22|KER|SMAT|1|11|11.00|Stats|
+|## Saransh Jain stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|SMAT 2023|DEL|SMAT|1|1|4.00|Stats|
+|SMAT 2023|TN|SMAT|1|1|5.25|Stats|
+|SYAT 2019-20|ASM|SMAT|1|3|3.25|Stats|
+|SYAT 2019-20|MUM|SMAT|1|0|14.50|Stats|
+|SYAT 2019-20|MIZ|SMAT|1|0|6.75|Stats|
+|SYAT 2019-20|MGLY|SMAT|1|3|10.75|Stats|
+|SYAT 2019-20|BEN|SMAT|1|1|6.75|Stats|
+|SYAT 2019-20|HAR|SMAT|1|0|10.00|Stats|
+|SMAT 2021-22|KER|SMAT|1|0|11.00|Stats|
+|SMAT 2023|KAR|SMAT|1|1|3.25|Stats|... |## Saransh Jain stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|India|all|DEL|SMAT|1|4|4.00|Stats|
+|India|all|ASM|SMAT|0|0|Stats|... |India|all|MUM|SMAT|0|0|Stats|
+|India|all|MIZ|SMAT|0|0|Stats|
+|India|all|MGLY|SMAT|0|0|Stats|
+|India|all|BEN|SMAT|1|8|8.00|Stats|... |India|all|HAR|SMAT|0|0|Stats|
+|India|all|KAR|SMAT|1|0|0.00|Stats|
+|India|all|BIH|SMAT|0|0|Stats|
+|India|all|KER|SMAT|1|11|11.00|Stats|... |## Saransh Jain stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|India|all|DEL|SMAT|1|1|4.00|Stats|
+|India|all|TN|SMAT|1|1|5.25|Stats|... |India|all|ASM|SMAT|1|3|3.25|Stats|
+|India|all|MUM|SMAT|1|0|14.50|Stats|
+|India|all|MIZ|SMAT|1|0|6.75|Stats|
+|India|all|MGLY|SMAT|1|3|10.75|Stats|... |India|all|BEN|SMAT|1|1|6.75|Stats|
+|India|all|HAR|SMAT|1|0|10.00|Stats|
+|India|all|KER|SMAT|1|0|11.00|Stats|
+|India|all|KAR|SMAT|1|1|3.25|Stats|

@@ -1,14 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: TOM BANTON
+IPL PLAYER PROFILE: LUKE WOOD
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Tom Banton
-  Date of Birth            : 11 November 1998
+  Player Name              : Luke Wood
+  IPL Debut                : 2024
+  Date of Birth            : 02 August 1995
   Total IPL Matches        : 2
-  Role                     : Wicketkeeper Batter
-  Nationality              : English
+  Role                     : Bowler
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -18,20 +18,342 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    2     |    0     |    18    |    10    |   9.00   |    20    |  90.00   |    0     |    0     |    1     |    1     |    0     |    0    
-    2020   |    2     |    0     |    18    |    10    |   9.00   |    20    |  90.00   |    0     |    0     |    1     |    1     |    0     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    2     |    1     |    9     |    9*    |    -     |    3     |  300.00  |    0     |    0     |    0     |    1     |    0     |    0    
+    2024   |    2     |    1     |    9     |    9*    |    -     |    3     |  300.00  |    0     |    0     |    0     |    1     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/tom-banton/3770
+Source: https://www.iplt20.com/players/luke-wood/20721
 ================================================================================
+|## Luke Wood Introduction|
+|--|
+|Role|Bowling Allrounder|
+|Batting|Left Handed|
+|Bowling|medium Left-arm|
+|Country|
+|--|
+|Birth|2-Aug-1995 (30 yr), Sheffield, Yorkshire|
+|Height|--|
+|Teams|England U19, Nottinghamshire, Worcestershire, Northamptonshire, Lancashire (Mostly)|
+|Social Accounts|
+|Last Updated|Last updated 11 days ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Luke Wood Stats|
+|--|
+|Competition|ODI|T20|IPL|
+|Matches|2|5|1|
+|Highest Score|10|3|9|
+|Runs|10|3|9|
+|50s|0|0|0|
+|100s|0|0|0|
+|Run Per Inn|10.0|3.0|9.0|
+|Run Per Match|5.0|0.6|9.0|
+|Boundary (In Ball)|10.0|-|3.0|
+|4s (In Ball)|10.0|-|-|
+|6s (In Ball)|-|-|3.0|
+|Wickets|0|8|1|
+|Over Per Match|5.0|3.3|2.0|
+|Wicket Per Inn|-|1.6|1.0|
+|Wicket Per Match|-|1.6|1.0|
+|Wicket (In Ball)|-|13.5|12.0|
+|Wicket (In Runs)|-|21.7|25.0|
+|Field In Match %|-|40 %|-|
+|Catch In Match %|-|20 %|-|
+|Check More Stats On Advance Cricket App|
+|## Luke Wood Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|16 Jan 25|T20|0|0|8|12|
+|12 Jan 25|T20|0|2|0|6|
+|18 Dec 24|T10|0|2|0|6|
+|18 Dec 24|T10|-2|-6|0|-4|
+|17 Dec 24|T10|6|6|8|24|
+|15 Dec 24|T10|0|6|8|18|
+|14 Dec 24|T10|-2|6|0|8|
+|11 Dec 24|T10|0|4|8|16|
+|26 Nov 24|T10|0|0|8|12|
+|26 Nov 24|T20|1|0|0|5|
+|24 Nov 24|T20|0|101|8|113|
+|23 Nov 24|T20|0|-6|8|6|
+|22 Nov 24|T20|0|4|0|8|
+|21 Nov 24|T20|0|0|0|4|
+|29 Sep 24|T10|0|0|0|4|
+|28 Sep 24|T10|0|2|0|6|
+|27 Sep 24|T10|0|72|8|84|
+|26 Sep 24|T10|0|4|0|8|
+|25 Sep 24|T10|0|25|0|29|
+|## Luke Wood Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|16 Jan 25|DV vs MIE|DNB|
+|12 Jan 25|DV vs ADKR|DNB|
+|18 Dec 24|GM vs KB|DNB|
+|18 Dec 24|GM vs HBT|9|0(1)|0|catch|
+|17 Dec 24|GM vs HBT|8|5(2)|250|not out|
+|15 Dec 24|GM vs CJ|DNB|
+|14 Dec 24|GM vs JT|8|0(2)|0|catch|
+|11 Dec 24|GM vs KB|DNB|
+|26 Nov 24|DG vs DB|DNB|
+|26 Nov 24|DG vs UPN|9|1(1)|100|not out|
+|24 Nov 24|DG vs NYS|DNB|
+|23 Nov 24|DG vs TAD|DNB|
+|22 Nov 24|DG vs AB|DNB|
+|21 Nov 24|DG vs CB|DNB|
+|29 Sep 24|JBT vs CTSA|DNB|
+|28 Sep 24|JBT vs HB|DNB|
+|Luke Wood Recent Batting|
+|## Luke Wood Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|16 Jan 25|DV vs MIE|3.0|23|0|0|7.66|
+|12 Jan 25|DV vs ADKR|4.0|27|0|0|6.75|
+|18 Dec 24|GM vs KB|2.0|18|0|0|9.00|
+|18 Dec 24|GM vs HBT|1.0|19|0|0|19.00|
+|17 Dec 24|GM vs HBT|2.0|13|0|0|6.50|
+|15 Dec 24|GM vs CJ|2.0|13|0|0|6.50|
+|14 Dec 24|GM vs JT|2.0|12|0|0|6.00|
+|11 Dec 24|GM vs KB|2.0|14|0|0|7.00|
+|26 Nov 24|DG vs DB|2.0|24|0|0|12.00|
+|26 Nov 24|DG vs UPN|1.0|10|0|0|10.00|
+|24 Nov 24|DG vs NYS|2.0|8|3|0|4.00|
+|23 Nov 24|DG vs TAD|2.0|29|0|0|14.50|
+|22 Nov 24|DG vs AB|2.0|11|0|0|5.50|
+|21 Nov 24|DG vs CB|DNB|
+|29 Sep 24|JBT vs CTSA|2.0|23|0|0|11.50|
+|28 Sep 24|JBT vs HB|2.0|16|0|0|8.00|
+|Luke Wood Recent Bowling All Recent Bowling Details|
+|Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|2|5|1|
+|Innings|1|1|1|
+|Not Out|0|0|1|
+|Runs|10|3|9|
+|Highest Score|10|3|9|
+|Average|10.00|3.00|
+|Balls Faced|10|4|3|
+|Strike Rate|100|75|300|
+|20s|0|0|0|
+|30s|0|0|0|
+|50s|0|0|0|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|1|0|0|
+|6s|0|0|1|
+|Outtype|
+|LBW|0|0|0|
+|Bowled|0|0|0|
+|Stumped|0|0|0|
+|Catch|1|1|0|
+|Run Out|0|0|0|
+|Wicket Taker|
+|Left Arm|0|0|0|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|0|
+|3- Medium|0|0|0|
+|4- Slow|0|0|0|
+|1- Bowled|0|0|0|
+|2- Catch|0|0|0|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Right Arm|1|1|0|
+|1- Fast|1|0|0|
+|2- Fast-Medium|0|1|0|
+|3- Medium|0|0|0|
+|4- Slow|0|0|0|
+|1- Bowled|0|0|0|
+|2- Catch|1|1|0|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|2|5|1|
+|Innings|1|5|1|
+|Balls|60|108|12|
+|Runs|59|174|25|
+|BBI|
+|Average|0|21.75|25.00|
+|Strike Rate|13.50|12.00|
+|Maiden|0|0|0|
+|2w|0|0|0|
+|3w|0|2|0|
+|5w|0|0|0|
+|8w|0|0|0|
+|10w|0|0|0|
+|Wickets|0|8|1|... |LBW|0|0|0|
+|Bowled|0|4|0|
+|Stumped|0|0|0|
+|Catch|0|4|1|
+|Batsman Type|
+|Right Handed|0|6|1|
+|1- LBW|0|0|0|... |2- Bowled|0|3|0|
+|3- Stumped|0|0|0|
+|4- Catch|0|3|1|
+|Left Handed|0|2|0|
+|1- LBW|0|0|0|
+|2- Bowled|0|1|0|... |3- Stumped|0|0|0|
+|4- Catch|0|1|0|
+Luke Wood played 2 ODI matches and scored 10 runs in 1 Innings. Luke Wood's Highest Score in ODI is 10. L Wood has 0 ODI centuries, 0 ODI half centuries and 0 times 30+ and 0 times 20+ ODI runs.... L Wood has a strike rate of 100 with run per match of 5.00 in 10 ODI balls. Luke Wood made total 1 boundaries with 1 fours and 0 sixes in ODI. L Wood's ODI outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 1 times, Run Out 0 times.... Luke Wood's ODI wicket takers are 0 left arm and 1 right arm. L Wood's Left Arm ODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Luke Wood's Right Arm ODI Wicket Taker analysis are Fast bowler 1 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... L Wood's wicket taken by Left Arm Bowlers in ODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Luke Wood's wicket taken by Right Arm Bowlers in ODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets.... Luke Wood Took 0 Wickets (In 1 ODI innings) with Strike Rate of and average of 0. L Wood's delivered 60 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 0 Right Handed and 0 Left Handed batsman out by Luke Wood in ODI. Right Handed Batsman ODI outtype analysis (wicket taken by L Wood) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times. Left Handed Batsman ODI outtype analysis (wicket taken by L Wood) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Luke Wood played 5 T20 matches and scored 3 runs in 1 Innings. Luke Wood's Highest Score in T20 is 3. L Wood has 0 T20 centuries, 0 T20 half centuries and 0 times 30+ and 0 times 20+ T20 runs.... L Wood has a strike rate of 75 with run per match of 0.60 in 4 T20 balls. Luke Wood made total 0 boundaries with 0 fours and 0 sixes in T20. L Wood's T20 outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 1 times, Run Out 0 times.... Luke Wood's T20 wicket takers are 0 left arm and 1 right arm. L Wood's Left Arm T20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Luke Wood's Right Arm T20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 1 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... L Wood's wicket taken by Left Arm Bowlers in T20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Luke Wood's wicket taken by Right Arm Bowlers in T20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets.... Luke Wood Took 8 Wickets (In 5 T20 innings) with Strike Rate of 13.50 and average of 21.75. L Wood's delivered 108 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 2 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 6 Right Handed and 2 Left Handed batsman out by Luke Wood in T20. Right Handed Batsman T20 outtype analysis (wicket taken by L Wood) are LBW 0 times, Bowled 3 times, Stumped 0 times, Catch 3 times. Left Handed Batsman T20 outtype analysis (wicket taken by L Wood) are LBW 0 times, Bowled 1 times, Stumped 0 times, Catch 1 times.... Luke Wood Fielding analysis are Catch 1 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Luke Wood played 1 IPL matches and scored 9 runs in 1 Innings. Luke Wood's Highest Score in IPL is 9. L Wood has 0 IPL centuries, 0 IPL half centuries and 0 times 30+ and 0 times 20+ IPL runs. L Wood has a strike rate of 300 with run per match of 9.00 in 3 IPL balls.... Luke Wood made total 1 boundaries with 0 fours and 1 sixes in IPL. L Wood's IPL outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 0 times, Run Out 0 times. Luke Wood's IPL wicket takers are 0 left arm and 0 right arm.... L Wood's Left Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Luke Wood's Right Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... L Wood's wicket taken by Left Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Luke Wood's wicket taken by Right Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Luke Wood Took 1 Wickets (In 1 IPL innings) with Strike Rate of 12.00 and average of 25.00. L Wood's delivered 12 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 1 Right Handed and 0 Left Handed batsman out by Luke Wood in IPL. Right Handed Batsman IPL outtype analysis (wicket taken by L Wood) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 1 times. Left Handed Batsman IPL outtype analysis (wicket taken by L Wood) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Luke Wood plays cricket as Bowling Allrounder. Luke Wood run per match records are 5.0 runs in ODI, 0.6 runs in T20, 9.0 runs in IPL, 0.7 runs in Hundred, 0.6 runs in T10, 1.5 runs in BBL, 2.9 runs in BLAST, 3.4 runs in PSL, 5.0 runs in BPL, 52.5 runs in DODI, 2.5 runs in DT20.... L Wood wicket per match records are 0 in ODI, 1.6 in T20, 1.0 in IPL, 0.8 in Hundred, 0.4 in T10, 1.4 in BBL, 0.9 in BLAST, 1.0 in PSL, 1.5 in BPL, 2.0 in DODI, 0.9 in DT20.... L Wood make boundary in every 10.0 balls in ODI, 0 balls in T20, 3.0 balls in IPL, 23.0 balls in Hundred, 11.5 balls in T10, 18.0 balls in BBL, 12.0 balls in BLAST, 6.0 balls in PSL, 5.3 balls in BPL, 5.4 balls in DODI, 5.7 balls in DT20.... Luke Wood wicket in every 0 balls in ODI, 13.5 balls in T20, 12.0 balls in IPL, 20.0 balls in Hundred, 22.7 balls in T10, 15.9 balls in BBL, 21.6 balls in BLAST, 21.3 balls in PSL, 15.5 balls in BPL, 19.5 balls in DODI, 18.5 balls in DT20.... Luke Wood hits six in every 0 balls in ODI, every 0 balls in T20, every 3.0 balls in IPL, every 0 balls in Hundred, every 23.0 balls in T10, every 36.0 balls in BBL, every 24.0 balls in BLAST, every 10.0 balls in PSL, every 16.0 balls in BPL, every 31.0 balls in DODI, every 23.0 balls in DT20.... Luke Wood score four in every 10.0 balls in ODI, 0 balls in T20, 0 balls in IPL, 23.0 balls in Hundred, 23.0 balls in T10, 36.0 balls in BBL, 24.0 balls in BLAST, 15.0 balls in PSL, 8.0 balls in BPL, 6.6 balls in DODI, 7.6 balls in DT20.... |## Luke Wood stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|DG|all|DT20|1|1|1.00|Stats|
+|DV|all|DT20|4|12|10.00|Stats|
+|PES|all|PSL|6|17|13.66|Stats|
+|QTG|all|PSL|0|0|Stats|
+|DG|all|T10|2|2|4.00|Stats|
+|GM|all|T10|3|5|2.50|Stats|
+|BBJ|all|T10|0|0|Stats|
+|JBT|all|T10|1|2|2.00|Stats|
+|BGT|all|T10|3|9|9.00|Stats|
+|MSA|all|T10|0|0|Stats|
+|## Luke Wood stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Sheikh Zayed Stadium|all|DT20|1|1|1.00|Stats|
+|Dubai International Cricket St|all|DT20|3|12|11.50|Stats|
+|Sharjah Cricket Stadium|all|DT20|1|7|7.00|Stats|
+|National Stadium|all|PSL|2|14|7.00|Stats|
+|Rawalpindi Cricket Stadium|all|PSL|2|2|1.00|Stats|
+|Multan Cricket Stadium|all|PSL|1|17|17.00|Stats|
+|Gaddafi Stadium|all|PSL|1|8|8.00|Stats|
+|Sheikh Zayed Stadium|all|T10|5|9|6.50|Stats|
+|Harare Sports Club|all|T10|1|2|2.00|Stats|
+|Pallekele International Cricke|all|T10|3|5|2.50|Stats|
+|## Luke Wood stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Sharjah Cricket Stadium|all|DT20|2|3|6.00|Stats|
+|Dubai International Cricket St|all|DT20|4|5|7.73|Stats|
+|Sheikh Zayed Stadium|all|DT20|5|3|7.72|Stats|
+|Rawalpindi Cricket Stadium|all|PSL|3|3|9.00|Stats|
+|Multan Cricket Stadium|all|PSL|1|2|3.25|Stats|
+|Gaddafi Stadium|all|PSL|4|5|8.96|Stats|
+|National Stadium|all|PSL|4|3|9.03|Stats|
+|Harare Sports Club|all|T10|9|5|10.14|Stats|
+|Pallekele International Cricke|all|T10|6|0|8.09|Stats|
+|Sheikh Zayed Stadium|all|T10|16|10|11.04|Stats|
+|## Luke Wood stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|Abu Dhabi T10 League 2024|all|DT20|1|1|1.00|Stats|
+|International T20 2025|all|DT20|0|0|Stats|
+|International League T20 2023|all|DT20|4|12|10.00|Stats|
+|PSL 2024|all|PSL|6|17|13.66|Stats|
+|PSL 2022|all|PSL|0|0|Stats|
+|ABU DHABI T10 2021|all|T10|3|9|9.00|Stats|
+|Abu Dhabi T10 League 2023|all|T10|2|2|4.00|Stats|
+|Lanka Super League 2024|all|T10|3|5|2.50|Stats|
+|Abu Dhabi T10 League 2024|all|T10|0|0|Stats|
+|Zim Afro T10 2024|all|T10|1|2|2.00|Stats|
+|## Luke Wood stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|Abu Dhabi T10 League 2024|all|DT20|4|3|8.28|Stats|
+|International T20 2025|all|DT20|2|0|7.14|Stats|
+|International League T20 2023|all|DT20|5|8|7.05|Stats|
+|PSL 2024|all|PSL|11|12|8.24|Stats|
+|PSL 2022|all|PSL|1|1|11.25|Stats|
+|Lanka Super League 2024|all|T10|6|0|8.09|Stats|
+|Abu Dhabi T10 League 2023|all|T10|5|3|10.12|Stats|
+|ABU DHABI T10 2021|all|T10|10|7|11.32|Stats|
+|Abu Dhabi T10 League 2024|all|T10|1|0|12.00|Stats|
+|Zim Afro T10 2024|all|T10|9|5|10.14|Stats|
+|## Luke Wood stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|United Arab Emirates|all|DT20|5|12|10.33|Stats|
+|Pakistan|all|PSL|6|17|13.66|Stats|
+|Zimbabwe|all|T10|1|2|2.00|Stats|
+|Sri Lanka|all|T10|3|5|2.50|Stats|
+|United Arab Emirates|all|T10|5|9|6.50|Stats|
+|England|all|DODI|2|88|105.00|Stats|
+|Australia|all|BBL|8|13|3.66|Stats|
+|Pakistan|all|T20|0|0|Stats|
+|Australia|all|T20|0|0|Stats|
+|England|all|T20|1|3|3.00|Stats|
+|## Luke Wood stats Bowling On Countries|
+|--|
+|Country|Year|Mode|Inn|Wkts|Eco|Stats|
+|United Arab Emirates|all|DT20|11|11|7.32|Stats|
+|Pakistan|all|PSL|12|13|8.50|Stats|
+|United Arab Emirates|all|T10|16|10|11.04|Stats|
+|Sri Lanka|all|T10|6|0|8.09|Stats|
+|Zimbabwe|all|T10|9|5|10.14|Stats|
+|England|all|DODI|2|4|4.69|Stats|
+|Australia|all|BBL|14|20|8.85|Stats|
+|Pakistan|all|T20|2|3|9.12|Stats|
+|England|all|T20|3|5|10.10|Stats|
+|Australia|all|ODI|1|0|5.90|Stats|
+|## Luke Wood stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|CB|all|DT20|0|0|Stats|
+|SWR|all|DT20|0|0|Stats|
+|DC|all|DT20|1|8|8.00|Stats|
+|GG|all|DT20|2|12|7.50|Stats|
+|ADKR|all|DT20|0|0|Stats|
+|TAD|all|DT20|0|0|Stats|
+|UPN|all|DT20|1|1|1.00|Stats|
+|AB|all|DT20|0|0|Stats|
+|MIE|all|DT20|1|7|7.00|Stats|
+|NYS|all|DT20|0|0|Stats|
+|## Luke Wood stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Emirates Old Trafford|all|LANCS|BLAST|1|5|5.00|Stats|
+|## Luke Wood stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Emirates Old Trafford|all|LANCS|BLAST|1|2|3.33|Stats|
+|## Luke Wood stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|Abu Dhabi T10 League 2024|UPN|DT20|1|1|1.00|Stats|
+|International League T20 2023|MIE|DT20|1|7|7.00|Stats|... |International League T20 2023|SWR|DT20|0|0|Stats|
+|International League T20 2023|DC|DT20|1|8|8.00|Stats|
+|International League T20 2023|GG|DT20|2|12|7.50|Stats|
+|International T20 2025|ADKR|DT20|0|0|Stats|
+|Abu Dhabi T10 League 2024|TAD|DT20|0|0|Stats|
+|Abu Dhabi T10 League 2024|NYS|DT20|0|0|Stats|
+|International T20 2025|MIE|DT20|0|0|Stats|
+|Abu Dhabi T10 League 2024|AB|DT20|0|0|Stats|
+|## Luke Wood stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|Abu Dhabi T10 League 2024|UPN|DT20|1|0|10.00|Stats|
+|International League T20 2023|DC|DT20|1|2|9.00|Stats|
+|International League T20 2023|SWR|DT20|1|3|5.00|Stats|
+|International League T20 2023|MIE|DT20|1|0|7.00|Stats|
+|International League T20 2023|GG|DT20|2|3|7.12|Stats|
+|International T20 2025|ADKR|DT20|1|0|6.75|Stats|
+|International T20 2025|MIE|DT20|1|0|7.66|Stats|
+|Abu Dhabi T10 League 2024|NYS|DT20|1|3|4.00|Stats|
+|Abu Dhabi T10 League 2024|TAD|DT20|1|0|14.50|Stats|
+|Abu Dhabi T10 League 2024|AB|DT20|1|0|5.50|Stats|
+|## Luke Wood stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|United Arab Emirates|all|CB|DT20|0|0|Stats|
+|United Arab Emirates|all|MIE|DT20|1|7|7.00|Stats|
+|United Arab Emirates|all|DC|DT20|1|8|8.00|Stats|
+|United Arab Emirates|all|GG|DT20|2|12|7.50|Stats|
+|United Arab Emirates|all|ADKR|DT20|0|0|Stats|
+|United Arab Emirates|all|TAD|DT20|0|0|Stats|
+|United Arab Emirates|all|UPN|DT20|1|1|1.00|Stats|
+|United Arab Emirates|all|AB|DT20|0|0|Stats|
+|United Arab Emirates|all|SWR|DT20|0|0|Stats|
+|United Arab Emirates|all|NYS|DT20|0|0|Stats|
+|## Luke Wood stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|United Arab Emirates|all|UPN|DT20|1|0|10.00|Stats|
+|United Arab Emirates|all|MIE|DT20|2|0|7.28|Stats|
+|United Arab Emirates|all|SWR|DT20|1|3|5.00|Stats|
+|United Arab Emirates|all|DC|DT20|1|2|9.00|Stats|
+|United Arab Emirates|all|GG|DT20|2|3|7.12|Stats|
+|United Arab Emirates|all|ADKR|DT20|1|0|6.75|Stats|
+|United Arab Emirates|all|NYS|DT20|1|3|4.00|Stats|
+|United Arab Emirates|all|TAD|DT20|1|0|14.50|Stats|
+|United Arab Emirates|all|AB|DT20|1|0|5.50|Stats|
+|Pakistan|all|MUL|PSL|3|2|7.82|Stats|

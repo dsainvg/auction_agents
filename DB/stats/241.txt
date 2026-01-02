@@ -1,26 +1,13 @@
 ================================================================================
-IPL PLAYER PROFILE: MOHAMMAD NABI
+IPL PLAYER PROFILE: KAMRAN AKMAL
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Mohammad Nabi
-  IPL Debut                : 2017
-  Date of Birth            : 01 January 1985
-  Total IPL Matches        : 24
-  Nationality              : Afghan
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Afghanistan all-rounder and one of their most dependable players,
-  Mohammad Nabi has been instrumental in Afghanistan’s rise through the ranks
-  to the 2015 Cricket World Cup and their induction into the Test club. He is
-  a right-hand middle order batsman and a clever off-spinner who has often
-  chipped in with critical performances for Afghanistan and for the Sunrisers
-  Hyderabad. He got the longest run in a season in 2019 when he featured in 8
-  games that included a 4-wicket haul. He is one handy cricketer to have and
-  it will be interesting to see how the franchise uses Nabi in their scheme of
-  things.
+  Player Name              : Kamran Akmal
+  Date of Birth            : 13 January 1982
+  Total IPL Matches        : 6
+  Nationality              : Pakistani
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -30,13 +17,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    24    |    3     |   215    |    31    |  13.44   |   150    |  143.33  |    0     |    0     |    18    |    11    |    18    |    0    
-    2024   |    7     |    1     |    35    |    23    |   8.75   |    31    |  112.90  |    0     |    0     |    2     |    2     |    7     |    0    
-    2021   |    3     |    0     |    34    |    17    |  11.33   |    20    |  170.00  |    0     |    0     |    3     |    2     |    5     |    0    
-    2020   |    1     |    1     |    11    |   11*    |   0.00   |    8     |  137.50  |    0     |    0     |    2     |    0     |    0     |    0    
-    2019   |    8     |    1     |   115    |    31    |  19.16   |    76    |  151.31  |    0     |    0     |    8     |    7     |    6     |    0    
-    2018   |    2     |    0     |    18    |    14    |   9.00   |    12    |  150.00  |    0     |    0     |    3     |    0     |    0     |    0    
-    2017   |    3     |    0     |    2     |    2     |   2.00   |    3     |  66.66   |    0     |    0     |    0     |    0     |    0     |    0    
+   Career  |    6     |    1     |   128    |   53*    |  25.60   |    78    |  164.10  |    0     |    1     |    13    |    8     |    5     |    4    
+    2008   |    6     |    1     |   128    |   53*    |  25.60   |    78    |  164.10  |    0     |    1     |    13    |    8     |    5     |    4    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -46,13 +28,9 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    17    |   343    |   408    |    13    |   4/11   |  31.38   |   7.14   |  26.38   |    1     |    0    
-    2021   |    3     |    48    |    86    |    2     |   2/32   |  43.00   |  10.75   |  24.00   |    0     |    0    
-    2020   |    1     |    24    |    23    |    0     |   0/23   |    -     |   5.75   |    -     |    0     |    0    
-    2019   |    8     |   175    |   194    |    8     |   4/11   |  24.25   |   6.65   |  21.87   |    1     |    0    
-    2018   |    2     |    30    |    47    |    1     |   1/23   |  47.00   |   9.40   |  30.00   |    0     |    0    
-    2017   |    3     |    66    |    58    |    2     |   1/13   |  29.00   |   5.27   |  33.00   |    0     |    0    
+   Career  |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2008   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/mohammad-nabi/618
+Source: https://www.iplt20.com/players/kamran-akmal/316
 ================================================================================

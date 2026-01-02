@@ -1,14 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: DARYL MITCHELL
+IPL PLAYER PROFILE: KUSAL MENDIS
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Daryl Mitchell
-  IPL Debut                : 2022
-  Date of Birth            : 20 May 1991
-  Total IPL Matches        : 15
-  Nationality              : New Zealander
+  Player Name              : Kusal Mendis
+  IPL Debut                : 2025
+  Date of Birth            : 02 February 1995
+  Total IPL Matches        : 1
+  Role                     : Batter
+  Nationality              : Sri Lankan
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -18,10 +19,97 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    15    |    2     |   351    |    63    |  27.00   |   267    |  131.46  |    0     |    2     |    28    |    10    |    11    |    0    
-    2024   |    13    |    2     |   318    |    63    |  28.91   |   223    |  142.60  |    0     |    2     |    27    |    10    |    9     |    0    
-    2022   |    2     |    0     |    33    |    17    |  16.50   |    44    |  75.00   |    0     |    0     |    1     |    0     |    2     |    0    
+   Career  |    1     |    0     |    20    |    20    |  20.00   |    10    |  200.00  |    0     |    0     |    1     |    2     |    1     |    0    
+    2025   |    1     |    0     |    20    |    20    |  20.00   |    10    |  200.00  |    0     |    0     |    1     |    2     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/daryl-mitchell/20617
+Source: https://www.iplt20.com/players/kusal-mendis/22384
 ================================================================================
+**Balapuwaduge Kusal Gimhan Mendis** (born 2 February 1995) is a professional Sri Lankan cricketer who plays in all forms of the game and a former ODI captain of the national team. He only played sixteen first-class matches before playing for the national side. In November 2017, he was named the One Day International (ODI) batsman of the year for the 2016–17 season at Sri Lanka Cricket's annual awards.... ## Early and domestic career
+
+In 2013, Mendis was adjudged as the schoolboy cricketer of the year and had captained the national youth and the Prince of Wales College, Moratuwa teams in his formative years.... In March 2018, Mendis was named in Dambulla's squad for the 2017–18 Super Four Provincial Tournament. In the following month, he was also named in Dambulla's squad for the 2018 Super Provincial One Day Tournament. In August 2018, Mendis was named to Galle's squad for the 2018 SLC T20 League.... He was the leading run-scorer for Galle in the tournament, where he scored 182 runs in six matches. In March 2019, he was named in Galle's squad for the 2019 Super Provincial One Day Tournament.... During the 2019–20 Premier League Tournament, Mendis scored 139 against Ragama Cricket Club, where Colombo Cricket Club won the match by an innings and 125 runs. In 2020, Mendis scored his maiden first-class double-century against Nondescripts Cricket Club and helped to draw the match. In the final match against Chilaw Marians Cricket Club, Mendis scored another century, with 157 runs, where the match ended in a draw.... ## Franchise cricket
+
+In October 2020, Mendis was drafted by the Kandy Tuskers for the inaugural edition of the Lanka Premier League. In November 2021, he was selected to play for the Galle Gladiators following the players' draft for the 2021 Lanka Premier League. In July 2022, he was signed by the Galle Gladiators for the third edition of the Lanka Premier League.... On 7 February 2023, Mendis was signed to Pretoria Capitals in the SA20 cricket tournament in South Africa. Against Paarl Royals, he scored 80 runs from 41 deliveries hitting 8 boundaries and four sixes, where Capitals won the match by 59 runs and Mendis won the player of the match award.... ## International career
+
+### Debut years (2014–2015)
+
+In 2014, Mendis was named as the captain for the 2014 ICC Under-19 Cricket World Cup. After strong performances in U-19 career, Mendis became the 132nd Test player for Sri Lanka, after gaining his cap during the second Test of Sobers-Tissera Trophy against West Indies.... He scored 13 runs in the first innings and 39 runs in the second innings. Then in 2016, Mendis was named in the Sri Lanka squad for the tour of England. In the first Test, he got a duck in the first innings, but scored his maiden test half-century with 53 runs in the second innings.... Mendis made his One Day International (ODI) debut against Ireland on 16 June 2016, and scored his maiden ODI fifty. In the same tour, Mendis made his Twenty20 International (T20I) debut for Sri Lanka against England on 5 July 2016.... ### Making a mark in the international arena (2016–2018)
+
+On 28 July 2016, Mendis scored his maiden Test century during the first Test against Australia at the Pallekele Cricket Stadium. He became the youngest Sri Lankan to score a century against Australia and also the highest score against Australia on home soil. Sri Lanka won the match by 106 runs, which was only their second Test win against Australia. Mendis won the Man of the Match award for his performance.... In the fifth match of the Tri-series in Zimbabwe against the West Indies, Mendis scored match-winning 94 runs and made 94-run partnership with Niroshan Dickwella. Sri Lanka later posted 330 runs off 50 overs, which was recorded as the highest total by Sri Lanka against the West Indies.... Sri Lanka won the match by one run and reached the final, where Mendis won the man of the match award. In the final against Zimbabwe, Mendis scored another fifty, guiding the team to win the series by 6 wickets. His all-round performances in the series gave him his first Player of the series award.... On the first Test against Bangladesh at Galle in 2017, Mendis scored his second Test century, just falling short 6 runs for his double hundred. On 28 March 2017, in the second ODI against Bangladesh, Mendis scored his maiden ODI century, with 102 runs. However, the match ended with a no result, due to heavy rain.... On 8 June 2017, against India in the 2017 ICC Champions Trophy, Mendis scored a match-winning 89 runs and made a 159-run stand for the second wicket with Danushka Gunathilaka. In the match, Sri Lanka chased 321 runs scored by India, by recording the highest successful run chase in Champion's Trophy history.... This was Sri Lanka's joint-highest chase, and their first successful 300-plus chase since the 2015 World Cup as well. On 30 June 2017, against Zimbabwe, Mendis passed 1,000 ODI runs, becoming the joint second-fastest with Upul Tharanga for Sri Lanka to achieve this.... During the first Test against Bangladesh in 2018, Mendis scored his fourth Test hundred on his 23rd birthday. Mendis along with Dhananjaya de Silva scored a 308-run partnership to the second wicket until De Silva was dismissed for 173 runs. However, Mendis was dismissed for 196 runs, four runs short of his maiden double century. His score of 196, however, made him the second Sri Lankan after Kumar Sangakkara to get out in the 190s at least twice.... After good performances in Tests against Bangladesh, Mendis was named to the T20I squad for Sri Lanka by replacing injured Kusal Perera. In the first match, he scored a match-winning knock of 53 from 27 balls. Bangladesh scored 193 in their 20 overs, which was then their highest T20I total.... Mendis opened the innings with Danushka Gunathilaka and they added 53 for the first wicket in just 4.5 overs. Then Mendis scored his first T20I fifty and Sri Lanka won the match by 6 wickets. The chase of 193 is recorded as the highest T20I chase by Sri Lanka as well and Mendis was adjudged man of the match.... In the second T20I, Mendis scored another match-winning half-century and Sri Lanka posted 210 in their 20 overs. This is Sri Lanka's highest T20I score against Bangladesh. Finally, Sri Lanka won the match and series 2-0 and Mendis was awarded with both man of the match and player of the series.
+
+In May 2018, he was one of 33 cricketers to be awarded a national contract by Sri Lanka Cricket ahead of the 2018–19 season.... ### Ups and downs (2018-2020)
+
+Mendis was totally out of form during the 2018 Asia Cup, where he was dismissed for naught in both games against Bangladesh and Afghanistan. His place in the team was in doubt with poor performances, and he was omitted from the England tour in Sri Lanka. But during the ODI series, Mendis was called into the squad for the remainder of the series against England, as a replacement for Kusal Perera, who suffered a quad strain in the second ODI.... In his comeback match, he was again dismissed for naught. In the fourth ODI, he batted in the middle order and scored only 5 runs and England won the series 3–0. In the last match, Mendis batted in the number-4 position. After 24 innings without a fifty, he scored a 30-ball half-century in the match with 6 huge sixes. Sri Lanka won the match by 219 runs in the DLS method.... During the first Test against New Zealand in late 2018, Mendis scored his sixth Test century. Mendis along with Angelo Mathews batted all over the fourth day, which was the fifth time that the Sri Lankan pair had done that in Test history. On the fifth day, they put on an unbeaten double-century partnership which overall lasted for 115 wicketless overs for New Zealanders.... With rain interruption, the match ended in a draw. The partnership of 246, was also Sri Lanka's highest for any wicket against New Zealand and also Sri Lanka's highest in the second innings of a Test. It was the first time a Sri Lankan pair had added 200-plus runs in the second innings of a Test outside Asia.... In the second Test, Mendis reached 1,000 Test runs in the calendar year 2018. He became only the second player after Virat Kohli to achieve the feat. He finished 2018 as the second-highest run-scorer in Test cricket, with 1,023 runs at an average of 46.50, including three centuries and four fifties.... During the two-match Test series against South Africa, Mendis continued his poor form with the bat with scores 0, 12 and 16. However, his fielding efforts at slip improved in each innings. In the second innings of the second test at Port Elizabeth, Mendis scored his 9th test fifty and put on an unbeaten partnership of 163 runs off 213 balls with newcomer Oshada Fernando to win the match by 8 wickets.... Eventually, Sri Lanka won the series 2-0 and Mendis was adjudged man of the match. It was the first Test series won by Sri Lanka in South Africa and Sri Lanka became the first Asian team to win a test series in South Africa.... In April 2019, he was named in Sri Lanka's squad for the 2019 Cricket World Cup. On 1 September 2019, during the first T20I against New Zealand, he scored a quick 79 runs off 53 balls to set a target of 174. However, Sri Lanka lost the match.... In the last over of the second T20I, he had a collision with Shehan Jayasuriya at the boundary line. Jayasuriya was running from long-on, and Mendis from midwicket, in order to intercept an aerial Mitchell Santner, he tripped up by the onrushing Mendis, and was sent crashing into the boundary. Both players picked up knee injuries and rested from the third T20I.... During the first Test against Zimbabwe on 19 January 2020, Mendis scored his eleventh fifty. He made 80 runs off 163 deliveries in the match and had a strong partnership with eventual double-centurion Angelo Mathews. Sri Lanka went on to win the match by 10 wickets. In the second Test, Mendis scored his seventh century with an unbeaten 116 in the second innings, with Sri Lanka winning the series 1–0.... On 25 February 2020, against the West Indies, Mendis scored his second ODI century. Along with Avishka Fernando, they made a 239-run partnership for the third wicket, with Sri Lanka eventually making 345/8. West Indies collapsed in the chase and Sri Lanka won the match by 161 runs. This was the biggest win in terms of runs against the West Indies by Sri Lanka in ODIs, with Sri Lanka taking an unassailable lead in the series.... ### International ban (2021)
+
+On 28 June 2021, Sri Lanka Cricket (SLC) suspended Mendis, Danushka Gunathilaka and Niroshan Dickwella after they breached the team's bio-secure bubble during Sri Lanka's tour of England. All three players were seen in the city centre of Durham, with SLC sending them all back home ahead of the ODI matches. In July 2021, following the outcome of the incident, Mendis was suspended from playing in international cricket for one year. Sri Lanka Cricket agreed to lift the ban early, rescinding the punishment in January 2022.... ### After the ban (2022–2023)
+
+On 20 February 2022, Mendis scored a match-winning sixth T20I half-century against Australia. His unbeaten 69 runs helped Sri Lanka to win the match by five wickets, with him being named the player of the match. On 23 May 2022, he was hospitalized after leaving the field holding his chest minutes before lunch on the first day of the second Test against Bangladesh. The doctors "suspect muscle spasms" as the reason for his discomfort but an ECG test has "come out clear".... In the Australian Test series in July 2022, Sri Lanka suffered a huge defeat, with the match ending in three days. Mendis scored just 3 and 8 runs in the match. However, on 9 July 2022, in the second Test, Mendis scored 85 runs in a partnership of 152 with Dimuth Karunaratne.... On 1 September 2022, against Bangladesh Kusal Mendis scored his 7th T20I half-century. He scored 60 runs while chasing 183 runs. Finally, Sri Lanka won the match and Kusal Mendis won the player of the match award for his performance.... During the 2022 Asia Cup, Mendis played as the opener with Pathum Nissanka and they made match-winning partnerships in the games against Bangladesh, Afghanistan and India. Against Bangladesh, Mendis made a match-winning knock of 60 runs and Sri Lanka finally chased the target of 183 runs with one wicket.... However, Mendis had four clear chances and won by luck. On 6 September 2022 against India, Mendis scored his 8th T20I half-century. He scored 57 runs and put up a strong 97-run partnership with Pathum Nissanka while chasing 173 runs. Finally, Sri Lanka won the match by 6 wickets.... In the first round in T20I World Cup 2022, against Netherlands, Mendis scored the 9th T20I half-century and made 79 runs in 44 balls hitting five boundaries and five sixes. Finally, Sri Lanka won the match by 16 runs and qualified for Super 12, where Mendis won the Player of the match award for his performance.... In the first match in Super 12s in T20 World Cup 2022, against Ireland, Mendis scored his 10th T20I half-century and surpassed 1000 T20I runs. Finally, Sri Lanka won the match by 9 wickets and Mendis won the Player of the Match award.... On 5 January 2023, against India, Mendis scored his 11th T20I half-century and eventually Sri Lanka won the match by 16 runs. In March 2023, in the first test against New Zealand, Mendis scored the fastest half-century and scored 87 off 83 balls. However, in the second test, he was dismissed for a duck in the first innings and scored a half-century in the second innings. On 8 April 2023, in the third T20I match against New Zealand, Mendis scored his 12th T20I fifty in a losing cause.... On 16 April 2023, in the first test match against Ireland, Mendis scored his 8th test century and put a 281-run partnership for the second wicket with Dimuth Karunaratne. Finally, Sri Lanka won the match by an innings and 280 runs. During the second test match against Ireland, Mendis scored his maiden test double-century.... He scored 245 runs from 291 deliveries hitting 18 boundaries and 11 sixes. He also put a 268-run partnership with Nishan Madushka. Finally, Sri Lanka won the match and the series, and Mendis won Player of the Series award for his performance.... ### Vice-Captaincy stints (2021/2023)
+
+Mendis was appointed vice-captain in April 2021 against Bangladesh ODI series. He was also appointed Vice-captain for the T20 series against England. However, he was dropped from the vice-captain position against India home series in September 2021. In December 2022, he was recalled as a Sri Lanka ODI Vice-captain for the India tour 2023.... During the first World Cup match against South Africa, Mendis scored his 26th ODI half-century. He scored 76 runs from 42 balls which included four boundaries and eight sixes. His knock went in vain as Sri Lanka lost the match in a huge margin. On 10 October 2023, against Pakistan, Mendis made his 3rd ODI century and scored 122 runs from 77 deliveries hitting 14 boundaries and 6 sixes. His efforts went in vain against Sri Lanka lost the match.... ### ODI Captaincy (2023)
+
+He was appointed as Sri Lanka's captain after regular skipper Dasun Shanaka was ruled out of the 2023 Cricket World Cup after suffering an injury in the game against Pakistan. He scored just 9 runs in his first match as a captain of the Sri Lanka, as they lost to Australia by 5 wickets.... In the next game against Netherlands, he led his team to a comfortable win. He also led Sri Lanka to a famous win against England which they won by 8 wickets, although he scored only 11 runs. In the next game against Afghanistan, Sri Lanka faltered big time, as their opponents eased past them with 7 wickets in hand.... ### Post captaincy (2024–present)
+
+During T20I series against Bangladesh, he became highest run scorer in the series scoring 181 runs in three matches with average of 60.33 including two half centuries.... In May 2024, he was named in Sri Lanka's squad for the 2024 ICC Men's T20 World Cup tournament. In September 2024 in the second test match against New Zealand, Mendis scored his 10th century. He made an unbeaten century partnership with Kamindu Mendis, where Sri Lanka posted a mammoth total of 602 in the first innings. Eventually Sri Lanka won the match by an innings and 154 runs and sealed the series 2–0.... On 17 October 2024 against West Indies in the third T20I, Mendis made a match winning knock of an unbeaten 68 runs: his fifteenth fifty in T20Is, where he guided Sri Lanka to the victory and clinched the series 2–1. This is the first bilateral T20I series win over West Indies as well. Later, Mendis won the man of the match award for his batting performance.... ## Controversies
+
+### Car accident
+
+In July 2020, Kusal Mendis was involved in a fatal car accident in Panadura, near Colombo. He was driving his SUV when he struck a 64-year-old man who was riding a bicycle. Unfortunately, the man succumbed to his injuries. Mendis was arrested and taken into custody, and his vehicle was also impounded by the police. But police statement made without mention of whether either Mendis or the victim were under the influence of alcohol. A day after the incident, Mendis was released on bail.... ### Disciplinary issues
+
+In July 2021, Mendis, along with Danushka Gunathilaka and Niroshan Dickwella, was found guilty of breaching the team's bio-secure bubble during Sri Lanka's tour of England. They were sent back home and faced a one-year ban from international cricket and a six-month ban from domestic cricket. The same trio was also penalized for violating curfew regulations by failing to be in their hotel rooms by 10:30 PM. This breach brought disrepute to Sri Lanka Cricket and resulted in a hefty fine of Sri Lanka Rupees 10 million for each player.... In December 2023, Mendis smashed a glass door at the Bloomfield Cricket Club pavilion after being dismissed for a 'duck' during an inter-club match. In March 2024, during an ODI against Bangladesh, Mendis, serving as the ODI captain, was fined for verbally abusing the umpires while shaking hands after the match. This incident highlighted concerns over player discipline within the team.... ## International centuries
+
+Kusal Mendis has made 16 international centuries- 10 in Test cricket, and 6 in One Day International (ODI) format.... ### Key
+- ***** – Remained not out
+- **‡** – Captain of Sri Lanka in that match
+- **†** – Man of the match
+
+**Test centuries**... |No.|Score|Against|Pos.|Inn.|Test|Venue|H/A/N|Date|Result|Ref|
+|--|--|--|--|--|--|--|--|--|--|--|
+|1|176 †|Australia|4|3|1/3|Pallekele International Cricket Stadium, Kandy|Home|26 July 2016|Won| |... |2|194 †|Bangladesh|3|1|1/2|Galle International Stadium, Galle|Home|7 March 2017|Won| |
+|3|110|India|3|3|2/3|Singhalese Sports Club Cricket Ground, Colombo|Home|3 August 2017|Lost| |... |4|196|Bangladesh|3|2|1/2|Zohur Ahmed Chowdhury Stadium, Chattogram|Away|31 January 2018|Drawn| |
+|5|102|West Indies|1|4|1/3|Queen's Park Oval, Port of Spain|Away|6 June 2018|Lost| |... |6|141*|New Zealand|4|3|1/2|Basin Reserve, Wellington|Away|15 December 2018|Drawn| |
+|7|116*|Zimbabwe|3|4|2/2|Harare Sports Club, Harare|Away|27 January 2020|Drawn| |... |8|140|Ireland|3|1|1/2|Galle International Stadium, Galle|Home|16 April 2023|Won| |
+|9|245|Ireland|3|2|2/2|Galle International Stadium, Galle|Home|24 April 2023|Won| |... |10|106*|New Zealand|7|1|2/2|Galle International Stadium, Galle|Home|26 September 2024|Won| |
+
+**ODI Centuries Scored by Kusal Mendis**... |No.|Score|Against|Pos.|Inn.|S/R|Venue|H/A/N|Date|Result|Ref|
+|--|--|--|--|--|--|--|--|--|--|--|
+|1|102|Bangladesh|3|1|95.32|Rangiri Dambulla International Stadium, Dambulla|Home|28 March 2017|No result| |... |2|119|West Indies|4|1|100.00|Mahinda Rajapaksa International Cricket Stadium, Hambantota|Home|26 February 2020|Won| |
+|3|122|Pakistan|3|1|158.44|Rajiv Gandhi International Cricket Stadium, Hyderabad|Neutral|10 October 2023|Lost| |... |4|143 †|New Zealand|3|1|111.71|Rangiri Dambulla International Stadium, Dambulla|Home|13 November 2024|Won| |
+|5|101 †|Australia|3|1|87.82|R. Premadasa Stadium, Colombo|Home|14 February 2025|Won| |
+|6|124 †|Bangladesh|3|1|108.77|Pallekele International Cricket Stadium, Kandy|Home|8 July 2025|Won| |... ## Personal life
+
+On 12 February 2021, Mendis married his wife in Colombo. In June 2022, Mendis' wife gave birth to a baby girl.
+Kusal has a brother named Balapuwaduge Omesh Lalisha Mendis
+
+## References... ## External links
+- Kusal Mendis at ESPNcricinfo
+
+Categories: - 1995 births... - Alumni of Prince of Wales' College, Moratuwa
+- Bloomfield Cricket and Athletic Club cricketers
+- Colombo Cricket Club cricketers
+- Kurunegala Warriors cricketers
+- Living people
+- Moors Sports Club cricketers
+- Sri Lankan cricketers
+- Sri Lanka Test cricketers... - Sri Lanka One Day International cricketers
+- Sri Lanka Twenty20 International cricketers
+- 21st-century Sri Lankan sportsmen
+- Cricketers from Moratuwa
+- Cricketers at the 2019 Cricket World Cup
+- Kandy Falcons cricketers
+- Wicket-keepers... - Galle Gladiators cricketers
+- Pretoria Capitals cricketers
+- Dambulla Aura cricketers
+- Sri Lankan expatriate cricketers in Australia
+- Sri Lankan expatriate cricketers in South Africa
+- Gujarat Titans cricketers

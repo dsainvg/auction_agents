@@ -1,15 +1,23 @@
 ================================================================================
-IPL PLAYER PROFILE: JOSH INGLIS
+IPL PLAYER PROFILE: CHETAN SAKARIYA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Josh Inglis
-  IPL Debut                : 2025
-  Date of Birth            : 04 March 1995
-  Total IPL Matches        : 11
-  Role                     : Wicketkeeper Batter
-  Nationality              : Australian
+  Player Name              : Chetan Sakariya
+  IPL Debut                : 2021
+  Date of Birth            : 28 February 1998
+  Total IPL Matches        : 20
+  Role                     : Bowler
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  The pacer from Saurashtra will be looking forward to his maiden IPL
+  season after he was bought by RR for INR 1.20 Cr during the player auction
+  ahead of the IPL 2021. The youngster will be coming into this year’s IPL on
+  the back of some impressive performances in the Syed Mushtaq Ali Trophy and
+  Vijay Hazare Trophy and will be keen to make a for RR.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -19,8 +27,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    11    |    2     |   278    |    73    |  30.89   |   171    |  162.57  |    0     |    1     |    26    |    16    |    9     |    1    
-    2025   |    11    |    2     |   278    |    73    |  30.89   |   171    |  162.57  |    0     |    1     |    26    |    16    |    9     |    1    
+   Career  |    20    |    2     |    20    |    7     |   3.33   |    31    |  64.52   |    0     |    0     |    3     |    0     |    6     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2023   |    2     |    1     |    4     |    4     |   4.00   |    6     |  66.67   |    0     |    0     |    1     |    0     |    0     |    0    
+    2022   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2021   |    14    |    1     |    16    |    7     |   3.20   |    25    |  64.00   |    0     |    0     |    2     |    0     |    4     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -30,9 +41,1192 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    20    |   444    |   638    |    20    |   3/31   |  31.90   |   8.62   |  22.20   |    0     |    0    
+    2025   |    1     |    18    |    39    |    0     |   0/39   |    -     |  13.00   |    -     |    0     |    0    
+    2023   |    2     |    48    |    89    |    3     |   2/53   |  29.67   |  11.13   |  16.00   |    0     |    0    
+    2022   |    3     |    66    |    84    |    3     |   2/23   |  28.00   |   7.64   |  22.00   |    0     |    0    
+    2021   |    14    |   312    |   426    |    14    |   3/31   |  30.42   |   8.19   |  22.28   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/josh-inglis/22372
+Source: https://www.iplt20.com/players/chetan-sakariya/11062
 ================================================================================
+Edition
+
+IN
+
+IN
+
+US
+
+English
+
+English
+
+हिन्दी
+
+मराठी
+
+ಕನ್ನಡ
+
+தமிழ்
+
+বাংলা
+
+മലയാളം
+
+తెలుగు
+
+ગુજરાતી
+
+Weather
+
+Sign In
+
+TOI
+
+IPL
+
+Schedule
+
+MI Schedule
+
+CSK Schedule
+
+RR Schedule
+
+KKR Schedule
+
+RCB Schedule... LSG Schedule
+
+GT Schedule
+
+DC Schedule
+
+PBKS Schedule
+
+SRH Schedule
+
+points table
+
+IPL Live Score
+
+IPL Results
+
+Orange Cap
+
+Purple Cap
+
+Teams
+
+MI IPL Squad
+
+RCB IPL Squad
+
+LSG IPL Squad
+
+CSK IPL Squad
+
+GT IPL Squad
+
+KKR IPL Squad
+
+RR IPL Squad... DC IPL Squad
+
+PBKS IPL Squad
+
+SRH IPL Squad
+
+Playoffs
+
+stats
+
+All-Time Records
+
+Highest IPL Score
+
+Most IPL Wickets
+
+Highest Innings Score
+
+Most IPL 6
+
+Team with Most Wins
+
+Prediction Hub
+
+photos
+
+News
+
+SPORTS NEWS
+
+CRICKET NEWS
+
+IPL
+
+CHETAN SAKARIYA IPL STATS... Chetan Sakariya IPL Stats
+
+Chetan Sakariya
+
+(Current/Last Team: KKR)
+
+Chetan Sakariya
+
+(Current/Last Team: KKR)
+
+Nationality:
+
+India
+
+Date of Birth:
+
+28/02/1998
+
+Role:
+
+Bowler
+
+Batting style:
+
+Left Handed
+
+Bowling style:... Left-arm medium fast
+
+Nick Name:
+
+
+
+IPL Debut
+
+Date:
+
+12/04/2021
+
+For Team:
+
+RR
+
+Against Team:
+
+PBKS
+
+Venue:
+
+Wankhede Stadium, Mumbai
+
+Chetan Sakariya Career Information
+
+Teams Played
+
+India
+
+Rest of India
+
+West Zone
+
+Kolkata Knight Riders... Delhi Capitals
+
+Rajasthan Royals
+
+Saurashtra
+
+Aryan Sorath Lions
+
+Zalawad Strikers
+
+Chetan Sakariya IPL Highest Score & Best Bowling Record
+
+Highest Score
+
+7
+
+Runs
+
+Against PBKS in 2021
+
+Best Bowling Record
+
+3/31
+
+Against PBKS in 2021... Chetan Sakariya Performance in Last 10 IPL Matches
+
+Season 2025 - 2026
+
+(played for KKR)
+
+No.
+
+vs
+
+Batting
+
+Bowling
+
+1
+
+vs Punjab Kings
+
+0
+
+(0)
+
+0
+
+/39
+
+Season 2023 - 2024
+
+(played for DC)... No.
+
+vs
+
+Batting
+
+Bowling
+
+1
+
+vs Chennai Super Kings
+
+0
+
+(2)
+
+1
+
+/36
+
+2
+
+vs Lucknow Super Giants
+
+4
+
+(4)
+
+2
+
+/53
+
+Season 2022 - 2023
+
+(played for DC)
+
+No.
+
+vs
+
+Batting... Bowling
+
+1
+
+vs Rajasthan Royals
+
+0
+
+(0)
+
+2
+
+/23
+
+2
+
+vs Lucknow Super Giants
+
+0
+
+(0)
+
+0
+
+/44
+
+3
+
+vs Kolkata Knight Riders
+
+0
+
+(0)
+
+1
+
+/17
+
+Season 2021 - 2022
+
+(played for RR)... No.
+
+vs
+
+Batting
+
+Bowling
+
+1
+
+vs Kolkata Knight Riders
+
+1
+
+(5)
+
+1
+
+/23
+
+2
+
+vs Mumbai Indians
+
+6
+
+(11)
+
+1
+
+/36
+
+3
+
+vs Chennai Super Kings
+
+0
+
+(0)
+
+1
+
+/31
+
+4
+
+vs Royal Challengers Bengaluru... 2
+
+(2)
+
+0
+
+/18
+
+Chetan Sakariya Overall IPL Records
+
+Batting Records
+
+MAT
+
+HS
+
+INS
+
+N/O
+
+R
+
+BF
+
+100s
+
+50s
+
+4s
+
+6s
+
+AVG
+
+S/R
+
+Overall
+
+20
+
+7 vs PBKS
+
+8
+
+2... 20
+
+31
+
+0
+
+0
+
+3
+
+0
+
+3.33
+
+64.52
+
+2025
+
+1
+
+0 vs PBKS
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2023
+
+2
+
+4 vs LSG
+
+2
+
+1
+
+4... 6
+
+0
+
+0
+
+1
+
+0
+
+4
+
+66.67
+
+2022
+
+3
+
+0 vs LSG
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2021
+
+14
+
+7 vs PBKS
+
+6
+
+1
+
+16
+
+25
+
+0... 0
+
+2
+
+0
+
+3.2
+
+64
+
+Bowling Records
+
+MAT
+
+BEST
+
+INS
+
+B
+
+MDNS
+
+WKTS
+
+AVG
+
+S/R
+
+ECON
+
+3WK
+
+4WK
+
+5WK
+
+Overall
+
+20
+
+3/31 vs PBKS
+
+20
+
+444
+
+1
+
+20... 31.90
+
+22.20
+
+8.62
+
+2
+
+0
+
+0
+
+2025
+
+1
+
+0/39 vs PBKS
+
+1
+
+18
+
+0
+
+0
+
+0
+
+0
+
+13
+
+0
+
+0
+
+0
+
+2023
+
+2
+
+2/53 vs LSG
+
+2
+
+48... 0
+
+3
+
+29.67
+
+16
+
+11.13
+
+0
+
+0
+
+0
+
+2022
+
+3
+
+2/23 vs RR
+
+3
+
+66
+
+0
+
+3
+
+28
+
+22
+
+7.64
+
+0
+
+0
+
+0
+
+2021
+
+14
+
+3/31 vs PBKS... 14
+
+312
+
+1
+
+14
+
+30.43
+
+22.29
+
+8.19
+
+2
+
+0
+
+0
+
+Fielding Records
+
+Catches
+
+Stumping
+
+Run Outs
+
+Overall
+
+6
+
+0
+
+0
+
+2025
+
+0
+
+0
+
+0
+
+2023
+
+0
+
+0
+
+0... 2022
+
+2
+
+0
+
+0
+
+2021
+
+4
+
+0
+
+0
+
+Kolkata Knight Riders Team
+
+Kolkata Knight Riders
+
+2012
+
+2014
+
+2024
+
+Captain
+
+Ajinkya Madhukar Rahane
+
+Team Stats
+
+Played
+
+265
+
+Won
+
+135
+
+Lost
+
+124... Tied
+
+4
+
+N/R
+
+2
+
+Head Coach
+
+Chandrakant Sitaram Pandit
+
+Assistant Coach
+
+Abhishek Mohan Nayar
+
+Bowling Coach
+
+Bharathi Arun
+
+KKR Squad
+
+Team
+
+Batters
+
+Wicket Keepers
+
+All Rounders
+
+Bowlers... Batters
+
+Ajinkya Rahane
+
+Angkrish Raghuvanshi
+
+Manish Pandey
+
+Ramandeep Singh
+
+Rinku Singh
+
+Wicket keepers
+
+Luvnith Sisodia
+
+Quinton de Kock
+
+Rahmanullah Gurbaz
+
+All Rounders
+
+Andre Russell
+
+Anukul Roy... Moeen Ali
+
+Sunil Narine
+
+Venkatesh Iyer
+
+Bowlers
+
+Anrich Nortje
+
+Chetan Sakariya
+
+Harshit Rana
+
+Mayank Markande
+
+Shivam Shukla
+
+Spencer Johnson
+
+Vaibhav Arora
+
+Varun Chakaravarthy... Explore Every Corner
+
+Across The Globe
+
+Selena Gomez
+
+Tom Brady
+
+Taylor Swift Net Worth
+
+Hailee Steinfeld
+
+Wayne Gretzky
+
+Taylor Swift
+
+Aaron Rodgers
+
+Antonio Brown
+
+Deion Sanders
+
+Wayne Gretzkys Daughter
+
+Taylor Swift Engagement Ring
+
+Sonic Trolls Taylor Swift
+
+Taylor and Travis Engagement... Mitch Brown
+
+R Ashwin
+
+Green card
+
+Trump tariff
+
+Most Expensive Celebrity Engagement Rings
+
+SpaceX Starship
+
+Cricketers Battled Cancer
+
+Pam Bondi
+
+JK Flash Floods
+
+South Korea Phone Ban
+
+Bank Holiday today
+
+Rampage Jackson
+
+Shane Christie
+
+Cracker Barrel logo
+
+UPSC NDA Exam Schedule... Kai Cenat
+
+Michael B Jordan
+
+About us
+
+Create Your Own Ad
+
+Terms of Use and Grievance Redressal Policy
+
+Privacy policy
+
+Advertise with us
+
+RSS
+
+Newsletter
+
+Feedback
+
+ePaper
+
+Sitemap
+
+Archives
+
+Living and Entertainment
+
+Cricbuzz
+
+Lifestyle
+
+Newspaper Subscription
+
+Food News... TV
+
+Times Prime
+
+Travel Destinations
+
+Whats Hot
+
+ETimes
+
+Times Life
+
+Times Pets
+
+MyLifeXP
+
+Services
+
+CouponDunia
+
+TechGig
+
+TimesJobs
+
+Bollywood News
+
+Times Mobile
+
+Gadgets
+
+Times Events
+
+Work with Us
+
+Colombia
+
+Hot on the Web
+
+Ganesh Chaturthi 2025 Wishes... Ganesh Chaturthi 2025
+
+Ganesh Chaturthi Wishes
+
+Happy Ganesh Chaturthi Messages
+
+Shah Rukh Khan
+
+Baahubali The Epic
+
+Taylor Swift Engagement News
+
+Hrithik Roshan
+
+Michael Clarke
+
+Kidney Damage Symptoms
+
+Bigg Boss 19
+
+Taylor Swift Love Story... Taylor Swift Watch
+
+Bigg Boss 19 Contestants List
+
+Indian Whiskies
+
+Liver Health
+
+Vegetarian Foods
+
+Vitamin D Supplements
+
+Bigg Boss 19
+
+High Blood Sugar Symptoms
+
+Clove Tea
+
+Low Cholesterol
+
+Liver Health
+
+Collagen Boosting Foods
+
+Gut Health
+
+Baby Girl Names... War 2 Box Office Collection
+
+Coolie Movie Review
+
+Coolie Box Office Collection
+
+Asian Poorest Countries
+
+Stomach Cancer Warning
+
+Diabetic Shock Signs
+
+World Oldest Woman
+
+Jamun For Diabetes
+
+Carly Pearce
+
+Tips To Prevent Rabies
+
+Skincare Habits
+
+Fatty Liver Symptoms
+
+Kidney Damage Symptoms... Dragon Snake
+
+Food For Better Gut Health
+
+Trending Topics
+
+Cheteshwar Pujara
+
+Who is Francesca Jones
+
+Justin Langer
+
+Diamond League Final
+
+Mitch Marner
+
+R Ashwin Education Career
+
+Prithi Narayanan
+
+Pakistan Cricket Coach
+
+Andrew Tate
+
+WB NEET UG Counselling
+
+PGCIL Registration Window... RSSB Answer Key
+
+James Anderson
+
+Osmania University Result
+
+Bank of Baroda LBO Admit Card
+
+Cheteshwar Pujara
+
+Mark Wood
+
+R Ashwin IPL Career
+
+RIE CEE Result
+
+Himachal Pradesh Floods
+
+Baghpat Mahapanchayat
+
+Jammu Floods
+
+DK Shivakumar... Delhi Accident
+
+MK Stalin
+
+Jammu And Kashmir Flash Floods
+
+Noida Nikki Bharti Murder
+Rahul Fazilpuria Murder Plot
+
+Mumbai Konkan Travel
+
+Nikki Bharti Murder Case
+
+Delhi Airport Travel Advisory
+
+Brad Smith
+
+Elon Musk
+
+Donald Trump
+
+Google NotebookLM
+
+Matcha Side Effects
+
+Sam Altman
+
+Nyt Connections
+
+Banned Betting Apps
+
+Taylor Swift
+
+Kairan Quazi... Wordle Today
+
+Popular Categories
+
+Headlines
+
+Sports News
+
+Business News
+
+India News
+
+World News
+
+Bollywood News
+
+Health+ Tips
+
+Indian TV Shows
+
+Technology
+
+Travel
+
+Etimes
+
+Health & Fitness
+
+Delhi Gold Rate Today
+
+Numerology Number 1 Horoscope
+
+Chinese Horoscope Predictions
+
+Astrology
+
+Weather Today... Platinum Rate Today
+
+Silver Rate Today
+
+Gold Rate Today
+
+Is Bank open today
+
+Is Bank Open Tomorrow
+
+Bank Holidays in September
+
+Public Holidays in September
+
+Stock Market Holidays
+
+Financial Calculators
+
+Technology News
+
+International Sports
+
+Public Holidays
+
+Bank Holidays
+
+Latest News
+
+How can India offset impact of Donald Trump’s tariffs? ‘Two broad options’ to absorb shocks - explained... Latest US Visa rule changes for Indians: What’s new from August 1
+
+Massive drug haul: US Coast Guard seizes record 76,000 pounds of cocaine, marijuana off Florida coast; contraband worth half a million
+
+FBI whistleblowers: Justice department seals 10 settlements; agents to get back pay and reinstatement... Life beyond Earth? Are aliens sending us signals from deep space? 249 radio signals slam our planet in a few minutes
+
+10 warning signs of appendicitis you should never ignore
+
+'Hits it wherever he wants': England pacer reveals formula to dismissing Rishabh Pant
+
+IIT-Madras study shows human activity can alter couds, shake up climate models... Shubman Gill likely to check-in at CoE this week, others undergo routine fitness checks ahead of Asia Cup
+
+WWE Clash in Paris: Top 5 wrestling superstars who are set to miss out on upcoming PPE
+
+New Saudi regulations: Certified food safety experts now required in central kitchens
+
+Cabinet approves submission of bid to host 2030 Commonwealth Games in Ahmedabad... Can Harjinder Singh speak English? Old bodycam video of New Mexico Police triggers fresh row
+
+“Found the fourth Chaos Emerald”: Sonic trolls Taylor Swift and Travis Kelce’s diamond ring with a hilarious comparison
+
+‘Maxton Hall: Reunion’: Cast to reunite ahead of the new season premiere - Deets inside... Ganesh Chaturthi 2015: Govinda and Ssunita Ahuja shut down divorce rumors with joint festive appearance in twinning outfits; latter asks paps, 'Controversy sun ne aaye ho?'
+
+Jolie Poirier urges UFC to take back Dustin Poirier after retired fighter goes crazy with silly goose art... Ravi Dubey and Sargun Mehta welcome Bappa in their new home; names it ‘Saubhagya’
+
+Copyright © 2025 Bennett, Coleman & Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service
+
+Follow Us On

@@ -1,80 +1,340 @@
-================================================================================
-IPL PLAYER PROFILE: MANISH PANDEY
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Manish Pandey
-  IPL Debut                : 2008
-  Date of Birth            : 10 September 1989
-  Total IPL Matches        : 174
-  Role                     : All-Rounder
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    A flamboyant right-hand top-order batsman, Manish Pandey is among the
-  very handful/few players to have played in every edition of the IPL since
-  its inception. He also holds the distinction of being the first Indian to
-  score a ton in the IPL. The 35-year old was roped in by Kolkata Knight
-  Riders for INR 75 lakh.
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   174    |    28    |   3942   |   114*   |  29.42   |   3244   |  121.52  |    1     |    22    |   340    |   115    |    86    |    0    
-    2025   |    3     |    1     |    92    |    37    |  46.00   |    65    |  141.54  |    0     |    0     |    5     |    5     |    0     |    0    
-    2024   |    1     |    0     |    42    |    42    |  42.00   |    31    |  135.48  |    0     |    0     |    2     |    2     |    4     |    0    
-    2023   |    10    |    0     |   160    |    50    |  17.78   |   146    |  109.59  |    0     |    1     |    15    |    3     |    3     |    0    
-    2022   |    6     |    0     |    88    |    38    |  14.67   |    80    |  110.00  |    0     |    0     |    9     |    2     |    3     |    0    
-    2021   |    8     |    2     |   292    |   69*    |  48.66   |   236    |  123.72  |    0     |    3     |    21    |    10    |    5     |    0    
-    2020   |    16    |    2     |   425    |   83*    |  32.69   |   333    |  127.62  |    0     |    3     |    35    |    18    |    7     |    0    
-    2019   |    12    |    3     |   344    |   83*    |  43.00   |   263    |  130.79  |    0     |    3     |    34    |    6     |    7     |    0    
-    2018   |    15    |    2     |   284    |   62*    |  25.81   |   246    |  115.44  |    0     |    3     |    22    |    5     |    9     |    0    
-    2017   |    14    |    5     |   396    |   81*    |  49.50   |   308    |  128.57  |    0     |    2     |    28    |    12    |    8     |    0    
-    2016   |    12    |    3     |   248    |    52    |  31.00   |   183    |  135.51  |    0     |    2     |    17    |    9     |    7     |    0    
-    2015   |    13    |    1     |   225    |    40    |  20.45   |   184    |  122.28  |    0     |    0     |    22    |    7     |    5     |    0    
-    2014   |    16    |    3     |   401    |    94    |  30.84   |   340    |  117.94  |    0     |    2     |    35    |    10    |    3     |    0    
-    2013   |    7     |    1     |   136    |    66    |  22.66   |   137    |  99.27   |    0     |    1     |    11    |    3     |    6     |    0    
-    2012   |    10    |    2     |   143    |   80*    |  20.42   |   112    |  127.67  |    0     |    1     |    12    |    6     |    3     |    0    
-    2011   |    10    |    0     |   246    |    59    |  27.33   |   227    |  108.37  |    0     |    1     |    28    |    6     |    5     |    0    
-    2010   |    13    |    1     |   249    |   42*    |  20.75   |   226    |  110.17  |    0     |    0     |    27    |    7     |    7     |    0    
-    2009   |    5     |    2     |   168    |   114*   |  84.00   |   118    |  142.37  |    1     |    0     |    17    |    4     |    4     |    0    
-    2008   |    3     |    0     |    3     |    3     |   1.50   |    9     |  33.33   |    0     |    0     |    0     |    0     |    0     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |   174    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2021   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2019   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2017   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2015   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2014   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2013   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2012   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2011   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2010   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2009   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2008   |    3     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/manish-pandey/123
-================================================================================
+|## Daniel Lawrence Introduction|
+|--|
+|Role|Batsman|
+|Batting|Right Handed|
+|Bowling|spin Right-arm legbreak|
+|Country|England|
+|--|--|
+|Birth|12-Jul-1997 (27 yr), Whipps Cross, Essex|
+|Height|--|
+|Teams|Essex, England U19, England Lions, England, South, Deccan Gladiators, Karachi Kings, Team Buttler, Brisbane Heat (Mostly) England U19,|
+|Social Accounts|Instagram Twitter Wikipedia|
+|Last Updated|Last updated 9 days ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Daniel Lawrence Stats|
+|--|
+|Competition|T10|BBL|Hundred|
+|Matches|9|4|17|
+|Highest Score|33|20|93|
+|Runs|68|41|324|
+|50s|0|0|1|
+|100s|0|0|0|
+|Run Per Inn|11.3|10.2|21.6|
+|Run Per Match|7.5|10.2|19.0|
+|Boundary (In Ball)|5.3|8.8|6.2|
+|4s (In Ball)|14.3|11.0|9.5|
+|6s (In Ball)|8.6|44.0|17.6|
+|Wickets|0|0|6|
+|Over Per Match|0.0|0.4|1.0|
+|Wicket Per Inn|-|-|0.8|
+|Wicket Per Match|-|-|0.3|
+|Wicket (In Ball)|-|-|17.5|
+|Wicket (In Runs)|-|-|21.5|
+|Field In Match %|33 %|25 %|41 %|
+|Catch In Match %|33 %|25 %|29 %|
+|Check More Stats On Advance Cricket App|
+|## Daniel Lawrence Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|24 Jul 24|Hundred|46|25|0|75|
+|24 Aug 23|Hundred|7|0|0|11|
+|20 Aug 23|Hundred|-2|0|0|2|
+|18 Aug 23|Hundred|4|0|0|8|
+|15 Aug 23|Hundred|30|0|0|34|
+|12 Aug 23|Hundred|119|0|8|131|
+|02 Aug 23|Hundred|30|0|8|42|
+|15 Jul 23|T20|27|0|0|31|
+|06 Jul 23|T20|77|21|0|102|
+|02 Jul 23|T20|85|0|8|97|
+|30 Jun 23|T20|-1|0|0|3|
+|23 Jun 23|T20|100|0|0|104|
+|22 Jun 23|T20|72|0|0|76|
+|18 Jun 23|T20|78|25|0|107|
+|07 Jun 23|T20|-2|0|0|2|
+|06 Jun 23|T20|-2|0|8|10|
+|02 Jun 23|T20|30|0|0|34|
+|01 Jun 23|T20|29|25|8|66|
+|22 Jan 23|T20|0|0|0|4|
+|## Daniel Lawrence Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|24 Jul 24|LNS vs SOB|4|38(30)|126.6|lbw|
+|24 Aug 23|LNS vs BPH|5|6(7)|85.7|catch|
+|20 Aug 23|LNS vs WEF|3|0(2)|0|catch|
+|18 Aug 23|LNS vs NOS|3|4(6)|66.6|bowled|
+|15 Aug 23|LNS vs OVI|4|24(11)|218.1|catch|
+|12 Aug 23|LNS vs TRT|3|93(49)|189.7|catch|
+|08 Aug 23|LNS vs SOB|DNB|
+|05 Aug 23|LNS vs MNR|DNB|
+|02 Aug 23|LNS vs OVI|1|24(17)|141.1|bowled|
+|15 Jul 23|ESS vs HAM|2|21(16)|131.2|catch|
+|06 Jul 23|ESS vs WAS|2|62(49)|126.5|catch|
+|02 Jul 23|ESS vs SUR|2|58(33)|175.7|catch|
+|30 Jun 23|ESS vs MID|4|5(11)|45.4|bowled|
+|23 Jun 23|ESS vs HAM|1|70(33)|212.1|stumped|
+|22 Jun 23|ESS vs KET|2|52(36)|144.4|catch|
+|18 Jun 23|ESS vs MID|1|53(30)|176.6|catch|
+|Daniel Lawrence Recent Batting|
+|## Daniel Lawrence Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|24 Jul 24|LNS vs SOB|2.0|13|1|0|6.50|
+|24 Aug 23|LNS vs BPH|4.0|35|0|0|8.75|
+|20 Aug 23|LNS vs WEF|DNB|
+|18 Aug 23|LNS vs NOS|DNB|
+|15 Aug 23|LNS vs OVI|1.0|5|0|0|5.00|
+|12 Aug 23|LNS vs TRT|DNB|
+|08 Aug 23|LNS vs SOB|DNB|
+|05 Aug 23|LNS vs MNR|DNB|
+|02 Aug 23|LNS vs OVI|DNB|
+|15 Jul 23|ESS vs HAM|DNB|
+|06 Jul 23|ESS vs WAS|2.0|23|1|0|11.50|
+|02 Jul 23|ESS vs SUR|DNB|
+|30 Jun 23|ESS vs MID|DNB|
+|23 Jun 23|ESS vs HAM|DNB|
+|22 Jun 23|ESS vs KET|DNB|
+|18 Jun 23|ESS vs MID|1.0|11|1|0|11.00|
+|Daniel Lawrence Recent Bowling All Recent Bowling Details|
+|Competition|T10|BBL|Hundred|
+|--|--|--|--|
+|Matches|9|4|17|
+|Innings|6|4|15|
+|Not Out|1|0|0|
+|Runs|68|41|324|
+|Highest Score|33|20|93|
+|Average|13.60|10.25|21.60|
+|Balls Faced|43|44|230|
+|Strike Rate|158.1|93.1|140.8|
+|20s|0|1|3|
+|30s|1|0|2|
+|50s|0|0|1|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|1|
+|150s|0|0|0|
+|4s|3|4|24|
+|6s|5|1|13|
+|Outtype|
+|LBW|0|0|1|
+|Bowled|0|1|5|
+|Stumped|0|0|0|
+|Catch|5|2|9|
+|Run Out|0|1|0|
+|Wicket Taker|
+|Left Arm|2|1|0|
+|1- Fast|1|0|0|
+|2- Fast-Medium|0|0|0|
+|3- Medium|0|0|0|
+|4- Slow|1|1|0|
+|1- Bowled|0|1|0|
+|2- Catch|2|0|0|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Right Arm|3|2|15|
+|1- Fast|0|0|2|
+|2- Fast-Medium|3|0|4|
+|3- Medium|0|0|3|
+|4- Slow|0|2|6|
+|1- Bowled|0|0|5|
+|2- Catch|3|2|9|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|1|
+|Competition|T10|BBL|Hundred|
+|--|--|--|--|
+|Matches|9|4|17|
+|Innings|1|2|7|
+|Balls|6|18|105|
+|Runs|2|26|129|
+|BBI|
+|Average|0|0|21.50|
+|Strike Rate|17.50|
+|Maiden|0|0|0|
+|2w|0|0|0|
+|3w|0|0|1|... |5w|0|0|0|
+|8w|0|0|0|
+|10w|0|0|0|
+|Wickets|0|0|6|
+|LBW|0|0|0|
+|Bowled|0|0|3|
+|Stumped|0|0|0|... |Catch|0|0|3|
+|Batsman Type|
+|Right Handed|0|0|2|
+|1- LBW|0|0|0|
+|2- Bowled|0|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|0|0|2|... |Left Handed|0|0|4|
+|1- LBW|0|0|0|
+|2- Bowled|0|0|3|
+|3- Stumped|0|0|0|
+|4- Catch|0|0|1|
+Daniel Lawrence played 9 T10 matches and scored 68 runs in 6 Innings.... Daniel Lawrence's Highest Score in T10 is 33. D Lawrence has 0 T10 centuries, 0 T10 half centuries and 1 times 30+ and 0 times 20+ T10 runs. D Lawrence has a strike rate of 158.1 with run per match of 7.55 in 43 T10 balls.... Daniel Lawrence made total 8 boundaries with 3 fours and 5 sixes in T10. D Lawrence's T10 outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 5 times, Run Out 0 times. Daniel Lawrence's T10 wicket takers are 2 left arm and 3 right arm.... D Lawrence's Left Arm T10 Wicket Taker analysis are Fast bowler 1 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets. Daniel Lawrence's Right Arm T10 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 3 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... D Lawrence's wicket taken by Left Arm Bowlers in T10 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 2 wickets. Daniel Lawrence's wicket taken by Right Arm Bowlers in T10 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 3 wickets.... Daniel Lawrence Took 0 Wickets (In 1 T10 innings) with Strike Rate of and average of 0. D Lawrence's delivered 6 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 0 Right Handed and 0 Left Handed batsman out by Daniel Lawrence in T10. Right Handed Batsman T10 outtype analysis (wicket taken by D Lawrence) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times. Left Handed Batsman T10 outtype analysis (wicket taken by D Lawrence) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Daniel Lawrence Fielding analysis are Catch 3 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Daniel Lawrence played 4 BBL matches and scored 41 runs in 4 Innings. Daniel Lawrence's Highest Score in BBL is 20. D Lawrence has 0 BBL centuries, 0 BBL half centuries and 0 times 30+ and 1 times 20+ BBL runs.... D Lawrence has a strike rate of 93.1 with run per match of 10.25 in 44 BBL balls. Daniel Lawrence made total 5 boundaries with 4 fours and 1 sixes in BBL. D Lawrence's BBL outtype analysis are lbw 0 times, bowled 1, stumped 0 times, catch 2 times, Run Out 1 times.... Daniel Lawrence's BBL wicket takers are 1 left arm and 2 right arm. D Lawrence's Left Arm BBL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets. Daniel Lawrence's Right Arm BBL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 2 wickets.... D Lawrence's wicket taken by Left Arm Bowlers in BBL analysis are lbw 0 wickets, bowled 1 wickets, stumped 0 wickets, catch 0 wickets. Daniel Lawrence's wicket taken by Right Arm Bowlers in BBL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 2 wickets.... Daniel Lawrence Took 0 Wickets (In 2 BBL innings) with Strike Rate of and average of 0. D Lawrence's delivered 18 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 0 Right Handed and 0 Left Handed batsman out by Daniel Lawrence in BBL. Right Handed Batsman BBL outtype analysis (wicket taken by D Lawrence) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times. Left Handed Batsman BBL outtype analysis (wicket taken by D Lawrence) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Daniel Lawrence Fielding analysis are Catch 1 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Daniel Lawrence played 17 Hundred matches and scored 324 runs in 15 Innings. Daniel Lawrence's Highest Score in Hundred is 93. D Lawrence has 0 Hundred centuries, 1 Hundred half centuries and 2 times 30+ and 3 times 20+ Hundred runs. D Lawrence has a strike rate of 140.8 with run per match of 19.05 in 230 Hundred balls.... Daniel Lawrence made total 37 boundaries with 24 fours and 13 sixes in Hundred. D Lawrence's Hundred outtype analysis are lbw 1 times, bowled 5, stumped 0 times, catch 9 times, Run Out 0 times. Daniel Lawrence's Hundred wicket takers are 0 left arm and 15 right arm.... D Lawrence's Left Arm Hundred Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Daniel Lawrence's Right Arm Hundred Wicket Taker analysis are Fast bowler 2 wickets, Fast-Medium bowler 4 wickets, Medium bowler 3 wickets, Slow bowler 6 wickets.... D Lawrence's wicket taken by Left Arm Bowlers in Hundred analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Daniel Lawrence's wicket taken by Right Arm Bowlers in Hundred analysis are lbw 1 wickets, bowled 5 wickets, stumped 0 wickets, catch 9 wickets.... Daniel Lawrence Took 6 Wickets (In 7 Hundred innings) with Strike Rate of 17.50 and average of 21.50. D Lawrence's delivered 105 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 1 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 2 Right Handed and 4 Left Handed batsman out by Daniel Lawrence in Hundred. Right Handed Batsman Hundred outtype analysis (wicket taken by D Lawrence) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 2 times. Left Handed Batsman Hundred outtype analysis (wicket taken by D Lawrence) are LBW 0 times, Bowled 3 times, Stumped 0 times, Catch 1 times.... Daniel Lawrence Fielding analysis are Catch 5 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 1 times.... Daniel Lawrence plays cricket as Batsman. Daniel Lawrence run per match stats are 7.5 runs in T10, 10.2 runs in BBL, 19.0 runs in Hundred, 32.8 runs in BLAST, 35.5 runs in DODI, 17.0 runs in DT20.... D Lawrence make boundary in every 5.3 balls in T10, 8.8 balls in BBL, 6.2 balls in Hundred, 5.0 balls in BLAST, 10.2 balls in DODI, 9.3 balls in DT20. Daniel Lawrence hits six in every 8.6 balls in T10, every 44.0 balls in BBL, every 17.6 balls in Hundred, every 15.2 balls in BLAST, every 44.0 balls in DODI, every 28.0 balls in DT20.... Daniel Lawrence score four in every 14.3 balls in T10, 11.0 balls in BBL, 9.5 balls in Hundred, 7.5 balls in BLAST, 13.3 balls in DODI, 14.0 balls in DT20.... |## Daniel Lawrence stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|DEG|all|T10|6|33|13.60|Stats|
+|ENGA|all|DODI|3|50|63.00|Stats|
+|ESS|all|DODI|5|54|31.60|Stats|
+|BRH|all|BBL|4|20|10.25|Stats|
+|DC|all|DT20|1|34|34.00|Stats|
+|ESS|all|BLAST|38|86|36.67|Stats|
+|LNS|all|Hundred|15|93|21.60|Stats|
+|## Daniel Lawrence stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Edgbaston|all|T10|0|0|Stats|
+|Sheikh Zayed Stadium|all|T10|6|33|13.60|Stats|
+|County Ground|all|DODI|3|54|28.33|Stats|
+|The Cooper Associates County G|all|DODI|1|51|51.00|Stats|
+|The Kent County Cricket Ground|all|DODI|1|22|22.00|Stats|
+|Drummoyne Oval|all|DODI|1|41|41.00|Stats|
+|Carrara Oval|all|DODI|2|50|85.00|Stats|
+|The Gabba|all|BBL|2|13|6.50|Stats|
+|Manuka Oval|all|BBL|2|20|14.00|Stats|
+|Dubai International Cricket St|all|DT20|1|34|34.00|Stats|
+|## Daniel Lawrence stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Sheikh Zayed Stadium|all|T10|1|0|2.00|Stats|
+|Drummoyne Oval|all|DODI|1|1|4.12|Stats|
+|The Cooper Associates County G|all|DODI|1|0|12.00|Stats|
+|The Kent County Cricket Ground|all|DODI|1|0|5.47|Stats|
+|County Ground|all|DODI|3|1|7.55|Stats|
+|Carrara Oval|all|DODI|2|5|3.15|Stats|
+|Manuka Oval|all|BBL|1|0|8.00|Stats|
+|The Gabba|all|BBL|1|0|10.00|Stats|
+|County Ground|all|BLAST|1|1|7.50|Stats|
+|The Rose Bowl|all|BLAST|1|0|13.00|Stats|
+|## Daniel Lawrence stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|T10L 2019|all|T10|6|33|13.60|Stats|
+|Vitality Blast 2023|all|T10|0|0|Stats|
+|ELTA 2020|all|DODI|3|50|63.00|Stats|
+|EDODC 2019|all|DODI|5|54|31.60|Stats|
+|BBL 2020-21|all|BBL|4|20|10.25|Stats|
+|International League T20 2023|all|DT20|1|34|34.00|Stats|
+|T20B 2019|all|BLAST|13|69|35.09|Stats|
+|T20B 2021|all|BLAST|8|60|42.00|Stats|
+|T20B 2018|all|BLAST|2|86|52.50|Stats|
+|T20BLAST 2022|all|BLAST|4|71|35.50|Stats|
+|## Daniel Lawrence stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|T10L 2019|all|T10|1|0|2.00|Stats|
+|ELTA 2020|all|DODI|3|6|3.42|Stats|
+|EDODC 2019|all|DODI|5|1|7.20|Stats|
+|BBL 2020-21|all|BBL|2|0|8.66|Stats|
+|T20B 2019|all|BLAST|4|3|7.77|Stats|
+|T20B 2021|all|BLAST|7|5|9.00|Stats|
+|T20BLAST 2022|all|BLAST|2|1|8.40|Stats|
+|Vitality Blast 2023|all|BLAST|3|3|9.80|Stats|
+|The Hundred 2022|all|Hundred|4|5|6.51|Stats|
+|The Hundred 2023|all|Hundred|2|0|9.60|Stats|
+|## Daniel Lawrence stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|United Arab Emirates|all|T10|6|33|13.60|Stats|
+|England|all|T10|0|0|Stats|
+|Australia|all|DODI|3|50|63.00|Stats|
+|England|all|DODI|5|54|31.60|Stats|
+|Australia|all|BBL|4|20|10.25|Stats|
+|United Arab Emirates|all|DT20|1|34|34.00|Stats|
+|England|all|BLAST|38|86|36.67|Stats|
+|England|all|Hundred|14|93|23.14|Stats|
+|Wales|all|Hundred|1|0|0.00|Stats|
+|## Daniel Lawrence stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|QLD|all|T10|2|4|2.50|Stats|
+|BGT|all|T10|2|33|48.00|Stats|
+|AD|all|T10|0|0|Stats|
+|DBL|all|T10|0|0|Stats|
+|KAT|all|T10|1|11|11.00|Stats|
+|NW|all|T10|0|0|Stats|
+|MA|all|T10|1|4|4.00|Stats|
+|NSW|all|DODI|1|41|41.00|Stats|
+|GLOUCS|all|DODI|1|10|10.00|Stats|
+|CAXI|all|DODI|2|50|85.00|Stats|
+|## Daniel Lawrence stats Bowling Against Teams|
+|--|
+|Team|Year|Mode|Inn|Wkts|Eco|Stats|
+|BGT|all|T10|1|0|2.00|Stats|
+|SUS|all|DODI|1|0|6.78|Stats|
+|HAM|all|DODI|1|1|7.87|Stats|
+|GLOUCS|all|DODI|1|0|7.66|Stats|
+|SOM|all|DODI|1|0|12.00|Stats|
+|KENT|all|DODI|1|0|5.47|Stats|
+|NSW|all|DODI|1|1|4.12|Stats|
+|CAXI|all|DODI|2|5|3.15|Stats|
+|MLS|all|BBL|1|0|8.00|Stats|
+|HBH|all|BBL|1|0|10.00|Stats|
+|## Daniel Lawrence stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Sheikh Zayed Stadium|all|QLD|T10|2|4|2.50|Stats|
+|Sheikh Zayed Stadium|all|BGT|T10|2|33|48.00|Stats|
+|Sheikh Zayed Stadium|all|AD|T10|0|0|Stats|
+|Sheikh Zayed Stadium|all|DBL|T10|0|0|Stats|
+|Sheikh Zayed Stadium|all|KAT|T10|1|11|11.00|Stats|
+|Sheikh Zayed Stadium|all|NW|T10|0|0|Stats|
+|Sheikh Zayed Stadium|all|MA|T10|1|4|4.00|Stats|
+|Manuka Oval|all|MLS|BBL|1|8|8.00|Stats|
+|Manuka Oval|all|SYT|BBL|1|20|20.00|Stats|... |The Gabba|all|ADS|BBL|1|13|13.00|Stats|
+|## Daniel Lawrence stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Sheikh Zayed Stadium|all|BGT|T10|1|0|2.00|Stats|
+|Manuka Oval|all|MLS|BBL|1|0|8.00|Stats|
+|The Gabba|all|HBH|BBL|1|0|10.00|Stats|
+|## Daniel Lawrence stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|T10L 2019|QLD|T10|2|4|2.50|Stats|
+|T10L 2019|BGT|T10|2|33|48.00|Stats|
+|T10L 2019|AD|T10|0|0|Stats|
+|Vitality Blast 2023|WAS|T10|0|0|Stats|
+|Vitality Blast 2023|HAM|T10|0|0|Stats|
+|T10L 2019|DBL|T10|0|0|Stats|
+|T10L 2019|KAT|T10|1|11|11.00|Stats|
+|T10L 2019|NW|T10|0|0|Stats|
+|T10L 2019|MA|T10|1|4|4.00|Stats|
+|ELTA 2020|NSW|DODI|1|41|41.00|Stats|
+|## Daniel Lawrence stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|T10L 2019|BGT|T10|1|0|2.00|Stats|
+|EDODC 2019|SUS|DODI|1|0|6.78|Stats|
+|EDODC 2019|HAM|DODI|1|1|7.87|Stats|
+|EDODC 2019|GLOUCS|DODI|1|0|7.66|Stats|
+|EDODC 2019|SOM|DODI|1|0|12.00|Stats|
+|EDODC 2019|KENT|DODI|1|0|5.47|Stats|
+|ELTA 2020|NSW|DODI|1|1|4.12|Stats|
+|ELTA 2020|CAXI|DODI|2|5|3.15|Stats|
+|BBL 2020-21|MLS|BBL|1|0|8.00|Stats|
+|BBL 2020-21|HBH|BBL|1|0|10.00|Stats|
+|## Daniel Lawrence stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|United Arab Emirates|all|QLD|T10|2|4|2.50|Stats|
+|United Arab Emirates|all|BGT|T10|2|33|48.00|Stats|
+|United Arab Emirates|all|AD|T10|0|0|Stats|
+|England|all|WAS|T10|0|0|Stats|
+|England|all|HAM|T10|0|0|Stats|
+|United Arab Emirates|all|DBL|T10|0|0|Stats|
+|United Arab Emirates|all|KAT|T10|1|11|11.00|Stats|
+|United Arab Emirates|all|NW|T10|0|0|Stats|
+|United Arab Emirates|all|MA|T10|1|4|4.00|Stats|
+|Australia|all|NSW|DODI|1|41|41.00|Stats|
+|## Daniel Lawrence stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|United Arab Emirates|all|BGT|T10|1|0|2.00|Stats|
+|England|all|SUS|DODI|1|0|6.78|Stats|
+|England|all|HAM|DODI|1|1|7.87|Stats|
+|England|all|GLOUCS|DODI|1|0|7.66|Stats|
+|England|all|SOM|DODI|1|0|12.00|Stats|
+|England|all|KENT|DODI|1|0|5.47|Stats|
+|Australia|all|NSW|DODI|1|1|4.12|Stats|
+|Australia|all|CAXI|DODI|2|5|3.15|Stats|
+|Australia|all|MLS|BBL|1|0|8.00|Stats|
+|Australia|all|HBH|BBL|1|0|10.00|Stats|

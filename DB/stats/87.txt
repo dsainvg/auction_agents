@@ -1,50 +1,141 @@
-================================================================================
-IPL PLAYER PROFILE: ROVMAN POWELL
-================================================================================
+# Matthew Short
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Rovman Powell
-  IPL Debut                : 2022
-  Date of Birth            : 23 July 1993
-  Total IPL Matches        : 29
-  Role                     : All-Rounder
-  Nationality              : Indian
+Adelaide Strikers
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-  A middle-order batter and an occasional medium-pacer West Indian
-  all-rounder Rovman Powell was signed by Kolkata Knight Riders for INR 1.5
-  crore. Rovman Powell also leads the West Indies side in T20 cricket.
+Australia
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    29    |    3     |   365    |   67*    |  18.25   |   249    |  146.59  |    0     |    1     |    22    |    28    |    19    |    0    
-    2025   |    2     |    0     |    5     |    5     |   5.00   |    5     |  100.00  |    0     |    0     |    1     |    0     |    1     |    0    
-    2024   |    10    |    1     |   103    |    27    |  17.17   |    68    |  151.47  |    0     |    0     |    10    |    6     |    8     |    0    
-    2023   |    3     |    0     |    7     |    4     |   2.33   |    9     |  77.78   |    0     |    0     |    1     |    0     |    0     |    0    
-    2022   |    14    |    2     |   250    |   67*    |  25.00   |   167    |  149.70  |    0     |    1     |    10    |    22    |    10    |    0    
+T20 Stats
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    29    |    18    |    35    |    1     |   1/18   |  35.00   |  11.67   |  18.00   |    0     |    0    
-    2025   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    3     |    12    |    18    |    1     |   1/18   |  18.00   |   9.00   |  12.00   |    0     |    0    
-    2022   |    14    |    6     |    17    |    0     |   0/17   |    -     |  17.00   |    -     |    0     |    0    
+Dream11 PPG
 
-================================================================================
-Source: https://www.iplt20.com/players/rovman-powell/3333
-================================================================================
+34.12
+
+Innings
+
+137
+
+Runs
+
+3565
+
+Average
+
+28.07
+
+Strike Rate
+
+147.68
+
+ODI Stats
+
+Dream11 PPG
+
+33.91
+
+Innings
+
+16... Runs
+
+392
+
+Average
+
+24.50
+
+Strike Rate
+
+93.11
+
+Recovers from side strain
+
+**All Rounder**Australia
+
+Short (side) has been added to Australia's ODI squad for the upcoming three-match series against India, Cricbuzz reports.
+
+**ANALYSIS**
+
+Short has been named in Australia's ODI squad for the three-match series against India beginning October 19 in Perth, after recovering from a side strain.... Batting Stats - Format
+
+By Format
+
+By Competition
+
+Batting Stats - Format
+
+Loading Batting Stats...
+
+Bowling Stats - Format
+
+Loading Bowling Stats...
+
+Batting Stats - Competition
+
+Loading Batting Stats...
+
+Bowling Stats - Competition
+
+Loading Bowling Stats...
+
+Cricket Game Log - Bowling
+
+Calculate Stats Over Time... Just click on any two dates.
+
+Scoring
+
+Dream11
+
+Loading Bowling Game Log...
+
+Cricket Game Log - Batting
+
+Calculate Stats Over Time
+
+Just click on any two dates.
+
+Scoring
+
+Dream11
+
+Loading Batting Game Log...
+
+Cricket Game Log - Fielding
+
+Calculate Stats Over Time
+
+Just click on any two dates.... Scoring
+
+Dream11
+
+Loading Fielding Game Log...
+
+Recent RotoWire Articles Featuring Matthew Short See More
+
+Recent RotoWire Articles Featuring Matthew Short See More
+
+More Fantasy News
+
+Scores 20 chasing
+
+**All Rounder**Australia
+
+Short scored 20 off 15 balls with the help of three fours and one six for Australia against Afghanistan in the ICC Champions Trophy 2025 in Lahore on Thursday.... Half-century chasing 352
+
+**All Rounder**Australia
+
+Short scored 63 off 66 balls with the help of nine fours and one six for Australia during a five-wicket win against England in the ICC Champions Trophy 2025 in Lahore on Saturday.
+
+Returns from injury
+
+**All Rounder**Adelaide Strikers... Short (toe) is back in the playing XI for Adelaide Strikers after recovering from the injury.
+
+Doubtful against Renegades
+
+**All Rounder**Adelaide Strikers
+
+Toe
+
+Short missed the previous match against Perth Scorchers due to a broken toe, Cricket Australia (CA) reports.
+
+Three wickets defending 148... **All Rounder**Australia
+
+Short registered figures of three for 27 for San Francisco Unicorns during a three-run win against MI New York in the Major League Cricket (MLC) 2024 in Dallas on Thursday.

@@ -1,49 +1,20 @@
-================================================================================
-IPL PLAYER PROFILE: PRIYAM GARG
-================================================================================
+Career-Stats
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Priyam Garg
-  IPL Debut                : 2020
-  Date of Birth            : 30 November 2000
-  Total IPL Matches        : 23
-  Role                     : Batter
-  Nationality              : Indian
+Batting Stats
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Captain of the India U19 2020 World Cup, young Priyam Garg led the team
-  to the finals of the tournament. Known to be a gutsy batsman springing up
-  valuable performances in India’s U19 campaign, he was bought by the
-  Sunrisers Hyderabad for 1.9 crores. He played 14 games in his debut IPL
-  season in 2020 and scored one half century. An electric fielder and a handy
-  batsman, Garg will be looking to make the most of this IPL season.
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|--|--|--|-|--|--|--|
+|ODI|--|--|--|-|--|--|--|... |T20I|--|--|--|-|--|--|--|
+|FC|26|41|1418|71.69|37.32|6/4|146/54|
+|listA|22|20|602|92.19|33.44|3/1|43/33|... |T20s|30|30|933|139.46|35.88|8/0|81/53|
+Fielding Stats
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    19    |    1     |   205    |   51*    |  14.64   |   185    |  110.81  |    0     |    1     |    11    |    7     |    6     |    0    
-    2021   |    5     |    0     |    72    |    29    |  14.40   |    74    |  97.29   |    0     |    0     |    2     |    3     |    0     |    0    
-    2020   |    14    |    1     |   133    |   51*    |  14.77   |   111    |  119.81  |    0     |    1     |    9     |    4     |    6     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    19    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2021   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/priyam-garg/3775
-================================================================================
+|Format|Catches|Stumpings|Run Outs|
+|--|--|--|--|
+|Tests|--|--|--|
+|ODI|--|--|--|
+|T20I|--|--|--|
+|FC|39|--|1|
+|listA|16|--|0|
+|T20s|18|--|1|

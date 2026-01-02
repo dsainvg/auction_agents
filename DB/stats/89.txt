@@ -1,61 +1,26 @@
-================================================================================
-IPL PLAYER PROFILE: PRITHVI SHAW
-================================================================================
+### Jordan Cox
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Prithvi Shaw
-  IPL Debut                : 2018
-  Date of Birth            : 09 November 1999
-  Total IPL Matches        : 79
-  Role                     : Batter
-  Nationality              : Indian
+### England
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-  A batsman from the Bombay school of cricket, Prithvi Shaw has shown the
-  ability to perform in crucial games. Captain of India’s Under-19 World Cup
-  winning team, Prithvi was retained by Delhi Capitals ahead of the IPL 2020
-  and IPL 2021. The opener made in the domestic circuit and scored centuries
-  on debut in Ranji Trophy and Duleep Trophy, and then added a third feather
-  to his cap by becoming the youngest Indian Test centurion on debut in 2018.
-  However, Shaw’s form dipped after scoring 2 fifties in the IPL 2020 and then
-  in the subsequent Australia tour. But, the aggressive right-hander bounced
-  back in style and hammered 827 runs in 8 matches to power Mumbai to the
-  Vijay Hazare Trophy triumph and will be keen to continue his brilliant run
-  of form when he takes the field for his IPL franchise.
+### Popular PlayersVirat KohliRohit SharmaSachin TendulkarSourav GangulyHardik PandyaOverviewNewsStats... ### Batting Performance
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    79    |    0     |   1892   |    99    |  23.95   |   1283   |  147.47  |    0     |    14    |   238    |    61    |    18    |    0    
-    2024   |    8     |    0     |   198    |    66    |  24.75   |   121    |  163.64  |    0     |    1     |    30    |    5     |    2     |    0    
-    2023   |    8     |    0     |   106    |    54    |  13.25   |    85    |  124.71  |    0     |    1     |    16    |    1     |    1     |    0    
-    2022   |    10    |    0     |   283    |    61    |  28.30   |   185    |  152.97  |    0     |    2     |    37    |    10    |    4     |    0    
-    2021   |    15    |    0     |   479    |    82    |  31.93   |   301    |  159.13  |    0     |    4     |    56    |    18    |    1     |    0    
-    2020   |    13    |    0     |   228    |    66    |  17.53   |   167    |  136.52  |    0     |    2     |    27    |    8     |    4     |    0    
-    2019   |    16    |    0     |   353    |    99    |  22.06   |   264    |  133.71  |    0     |    2     |    45    |    9     |    2     |    0    
-    2018   |    9     |    0     |   245    |    65    |  27.22   |   160    |  153.12  |    0     |    2     |    27    |    10    |    4     |    0    
+|Format|M|Inns|No|R|H.S|Avg|BF|SR|100s|50s|
+|--|--|--|--|--|--|--|--|--|--|--|
+|odi|3|3|--|22|17|7.33|56|39.28|--|--|... |t20i|6|4|--|88|55|22|67|131.34|--|1|
+|t20|166|154|31|3818|139|31.04|2701|141.35|1|19|
+|fc|62|99|6|3889|238|41.81|7103|54.75|11|14|... |list a|7|7|--|120|46|17.14|178|67.41|--|--|
+|t10|9|9|2|328|90|46.86|158|207.59|--|2|... ### Bowling Performance
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    53    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2021   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2019   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+|Format|M|Inns|Ovs|R|Wkts|BBI|Avg|ECN|SR|4W|5W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|odi|3|--|0.00|--|--|--|0|0|0|--|--|... |t20i|6|--|0.00|--|--|--|0|0|0|--|--|
+|t20|166|--|0.00|--|--|--|0|0|0|--|--|
+|fc|62|1|1.00|3|--|--|0|3|0|--|--|... |list a|7|--|0.00|--|--|--|0|0|0|--|--|
+|t10|9|--|0.00|--|--|--|--|--|--|--|--|... ### Recent Form (Last 5 Matches)AllTestODIT20
 
-================================================================================
-Source: https://www.iplt20.com/players/prithvi-shaw/3764
-================================================================================
+|GG vs DC|0|21 Dec 2025|Sharjah|t20|
+|--|--|--|--|--|
+|SW vs DC|28|19 Dec 2025|Dubai|t20|
+|DC vs MIE|46|17 Dec 2025|Dubai|t20|
+|DV vs DC|49*|14 Dec 2025|Dubai|t20|
+|ADKR vs DC|29|13 Dec 2025|Abu Dhabi|t20|

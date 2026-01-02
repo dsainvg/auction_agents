@@ -1,32 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: YASH THAKUR
+IPL PLAYER PROFILE: BEURAN HENDRICKS
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Yash Thakur
-  IPL Debut                : 2023
-  Date of Birth            : 28 December 1998
-  Total IPL Matches        : 21
-  Role                     : WK-Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  A standout performer in India’s U19 setup, Yash Thakur was part of the
-  victorious ACC Under-19 Asia Cup-winning team in 2016, picking up 9 wickets
-  in 5 games. The fiery right-arm pacer made his first-class debut for
-  Vidarbha in the 2018-19 Ranji Trophy. His IPL debut came for Lucknow Super
-  Giants against Chennai Super Kings in 2023, and he quickly made an impact,
-  finishing his maiden season with 13 wickets in 9 matches, including a
-  memorable 4/37 against Punjab Kings. Retained by LSG for 2024, Thakur
-  elevated his game further, claiming 11 wickets in 10 matches, highlighted by
-  a sensational 5/30 against Gujarat Titans, his first IPL five-wicket haul.
-  Punjab Kings acquired him for INR 1.6 crore at the IPL 2025 mega auction,
-  recognizing his potential as a game-changer. Thakur now forms a vital part
-  of PBKS’s pace attack, with the franchise banking on his fiery pace,
-  pinpoint yorkers, and match-winning performances to fuel their quest for a
-  maiden IPL title in 2025.
+  Player Name              : Beuran Hendricks
+  Date of Birth            : 08 June 1990
+  Total IPL Matches        : 7
+  Role                     : Bowler
+  Nationality              : South African
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -36,10 +18,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    21    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
-    2025   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2024   |    10    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2023   |    9     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+   Career  |    7     |    2     |    1     |    1*    |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    3     |    0    
+    2015   |    4     |    2     |    1     |    1*    |   0.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2014   |    3     |    0     |    0     |    0*    |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -49,11 +30,207 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    21    |   443    |   770    |    25    |   5/30   |  30.80   |  10.43   |  17.72   |    1     |    1    
-    2025   |    2     |    39    |    79    |    1     |   1/39   |  79.00   |  12.15   |  39.00   |    0     |    0    
-    2024   |    10    |   213    |   402    |    11    |   5/30   |  36.55   |  11.32   |  19.36   |    0     |    1    
-    2023   |    9     |   191    |   289    |    13    |   4/37   |  22.23   |   9.08   |  14.69   |    1     |    0    
+   Career  |    7     |   150    |   235    |    9     |   3/36   |  26.11   |   9.40   |  16.67   |    0     |    0    
+    2015   |    4     |    78    |   109    |    5     |   2/40   |  21.80   |   8.38   |  15.60   |    0     |    0    
+    2014   |    3     |    72    |   126    |    4     |   3/36   |  31.50   |  10.50   |  18.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/yash-thakur/5624
+Source: https://www.iplt20.com/players/beuran-hendricks/1752
 ================================================================================
+### Reeza
+
+# Hendricks
+
+Batter
+
+|Nationality South African|
+|--|
+|Date of Birth 14/8/1989 in Kimberley|
+|Batting Style Right hand bat|
+|Bowling Style Right arm offbreak|... ## Bowling Stats
+
+YEAR
+
+TEAM
+
+MAT
+
+BALLS
+
+RUNS
+
+WKTS
+
+BBM
+
+AVE
+
+ECON
+
+SR
+
+5W
+
+2025
+
+MI Cape Town
+
+11
+
+12
+
+7
+
+2
+
+2/7
+
+3.50
+
+3.50
+
+12
+
+0
+
+2024
+
+Joburg Super Kings
+
+11
+
+0
+
+0
+
+0
+
+
+
+0
+
+0
+
+0
+
+2023
+
+Joburg Super Kings
+
+11
+
+30
+
+16
+
+0
+
+0/2
+
+3.20
+
+30
+
+0... ## Batting & Fielding Stats
+
+Year
+
+TEAM
+
+MAT
+
+NO
+
+RUNS
+
+HS
+
+AVG
+
+BF
+
+SR
+
+100
+
+50
+
+4S
+
+6S
+
+2025
+
+MI Cape Town
+
+11
+
+2
+
+212
+
+77
+
+35.33
+
+165
+
+128.48
+
+0
+
+2... 17
+
+8
+
+2024
+
+Joburg Super Kings
+
+11
+
+2
+
+172
+
+79
+
+24.57
+
+155
+
+110.97
+
+0
+
+1
+
+14
+
+5
+
+2023
+
+Joburg Super Kings
+
+11
+
+0
+
+239
+
+96
+
+23.90
+
+220
+
+108.64
+
+0
+
+1
+
+25
+
+7

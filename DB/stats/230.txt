@@ -1,15 +1,24 @@
 ================================================================================
-IPL PLAYER PROFILE: SEDIQULLAH ATAL
+IPL PLAYER PROFILE: SANDEEP WARRIER
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Sediqullah Atal
-  IPL Debut                : 2025
-  Date of Birth            : 12 August 2001
-  Total IPL Matches        : 1
-  Role                     : Batter
-  Nationality              : Afghan
+  Player Name              : Sandeep Warrier
+  IPL Debut                : 2019
+  Date of Birth            : 04 April 1991
+  Total IPL Matches        : 10
+  Role                     : Bowler
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  Kerala pacer Sandeep Warrier was signed by the Kolkata Knight Riders for
+  the 2019 IPL season and he picked up just two wickets in his debut season.
+  The Kerala pacer’s good form with the ball earned him an IPL call-up. He was
+  the standout bowler for Kerala in the 2018-19 Ranji Trophy season claiming
+  44 wickets from 10 matches. He was instrumental in Kerala’s maiden entry in
+  the semi-finals of the Ranji Trophy.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -19,8 +28,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    1     |    0     |    22    |    22    |  22.00   |    16    |  137.50  |    0     |    0     |    0     |    2     |    0     |    0    
-    2025   |    1     |    0     |    22    |    22    |  22.00   |    16    |  137.50  |    0     |    0     |    0     |    2     |    0     |    0    
+   Career  |    5     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2024   |    5     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -30,9 +39,11 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    5     |   102    |   134    |    2     |   2/31   |  67.00   |   7.88   |  51.00   |    0     |    0    
+    2021   |    1     |    12    |    15    |    0     |   0/15   |    -     |   7.50   |    -     |    0     |    0    
+    2020   |    1     |    18    |    34    |    0     |   0/34   |    -     |  11.33   |    -     |    0     |    0    
+    2019   |    3     |    72    |    85    |    2     |   2/31   |  42.50   |   7.08   |  36.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/sediqullah-atal/22382
+Source: https://www.iplt20.com/players/sandeep-warrier/1092
 ================================================================================

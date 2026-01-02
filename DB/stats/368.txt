@@ -1,43 +1,739 @@
-================================================================================
-IPL PLAYER PROFILE: ADAM MILNE
-================================================================================
+Home
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Adam Milne
-  Date of Birth            : 13 April 1992
-  Total IPL Matches        : 10
-  Role                     : Bowler
-  Nationality              : New Zealander
+About TCL
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    10    |    2     |    23    |    15    |   5.75   |    29    |  79.31   |    0     |    0     |    0     |    1     |    7     |    0    
-    2022   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2021   |    4     |    1     |    16    |    15    |   8.00   |    17    |  94.11   |    0     |    0     |    0     |    1     |    2     |    0    
-    2017   |    4     |    1     |    7     |    5     |   3.50   |    12    |  58.33   |    0     |    0     |    0     |    0     |    4     |    0    
-    2016   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
+History
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    10    |   207    |   327    |    7     |   2/21   |  46.71   |   9.48   |  29.57   |    0     |    0    
-    2022   |    1     |    15    |    19    |    0     |   0/19   |    -     |   7.60   |    -     |    0     |    0    
-    2021   |    4     |    84    |   131    |    3     |   2/21   |  43.66   |   9.35   |  28.00   |    0     |    0    
-    2017   |    4     |    84    |   134    |    3     |   2/27   |  44.66   |   9.57   |  28.00   |    0     |    0    
-    2016   |    1     |    24    |    43    |    1     |    -     |  43.00   |  10.75   |  24.00   |    0     |    0    
+Committee
 
-================================================================================
-Source: https://www.iplt20.com/players/adam-milne/434
-================================================================================
+Accomplishments
+
+Contact TCL
+
+League Standings
+
+Pool Standings
+
+Overall Standing
+
+playoffs
+
+Schedules ξ Results
+
+Rules ξ Permits
+
+Grounds
+
+Contact Teams
+
+Search
+
+Menu
+
+Home
+
+Team Profiles
+
+Player Profiles
+
+Records
+
+Player Points
+
+Scorecards... League Standings
+
+Playoffs
+
+Tournament Champion
+
+Tournament Pictures
+
+Awards
+
+Statistics
+
+Most Valuable Players
+
+Top Batsman
+
+Top Bowlers
+
+Top Allrounders
+
+Team Stats
+
+Matches
+
+Upcoming Matches
+
+Latest Matches
+
+Captains Access
+
+User Name*
+
+Password*
+
+Team Statistics
+
+Teams Statistics
+
+<-Go Back... --Select Tournament--
+
+Overall
+
+2025 Edition 2 - Division 3
+
+2025 Edition 2 - Division 1
+
+2025 Edition 2 - Division 2
+
+2025 Edition 1 - Division 2
+
+2025 Edition 1 - Division 1
+
+2024 Edition 2 - Division 2... 2024 Edition 2 - Division 1
+
+2024 Edition 1 - Division 1
+
+2024 Edition 1 - Division 2
+
+2023 Edition 2 - Division 1
+
+2023 Edition 2 - Division 2
+
+2023 Edition 1 - Division 1
+
+2023 Edition 1 - Division 2... 2022 Edition 2 Division 3 - - Division 1
+
+2022 Edition 2 - Division 2
+
+2022 Edition 2 - Division 1
+
+2022 Edition 1 - Division 2
+
+2022 Edition 1 - Division 1
+
+2021 Edition 2 - Division 2
+
+2021 Edition 2 - Division 1... 2020-21 Edition 1 - Division 2
+
+2020-21 Edition 1 - Division 1
+
+2020 Edition 1 - Division 1
+
+2020 Edition 1 - Division 2
+
+2019 Edition 2 - Division 2
+
+2019 Edition 2 - Division 1
+
+2019 Edition 1 - Division 2... 2019 Edition 1 - Division 1
+
+2018 Edition 2 - Division 2
+
+2018 Edition 2 - Division 1
+
+2018 Youth Cricket - Division 1
+
+2018 -1 Div2 Play offs - Division 2
+
+2018 Edition 1 - Division 1
+
+2017 Edition 2 - Division 1... 2017 Edition 1 - Division 1
+
+2016 Edition 2 - Division 1
+
+2016 Edition 1 - Division 1 - Division 2
+
+2016 Edition 1 - Division 1
+
+2016 Seeding Tournament - Division 2
+
+Round3 - Division 2
+
+Round3 - Division 1... 2015 Edition 2 - Round2 - Division 1
+
+2015 Edition 2 - Division 1
+
+2015 Edition 1 - Division 1
+
+Pre Champions League - Division 1
+
+2014 Edition 2 - Division 1
+
+2012_Summer_Winter - Division 1
+
+2011 Spring - Division 1... 2010 Spring - Division 1
+
+2014 Edition 1 - Playoffs - Division 1
+
+2014 Edition 1 - Division 2
+
+2014 Edition 1 - Division 1
+
+Summer - Winter 2013 -2 Phase 1 - Division 2
+
+Summer - Winter 2013 -2 Phase 1 - Division 1... Spring 2013 Playoffs - Division 1
+
+Spring 2013 League Phase 2 - Division 1
+
+Spring 2013 League Phase 1 - Division 1
+
+Batting
+
+Rank
+
+Batsman
+
+Team
+
+Matches
+
+Not Out
+
+Balls
+
+Runs
+
+4s
+
+6s
+
+Strike Rate... Avg
+
+HS
+
+1
+
+Mallikarjun Reddy Damera
+
+6
+
+0
+
+105
+
+97
+
+0
+
+3
+
+92.38
+
+16.17
+
+42
+
+2
+
+Vara Savalapurapu
+
+6
+
+0
+
+72
+
+40
+
+1
+
+0
+
+55.56
+
+6.67... 14
+
+3
+
+Mahender Loka
+
+5
+
+0
+
+52
+
+37
+
+1
+
+1
+
+71.15
+
+7.4
+
+21
+
+4
+
+Varun Duddyala
+
+4
+
+0
+
+37
+
+31
+
+0
+
+2
+
+83.78
+
+7.75
+
+14
+
+5
+
+Ashwin Peddoji... 5
+
+1
+
+36
+
+23
+
+1
+
+0
+
+63.89
+
+5.75
+
+10
+
+6
+
+Sri Harsha Tanneedi
+
+5
+
+0
+
+33
+
+23
+
+1
+
+0
+
+69.7
+
+4.6
+
+19
+
+7
+
+Srinivas Kuchimanchi
+
+3
+
+0... 41
+
+22
+
+0
+
+0
+
+53.66
+
+7.33
+
+11
+
+8
+
+Harshavardhan
+
+6
+
+0
+
+39
+
+19
+
+2
+
+0
+
+48.72
+
+3.17
+
+8
+
+9
+
+Bharath Rayam
+
+4
+
+0
+
+28
+
+18
+
+1... 0
+
+64.29
+
+4.5
+
+8
+
+10
+
+Naveen Vangapalli
+
+2
+
+0
+
+25
+
+14
+
+0
+
+0
+
+56
+
+7
+
+14
+
+11
+
+Pradeep Devireddy
+
+3
+
+1
+
+26
+
+7
+
+0
+
+0
+
+26.92... 3.5
+
+5
+
+12
+
+Jayanth Karra
+
+6
+
+1
+
+17
+
+6
+
+0
+
+0
+
+35.29
+
+1.2
+
+3
+
+13
+
+Abhinethra Pujari
+
+7
+
+1
+
+13
+
+4
+
+0
+
+0
+
+30.77
+
+0.8... 4
+
+14
+
+Ravi Thirumalasetti
+
+5
+
+2
+
+12
+
+3
+
+0
+
+0
+
+25
+
+1
+
+2
+
+15
+
+Allies
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Bowling
+
+Rank
+
+Bowler
+
+Team
+
+Matches
+
+Overs... Runs
+
+Wickets
+
+RPW
+
+Econ
+
+1
+
+Vara Savalapurapu
+
+6
+
+18.0
+
+123
+
+9
+
+13.67
+
+6.83
+
+2
+
+Harshavardhan
+
+6
+
+11.0
+
+71
+
+7
+
+10.14
+
+6.45
+
+3... Jayanth Karra
+
+6
+
+14.5
+
+100
+
+4
+
+25
+
+6.74
+
+4
+
+Bharath Rayam
+
+4
+
+4.0
+
+25
+
+3
+
+8.33
+
+6.25
+
+5
+
+Varun Duddyala
+
+4
+
+3.0
+
+17
+
+2... 8.5
+
+5.67
+
+6
+
+Pradeep Devireddy
+
+3
+
+7.0
+
+50
+
+2
+
+25
+
+7.14
+
+7
+
+Mallikarjun Reddy Damera
+
+6
+
+4.0
+
+32
+
+2
+
+16
+
+8
+
+8
+
+Ashwin Peddoji... 5
+
+8.0
+
+35
+
+1
+
+35
+
+4.38
+
+9
+
+Mahender Loka
+
+5
+
+7.1
+
+52
+
+1
+
+52
+
+7.26
+
+10
+
+Sri Harsha Tanneedi
+
+5
+
+2.0
+
+19
+
+1
+
+19
+
+9.5
+
+11... Ravi Thirumalasetti
+
+5
+
+4.0
+
+22
+
+0
+
+
+
+5.5
+
+12
+
+Naveen Vangapalli
+
+2
+
+0.5
+
+3
+
+0
+
+
+
+3.6
+
+13
+
+Abhinethra Pujari
+
+7
+
+1.0
+
+17
+
+0
+
+17
+
+Copyright © 2025 | All rights reserved by TCL Commitee

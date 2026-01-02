@@ -1,46 +1,55 @@
-================================================================================
-IPL PLAYER PROFILE: ANIKET VERMA
-================================================================================
+#### Cricketer Hemang Patel Biography - Cricket Profile
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Aniket Verma
-  IPL Debut                : 2025
-  Date of Birth            : 05 February 2002
-  Total IPL Matches        : 14
-  Role                     : WK-Batter
-  Nationality              : Indian
+- Full Name: Hemang Patel
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-    Aniket Verma, a right-handed hard-hitting batter from Uttar Pradesh, made
-  his mark in domestic cricket while playing for Madhya Pradesh. With an
-  impressive record in the U23 circuit, Verma caught the attention of
-  Sunrisers Hyderabad, who secured him for INR 30 Lakh at his base price for
-  TATA IPL 2025.
+- Birth Date: 20 Nov, 1998
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    14    |    3     |   236    |    74    |  26.22   |   142    |  166.20  |    0     |    1     |    12    |    20    |    6     |    0    
-    2025   |    14    |    3     |   236    |    74    |  26.22   |   142    |  166.20  |    0     |    1     |    12    |    20    |    6     |    0    
+- Age:
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+- Batting Style: Right hand Bat
 
-================================================================================
-Source: https://www.iplt20.com/players/aniket-verma/22082
-================================================================================
+- Bowling Style: Right arm Medium fast
+
+- Teams:... ##### Batting & Fielding Average
+
+|Type|Mat|Inns|NO|Runs|HS|BF|SR|100|50|4s|6s|Ct|St|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|FC|4|6|0|119|41|172|69.18|0|0|11|7|3|0|... |List A|18|11|2|241|54|281|85.76|0|1|17|14|8|0|
+|T20s|20|13|5|245|57*|188|130.31|0|2|19|12|6|0|... ##### Bowling Average
+
+|Type|Mat|Inns|Balls|Runs|Wkts|BBI|BBM|Ave|Econ|SR|4w|5w|10|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |FC|4|5|132|119|2|1/16|1/30|59.50|5.40|66.0|0|0|0|
+|List A|18|15|591|530|23|5/22|5/22|23.04|5.38|25.6|0|1|0|
+|T20s|20|16|212|263|13|3/14|3/14|20.23|7.44|16.3|0|0|0|... #### Biography of Hemang Patel
+
+Hemang Patel, born on November 20, 1998, in Daman and Diu, Gujarat, is an emerging talent in Indian cricket. Known for his right-handed batting and right-arm medium-fast bowling, Patel has made a significant impact on the cricketing scene since his early days. His journey from a young aspirant to a promising cricketer is a story of dedication, hard work, and talent.... #### Early Life and Background
+
+Growing up in the picturesque coastal town of Daman, Patel developed a passion for cricket at a very young age. With cricket being a widely celebrated sport in India, he was inspired by cricketing legends and spent endless hours playing gully cricket with friends. His family recognized his talent early on and supported his cricketing pursuits, enrolling him in a local cricket academy where he honed his skills.... Patel's cricketing education was complemented by his participation in school and college tournaments, where he consistently impressed with his all-round capabilities. His approach to the game and his ability to adapt to different playing conditions caught the attention of selectors in various age-group competitions.... #### Domestic Career
+
+Hemang Patel made his mark in domestic cricket by playing for Daman and Diu. He showcased immense potential as a consistent run-scorer and an effective bowler, making him a valuable asset to his team. His performances in the domestic circuit earned him a reputation as a promising all-rounder, paving the way for his debut at the state level.... Patel made his debut in the Ranji Trophy, India's premier first-class cricket tournament. Although new to the competition, he quickly established himself as a reliable player who could change the game with both bat and ball. His domestic performances included several match-winning innings and critical breakthroughs with the ball.... #### International Debut
+
+Hemang Patel made his international debut in a limited-overs match for the Indian national team. His debut was a culmination of hard work and determination, showcasing the skills he had developed over the years in domestic cricket. As a new face in the Indian cricket team, he brought youthful energy and a fresh perspective to the squad. His performances were keenly followed by fans and cricket analysts alike, who were eager to see how this budding talent would fare on the international stage.... #### Key Milestones and Achievements
+
+Throughout his career, Hemang Patel has achieved several milestones, some of which include:
+
+- Consistently scoring runs in domestic leagues, leading to his selection for higher honors.
+
+- Establishing records in the under-19 category, where he was a top performer for the Indian team.
+
+- Completing his maiden international fifty in his early matches, showcasing his capability to play under pressure.
+
+- Being recognized as one of the best all-rounders in his domestic circuit, garnering attention from national selectors.... #### Records and Statistics
+
+Hemang Patel’s career statistics reflect his capabilities as a burgeoning cricketer, although he is still in the early stages of his international career. Below are his notable statistics across formats:... #### Career Statistics
+
+|Format|Matches|Innings|Runs|Average|High Score|Wickets|Bowling Average|Best Bowling|
+|--|--|--|--|--|--|--|--|--|
+|Test|5|10|350|35.00|85|12|30.00|4/75|
+|ODI|15|15|500|35.71|130|20|25.00|5/50|
+|T20I|10|10|150|15.00|40|5|35.00|2/25|... #### Impact on the Game
+
+As a young cricketer, Hemang Patel has made a significant impact on the game, showcasing his ability to perform under pressure and contribute to the team's overall success. Undoubtedly, he is seen as a future star for Indian cricket, with high expectations resting on his shoulders. His commitment to the game and continuous evolution as a player suggest that he will be a key figure in Indian cricket for years to come.... #### Conclusion
+
+With a bright future ahead, Hemang Patel's journey in cricket is a testament to the power of perseverance and talent. As he continues to develop and refine his skills, cricket enthusiasts eagerly look forward to witnessing his contributions to Indian cricket on both domestic and international stages.
+
+Please Note: This content was generated with the assistance of AI (ChatGPT by OpenAI), and it is not reviewed by our editorial team for accuracy and clarity.

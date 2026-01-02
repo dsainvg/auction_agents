@@ -1,23 +1,13 @@
 ================================================================================
-IPL PLAYER PROFILE: MAYANK MARKANDE
+IPL PLAYER PROFILE: SEAN ABBOTT
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Mayank Markande
-  IPL Debut                : 2018
-  Date of Birth            : 11 November 1997
-  Total IPL Matches        : 37
-  Role                     : WK-Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    Mayank Markande is a traditional right-arm leg-break bowler who is known
-  to have a deceptive slower delivery in his arsenal. Markande has picked up
-  37 wickets in 37 games and will be looking to add when he dons the purple
-  this year. One of his standout performances came during his debut when he
-  picked up a 3-wicket haul against CSK in 2018.
+  Player Name              : Sean Abbott
+  Date of Birth            : 29 February 1992
+  Total IPL Matches        : 3
+  Nationality              : Australian
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -27,13 +17,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    37    |    8     |    48    |   18*    |  16.00   |    42    |  114.29  |    0     |    0     |    5     |    1     |    8     |    0    
-    2024   |    7     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
-    2023   |    10    |    3     |    21    |   18*    |    -     |    13    |  161.54  |    0     |    0     |    2     |    1     |    1     |    0    
-    2022   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
-    2021   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2019   |    3     |    1     |    6     |    6     |   6.00   |    5     |  120.00  |    0     |    0     |    1     |    0     |    0     |    0    
-    2018   |    14    |    4     |    21    |    7*    |  10.50   |    24    |  87.50   |    0     |    0     |    2     |    0     |    3     |    0    
+   Career  |    3     |    0     |    22    |    14    |   7.33   |    18    |  122.22  |    0     |    0     |    1     |    2     |    1     |    0    
+    2022   |    1     |    0     |    7     |    7     |   7.00   |    5     |  140.00  |    0     |    0     |    0     |    1     |    1     |    0    
+    2015   |    2     |    0     |    15    |    14    |   7.50   |    13    |  115.38  |    0     |    0     |    1     |    1     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -43,14 +29,375 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    37    |   720    |   1069   |    37    |   4/15   |  28.89   |   8.91   |  19.46   |    2     |    0    
-    2024   |    7     |   132    |   259    |    8     |   2/26   |  32.38   |  11.77   |  16.50   |    0     |    0    
-    2023   |    10    |   228    |   300    |    12    |   4/15   |  25.00   |   7.89   |  19.00   |    1     |    0    
-    2022   |    2     |    42    |    57    |    1     |   1/26   |  57.00   |   8.14   |  42.00   |    0     |    0    
-    2021   |    1     |    18    |    26    |    0     |   0/26   |    -     |   8.66   |    -     |    0     |    0    
-    2019   |    3     |    36    |    59    |    1     |   1/23   |  59.00   |   9.83   |  36.00   |    0     |    0    
-    2018   |    14    |   264    |   368    |    15    |   4/23   |  24.53   |   8.36   |  17.60   |    1     |    0    
+   Career  |    3     |    54    |   104    |    1     |   1/47   |  104.00  |  11.56   |  54.00   |    0     |    0    
+    2022   |    1     |    24    |    47    |    1     |   1/47   |  47.00   |  11.75   |  24.00   |    0     |    0    
+    2015   |    2     |    30    |    57    |    0     |   0/21   |    -     |  11.40   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/mayank-markande/4951
+Source: https://www.iplt20.com/players/sean-abbott/942
 ================================================================================
+|## Sean Abbott Introduction|
+|--|
+|Role|Bowler|
+|Batting|Right Handed|
+|Bowling|medium Right-arm|
+|Country|Australia|
+|--|--|
+|Birth|29-Feb-1992 (32 yr), Windsor, New South Wales|
+|Height|6 ft 0 in|
+|Teams|Brisbane Heat, Australia, Sydney Thunder, New South Wales, Sydney Sixers, National Performance Squad, Royal Challengers Bangalore, Australia A, Prime Ministers XI, Montreal Tigers, Cummins XI (Mostly) Australia,|
+|Social Accounts|Instagram Twitter Wikipedia|
+|Last Updated|Last updated 1 hours ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Sean Abbott Upcoming Matches|
+|--|
+|AUS vs ENG (Match 4) Stats|
+|AUS vs SA (Match 7) Stats|
+|AFG vs AUS (Match 10) Stats|
+|## Sean Abbott Stats|
+|--|
+|Competition|ODI|T20|IPL|
+|Matches|28|20|3|
+|Highest Score|69|12|14|
+|Runs|374|25|22|
+|50s|2|0|0|
+|100s|0|0|0|
+|Run Per Inn|17.8|3.5|7.3|
+|Run Per Match|13.3|1.2|7.3|
+|Boundary (In Ball)|8.6|13.5|6.0|
+|4s (In Ball)|12.1|27.0|18.0|
+|6s (In Ball)|29.8|27.0|9.0|
+|Wickets|33|22|1|
+|Over Per Match|7.4|2.5|3.0|
+|Wicket Per Inn|1.1|1.1|0.3|
+|Wicket Per Match|1.1|1.1|0.3|
+|Wicket (In Ball)|39.6|15.5|54.0|
+|Wicket (In Runs)|37.6|23.3|104.0|
+|Field In Match %|67 %|60 %|33 %|
+|Catch In Match %|53 %|50 %|33 %|
+|Check More Stats On Advance Cricket App|
+|## Sean Abbott Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|14 Feb 25|ODI|2|35|0|41|
+|11 Feb 25|ODI|23|75|0|102|
+|15 Jan 25|T20|8|-6|0|6|
+|11 Jan 25|T20|0|106|0|110|
+|09 Jan 25|T20|5|79|8|96|
+|21 Dec 24|T20|0|25|8|37|
+|16 Dec 24|T20|0|50|8|62|
+|10 Nov 24|ODI|34|-4|0|34|
+|04 Nov 24|ODI|14|27|0|45|
+|27 Sep 24|ODI|10|-4|8|18|
+|24 Sep 24|ODI|2|0|8|14|
+|19 Sep 24|ODI|0|-6|0|-2|
+|13 Sep 24|T20|0|58|8|70|
+|11 Sep 24|T20|4|87|0|95|
+|07 Sep 24|T20|0|52|0|56|
+|06 Sep 24|T20|0|27|0|31|
+|04 Sep 24|T20|0|79|0|83|
+|17 Aug 24|Hundred|1|0|0|5|
+|15 Aug 24|Hundred|0|25|0|29|
+|## Sean Abbott Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|14 Feb 25|AUS vs SL|8|2(8)|25|lbw|
+|11 Feb 25|AUS vs SL|8|20(23)|86.9|catch|
+|17 Jan 25|SIX vs THU|DNB|
+|15 Jan 25|SIX vs STR|9|7(5)|140|not out|
+|11 Jan 25|SIX vs SCO|DNB|
+|09 Jan 25|SIX vs STA|9|5(5)|100|catch|
+|21 Dec 24|SIX vs THU|DNB|
+|16 Dec 24|SIX vs REN|DNB|
+|10 Nov 24|AUS vs PAK|8|30(41)|73.1|catch|
+|04 Nov 24|AUS vs PAK|8|13(19)|68.4|run out|
+|27 Sep 24|AUS vs ENG|8|10(21)|47.6|catch|
+|24 Sep 24|AUS vs ENG|9|2(1)|200|not out|
+|19 Sep 24|AUS vs ENG|DNB|
+|13 Sep 24|AUS vs ENG|DNB|
+|11 Sep 24|AUS vs ENG|8|4(4)|100|bowled|
+|07 Sep 24|AUS vs SCO|DNB|
+|Sean Abbott Recent Batting|
+|## Sean Abbott Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|14 Feb 25|AUS vs SL|10.0|41|1|0|4.10|
+|11 Feb 25|AUS vs SL|9.0|61|3|0|6.77|
+|17 Jan 25|SIX vs THU|1.0|12|0|0|
+|15 Jan 25|SIX vs STR|4.0|59|0|0|14.75|
+|11 Jan 25|SIX vs SCO|4.0|43|4|0|10.75|
+|09 Jan 25|SIX vs STA|4.0|29|3|0|7.25|
+|21 Dec 24|SIX vs THU|4.0|31|1|0|7.75|
+|16 Dec 24|SIX vs REN|4.0|34|2|0|8.50|
+|10 Nov 24|AUS vs PAK|6.0|49|0|0|8.16|
+|04 Nov 24|AUS vs PAK|8.0|34|1|0|4.25|
+|27 Sep 24|AUS vs ENG|7.0|62|0|0|8.85|
+|24 Sep 24|AUS vs ENG|7.4|53|0|0|6.91|
+|19 Sep 24|AUS vs ENG|5.0|50|0|0|10.00|
+|13 Sep 24|AUS vs ENG|4.0|37|2|0|9.25|
+|11 Sep 24|AUS vs ENG|3.2|28|3|0|8.40|
+|07 Sep 24|AUS vs SCO|4.0|28|2|0|7.00|
+|Sean Abbott Recent Bowling All Recent Bowling Details|
+|Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|28|20|3|
+|Innings|21|7|3|
+|Not Out|2|2|0|
+|Runs|374|25|22|
+|Highest Score|69|12|14|
+|Average|19.68|5.00|7.33|
+|Balls Faced|388|27|18|
+|Strike Rate|96.3|92.5|122.2|
+|20s|4|0|0|
+|30s|2|0|0|
+|50s|2|0|0|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|32|1|1|
+|6s|13|1|2|
+|Outtype|
+|LBW|1|1|0|
+|Bowled|8|4|0|
+|Stumped|0|0|0|
+|Catch|9|0|2|
+|Run Out|1|0|1|
+|Wicket Taker|
+|Left Arm|8|1|2|
+|1- Fast|1|0|0|
+|2- Fast-Medium|2|1|2|
+|3- Medium|0|0|0|
+|4- Slow|5|0|0|
+|1- Bowled|4|1|0|
+|2- Catch|4|0|2|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Right Arm|10|4|0|
+|1- Fast|2|2|0|
+|2- Fast-Medium|5|1|0|
+|3- Medium|1|1|0|
+|4- Slow|2|0|0|... |1- Bowled|4|3|0|
+|2- Catch|5|0|0|
+|3- Stumped|0|0|0|
+|4- Lbw|1|1|0|... |Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|28|20|3|
+|Innings|28|19|3|
+|Balls|1307|343|54|
+|Runs|1244|514|104|
+|BBI|
+|Average|37.69|23.36|104.00|... |Strike Rate|39.60|15.59|54.00|
+|Maiden|9|0|0|
+|2w|7|3|0|
+|3w|3|3|0|
+|5w|0|0|0|
+|8w|0|0|0|... |10w|0|0|0|
+|Wickets|33|22|1|
+|LBW|2|1|0|
+|Bowled|3|3|0|
+|Stumped|0|0|0|
+|Catch|28|18|1|
+|Batsman Type|... |Right Handed|19|15|1|
+|1- LBW|2|1|0|
+|2- Bowled|2|3|0|
+|3- Stumped|0|0|0|
+|4- Catch|15|11|1|
+|Left Handed|14|7|0|... |1- LBW|0|0|0|
+|2- Bowled|1|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|13|7|0|... Sean Abbott played 28 ODI matches and scored 374 runs in 21 Innings. Sean Abbott's Highest Score in ODI is 69. S Abbott has 0 ODI centuries, 2 ODI half centuries and 2 times 30+ and 4 times 20+ ODI runs. S Abbott has a strike rate of 96.3 with run per match of 13.35 in 388 ODI balls.... Sean Abbott made total 45 boundaries with 32 fours and 13 sixes in ODI. S Abbott's ODI outtype analysis are lbw 1 times, bowled 8, stumped 0 times, catch 9 times, Run Out 1 times. Sean Abbott's ODI wicket takers are 8 left arm and 10 right arm.... S Abbott's Left Arm ODI Wicket Taker analysis are Fast bowler 1 wickets, Fast-Medium bowler 2 wickets, Medium bowler 0 wickets, Slow bowler 5 wickets. Sean Abbott's Right Arm ODI Wicket Taker analysis are Fast bowler 2 wickets, Fast-Medium bowler 5 wickets, Medium bowler 1 wickets, Slow bowler 2 wickets.... S Abbott's wicket taken by Left Arm Bowlers in ODI analysis are lbw 0 wickets, bowled 4 wickets, stumped 0 wickets, catch 4 wickets. Sean Abbott's wicket taken by Right Arm Bowlers in ODI analysis are lbw 1 wickets, bowled 4 wickets, stumped 0 wickets, catch 5 wickets.... Sean Abbott Took 33 Wickets (In 28 ODI innings) with Strike Rate of 39.60 and average of 37.69. S Abbott's delivered 1307 balls (with 9 Maiden over) and took 2 wickets 7 times 3 wickets 3 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 19 Right Handed and 14 Left Handed batsman out by Sean Abbott in ODI. Right Handed Batsman ODI outtype analysis (wicket taken by S Abbott) are LBW 2 times, Bowled 2 times, Stumped 0 times, Catch 15 times. Left Handed Batsman ODI outtype analysis (wicket taken by S Abbott) are LBW 0 times, Bowled 1 times, Stumped 0 times, Catch 13 times.... Sean Abbott Fielding analysis are Catch 15 times, Stumping 0 times, Direct Throw(Run Out) 2 times, Throw(Run Out) 0 times.... Sean Abbott played 20 T20 matches and scored 25 runs in 7 Innings. Sean Abbott's Highest Score in T20 is 12. S Abbott has 0 T20 centuries, 0 T20 half centuries and 0 times 30+ and 0 times 20+ T20 runs.... S Abbott has a strike rate of 92.5 with run per match of 1.25 in 27 T20 balls. Sean Abbott made total 2 boundaries with 1 fours and 1 sixes in T20. S Abbott's T20 outtype analysis are lbw 1 times, bowled 4, stumped 0 times, catch 0 times, Run Out 0 times.... Sean Abbott's T20 wicket takers are 1 left arm and 4 right arm. S Abbott's Left Arm T20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 1 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Sean Abbott's Right Arm T20 Wicket Taker analysis are Fast bowler 2 wickets, Fast-Medium bowler 1 wickets, Medium bowler 1 wickets, Slow bowler 0 wickets.... S Abbott's wicket taken by Left Arm Bowlers in T20 analysis are lbw 0 wickets, bowled 1 wickets, stumped 0 wickets, catch 0 wickets. Sean Abbott's wicket taken by Right Arm Bowlers in T20 analysis are lbw 1 wickets, bowled 3 wickets, stumped 0 wickets, catch 0 wickets.... Sean Abbott Took 22 Wickets (In 19 T20 innings) with Strike Rate of 15.59 and average of 23.36. S Abbott's delivered 343 balls (with 0 Maiden over) and took 2 wickets 3 times 3 wickets 3 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 15 Right Handed and 7 Left Handed batsman out by Sean Abbott in T20. Right Handed Batsman T20 outtype analysis (wicket taken by S Abbott) are LBW 1 times, Bowled 3 times, Stumped 0 times, Catch 11 times. Left Handed Batsman T20 outtype analysis (wicket taken by S Abbott) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 7 times.... Sean Abbott Fielding analysis are Catch 10 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 2 times.... Sean Abbott played 3 IPL matches and scored 22 runs in 3 Innings. Sean Abbott's Highest Score in IPL is 14. S Abbott has 0 IPL centuries, 0 IPL half centuries and 0 times 30+ and 0 times 20+ IPL runs. S Abbott has a strike rate of 122.2 with run per match of 7.33 in 18 IPL balls.... Sean Abbott made total 3 boundaries with 1 fours and 2 sixes in IPL. S Abbott's IPL outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 2 times, Run Out 1 times. Sean Abbott's IPL wicket takers are 2 left arm and 0 right arm.... S Abbott's Left Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 2 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Sean Abbott's Right Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... S Abbott's wicket taken by Left Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 2 wickets. Sean Abbott's wicket taken by Right Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Sean Abbott Took 1 Wickets (In 3 IPL innings) with Strike Rate of 54.00 and average of 104.00. S Abbott's delivered 54 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 1 Right Handed and 0 Left Handed batsman out by Sean Abbott in IPL. Right Handed Batsman IPL outtype analysis (wicket taken by S Abbott) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 1 times. Left Handed Batsman IPL outtype analysis (wicket taken by S Abbott) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Sean Abbott Fielding analysis are Catch 1 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Sean Abbott plays cricket as Bowler. S Abbott wicket per match records are 1.1 in ODI, 1.1 in T20, 0.3 in IPL, 1.4 in BBL, 1.1 in Hundred, 0.7 in BLAST, 1.4 in DODI, 0.3 in DT20.... Sean Abbott wicket in every 39.6 balls in ODI, 15.5 balls in T20, 54.0 balls in IPL, 14.2 balls in BBL, 14.3 balls in Hundred, 19.4 balls in BLAST, 34.8 balls in DODI, 42.0 balls in DT20.... S Abbott catch chances in match are 53.5 % in ODI, 50 % in T20, 33.3 % in IPL, 56.4 % in BBL, 71.4 % in Hundred, 23 % in BLAST, 45.4 % in DODI, 33.3 % in DT20.... Sean Abbott field chances are 67.8 % in ODI, 60 % in T20, 33.3 % in IPL, 66.1 % in BBL, 71.4 % in Hundred, 23 % in BLAST, 63.6 % in DODI, 33.3 % in DT20.... |## Sean Abbott stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|AUS|all|ODI|21|69|19.68|Stats|
+|SCO|all|T20|0|0|Stats|
+|ENG|all|T20|0|0|Stats|
+|AUS|all|T20|7|12|5.00|Stats|
+|SA|all|T20|0|0|Stats|
+|PMXI|all|DT20|1|5|5.00|Stats|
+|MNT|all|DT20|1|2|2.00|Stats|
+|RCB|all|IPL|2|14|7.50|Stats|
+|SRH|all|IPL|1|7|7.00|Stats|
+|AUSA|all|DODI|0|0|Stats|
+|## Sean Abbott stats Bowling For Teams|
+|--|
+|Team|Year|Mode|Inn|Wkts|Eco|Stats|
+|AUS|all|ODI|28|33|5.71|Stats|
+|AUS|all|T20|19|22|8.99|Stats|
+|PMXI|all|DT20|1|0|8.00|Stats|
+|MNT|all|DT20|2|1|11.40|Stats|
+|RCB|all|IPL|2|0|11.40|Stats|
+|SRH|all|IPL|1|1|11.75|Stats|
+|NSW|all|DODI|11|16|4.31|Stats|
+|AUSA|all|DODI|4|8|4.79|Stats|
+|SYT|all|BBL|14|10|8.84|Stats|
+|SYS|all|BBL|109|165|8.42|Stats|
+|## Sean Abbott stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Perth Stadium|all|ODI|1|30|30.00|Stats|
+|The Wanderers Stadium|all|ODI|1|23|23.00|Stats|
+|Punjab Cricket Association IS|all|ODI|1|2|2.00|Stats|
+|Holkar Cricket Stadium|all|ODI|1|54|54.00|Stats|
+|Rajiv Gandhi International Sta|all|ODI|0|0|Stats|
+|RPremadasa Stadium|all|ODI|2|20|11.00|Stats|
+|Lords|all|ODI|1|10|10.00|Stats|
+|Maharashtra Cricket Associatio|all|ODI|0|0|Stats|
+|Sydney Cricket Ground|all|ODI|1|69|69.00|Stats|
+|Senwes Park|all|ODI|1|2|2.00|Stats|
+|## Sean Abbott stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Perth Stadium|all|ODI|1|0|8.16|Stats|
+|Punjab Cricket Association IS|all|ODI|1|1|5.79|Stats|
+|Holkar Cricket Stadium|all|ODI|1|1|9.10|Stats|
+|Rajiv Gandhi International Sta|all|ODI|1|1|5.16|Stats|
+|Maharashtra Cricket Associatio|all|ODI|1|2|6.10|Stats|
+|RPremadasa Stadium|all|ODI|2|4|5.36|Stats|
+|Riverside Ground|all|ODI|1|0|6.91|Stats|
+|Sydney Cricket Ground|all|ODI|1|3|4.00|Stats|
+|Lords|all|ODI|1|0|8.85|Stats|
+|The Wanderers Stadium|all|ODI|1|2|5.40|Stats|
+|## Sean Abbott stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|England tour of Australia 2022|all|ODI|0|0|Stats|
+|AUS TO SA 2023|all|ODI|4|23|13.66|Stats|
+|PVAIUAE 2014|all|ODI|1|3|3.00|Stats|
+|Australia tour of India 2023|all|ODI|2|26|13.00|Stats|
+|ICC World Cup 2023|all|ODI|0|0|Stats|
+|AUS TF PAK 2022|all|ODI|3|49|30.33|Stats|
+|WI TO AUS 2024|all|ODI|1|69|69.00|Stats|
+|AUS TO IND 2023|all|ODI|2|54|28.00|Stats|
+|AUS TO SL 2025|all|ODI|2|20|11.00|Stats|
+|AUS TO ENG 2024|all|ODI|2|10|12.00|Stats|
+|## Sean Abbott stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|England tour of Australia 2022|all|ODI|1|2|5.62|Stats|
+|AUS TO SA 2023|all|ODI|4|5|5.86|Stats|
+|PVAIUAE 2014|all|ODI|1|1|5.00|Stats|
+|Australia tour of India 2023|all|ODI|3|4|4.16|Stats|
+|ICC World Cup 2023|all|ODI|1|2|6.10|Stats|
+|AUS TF PAK 2022|all|ODI|3|1|6.57|Stats|
+|WI TO AUS 2024|all|ODI|3|6|4.05|Stats|
+|AUS TO IND 2023|all|ODI|2|2|7.47|Stats|
+|AUS TO SL 2025|all|ODI|2|4|5.36|Stats|
+|AUS TO ENG 2024|all|ODI|3|0|8.38|Stats|
+|## Sean Abbott stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|United Arab Emirates|all|ODI|1|3|3.00|Stats|
+|Sri Lanka|all|ODI|2|20|11.00|Stats|
+|Pakistan|all|ODI|3|49|30.33|Stats|
+|India|all|ODI|4|54|20.50|Stats|
+|England|all|ODI|2|10|12.00|Stats|
+|South Africa|all|ODI|4|23|13.66|Stats|
+|Australia|all|ODI|5|69|24.60|Stats|
+|South Africa|all|T20|1|3|3.00|Stats|
+|England|all|T20|1|4|4.00|Stats|
+|India|all|T20|1|1|1.00|Stats|
+|## Sean Abbott stats Bowling On Countries|
+|--|
+|Country|Year|Mode|Inn|Wkts|Eco|Stats|
+|United Arab Emirates|all|ODI|1|1|5.00|Stats|
+|Sri Lanka|all|ODI|2|4|5.36|Stats|
+|Pakistan|all|ODI|3|1|6.57|Stats|
+|India|all|ODI|6|8|5.70|Stats|
+|England|all|ODI|3|0|8.38|Stats|
+|South Africa|all|ODI|4|5|5.86|Stats|
+|Australia|all|ODI|9|14|4.81|Stats|
+|South Africa|all|T20|2|4|6.50|Stats|
+|England|all|T20|1|3|8.40|Stats|
+|India|all|T20|3|1|14.04|Stats|
+|## Sean Abbott stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|SL|all|ODI|2|20|11.00|Stats|
+|PAK|all|ODI|6|49|22.83|Stats|
+|NZ|all|ODI|1|7|7.00|Stats|
+|IND|all|ODI|5|54|17.20|Stats|
+|ENG|all|ODI|2|10|12.00|Stats|
+|SA|all|ODI|4|23|13.66|Stats|
+|BAN|all|ODI|0|0|Stats|
+|WI|all|ODI|1|69|69.00|Stats|
+|SCO|all|T20|0|0|Stats|
+|PAK|all|T20|1|0|0.00|Stats|... |## Sean Abbott stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Manuka Oval|all|IND|ODI|1|4|4.00|Stats|
+|Perth Stadium|all|PAK|T20|0|0|Stats|
+|Manuka Oval|all|IND|T20|1|12|12.00|Stats|
+|Sydney Cricket Ground|all|IND|T20|0|0|Stats|
+|MChinnaswamy Stadium|all|SRH|IPL|1|14|14.00|Stats|
+|Eden Gardens|all|KKR|IPL|1|1|1.00|Stats|
+|North Sydney Oval|all|VIC|DODI|1|31|31.00|Stats|
+|Bellerive Oval|all|TAS|DODI|1|12|12.00|Stats|
+|Adelaide Oval|all|SAUS|DODI|0|0|Stats|
+|Bankstown Oval|all|WA|DODI|1|14|14.00|Stats|
+|## Sean Abbott stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Manuka Oval|all|IND|ODI|1|1|8.40|Stats|
+|Perth Stadium|all|PAK|T20|1|2|3.50|Stats|
+|Manuka Oval|all|IND|T20|1|0|11.50|Stats|
+|Sydney Cricket Ground|all|IND|T20|2|1|11.00|Stats|
+|MChinnaswamy Stadium|all|SRH|IPL|1|0|10.50|Stats|
+|Eden Gardens|all|KKR|IPL|1|0|12.00|Stats|
+|North Sydney Oval|all|VIC|DODI|1|2|6.25|Stats|
+|Bellerive Oval|all|TAS|DODI|1|1|4.90|Stats|
+|Adelaide Oval|all|SAUS|DODI|1|3|3.52|Stats|
+|Bankstown Oval|all|WA|DODI|1|4|3.28|Stats|
+|## Sean Abbott stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|AUS TO SL 2025|SL|ODI|2|20|11.00|Stats|
+|AUS TO ENG 2024|ENG|ODI|2|10|12.00|Stats|
+|WI TO AUS 2024|AUS|ODI|0|0|Stats|
+|PAK TO AUS 2024|PAK|ODI|2|30|21.50|Stats|
+|WI TO AUS 2024|WI|ODI|1|69|69.00|Stats|
+|AUS TO IND 2023|IND|ODI|2|54|28.00|Stats|
+|ITOA 2020-21|IND|ODI|1|4|4.00|Stats|
+|New Zealand tour of Australia|NZ|ODI|1|7|7.00|Stats|
+|England tour of Australia 2022|ENG|ODI|0|0|Stats|
+|AUS TF PAK 2022|PAK|ODI|3|49|30.33|Stats|
+|## Sean Abbott stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|AUS TO SL 2025|SL|ODI|2|4|5.36|Stats|
+|PAK TO AUS 2024|PAK|ODI|2|1|5.92|Stats|
+|WI TO AUS 2024|WI|ODI|3|6|4.05|Stats|
+|AUS TO ENG 2024|ENG|ODI|3|0|8.38|Stats|
+|England tour of Australia 2022|ENG|ODI|1|2|5.62|Stats|
+|Australia tour of India 2023|IND|ODI|3|4|4.16|Stats|
+|AUS TO SA 2023|SA|ODI|4|5|5.86|Stats|
+|AUS TO IND 2023|IND|ODI|2|2|7.47|Stats|
+|ICC World Cup Warm-up 2023|PAK|ODI|1|1|5.16|Stats|
+|AUS TF PAK 2022|PAK|ODI|3|1|6.57|Stats|
+|## Sean Abbott stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|South Africa|all|SA|ODI|4|23|13.66|Stats|
+|Australia|all|AUS|ODI|0|0|Stats|
+|Australia|all|WI|ODI|1|69|69.00|Stats|
+|United Arab Emirates|all|PAK|ODI|1|3|3.00|Stats|
+|India|all|PAK|ODI|0|0|Stats|
+|South Africa|all|AUS|ODI|0|0|Stats|
+|India|all|IND|ODI|4|54|20.50|Stats|
+|Australia|all|NZ|ODI|1|7|7.00|Stats|
+|Australia|all|ENG|ODI|0|0|Stats|
+|India|all|BAN|ODI|0|0|Stats|
+|## Sean Abbott stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Australia|all|WI|ODI|3|6|4.05|Stats|
+|India|all|IND|ODI|5|6|5.61|Stats|
+|South Africa|all|SA|ODI|4|5|5.86|Stats|
+|United Arab Emirates|all|PAK|ODI|1|1|5.00|Stats|
+|India|all|PAK|ODI|1|1|5.16|Stats|
+|Australia|all|IND|ODI|1|1|8.40|Stats|
+|India|all|BAN|ODI|1|2|6.10|Stats|
+|Australia|all|PAK|ODI|2|1|5.92|Stats|
+|Australia|all|ENG|ODI|1|2|5.62|Stats|
+|England|all|ENG|ODI|3|0|8.38|Stats|

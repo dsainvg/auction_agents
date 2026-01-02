@@ -1,14 +1,26 @@
 ================================================================================
-IPL PLAYER PROFILE: RISHI DHAWAN
+IPL PLAYER PROFILE: JITESH SHARMA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Rishi Dhawan
-  IPL Debut                : 2013
-  Date of Birth            : 19 February 1990
-  Total IPL Matches        : 39
+  Player Name              : Jitesh Sharma
+  IPL Debut                : 2022
+  Date of Birth            : 22 October 1993
+  Total IPL Matches        : 55
+  Role                     : Wicketkeeper Batter
   Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    A young Jitesh Sharma made an impression with his attacking intent at the
+  top of the order in domestic cricket for Vidarbha, thus earning his
+  first-ever TATA IPL contract with Mumbai Indians in 2016. But he reinvented
+  himself as a highly capable finisher over the years and had a breakthrough
+  2022 season with PBKS, then also going on to play for India. With his
+  ability to play effective cameos, finish games, and keep wickets as well,
+  Sharma is an excellent utility player. RCB shelling out a whopping INR 11
+  Crore for Sharma ahead of TATA IPL 2025 showcases his promise.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -18,14 +30,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    39    |    13    |   210    |   25*    |  19.09   |   187    |  112.30  |    0     |    0     |    18    |    7     |    11    |    0    
-    2024   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2023   |    6     |    1     |    20    |    19    |  10.00   |    12    |  166.67  |    0     |    0     |    1     |    1     |    3     |    0    
-    2022   |    6     |    2     |    37    |   21*    |  18.50   |    40    |  92.50   |    0     |    0     |    4     |    2     |    2     |    0    
-    2016   |    2     |    2     |    14    |   11*    |   0.00   |    6     |  233.33  |    0     |    0     |    0     |    1     |    0     |    0    
-    2015   |    5     |    3     |    36    |   25*    |  18.00   |    33    |  109.09  |    0     |    0     |    2     |    2     |    0     |    0    
-    2014   |    13    |    4     |    82    |   23*    |  41.00   |    75    |  109.33  |    0     |    0     |    8     |    1     |    3     |    0    
-    2013   |    6     |    1     |    21    |    14    |   7.00   |    21    |  100.00  |    0     |    0     |    3     |    0     |    3     |    0    
+   Career  |    55    |    8     |   991    |   85*    |  25.41   |   631    |  157.05  |    0     |    1     |    77    |    62    |    44    |    5    
+    2025   |    15    |    4     |   261    |   85*    |  37.29   |   148    |  176.35  |    0     |    1     |    24    |    17    |    19    |    1    
+    2024   |    14    |    1     |   187    |   32*    |  17.00   |   142    |  131.69  |    0     |    0     |    9     |    12    |    13    |    0    
+    2023   |    14    |    1     |   309    |   49*    |  23.77   |   198    |  156.06  |    0     |    0     |    22    |    21    |    3     |    2    
+    2022   |    12    |    2     |   234    |    44    |  29.25   |   143    |  163.64  |    0     |    0     |    22    |    12    |    9     |    2    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -35,12 +44,28 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    26    |   488    |   640    |    18    |   2/14   |  35.56   |   7.87   |  27.11   |    0     |    0    
-    2016   |    2     |    42    |    56    |    2     |   1/21   |  28.00   |   8.00   |  21.00   |    0     |    0    
-    2015   |    5     |    72    |   110    |    1     |   1/12   |  110.00  |   9.16   |  72.00   |    0     |    0    
-    2014   |    13    |   284    |   365    |    13    |   2/14   |  28.07   |   7.71   |  21.84   |    0     |    0    
-    2013   |    6     |    90    |   109    |    2     |   1/6    |  54.50   |   7.26   |  45.00   |    0     |    0    
+   Career  |    55    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/rishi-dhawan/1088
+Source: https://www.iplt20.com/players/jitesh-sharma/3185
 ================================================================================
+Career-Stats
+
+Batting Stats
+
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|--|--|--|-|--|--|--|
+|ODI|--|--|--|-|--|--|--|... |T20I|--|--|--|-|--|--|--|
+|FC|10|13|62|44.93|10.33|--|3/4|
+|listA|2|2|4|23.53|2.00|--|0/0|... |T20s|6|1|1|25.00|Infinity|--|0/0|
+Bowling Stats... |Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|--|--|--|--|--|--|--|--|
+|ODI|--|--|--|--|--|--|--|--|... |T20I|--|--|--|--|--|--|--|--|
+|FC|10|15|1340|27|3.55|-|29.37|2|
+|listA|2|2|84|2|4.21|-|29.50|0|... |T20s|6|6|108|3|7.89|-|47.33|0|

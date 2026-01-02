@@ -1,15 +1,129 @@
 ================================================================================
-IPL PLAYER PROFILE: HARRY BROOK
+IPL PLAYER PROFILE: RACHIN RAVINDRA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Harry Brook
-  IPL Debut                : 2023
-  Date of Birth            : 22 February 1999
-  Total IPL Matches        : 11
-  Role                     : Batter
+  Player Name              : Rachin Ravindra
+  IPL Debut                : 2024
+  Date of Birth            : 18 November 1999
+  Total IPL Matches        : 18
+  Nationality              : New Zealander
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    18    |    1     |   413    |   65*    |  24.29   |   287    |  143.90  |    0     |    2     |    40    |    16    |    10    |    0    
+    2025   |    8     |    1     |   191    |   65*    |  27.29   |   149    |  128.19  |    0     |    1     |    18    |    4     |    2     |    0    
+    2024   |    10    |    0     |   222    |    61    |  22.20   |   138    |  160.87  |    0     |    1     |    22    |    12    |    8     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    18    |    12    |    7     |    0     |   0/3    |    -     |   3.50   |    -     |    0     |    0    
+    2025   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    10    |    12    |    7     |    0     |   0/3    |    -     |   3.50   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/harry-brook/5600
+Source: https://www.iplt20.com/players/rachin-ravindra/20684
 ================================================================================
+|Australia|2|4|0|145|82|0|2|18|1|36.25|53.70|1|0|AUS|1|1|0|1|NZ|New Zealand|NZ|
+|Bangladesh|1|2|0|20|16|0|0|4|0|10|29.85|-|-|BAN|2|0|-|1|NZ|New Zealand|NZ|... |England|3|6|0|129|44|0|0|13|1|21.5|56.58|1|0|ENG|3|0|0|1|NZ|New Zealand|NZ|
+|India|5|10|2|309|134|1|1|34|5|38.63|60.00|4|0|IND|4|0|1|1|NZ|New Zealand|NZ|... |South Africa|2|4|0|301|240|1|0|31|3|75.25|56.05|1|0|SA|7|0|0|1|NZ|New Zealand|NZ|
+|Sri Lanka|2|4|0|153|92|0|1|15|1|38.25|57.74|-|-|SL|8|0|-|1|NZ|New Zealand|NZ|... |Zimbabwe|2|2|1|167|165*|1|0|21|2|167|112.08|3|0|ZIM|10|0|0|1|NZ|New Zealand|NZ|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Australia|2|8|1|26|1|1/24 v AUS|0|0|26.00|3.25|48.00|AUS|1|2|1|NZ|New Zealand|NZ|... |Bangladesh|1|28|5|67|0|0/67 v BAN|0|0|-|2.39|-|BAN|2|1|1|NZ|New Zealand|NZ|
+|England|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|3|1|-|-|-|... |India|6|40|6|159|3|3/56 v IND|1|0|53.00|3.98|80.00|IND|4|5|1|NZ|New Zealand|NZ|
+|South Africa|4|50.5|16|117|6|3/33 v SA|1|0|19.50|2.30|50.83|SA|7|2|1|NZ|New Zealand|NZ|... |Sri Lanka|3|19.4|0|77|0|0/11 v SL|0|0|-|3.92|-|SL|8|2|1|NZ|New Zealand|NZ|
+|Zimbabwe|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|2|1|-|-|-|... |Australia|1|1|0|116|116|1|0|9|5|116|130.34|1|0|AUS|1|0|0|2|NZ|New Zealand|NZ|
+|Bangladesh|8|7|0|184|112|1|0|25|2|26.29|101.66|2|0|BAN|2|2|0|2|NZ|New Zealand|NZ|... |England|8|7|1|333|123*|1|2|37|10|55.5|118.93|1|0|ENG|3|0|0|2|NZ|New Zealand|NZ|
+|India|4|4|0|131|75|0|1|13|2|32.75|87.33|2|0|IND|4|0|0|2|NZ|New Zealand|NZ|... |Pakistan|5|4|0|170|108|1|0|24|1|42.5|119.72|1|0|PAK|6|0|0|2|NZ|New Zealand|NZ|
+|South Africa|2|2|0|117|108|1|0|14|1|58.5|100.00|2|0|SA|7|0|0|2|NZ|New Zealand|NZ|... |Sri Lanka|6|5|0|216|79|0|1|22|6|43.2|113.68|2|0|SL|8|0|0|2|NZ|New Zealand|NZ|
+|Netherlands|1|1|0|51|51|0|1|3|1|51|100.00|-|-|NED|15|0|-|2|NZ|New Zealand|NZ|... |Afghanistan|1|1|0|32|32|0|0|2|1|32|78.05|1|0|AFG|1188|0|0|2|NZ|New Zealand|NZ|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Bangladesh|5|27|1|122|2|1/20 v BAN|0|0|61.00|4.52|81.00|BAN|2|8|2|NZ|New Zealand|NZ|
+|England|5|36|0|244|8|4/60 v ENG|1|0|30.50|6.78|27.00|ENG|3|8|2|NZ|New Zealand|NZ|... |India|4|32|1|184|2|1/31 v IND|0|0|92.00|5.75|96.00|IND|4|4|2|NZ|New Zealand|NZ|
+|Pakistan|4|30.3|0|207|4|3/65 v PAK|1|0|51.75|6.79|45.75|PAK|6|5|2|NZ|New Zealand|NZ|... |South Africa|2|7|0|37|1|1/20 v SA|0|0|37.00|5.29|42.00|SA|7|2|2|NZ|New Zealand|NZ|
+|Sri Lanka|1|7.4|0|21|2|2/21 v SL|0|0|10.50|2.74|23.00|SL|8|6|2|NZ|New Zealand|NZ|... |Netherlands|1|10|0|46|1|1/46 v NED|0|0|46.00|4.60|60.00|NED|15|1|2|NZ|New Zealand|NZ|
+|Afghanistan|1|5|0|34|1|1/34 v AFG|0|0|34.00|6.80|30.00|AFG|1188|1|2|NZ|New Zealand|NZ|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Kenya Under-19|1|1|0|117|117|1|0|8|3|117|115.84|-|-|KEN-U19|1164|0|-|22|NZ-U19|New Zealand Under-19|NZ-U19|
+|Nepal Under-19|1|1|0|4|4|0|0|0|0|4|30.77|-|-|NEP-U19|1168|0|-|22|NZ-U19|New Zealand Under-19|NZ-U19|... |Pakistan Under-19|3|3|0|96|77|0|1|7|2|32|67.61|-|-|PAK-U19|1170|0|-|22|NZ-U19|New Zealand Under-19|NZ-U19|
+|South Africa Under-19|3|3|0|128|76|0|1|13|1|42.67|88.89|1|0|SA-U19|1172|0|1|22|NZ-U19|New Zealand Under-19|NZ-U19|... |West Indies Under-19|1|1|0|16|16|0|0|3|0|16|61.54|-|-|WI-U19|1176|0|-|22|NZ-U19|New Zealand Under-19|NZ-U19|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Ireland Under-19|1|10|1|36|3|3/36 v IRE-U19|1|0|12.00|3.60|20.00|IRE-U19|1149|1|22|NZ-U19|New Zealand Under-19|NZ-U19|... |Australia Under-19|1|7|0|19|2|2/19 v AUS-U19|0|0|9.50|2.71|21.00|AUS-U19|1154|1|22|NZ-U19|New Zealand Under-19|NZ-U19|... |India Under-19|1|6|0|41|2|2/41 v IND-U19|0|0|20.50|6.83|18.00|IND-U19|1163|1|22|NZ-U19|New Zealand Under-19|NZ-U19|... |Kenya Under-19|1|10|1|33|2|2/33 v KEN-U19|0|0|16.50|3.30|30.00|KEN-U19|1164|1|22|NZ-U19|New Zealand Under-19|NZ-U19|... |Nepal Under-19|1|8|1|37|1|1/37 v NEP-U19|0|0|37.00|4.62|48.00|NEP-U19|1168|1|22|NZ-U19|New Zealand Under-19|NZ-U19|... |Pakistan Under-19|3|23|3|113|4|3/35 v PAK-U19|1|0|28.25|4.91|34.50|PAK-U19|1170|3|22|NZ-U19|New Zealand Under-19|NZ-U19|... |South Africa Under-19|3|27.2|1|154|6|4/32 v SA-U19|0|0|25.67|5.63|27.33|SA-U19|1172|3|22|NZ-U19|New Zealand Under-19|NZ-U19|... |West Indies Under-19|1|7|0|30|3|3/30 v WI-U19|1|0|10.00|4.29|14.00|WI-U19|1176|1|22|NZ-U19|New Zealand Under-19|NZ-U19|... |Australia|1|1|0|68|68|0|1|2|6|68|194.29|1|0|AUS|1|0|0|3|NZ|New Zealand|NZ|
+|Bangladesh|5|5|0|47|20|0|0|5|1|9.4|100.00|1|0|BAN|2|2|0|3|NZ|New Zealand|NZ|... |England|4|3|2|35|17*|0|0|4|1|35|175.00|-|-|ENG|3|0|-|3|NZ|New Zealand|NZ|
+|India|1|1|0|7|7|0|0|1|0|7|87.50|2|0|IND|4|0|0|3|NZ|New Zealand|NZ|... |Pakistan|6|5|1|24|8*|0|0|1|0|6|77.42|4|0|PAK|6|0|0|3|NZ|New Zealand|NZ|
+|South Africa|2|2|0|50|47|0|0|4|2|25|156.25|1|0|SA|7|0|0|3|NZ|New Zealand|NZ|... |Sri Lanka|6|5|1|106|69|0|1|7|6|26.5|149.30|2|0|SL|8|0|0|3|NZ|New Zealand|NZ|
+|West Indies|6|5|0|89|26|0|0|8|1|17.8|114.10|2|0|WI|9|0|0|3|NZ|New Zealand|NZ|... |Zimbabwe|2|2|0|93|63|0|1|11|3|46.5|160.34|-|-|ZIM|10|0|-|3|NZ|New Zealand|NZ|
+|United Arab Emirates|3|3|2|23|21*|0|0|1|1|23|143.75|1|0|UAE|21|0|0|3|NZ|New Zealand|NZ|... |Uganda|1|1|1|1|1*|0|0|0|0|0.00|100.00|-|-|UGA|29|0|-|3|NZ|New Zealand|NZ|
+|Papua New Guinea|1|1|0|6|6|0|0|0|0|6|54.55|-|-|PNG|750|0|-|3|NZ|New Zealand|NZ|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Australia|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|1|3|-|-|-|
+|Bangladesh|5|19|0|83|6|3/22 v BAN|1|0|13.83|4.37|19.00|BAN|2|5|3|NZ|New Zealand|NZ|... |England|1|2|0|17|1|1/17 v ENG|0|0|17.00|8.50|12.00|ENG|3|4|3|NZ|New Zealand|NZ|
+|India|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|1|3|-|-|-|... |Pakistan|4|10|0|88|3|2/28 v PAK|0|0|29.33|8.80|20.00|PAK|6|6|3|NZ|New Zealand|NZ|
+|South Africa|1|1|0|14|0|0/14 v SA|0|0|-|14.00|-|SA|7|2|3|NZ|New Zealand|NZ|... |Sri Lanka|3|6|0|65|1|1/24 v SL|0|0|65.00|10.83|36.00|SL|8|6|3|NZ|New Zealand|NZ|
+|West Indies|1|1|0|11|0|0/11 v WI|0|0|-|11.00|-|WI|9|6|3|NZ|New Zealand|NZ|... |Zimbabwe|1|3|0|10|1|1/10 v ZIM|0|0|10.00|3.33|18.00|ZIM|10|2|3|NZ|New Zealand|NZ|
+|United Arab Emirates|1|1|0|8|0|0/8 v UAE|0|0|-|8.00|-|UAE|21|3|3|NZ|New Zealand|NZ|... |Uganda|1|3|1|9|2|2/9 v UGA|0|0|4.50|3.00|9.00|UGA|29|1|3|NZ|New Zealand|NZ|
+|Papua New Guinea|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|1|3|-|-|-|... |West Indies|1|1|0|52|52|0|1|5|0|52|52.53|-|-|WI|9|0|-|4|NZ-A|New Zealand A|NZ-A|
+|Auckland Aces|8|14|0|309|101|1|1|44|1|22.07|47.25|3|0|AA|89|1|0|4|WF|Wellington Firebirds|WF|... |Canterbury|6|12|0|260|78|0|2|31|0|21.67|35.18|3|0|CTB|187|3|0|4|WF|Wellington Firebirds|WF|
+|England XI|1|2|0|34|22|0|0|2|0|17|73.91|1|0|ENG-XI|289|0|0|4|NZ-A|New Zealand A|NZ-A|... |India A|8|10|1|164|47|0|0|25|0|18.22|43.73|3|0|IND-A|395|0|0|4|NZ-A|New Zealand A|NZ-A|
+|Northern Districts|6|11|1|533|138|2|1|59|8|53.3|53.95|6|0|ND|633|0|0|4|WF|Wellington Firebirds|WF|... |Pakistan A|3|6|1|260|70|0|3|30|1|52|46.51|1|0|PK-A|713|0|0|4|NZ-A|New Zealand A|NZ-A|
+|West Indies A|1|2|1|166|144*|1|0|10|4|166|85.57|-|-|WI-A|1020|0|-|4|NZ-A|New Zealand A|NZ-A|... |Worcestershire|1|2|1|263|217|1|0|36|0|263|64.62|-|-|WOR|1032|0|-|4|DUR|Durham|DUR|
+|Otago Volts|6|11|2|410|118|1|2|53|3|45.56|54.30|6|0|OV|1139|1|1|4|WF|Wellington Firebirds|WF|... |Central Stags|3|5|1|236|82|0|2|35|1|59|55.27|-|-|CS|1385|0|-|4|WF|Wellington Firebirds|WF|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|West Indies|1|35|7|102|2|2/102 v WI|0|0|51.00|2.91|105.00|WI|9|1|4|NZ-A|New Zealand A|NZ-A|... |Auckland Aces|9|143|27|549|10|3/47 v AA|3|0|54.90|3.84|85.80|AA|89|8|4|WF|Wellington Firebirds|WF|
+|Canterbury|9|78.3|5|332|7|3/57 v CTB|1|0|47.43|4.23|67.29|CTB|187|6|4|WF|Wellington Firebirds|WF|... |England XI|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|1|4|-|-|-|
+|India A|9|137.1|17|468|8|3/65 v IND-A|1|0|58.50|3.41|102.88|IND-A|395|8|4|NZ-A|New Zealand A|NZ-A|... |Northern Districts|9|96|20|326|8|3/38 v ND|1|0|40.75|3.40|72.00|ND|633|6|4|WF|Wellington Firebirds|WF|
+|Pakistan A|6|73.3|5|295|3|2/104 v PK-A|0|0|98.33|4.01|147.00|PK-A|713|3|4|NZ-A|New Zealand A|NZ-A|... |West Indies A|2|32.3|1|145|6|6/89 v WI-A|0|1|24.17|4.46|32.50|WI-A|1020|1|4|NZ-A|New Zealand A|NZ-A|
+|Worcestershire|1|9|0|28|0|0/28 v WOR|0|0|-|3.11|-|WOR|1032|1|4|DUR|Durham|DUR|... |Otago Volts|10|83.3|25|227|7|3/19 v OV|1|0|32.43|2.72|71.57|OV|1139|6|4|WF|Wellington Firebirds|WF|
+|Central Stags|3|38|11|95|1|1/16 v CS|0|0|95.00|2.50|228.00|CS|1385|3|4|WF|Wellington Firebirds|WF|... |Auckland Aces|2|2|0|160|130|1|0|22|2|80|111.11|-|-|AA|89|0|-|5|WF|Wellington Firebirds|WF|
+|Canterbury|3|3|0|61|34|0|0|7|2|20.33|76.25|-|-|CTB|187|0|-|5|WF|Wellington Firebirds|WF|... |India A|8|8|1|144|61|0|1|18|1|20.57|77.84|1|0|IND-A|395|1|0|5|NZ-A|New Zealand A|NZ-A|
+|Northern Districts|2|2|0|129|105|1|0|16|1|64.5|102.38|1|0|ND|633|0|0|5|WF|Wellington Firebirds|WF|... |Pakistan A|3|3|0|45|28|0|0|2|0|15|71.43|3|0|PK-A|713|0|0|5|NZ-A|New Zealand A|NZ-A|
+|Otago Volts|5|5|0|238|113|1|1|28|2|47.6|108.18|1|0|OV|1139|1|0|5|WF|Wellington Firebirds|WF|... |Central Stags|3|3|0|13|13|0|0|2|0|4.33|65.00|1|0|CS|1385|2|0|5|WF|Wellington Firebirds|WF|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Auckland Aces|2|18|0|94|2|2/53 v AA|0|0|47.00|5.22|54.00|AA|89|2|5|WF|Wellington Firebirds|WF|... |Canterbury|2|13|0|57|1|1/36 v CTB|0|0|57.00|4.38|78.00|CTB|187|3|5|WF|Wellington Firebirds|WF|
+|India A|8|55.5|1|299|5|2/43 v IND-A|0|0|59.80|5.36|67.00|IND-A|395|8|5|NZ-A|New Zealand A|NZ-A|... |Northern Districts|2|20|1|99|4|3/52 v ND|1|0|24.75|4.95|30.00|ND|633|2|5|WF|Wellington Firebirds|WF|
+|Pakistan A|3|24|0|120|0|0/35 v PK-A|0|0|-|5.00|-|PK-A|713|3|5|NZ-A|New Zealand A|NZ-A|... |Otago Volts|4|29|1|149|2|1/42 v OV|0|0|74.50|5.14|87.00|OV|1139|5|5|WF|Wellington Firebirds|WF|
+|Central Stags|2|14|0|69|1|1/42 v CS|0|0|69.00|4.93|84.00|CS|1385|3|5|WF|Wellington Firebirds|WF|... |Australia|1|1|0|116|116|1|0|9|5|116|130.34|1|0|AUS|1|0|0|2|NZ|New Zealand|NZ|
+|Bangladesh|1|1|0|9|9|0|0|2|0|9|69.23|-|-|BAN|2|0|-|2|NZ|New Zealand|NZ|... |England|1|1|1|123|123*|1|0|11|5|0.00|128.13|-|-|ENG|3|0|-|2|NZ|New Zealand|NZ|
+|India|2|2|0|88|75|0|1|9|1|44|80.73|-|-|IND|4|0|-|2|NZ|New Zealand|NZ|... |Pakistan|1|1|0|108|108|1|0|15|1|108|114.89|-|-|PAK|6|0|-|2|NZ|New Zealand|NZ|
+|South Africa|1|1|0|9|9|0|0|1|0|9|56.25|-|-|SA|7|0|-|2|NZ|New Zealand|NZ|... |Sri Lanka|1|1|0|42|42|0|0|3|3|42|123.53|1|0|SL|8|0|0|2|NZ|New Zealand|NZ|
+|Netherlands|1|1|0|51|51|0|1|3|1|51|100.00|-|-|NED|15|0|-|2|NZ|New Zealand|NZ|... |Afghanistan|1|1|0|32|32|0|0|2|1|32|78.05|1|0|AFG|1188|0|0|2|NZ|New Zealand|NZ|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Bangladesh|1|7|0|37|0|0/37 v BAN|0|0|-|5.29|-|BAN|2|1|2|NZ|New Zealand|NZ|
+|England|1|10|0|76|1|1/76 v ENG|0|0|76.00|7.60|60.00|ENG|3|1|2|NZ|New Zealand|NZ|... |India|2|16|0|106|0|0/46 v IND|0|0|-|6.63|-|IND|4|2|2|NZ|New Zealand|NZ|
+|Pakistan|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|0|2|-|-|-|... |South Africa|1|2|0|17|0|0/17 v SA|0|0|-|8.50|-|SA|7|1|2|NZ|New Zealand|NZ|
+|Sri Lanka|1|7.4|0|21|2|2/21 v SL|0|0|10.50|2.74|23.00|SL|8|1|2|NZ|New Zealand|NZ|... |Netherlands|1|10|0|46|1|1/46 v NED|0|0|46.00|4.60|60.00|NED|15|1|2|NZ|New Zealand|NZ|
+|Afghanistan|1|5|0|34|1|1/34 v AFG|0|0|34.00|6.80|30.00|AFG|1188|1|2|NZ|New Zealand|NZ|... |Royal Challengers Bengaluru|3|3|0|139|61|0|1|13|6|46.33|167.47|3|0|RCB|1105|0|0|6|CSK|Chennai Super Kings|CSK|
+|Kolkata Knight Riders|2|2|0|19|15|0|0|3|0|9.5|111.76|1|0|KKR|1106|0|0|6|CSK|Chennai Super Kings|CSK|... |Punjab Kings|1|1|0|36|36|0|0|6|0|36|156.52|-|-|PBKS|1107|0|-|6|CSK|Chennai Super Kings|CSK|
+|Delhi Capitals|2|2|0|5|3|0|0|0|0|2.5|27.78|-|-|DC|1109|0|-|6|CSK|Chennai Super Kings|CSK|... |Rajasthan Royals|2|2|0|27|27|0|0|1|2|13.5|122.73|1|0|RR|1110|1|0|6|CSK|Chennai Super Kings|CSK|
+|Mumbai Indians|3|3|1|91|65*|0|1|4|5|45.5|130.00|1|0|MI|1111|0|0|6|CSK|Chennai Super Kings|CSK|... |Sunrisers Hyderabad|1|1|0|12|12|0|0|2|0|12|133.33|1|0|SRH|1379|0|0|6|CSK|Chennai Super Kings|CSK|
+|Lucknow Super Giants|2|2|0|37|37|0|0|5|0|18.5|160.87|-|-|LSG|2954|1|-|6|CSK|Chennai Super Kings|CSK|... |Gujarat Titans|2|2|0|47|46|0|0|6|3|23.5|213.64|3|0|GT|2955|0|1|6|CSK|Chennai Super Kings|CSK|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Kolkata Knight Riders|1|1|0|4|0|0/4 v KKR|0|0|-|4.00|-|KKR|1106|1|6|CSK|Chennai Super Kings|CSK|
+|Punjab Kings|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|0|6|-|-|-|... |Los Angeles Knight Riders|3|3|0|37|18|0|0|5|0|12.33|115.63|1|0|LAKR|3840|0|0|6|WF|Washington Freedom|WF|
+|MI New York|4|4|0|120|70|0|1|12|4|30|162.16|4|0|MINY|3841|0|1|6|WF|Washington Freedom|WF|... |San Francisco Unicorns|5|5|0|81|42|0|0|4|7|16.2|162.00|1|0|SFU|3842|0|0|6|WF|Washington Freedom|WF|
+|Seattle Orcas|3|3|0|102|44|0|0|11|7|34|178.95|3|0|SO|3843|0|0|6|WF|Washington Freedom|WF|... |Texas Super Kings|4|3|0|22|11|0|0|3|1|7.33|183.33|1|0|TSK|3844|0|0|6|WF|Washington Freedom|WF|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Los Angeles Knight Riders|2|4|0|26|1|1/7 v LAKR|0|0|26.00|6.50|24.00|LAKR|3840|3|6|WF|Washington Freedom|WF|... |MI New York|2|4|0|23|1|1/18 v MINY|0|0|23.00|5.75|24.00|MINY|3841|4|6|WF|Washington Freedom|WF|
+|San Francisco Unicorns|5|12.2|1|108|8|4/11 v SFU|1|0|13.50|8.76|9.25|SFU|3842|5|6|WF|Washington Freedom|WF|... |Seattle Orcas|1|1|1|0|1|1/0 v SO|0|0|0.00|0.00|6.00|SO|3843|2|6|WF|Washington Freedom|WF|
+|Texas Super Kings|2|6.5|0|46|5|4/16 v TSK|0|0|9.20|6.73|8.20|TSK|3844|4|6|WF|Washington Freedom|WF|... |Home|8|16|0|595|240 v SA|1|2|66|5|37.19|53.99|3|0|SA|7|1|0|1|NZ|New Zealand|NZ|
+|Away|9|16|3|629|165* v ZIM|2|2|70|8|48.38|67.71|7|0|ZIM|10|0|1|1|NZ|New Zealand|NZ|... |Home|7|86.5|22|210|7|3/33 v SA|1|0|30|2.42|74.43|SA|7|8|1|NZ|New Zealand|NZ|
+|Away|9|59.4|6|236|3|3/56 v IND|1|0|78.67|3.96|119.33|IND|4|9|1|NZ|New Zealand|NZ|... |Home|11|10|0|344|79 v SL|0|2|45|5|34.4|109.21|2|0|SL|8|1|0|2|NZ|New Zealand|NZ|
+|Away|13|10|0|253|75 v IND|0|2|29|5|25.3|103.27|2|0|IND|4|1|0|2|NZ|New Zealand|NZ|... |Neutral|12|12|1|753|123* v ENG|5|1|75|19|68.45|110.57|8|0|ENG|3|0|0|2|NZ|New Zealand|NZ|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Home|2|7|0|39|1|1/20 v BAN|0|0|39|5.57|42.00|BAN|2|11|2|NZ|New Zealand|NZ|... |Away|12|85.3|1|527|12|4/60 v ENG|2|0|43.92|6.16|42.75|ENG|3|13|2|NZ|New Zealand|NZ|
+|Neutral|10|70.4|1|385|8|2/21 v SL|0|0|48.13|5.45|53.00|SL|8|12|2|NZ|New Zealand|NZ|... |Home|5|5|0|238|117 v KEN-U19|1|1|21|3|47.6|88.48|1|0|KEN-U19|1164|0|1|22|NZ-U19|New Zealand Under-19|NZ-U19|... |Neutral|10|10|1|149|77 v PAK-U19|0|1|12|3|16.56|60.82|1|0|PAK-U19|1170|2|0|22|NZ-U19|New Zealand Under-19|NZ-U19|... |Home|5|43.2|3|202|12|4/32 v SA-U19|1|0|16.83|4.66|21.67|SA-U19|1172|5|22|NZ-U19|New Zealand Under-19|NZ-U19|... |Neutral|10|77.3|4|427|14|3/35 v PAK-U19|2|0|30.5|5.51|33.21|PAK-U19|1170|10|22|NZ-U19|New Zealand Under-19|NZ-U19|... |Home|16|13|2|272|69 v SL|0|2|19|14|24.73|147.83|6|0|SL|8|0|0|3|NZ|New Zealand|NZ|
+|Away|16|15|4|203|63 v ZIM|0|1|20|5|18.45|127.67|4|0|ZIM|10|2|0|3|NZ|New Zealand|NZ|... |Neutral|6|6|1|74|47 v SA|0|0|5|2|14.8|113.85|4|0|SA|7|0|0|3|NZ|New Zealand|NZ|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Home|4|7|0|76|1|1/24 v SL|0|0|76|10.86|42.00|SL|8|16|3|NZ|New Zealand|NZ|... |Away|12|35|0|206|11|3/22 v BAN|1|0|18.73|5.89|19.09|BAN|2|16|3|NZ|New Zealand|NZ|
+|Neutral|2|4|1|23|2|2/9 v UGA|0|0|11.5|5.75|12.00|UGA|29|6|3|NZ|New Zealand|NZ|... |Home|4|6|0|180|70 v PK-A|0|1|21|1|30|54.55|2|0|PK-A|713|0|0|4|WF|Wellington Firebirds|WF|
+|Away|5|9|2|255|70 v PK-A|0|2|33|0|36.43|45.13|1|0|PK-A|713|0|0|4|WF|Wellington Firebirds|WF|... |Neutral|35|61|6|2252|217 v WOR|6|9|276|17|40.95|51.79|20|0|WOR|1032|5|1|4|WF|Wellington Firebirds|WF|... |Home|4|42.1|4|153|0|0/2 v PK-A|0|0|-|3.63|0.00|PK-A|713|4|4|WF|Wellington Firebirds|WF|
+|Away|8|139.3|15|510|10|3/65 v IND-A|1|0|51|3.66|83.70|IND-A|395|5|4|WF|Wellington Firebirds|WF|... |Neutral|47|544.3|99|1904|42|6/89 v WI-A|6|1|45.33|3.5|77.79|WI-A|1020|35|4|WF|Wellington Firebirds|WF|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Home|3|3|0|50|49 v IND-A|0|0|4|1|16.67|67.57|1|0|IND-A|395|1|0|5|WF|Wellington Firebirds|WF|... |Away|6|6|0|118|61 v IND-A|0|1|13|0|19.67|80.82|3|0|IND-A|395|0|0|5|WF|Wellington Firebirds|WF|
+|Neutral|17|17|1|622|130 v AA|3|1|78|7|38.88|100.65|3|0|AA|89|3|0|5|WF|Wellington Firebirds|WF|

@@ -1,14 +1,88 @@
 ================================================================================
-IPL PLAYER PROFILE: YUVRAJ CHAUDHARY
+IPL PLAYER PROFILE: RAMANDEEP SINGH
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Yuvraj Chaudhary
-  Date of Birth            : 06 October 2001
-  Total IPL Matches        : 0
+  Player Name              : Ramandeep Singh
+  IPL Debut                : 2022
+  Date of Birth            : 13 April 1997
+  Total IPL Matches        : 31
+  Role                     : All-Rounder
   Nationality              : Indian
 
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    An all-rounder hailing from Punjab, Ramandeep Singh made his IPL debut in
+  2022 after being picked up by Mumbai Indians. However, he gained recognition
+  during IPL 2024, where he came in handy for the Knight Riders as they
+  clinched the trophy. Ramandeep was retained by KKR ahead of the IPL 2025
+  mega auction.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    31    |    9     |   217    |    35    |  19.73   |   137    |  158.39  |    0     |    0     |    9     |    17    |    14    |    0    
+    2025   |    11    |    2     |    47    |    22    |   9.40   |    35    |  134.29  |    0     |    0     |    1     |    4     |    5     |    0    
+    2024   |    15    |    5     |   125    |    35    |  31.25   |    62    |  201.61  |    0     |    0     |    5     |    12    |    8     |    0    
+    2022   |    5     |    2     |    45    |   14*    |  22.50   |    40    |  112.50  |    0     |    0     |    3     |    1     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    31    |    40    |    63    |    6     |   3/20   |  10.50   |   9.45   |   6.67   |    0     |    0    
+    2025   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    15    |    4     |    9     |    0     |   0/9    |    -     |  13.50   |    -     |    0     |    0    
+    2022   |    5     |    36    |    54    |    6     |   3/20   |   9.00   |   9.00   |   6.00   |    0     |    0    
+
 ================================================================================
-Source: https://www.iplt20.com/players/yuvraj-chaudhary/22124
+Source: https://www.iplt20.com/players/ramandeep-singh/20595
 ================================================================================
+Virandeep Singh
+
+Batting Stats
+
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|--|--|--|-|--|--|--|
+|ODI|--|--|--|-|--|--|--|
+|T20I|111|104|3180|127.35|37.86|23/1|272/131|
+Bowling Stats... |Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|--|--|--|--|--|--|--|--|
+|ODI|--|--|--|--|--|--|--|--|... |T20I|111|89|1647|109|5.57|15.11|14.03|0|
+'Would Like To Lead India One Day': Yashasvi Jaiswal Declares Captaincy Ambitions
+
+cricket.com11 Dec 2025
+
+NZ vs WI: Mitchell Hay Achieves Special Feat Managed By Only Three Other New Zealanders... cricket.com11 Dec 2025
+
+35-Minute Chat With Kohli, Keeping Drills With Dhoni: Making Of Luvnith Sisodia 2.0
+
+Aakash Sivasubramaniam25 Aug 2025
+
+EXCLUSIVE | Hope Sanju Samson Gets To Lead India At Some Point: Shimron Hetmyer... Aakash Sivasubramaniam18 Mar 2025
+
+From Hurdles to Headlines: KL Shrijith Prepares to Walk in KL Rahul's Footsteps
+
+Aakash Sivasubramaniam13 Aug 2025
+
+EXCLUSIVE: How Tech Giants are Fueling Major League Cricket's American Dream... Bastab K Parida23 Jul 2025
+
+From Lows of 2001 to Highs Of 2025: Rise Of Italian Cricket Ft. Peter di Venuto
+
+Pramod Ananth22 Jul 2025
+
+Shreyas Iyer, India T20 Captain: An Idea Whose Time Is Approaching Fast
+
+Gaurav Nandan Tripathi28 May 2025

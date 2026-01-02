@@ -1,42 +1,20 @@
-================================================================================
-IPL PLAYER PROFILE: KULWANT KHEJROLIYA
-================================================================================
+All Matches
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Kulwant Khejroliya
-  IPL Debut                : 2018
-  Date of Birth            : 13 March 1992
-  Total IPL Matches        : 8
-  Role                     : Bowler
-  Nationality              : Indian
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2023   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    8     |   139    |   247    |    6     |   2/33   |  41.17   |  10.66   |  23.17   |    0     |    0    
-    2025   |    1     |    18    |    29    |    1     |   1/29   |  29.00   |   9.67   |  18.00   |    0     |    0    
-    2023   |    2     |    26    |    64    |    2     |   2/44   |  32.00   |  14.77   |  13.00   |    0     |    0    
-    2019   |    2     |    30    |    47    |    1     |   1/29   |  47.00   |   9.40   |  30.00   |    0     |    0    
-    2018   |    3     |    65    |   107    |    2     |   2/33   |  53.50   |   9.87   |  32.50   |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/kulwant-khejroliya/3835
-================================================================================
+|Opposition|Batting|Bowling|Format|Date|
+|--|--|--|--|--|
+|Perth Scorchers vs Sydney Sixers|46*(21)|1/22(2)|T20s|14-Dec-2025|
+|New South Wales vs Queensland|95(187)|1/16(8)|First-class|04-Dec-2025|... |New South Wales vs Tasmania|39*(45)|0/61(18)|First-class|21-Nov-2025|
+|New South Wales vs Victoria|6(16)|1/63(19)|First-class|09-Nov-2025|
+|New South Wales vs Queensland|0(1)|0/48(8)|List A|02-Nov-2025|... |Queensland vs New South Wales|45(79)|1/55(17)|First-class|28-Oct-2025|
+|Victoria vs New South Wales|1(2)|0/25(5)|List A|19-Oct-2025|
+|Victoria vs New South Wales|33*(41)|3/44(13)|First-class|14-Oct-2025|... |Western Australia vs New South Wales|0(3)|1/36(8)|List A|09-Oct-2025|
+|India A vs Australia A|89(75)|0/55(9)|List A|05-Oct-2025|
+T20s Matches... |Opposition|Batting|Bowling|Date|
+|--|--|--|--|
+|Perth Scorchers vs Sydney Sixers|46*(21)|1/22(2)|14-Dec-2025|
+|New South Wales vs Queensland|0(1)|0/48(8)|02-Nov-2025|... |Victoria vs New South Wales|1(2)|0/25(5)|19-Oct-2025|
+|Western Australia vs New South Wales|0(3)|1/36(8)|09-Oct-2025|
+|India A vs Australia A|89(75)|0/55(9)|05-Oct-2025|... |India A vs Australia A|DNB|4/56(8.5)|03-Oct-2025|
+|Washington Freedom vs MI New York|33(22)|1/38(4)|14-Jul-2025|
+|Washington Freedom vs Texas Super Kings|--|--|09-Jul-2025|... |Washington Freedom vs MI New York|DNB|1/14(3)|06-Jul-2025|
+|Washington Freedom vs Seattle Orcas|DNB|3/19(2.4)|04-Jul-2025|

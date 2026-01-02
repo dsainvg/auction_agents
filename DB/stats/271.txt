@@ -1,50 +1,141 @@
-================================================================================
-IPL PLAYER PROFILE: PRAVIN DUBEY
-================================================================================
+# Obed McCoy
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Pravin Dubey
-  IPL Debut                : 2020
-  Date of Birth            : 01 July 1993
-  Total IPL Matches        : 5
-  Role                     : Bowler
-  Nationality              : Indian
+West Indies
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-    Pravin Dubey, born in Azamgarh, Uttar Pradesh, plays for Karnataka at the
-  domestic level. A leg-spinner and a right-handed batsman, Dubey made his
-  List A debut against Gujarat in the 2015 Vijay Hazare Trophy, and has played
-  one first-class match. Dubey has so far played 21 T20 games and 20 wickets
-  against his name, with the best bowling figures of 4/19.
+Saint Lucia
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    5     |    1     |    23    |    16    |  23.00   |    33    |  69.70   |    0     |    0     |    2     |    0     |    2     |    0    
-    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2023   |    1     |    0     |    16    |    16    |  16.00   |    20    |  80.00   |    0     |    0     |    2     |    0     |    0     |    0    
-    2020   |    3     |    1     |    7     |    7*    |   0.00   |    13    |  53.84   |    0     |    0     |    0     |    0     |    1     |    0    
+T20 Stats
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    5     |    78    |   111    |    2     |   1/19   |  55.50   |   8.54   |  39.00   |    0     |    0    
-    2025   |    1     |    12    |    20    |    1     |   1/20   |  20.00   |  10.00   |  12.00   |    0     |    0    
-    2023   |    1     |    18    |    19    |    1     |   1/19   |  19.00   |   6.33   |  18.00   |    0     |    0    
-    2020   |    3     |    48    |    72    |    0     |   0/14   |    -     |   9.00   |    -     |    0     |    0    
+Dream11 PPG
 
-================================================================================
-Source: https://www.iplt20.com/players/pravin-dubey/3188
-================================================================================
+18.80
+
+Innings
+
+154
+
+Wickets
+
+189
+
+Overs
+
+519.3
+
+ERate
+
+8.85
+
+ODI Stats
+
+Dream11 PPG
+
+7.76
+
+Innings
+
+2... Wickets
+
+4
+
+Overs
+
+14
+
+ERate
+
+7.78
+
+Wicketless bowling first
+
+**Bowler**West Indies
+
+McCoy registered figures of zero for 37 for West Indies during a 19-run defeat to Nepal in the first T20I of the three-match series in Sharjah on Saturday.... **ANALYSIS**
+
+McCoy had a disappointing day with the ball in hand. The left-arm pacer not only failed to claim a single wicket but also conceded 37 runs in his quota of four overs. It was the sixth occasion in the last eight innings in T20Is where McCoy failed to claim a single wicket.... Batting Stats - Format
+
+By Format
+
+By Competition
+
+Batting Stats - Format
+
+Loading Batting Stats...
+
+Bowling Stats - Format
+
+Loading Bowling Stats...
+
+Batting Stats - Competition
+
+Loading Batting Stats...
+
+Bowling Stats - Competition
+
+Loading Bowling Stats...
+
+Cricket Game Log - Bowling
+
+Calculate Stats Over Time... Just click on any two dates.
+
+Scoring
+
+Dream11
+
+Loading Bowling Game Log...
+
+Cricket Game Log - Batting
+
+Calculate Stats Over Time
+
+Just click on any two dates.
+
+Scoring
+
+Dream11
+
+Loading Batting Game Log...
+
+Cricket Game Log - Fielding
+
+Calculate Stats Over Time
+
+Just click on any two dates.... Scoring
+
+Dream11
+
+Loading Fielding Game Log...
+
+Recent RotoWire Articles Featuring Obed McCoy See More
+
+Recent RotoWire Articles Featuring Obed McCoy See More
+
+More Fantasy News
+
+One wicket bowling first
+
+**Bowler**West Indies
+
+McCoy registered figures of one for 35 for the Dubai Capitals during an eight-wicket win against the Abu Dhabi Knight Riders in the IL T20 2025 in Abu Dhabi on Sunday.... Two wickets defending 175
+
+**Bowler**West Indies
+
+McCoy registered figures of two for 15 for West Indies during a 28-run win against South Africa in the first T20I of the three-match series in Kingston on Thursday.
+
+One wicket defending 186
+
+**Bowler**Barbados Royals... McCoy registered figures of one for 17 for Fortune Barishal during a 27-run win against Durdanto Dhaka in the Bangladesh Premier League (BPL) 2024 in Chattogram on Wednesday.
+
+Ruled out of South Africa T20Is
+
+**Bowler**West Indies
+
+Knee... McCoy has been ruled out of the upcoming three-match T20I series against South Africa due to a knee injury, the Windies Cricket reports.
+
+Ruled out of SA20
+
+**Bowler**West Indies
+
+Undisclosed
+
+McCoy has been ruled out of the upcoming SA20 tournament due to an injury, ESPNcricinfo reports.

@@ -1,44 +1,45 @@
-================================================================================
-IPL PLAYER PROFILE: HIMMAT SINGH
-================================================================================
+# ChrisGreen
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Himmat Singh
-  IPL Debut                : 2025
-  Date of Birth            : 08 November 1996
-  Total IPL Matches        : 3
-  Role                     : WK-Batter
-  Nationality              : Indian
+- Safety
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-    A middle-order batter from Delhi, Himmat Singh was picked by Lucknow
-  Super Giants for INR 30 lakh and will be looking to make the most of his
-  chances when they come by.
+- Birthdate2/26/1968
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2025   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+- CollegeIllinois
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+- BirthplaceLawrenceburg, IN... ## Stats
 
-================================================================================
-Source: https://www.iplt20.com/players/himmat-singh/5434
-================================================================================
+Defense
+|season|Team|
+|--|--|
+|1993|MIA|
+|1994|MIA|
+|1995|BUF|
+|Career|
+|GP|TOT|SOLO|AST|SACK|FF|FR|YDS|INT|YDS|AVG|TD|LNG|PD|STF|STFYDS|KB|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|14|15|12|3|0|1|0|0|2|0|0.0|0|0|3|0|0|0|... |16|20|15|5|0|0|0|0|0|0|0.0|0|0|3|0|0|0|
+|16|13|9|4|0|0|0|0|0|0|0.0|0|0|0|0|0|0|... |46|48|36|12|0|1|0|0|2|0|0.0|0|0|6|0|0|0|
+Returning... |season|Team|
+|--|--|
+|1995|BUF|
+|Career|
+|punts|kickoffs|
+|--|--|
+|GP|ATT|YDS|TD|FC|LNG|ATT|YDS|TD|KRFC|LNG|
+|16|0|0|0|0|0|2|37|0|0|22|
+|46|0|0|0|0|0|2|37|0|0|22|... ## NFL Week 5 uniforms: Bills debut Rivalry uniforms; Bucs, Seahawks rock throwbacks
+
+It's a busy uniform slate in Week 5 of the NFL season, led by the Buffalo Bills debuting their Rivalry threads.
+
+## Rams vs. 49ers: Week 5 NFL game highlights
+
+## Lions WR Amon-Ra St. Brown addresses viral NBA 2K26 moment
+
+The Detroit Lions wide receiver went viral for allegedly appearing on NBA 2K26 at 4 a.m.... ## Nevada court rejects NFL petition for Jon Gruden rehearing
+
+Thursday's unanimous ruling by the Nevada Supreme Court means the last option for the NFL is to appeal to the U.S. Supreme Court, which sources told ESPN is likely.
+
+## Vikings-Browns: Scenes from London in NFL's Week 5 international game
+
+The NFL went international in Week 5. Here's how Minnesota and Cleveland made the trip worth remembering in London.... ## NFL Week 5: Best team arrivals -- from Mac Jones to Puka Nacua
+
+The stars are back in the pregame tunnels, arriving in looks that match their personal style.

@@ -1,29 +1,22 @@
 ================================================================================
-IPL PLAYER PROFILE: PIYUSH CHAWLA
+IPL PLAYER PROFILE: STEVE SMITH
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Piyush Chawla
-  IPL Debut                : 2008
-  Date of Birth            : 24 December 1988
-  Total IPL Matches        : 192
-  Role                     : Bowler
-  Nationality              : Indian
+  Player Name              : Steve Smith
+  IPL Debut                : 2012
+  Date of Birth            : 02 June 1989
+  Total IPL Matches        : 103
+  Nationality              : Australian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  Piyush Chawla has been one of the most successful bowler in the history
-  of the IPL. He is number three in the list of highest-wicket takers in IPL,
-  scalping 156 wickets in the 164 matches he has played. Piyush played a vital
-  role for the Punjab Kings and Kolkata Knight Riders in the past editions of
-  the tournament. In fact, he scored the winning runs in the finals of the
-  2014 season where the Knight Riders were crowned champions for the second
-  time. He was released by the Knight Riders after the 2019 season but was
-  later snapped by CSK for INR 6.75 cr. He picked 6 wickets in the 7 games
-  that he played in the 13th edition and it’ll be interesting to see how the
-  Mumbai Indians accommodate the right-arm veteran spinner after buying him in
-  the 2021 auction for INR 2.4 cr.
+    One of the finest batsmen going around, Steve Smith, moved to Delhi
+  Capitals from Rajasthan Royals after being bought for INR 2.20 Cr during the
+  player auction ahead of the IPL 2021. The right-hander has so far played 95
+  IPL games, scoring over 2300 runs with the help of a hundred and 11 fifties
+  and he will be keen to enjoy a fine run with the bat in the IPL 2021.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -33,22 +26,16 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   185    |    36    |   624    |   24*    |  11.14   |   563    |  110.83  |    0     |    0     |    56    |    20    |    43    |    0    
-    2024   |    11    |    2     |    15    |    10    |   3.75   |    15    |  100.00  |    0     |    0     |    1     |    1     |    2     |    0    
-    2023   |    16    |    2     |    25    |    18    |  12.50   |    22    |  113.64  |    0     |    0     |    1     |    1     |    1     |    0    
-    2021   |    1     |    0     |    0     |    0*    |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2019   |    13    |    2     |    42    |   14*    |  14.00   |    37    |  113.51  |    0     |    0     |    4     |    2     |    5     |    0    
-    2018   |    15    |    3     |    27    |    12    |   6.75   |    34    |  79.41   |    0     |    0     |    1     |    1     |    4     |    0    
-    2017   |    6     |    0     |    2     |    2     |   2.00   |    6     |  33.33   |    0     |    0     |    0     |    0     |    1     |    0    
-    2016   |    12    |    0     |    27    |    11    |   9.00   |    26    |  103.84  |    0     |    0     |    4     |    0     |    3     |    0    
-    2015   |    13    |    4     |    54    |    22    |  13.50   |    47    |  114.89  |    0     |    0     |    5     |    2     |    2     |    0    
-    2014   |    11    |    2     |    31    |   17*    |  10.33   |    19    |  163.15  |    0     |    0     |    4     |    1     |    3     |    0    
-    2013   |    16    |    5     |    64    |    23    |  10.66   |    57    |  112.28  |    0     |    0     |    5     |    3     |    1     |    0    
-    2012   |    16    |    4     |   106    |   21*    |  13.25   |    88    |  120.45  |    0     |    0     |    9     |    4     |    3     |    0    
-    2011   |    12    |    3     |    48    |    15    |  16.00   |    55    |  87.27   |    0     |    0     |    2     |    2     |    3     |    0    
-    2010   |    14    |    1     |    62    |    22    |  12.40   |    60    |  103.33  |    0     |    0     |    7     |    0     |    3     |    0    
-    2009   |    14    |    5     |    31    |    8*    |   6.20   |    36    |  86.11   |    0     |    0     |    3     |    0     |    6     |    0    
-    2008   |    15    |    3     |    90    |   24*    |  22.50   |    59    |  152.54  |    0     |    0     |    10    |    3     |    6     |    0    
+   Career  |   103    |    21    |   2485   |   101*   |  34.51   |   1940   |  128.09  |    1     |    11    |   225    |    60    |    53    |    0    
+    2021   |    8     |    1     |   152    |    39    |  25.33   |   135    |  112.59  |    0     |    0     |    13    |    2     |    9     |    0    
+    2020   |    14    |    2     |   311    |    69    |  25.91   |   237    |  131.22  |    0     |    3     |    32    |    9     |    2     |    0    
+    2019   |    12    |    2     |   319    |   73*    |  39.87   |   275    |  116.00  |    0     |    3     |    30    |    4     |    3     |    0    
+    2017   |    15    |    3     |   472    |   84*    |  39.33   |   387    |  121.96  |    0     |    3     |    38    |    12    |    7     |    0    
+    2016   |    8     |    1     |   270    |   101    |  45.00   |   176    |  153.40  |    1     |    0     |    27    |    8     |    2     |    0    
+    2015   |    14    |    1     |   293    |   79*    |  26.63   |   221    |  132.57  |    0     |    2     |    33    |    3     |    7     |    0    
+    2014   |    10    |    3     |   147    |   48*    |  36.75   |   110    |  133.63  |    0     |    0     |    13    |    4     |    9     |    0    
+    2013   |    7     |    3     |   159    |    41    |  39.75   |   132    |  120.45  |    0     |    0     |    15    |    4     |    4     |    0    
+    2012   |    15    |    5     |   362    |   47*    |  40.22   |   267    |  135.58  |    0     |    0     |    24    |    14    |    10    |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -58,22 +45,249 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   165    |   3274   |   4301   |   157    |   4/17   |  27.39   |   7.88   |  20.85   |    2     |    0    
-    2021   |    1     |    24    |    38    |    1     |   1/38   |  38.00   |   9.50   |  24.00   |    0     |    0    
-    2020   |    7     |   126    |   191    |    6     |   2/33   |  31.83   |   9.09   |  21.00   |    0     |    0    
-    2019   |    13    |   267    |   399    |    10    |   3/20   |  39.90   |   8.96   |  26.70   |    0     |    0    
-    2018   |    15    |   294    |   412    |    14    |   3/48   |  29.42   |   8.40   |  21.00   |    0     |    0    
-    2017   |    6     |   120    |   179    |    6     |   2/34   |  29.83   |   8.95   |  20.00   |    0     |    0    
-    2016   |    12    |   212    |   273    |    11    |   2/21   |  24.81   |   7.72   |  19.27   |    0     |    0    
-    2015   |    13    |   210    |   269    |    11    |   4/32   |  24.45   |   7.68   |  19.09   |    1     |    0    
-    2014   |    11    |   237    |   303    |    14    |   3/19   |  21.64   |   7.67   |  16.92   |    0     |    0    
-    2013   |    16    |   350    |   418    |    11    |   2/20   |  38.00   |   7.16   |  31.81   |    0     |    0    
-    2012   |    16    |   342    |   419    |    16    |   3/18   |  26.18   |   7.35   |  21.37   |    0     |    0    
-    2011   |    12    |   248    |   336    |    16    |   4/17   |  21.00   |   8.12   |  15.50   |    1     |    0    
-    2010   |    14    |   294    |   367    |    12    |   3/24   |  30.58   |   7.48   |  24.50   |    0     |    0    
-    2009   |    14    |   269    |   308    |    12    |   2/22   |  25.66   |   6.86   |  22.41   |    0     |    0    
-    2008   |    15    |   281    |   389    |    17    |   3/25   |  22.88   |   8.30   |  16.52   |    0     |    0    
+   Career  |   103    |    2     |    5     |    0     |   0/5    |    -     |  15.00   |    -     |    0     |    0    
+    2021   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2013   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2012   |    15    |    2     |    5     |    0     |   0/5    |    -     |  15.00   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/piyush-chawla/76
+Source: https://www.iplt20.com/players/steve-smith/271
 ================================================================================
+# SteveSmith Sr.
+
+- Wide Receiver
+
+- Birthdate5/12/1979
+
+- CollegeUtah
+
+- Draft Info2001: Rd 3, Pk 74 (CAR)
+
+- BirthplaceLynwood, CA... ## Stats
+
+Receiving
+
+|season|Team|
+|--|--|
+|2001|CAR|
+|2002|CAR|
+|2003|CAR|
+|2004|CAR|
+|2005|CAR|
+|2006|CAR|
+|2007|CAR|
+|2008|CAR|
+|2009|CAR|
+|2010|CAR|
+|2011|CAR|
+|2012|CAR|
+|2013|CAR|
+|2014|BAL|
+|2015|BAL|
+|2016|BAL|
+|Career|
+|GP|REC|TGTS|YDS|AVG|TD|LNG|FD|FUM|LST|
+|--|--|--|--|--|--|--|--|--|--|
+|15|10|0|154|15.4|0|33|8|0|0|
+|15|54|0|872|16.1|3|69|33|1|0|
+|16|88|0|1,110|12.6|7|67|48|2|0|
+|1|6|0|60|10.0|0|15|4|0|0|
+|16|103|0|1,563|15.2|12|80|70|1|0|
+|14|83|140|1,166|14.0|8|72|51|0|0|
+|15|87|149|1,002|11.5|7|74|43|1|1|
+|14|78|129|1,421|18.2|6|65|59|1|1|
+|15|65|130|982|15.1|7|66|41|1|0|
+|14|46|102|554|12.0|2|39|24|2|2|
+|16|79|129|1,394|17.6|7|77|53|3|2|
+|16|73|138|1,174|16.1|4|66|51|0|0|
+|15|64|109|745|11.6|4|44|44|0|0|
+|16|79|133|1,065|13.5|6|80|45|1|1|
+|7|46|73|670|14.6|3|50|28|0|0|
+|14|70|103|799|11.4|5|52|39|0|0|
+|219|1031|1335|14,731|14.3|81|80|641|13|7|
+Rushing
+
+|season|Team|
+|--|--|
+|2001|CAR|
+|2002|CAR|
+|2003|CAR|
+|2005|CAR|
+|2006|CAR|
+|2007|CAR|
+|2008|CAR|
+|2009|CAR|
+|2010|CAR|
+|2011|CAR|
+|2012|CAR|
+|Career|
+|GP|CAR|YDS|AVG|TD|LNG|FD|FUM|LST|
+|--|--|--|--|--|--|--|--|--|
+|15|4|43|10.8|0|39|2|0|0|
+|15|1|-4|-4.0|0|-4|0|0|0|
+|16|11|42|3.8|0|14|4|0|0|
+|16|4|25|6.3|1|20|2|0|0|
+|14|8|61|7.6|1|24|3|1|0|
+|15|9|66|7.3|0|22|4|0|0|
+|14|5|40|8.0|0|23|3|0|0|
+|15|5|22|4.4|0|17|2|0|0|
+|14|1|9|9.0|0|9|1|0|0|
+|16|6|56|9.3|0|23|3|0|0|
+|16|3|27|9.0|0|15|1|1|1|
+|219|57|387|6.8|2|39|25|2|1|
+Passing
+
+|season|Team|
+|--|--|
+|2004|CAR|
+|2009|CAR|
+|2013|CAR|
+|2014|BAL|
+|2015|BAL|
+|2016|BAL|
+|Career|
+|GP|CMP|ATT|CMP%|YDS|AVG|TD|INT|LNG|SACK|RTG|QBR|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|1|0|1|0.0|0|0.0|0|0|0|0|39.6|-|
+|15|0|0|0.0|0|0.0|0|0|0|0|0.0|36.2|
+|15|0|0|0.0|0|0.0|0|0|0|0|39.6|-|
+|16|0|0|0.0|0|0.0|0|0|0|0|39.6|-|
+|7|0|0|0.0|0|0.0|0|0|0|0|39.6|-|
+|14|0|0|0.0|0|0.0|0|0|0|0|39.6|-|
+|219|0|1|0.0|0|0.0|0|0|0|0|39.6|-|
+Returning
+
+|season|Team|
+|--|--|
+|2001|CAR|
+|2002|CAR|
+|2003|CAR|
+|2004|CAR|
+|2005|CAR|
+|2006|CAR|
+|2007|CAR|
+|2008|CAR|
+|2010|CAR|
+|2015|BAL|
+|Career|
+|punts|kickoffs|
+|--|--|
+|GP|ATT|YDS|TD|FC|LNG|ATT|YDS|TD|KRFC|LNG|
+|15|34|364|1|10|70|56|1,431|2|0|99|
+|15|55|470|2|13|87|26|571|0|0|51|
+|16|44|439|1|14|53|11|309|0|0|42|
+|1|0|0|0|1|0|0|0|0|0|0|
+|16|27|286|0|6|44|3|61|0|0|33|
+|14|9|30|0|3|16|2|-1|0|0|3|
+|15|2|7|0|0|6|0|0|0|0|0|
+|14|1|10|0|0|10|0|0|0|0|0|
+|14|6|46|0|0|32|0|0|0|0|0|
+|7|2|32|0|1|22|0|0|0|0|0|
+|219|180|1,684|4|48|87|98|2,371|2|0|99|
+Defense... |season|Team|
+|--|--|
+|2001|CAR|
+|2002|CAR|
+|2003|CAR|
+|2004|CAR|
+|2005|CAR|
+|2006|CAR|
+|2007|CAR|
+|2008|CAR|
+|2009|CAR|
+|2010|CAR|
+|2011|CAR|
+|2012|CAR|
+|2014|BAL|
+|2016|BAL|
+|Career|
+|GP|TOT|SOLO|AST|SACK|FF|FR|YDS|INT|YDS|AVG|TD|LNG|PD|STF|STFYDS|KB|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|15|1|1|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|15|5|5|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|16|5|5|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|1|2|2|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|16|2|2|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|14|1|1|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|15|3|3|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|14|4|4|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|15|5|5|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|14|4|4|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|16|5|5|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|16|2|2|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|16|3|3|0|0|0|0|0|0|0|0.0|0|0|0|0|0|0|
+|14|1|1|0|0|2|0|0|0|0|0.0|0|0|0|0|0|0|
+|219|43|43|0|0|2|0|0|0|0|0.0|0|0|0|0|0|0|
+Scoring
+
+|season|Team|
+|--|--|
+|2001|CAR|
+|2002|CAR|
+|2003|CAR|
+|2005|CAR|
+|2006|CAR|
+|2007|CAR|
+|2008|CAR|
+|2009|CAR|
+|2010|CAR|
+|2011|CAR|
+|2012|CAR|
+|2013|CAR|
+|2014|BAL|
+|2015|BAL|
+|2016|BAL|
+|Career|
+|GP|PASS|RUSH|REC|RET|TD|2PT|PAT|FG|PTS|
+|--|--|--|--|--|--|--|--|--|--|
+|15|0|0|0|3|3|0|0|0|18|
+|15|0|0|3|2|5|0|0|0|30|
+|16|0|0|7|1|8|0|0|0|48|
+|16|0|1|12|0|13|0|0|0|78|
+|14|0|1|8|0|9|0|0|0|54|
+|15|0|0|7|0|7|0|0|0|42|
+|14|0|0|6|0|6|0|0|0|36|
+|15|0|0|7|0|7|1|0|0|44|
+|14|0|0|2|0|2|0|0|0|12|
+|16|0|0|7|0|7|1|0|0|44|
+|16|0|0|4|0|4|0|0|0|24|
+|15|0|0|4|0|4|0|0|0|24|
+|16|0|0|6|0|6|0|0|0|36|
+|7|0|0|3|0|3|0|0|0|18|
+|14|0|0|5|0|5|2|0|0|34|
+|219|0|2|81|6|89|4|0|0|542|
+Is Steve Smith Sr. a Hall of Fame WR?
+
+Steve Smith has no problem with Giants WRs partying in Miami
+
+Steve Smith calls the Chiefs the biggest threat to the Pats
+
+## Why Jennings is a 'flex play with a high floor' for fantasy Week 15
+
+Matthew Bowen explains why fantasy managers should consider starting Jauan Jennings in Week 15.
+
+## Jacoby Brissett: More settled knowing I'm Cardinals' starter
+
+Jacoby Brissett has been cemented as the Cardinals' starter, and that has taken away some of the guessing game for the veteran signal caller.
+
+## Chargers' Herbert: X-rays after Eagles win 'clean for most part'
+
+Chargers QB Justin Herbert said postgame X-rays on his fractured left hand came back "clean for the most part," calling the tests after Monday night's win over the Eagles precautionary.
+
+## U.S. House passes bill to help stadiums combat drones
+
+The U.S. House of Representatives passed a bill Wednesday that would allow local and state law enforcement to disable drones during sporting events, which the NFL and other leagues have said are an increasing threat.
+
+## Broncos not focused on being an underdog to Packers this week
+
+The Broncos are considered underdogs for this week's game against the Packers. But the team isn't focusing on the odds ahead of Sunday's game.
+
+## Ravens point to Alcaraz, McIlroy as they pursue comeback
+
+All-Pro safety Kyle Hamilton spoke to his Ravens teammates Wednesday about how Baltimore can become the latest comeback story this year.

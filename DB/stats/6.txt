@@ -1,25 +1,29 @@
 ================================================================================
-IPL PLAYER PROFILE: MITCHELL STARC
+IPL PLAYER PROFILE: PRITHVI SHAW
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Mitchell Starc
-  IPL Debut                : 2014
-  Date of Birth            : 30 January 1990
-  Total IPL Matches        : 52
-  Role                     : WK-Batter
-  Nationality              : Australian
+  Player Name              : Prithvi Shaw
+  IPL Debut                : 2018
+  Date of Birth            : 09 November 1999
+  Total IPL Matches        : 79
+  Role                     : Batter
+  Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  A two-time ODI World Cup winner and a T20 World Cup champion, Mitchell
-  Starc is one of the most fearsome left-arm pacers in the game. He was sold
-  for a record price of INR 24.75 Crore in IPL 2024 and turned out to be
-  instrumental in KKRâ€™s final victory, delivering a Player of the Match
-  performance against SRH. Recognizing his ability to dominate in
-  high-pressure games, Delhi Capitals spent INR 11.75 crore to bring him in
-  for TATA IPL 2025.
+  A batsman from the Bombay school of cricket, Prithvi Shaw has shown the
+  ability to perform in crucial games. Captain of India’s Under-19 World Cup
+  winning team, Prithvi was retained by Delhi Capitals ahead of the IPL 2020
+  and IPL 2021. The opener made in the domestic circuit and scored centuries
+  on debut in Ranji Trophy and Duleep Trophy, and then added a third feather
+  to his cap by becoming the youngest Indian Test centurion on debut in 2018.
+  However, Shaw’s form dipped after scoring 2 fifties in the IPL 2020 and then
+  in the subsequent Australia tour. But, the aggressive right-hander bounced
+  back in style and hammered 827 runs in 8 matches to power Mumbai to the
+  Vijay Hazare Trophy triumph and will be keen to continue his brilliant run
+  of form when he takes the field for his IPL franchise.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -29,11 +33,14 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    52    |    12    |   111    |    29    |  10.09   |   119    |  93.28   |    0     |    0     |    11    |    0     |    29    |    0    
-    2025   |    11    |    4     |    6     |    2     |   3.00   |    10    |  60.00   |    0     |    0     |    0     |    0     |    7     |    0    
-    2024   |    14    |    3     |    9     |    6*    |   4.50   |    11    |  81.82   |    0     |    0     |    1     |    0     |    6     |    0    
-    2015   |    13    |    2     |    11    |    9*    |  11.00   |    14    |  78.57   |    0     |    0     |    1     |    0     |    7     |    0    
-    2014   |    14    |    3     |    85    |    29    |  14.16   |    84    |  101.19  |    0     |    0     |    9     |    0     |    9     |    0    
+   Career  |    79    |    0     |   1892   |    99    |  23.95   |   1283   |  147.47  |    0     |    14    |   238    |    61    |    18    |    0    
+    2024   |    8     |    0     |   198    |    66    |  24.75   |   121    |  163.64  |    0     |    1     |    30    |    5     |    2     |    0    
+    2023   |    8     |    0     |   106    |    54    |  13.25   |    85    |  124.71  |    0     |    1     |    16    |    1     |    1     |    0    
+    2022   |    10    |    0     |   283    |    61    |  28.30   |   185    |  152.97  |    0     |    2     |    37    |    10    |    4     |    0    
+    2021   |    15    |    0     |   479    |    82    |  31.93   |   301    |  159.13  |    0     |    4     |    56    |    18    |    1     |    0    
+    2020   |    13    |    0     |   228    |    66    |  17.53   |   167    |  136.52  |    0     |    2     |    27    |    8     |    4     |    0    
+    2019   |    16    |    0     |   353    |    99    |  22.06   |   264    |  133.71  |    0     |    2     |    45    |    9     |    2     |    0    
+    2018   |    9     |    0     |   245    |    65    |  27.22   |   160    |  153.12  |    0     |    2     |    27    |    10    |    4     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -43,12 +50,55 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    52    |   1047   |   1503   |    65    |   5/35   |  23.12   |   8.61   |  16.11   |    2     |    1    
-    2025   |    11    |   216    |   366    |    14    |   5/35   |  26.14   |  10.17   |  15.43   |    0     |    1    
-    2024   |    14    |   251    |   444    |    17    |   4/33   |  26.12   |  10.61   |  14.76   |    1     |    0    
-    2015   |    13    |   258    |   291    |    20    |   4/15   |  14.55   |   6.76   |  12.90   |    1     |    0    
-    2014   |    14    |   322    |   402    |    14    |   2/21   |  28.71   |   7.49   |  23.00   |    0     |    0    
+   Career  |    53    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/mitchell-starc/490
+Source: https://www.iplt20.com/players/prithvi-shaw/3764
 ================================================================================
+**Prithvi Pankaj Shaw** (Hindi: [ˈpɾɪt̪ʋiː ʃɔː]; born 9 November 1999) is an Indian cricketer who has played for the Indian cricket team in all formats. He represents Maharashtra in domestic cricket and Delhi Capitals in the Indian Premier League. Shaw captained the Indian team that won the 2018 U19 Cricket World Cup.... A right-handed opening batter, Shaw made his first international appearance aged 18 on 4 October 2018 and became the second-youngest Indian after Sachin Tendulkar to make a Test century and the youngest Indian to do so on Test debut.... Shaw made his first-class debut for Mumbai in the semi-finals of the 2016–17 Ranji Trophy on 1 January 2017. He scored a century in the second innings and was man of the match. Shaw earned another distinction by scoring a century in his debut Duleep Trophy and equalled the record held by Sachin Tendulkar, who had scored a century in each in his debut matches in the Ranji Trophy and Duleep Trophy.... The International Cricket Council named Shaw as one of the five breakout stars in men's cricket in 2018. In July 2019, he was suspended by Board of Control for Cricket in India for a doping violation, the suspension lasting until November of the same year.... ## Early and personal life
+
+Prithvi Shaw was born and brought up in Virar, Maharashtra in 1999. His parents had moved from Gaya in Bihar to Virar as economic migrants.
+
+In 2013, Shaw and his father were featured in the documentary film *Beyond All Boundaries*. He spent time in England to develop his cricket skills.... In 2021, Shaw was offered a contract by AAP Entertainment. He also received sponsorship from Indian Oil.
+
+In February 2023, after an affray in a nightclub, YouTuber Sapna Gill and her male friends followed Shaw's vehicle, vandalised it, and manhandled him. A police case was filed and Gill was later arrested.... ## Domestic career
+
+Shaw played for Middle Income Group (MIG) Cricket Club in Mumbai and was the captain of Rizvi Springfield High School and the Mumbai under-16 team. In November 2013, he had set the highest score by any batsman in any organised form of cricket since 1901 when he hit 546 in a Harris Shield elite division match.... Shaw captained the Rizvi Springfield team to two Harris Shield tournament titles in 2012 and 2013, a prestigious trophy in Mumbai's youth cricket. In 2012, he scored 155 in the semi-final and 174 in the final match. Shaw trained with and played for the Middle Income Group Cricket Club in Mumbai, where Arjun Tendulkar, son of Sachin Tendulkar, was a teammate.... In April 2012, Shaw was invited to England to play for Cheadle Hulme School in Manchester and scored 1,446 runs during a two-month stay, including a century on debut, and averaged 84. He also took 68 wickets. During his time in Manchester, Shaw made several appearances for local side High Lane Cricket club.... In 2013, Shaw played for Cryptics club against Middleton Stoney Cricket Club in Oxfordshire. He opened the batting and scored 68 in under 10 overs, before a change of pace in English conditions led to his dismissal, caught off the bowling of Professor Paul Wordsworth. During that time, Shaw's opening partner had amassed just 7 runs. Shaw also bowled, taking 3 wickets for 1 run in 5 overs, as well as completing a runout.... After scoring 73 runs against a side from the Julian Wood Cricket Academy in England, the academy's founder, Julian Wood, offered Shaw a trip to England in May 2013 and a stint at the academy. On 6 February 2017, while playing in his fifth ODI for India under-19s, he scored his first century at under-19 level.... ### Mumbai Cricket Team (2016-2024)
+
+Shaw made his List A debut for Mumbai in the 2016–17 Vijay Hazare Trophy on 25 February 2017. In November 2017, batting for Mumbai in the 2017–18 Ranji Trophy, he scored his second consecutive century, and his fourth in five first-class matches since his debut. Shaw scored his first List A century against Leicestershire on 19 June 2018, making 132 runs. In October 2018, he was named in India A's squad for the 2018–19 Deodhar Trophy.... In February 2021, Shaw scored an unbeaten double-century (227* off 152) against Pondicherry in the Vijay Hazare Trophy. Shaw's 227 not out is currently the best individual score in the tournament's history. He scored 827 runs in the same tournament which is the most runs in a single season.... On 12 January 2023, in the Ranji trophy, he scored 379 against Assam, the second-highest first-class score by an Indian player, behind B. B. Nimbalkar of Maharashtra.... Shaw captained Mumbai in the 2020-21 Vijay Hazare Trophy and the 2021-22 Ranji Trophy, with the team reaching the final on both occasions. Mumbai beat Uttar Pradesh in the 2020-21 Vijay Hazare final but lost to Chandrakant Pandit's Madhya Pradesh in the 2021 Ranji final.... He also won the T20 Mumbai League 2019 as captain of North Mumbai Panthers. In June 2025, Shaw admitted to reduced practice hours and losing focus. Despite his struggles, he remains motivated to revive his career, with support from teammates like Rishabh Pant. Shaw went unsold in the IPL 2025 auction but showed improved form and fitness in the 2025 Mumbai T20 League.... ### Maharashtra Cricket Team (2025-Present)
+
+After multiple fall-outs between Mumbai Cricket Association and Shaw during 2024 Indian domestic season, In June 2025 he finally decided to seek NOC from Mumbai C.A., a month later Maharashtra Cricket Association and Shaw announced he will be representing Maharashtra from 2025 to 2026 domestic season.... What Shaw labeled as "a fresh start from scratch" turned out to be a masterstroke, Shaw on his Maharashtra debut in Buchi Babu Invitational Trophy held in Chennai scored 111 runs off 141 balls in his first innings for the new team, which came after a top-order collapse and was crucial in stabilizing Maharashtra's innings, Shaw described the century as "really special" and hoped it would set the tone for his time with the new team.... In his official debut for Maharashtra in 2025–26 Ranji Trophy, Shaw begun with a four-ball duck against Kerala in Trivandrum, but came back with an aggressive 75 in the second innings to help consolidate their lead in a drawn fixture while also securing 3 points on the basis of first innings lead after Gaikwad played a great knock after a top order collapse.... In the second encounter of the season Vs Chandigarh, Shaw struck 222 off just 156 in the second innings while setting a target for the opposition, third fastest double century in the Ranji Trophy history, playing a vital role in securing the victory for his team, Gaikwad who was named the Man of the Match for scoring a century in first innings after a collapse (again), shared his medal with Prithvi Shaw and recognized the efforts Shaw has put for the team.... ## Indian Premier League
+
+In January 2018, Shaw was bought by the then Delhi Daredevils (now Delhi Capitals) in the 2018 IPL auction for ₹ 1.2 crores. On 23 April 2018, at the age of 18 and 165 days, Shaw became the youngest player to open batting in Indian Premier League history while playing for Delhi Daredevils in their match against Kings XI Punjab. He also had an impressive IPL debut scoring 22 runs in 10 balls.... On 27 April 2018, Shaw notched up his first IPL fifty against the Kolkata Knight Riders and, at 18 years and 169 days, went on to become the joint youngest player to score an IPL fifty, along with Sanju Samson. His blistering knock of 62 runs helped Delhi Daredevils secure a comfortable 55-run victory against KKR. On 29 April 2021, Shaw became the second player to hit six boundaries in an over in the IPL, after Ajinkya Rahane, when he hit six boundaries off Shivam Mavi in the first over of the Delhi innings.... ## National record
+
+In November 2013, Shaw established a new record of 546 runs from 330 balls playing for Rizvi Springfield in a Harris Shield match. It was the highest score in Indian schools cricket until it was surpassed by Pranav Dhanawade on 4 January 2016, and is presently the fourth-highest score by any batsman in any form of the organised game.... Only AEJ Collins's 628* in 1899 and Charles Eady's 566 in 1901 are higher. Previously, the highest score recorded by an Indian in any form of registered competitive cricket was 515 by Dadabhoy Havewala in 1933.
+
+Shaw's innings lasted six hours and seven minutes before he was caught and bowled, and contained 85 fours and five sixes. Rizvi scored 991 runs having bowled out their opponents, St Francis d'Assisi, for 93.... The innings attracted significant media attention, particularly as it came only four days after the official retirement from international cricket of Sachin Tendulkar, who had scored 326 in the same tournament in 1988. "Less than a week after India bid its final farewell to the Little Master, the Master’s Apprentice conjured innings of almost supernatural brilliance," wrote Howard Swains in a *Freaky Good Futures* profile of Shaw.... ## International career
+
+In August 2018, Shaw was called up to India's Test squad for the final two Tests against England, but he did not play. In September 2018, he was named in India's Test squad for their series against the West Indies. Shaw made his Test debut against West Indies on 4 October 2018.... In that match, he scored his maiden century in Tests and, aged 18 years and 319 days, became the youngest batsman to make a Test century on debut for India. India won the second Test by ten wickets, with Shaw being named the Player of the Series. In January 2020, Shaw was named in India's One Day International (ODI) squad for their series against New Zealand.... On 5 February 2020, he made his ODI debut for India against New Zealand. He was also selected in the team for the Test series in New Zealand, and scored one half-century in the four innings he had in that series.
+
+In 2020, Shaw was selected for the test squad for the Australian tour. In December 2020, Shaw performed poorly in the first Test against Australia, scoring 0 and 4, following which his batting technique was questioned and was dropped for the next match.... In June 2021, he was named in India's One Day International (ODI) and Twenty20 International (T20I) squads for their series against Sri Lanka. He scored 43 runs off 24 balls in the first ODI of the three-match series. He made his T20I debut on 25 July 2021, for India against Sri Lanka.
+
+In July 2021, Shaw was called up as a replacement in India's Test squad for their series against England, but did not play.... ## References
+
+## External links
+- Prithvi Shaw at ESPNcricinfo
+
+Categories: - Living people... - 1999 births
+- Indian cricketers
+- India Test cricketers
+- India One Day International cricketers
+- India Twenty20 International cricketers
+- 21st-century Indian sportsmen
+- Mumbai cricketers
+- Cricketers from Mumbai
+- Schools cricket
+- Delhi Capitals cricketers... - Indian A cricketers
+- Northamptonshire cricketers
+- Indian expatriate cricketers in England
+- Doping cases in cricket
+- Cricketers who made a century on Test debut

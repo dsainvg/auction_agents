@@ -1,15 +1,4 @@
-================================================================================
-IPL PLAYER PROFILE: GUS ATKINSON
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Gus Atkinson
-  IPL Debut                : 2023
-  Date of Birth            : 19 January 1998
-  Total IPL Matches        : 0
-  Role                     : Bowler
-
-================================================================================
-Source: https://www.iplt20.com/players/gus-atkinson/20712
-================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Afghanistan Under-19|2|2|0|48|42|0|0|7|0|24|61.54|1|0|AFG-U19|1143|0|0|92|INDB-U19|India B Under-19|INDB-U19|... |India A Under-19|2|2|0|0|0|0|0|0|0|0|0.00|2|0|INDA-U19|1890|2|0|92|INDB-U19|India B Under-19|INDB-U19|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Afghanistan Under-19|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|2|92|-|-|-|
+|India A Under-19|0|0|0|0|0|-|0|0|0.00|0.00|0.00|-|-|2|92|-|-|-|

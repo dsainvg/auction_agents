@@ -1,15 +1,22 @@
 ================================================================================
-IPL PLAYER PROFILE: MAHEESH THEEKSHANA
+IPL PLAYER PROFILE: ASHWANI KUMAR
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Maheesh Theekshana
-  IPL Debut                : 2022
-  Date of Birth            : 01 August 2000
-  Total IPL Matches        : 38
-  Role                     : Bowler
-  Nationality              : Sri Lankan
+  Player Name              : Ashwani Kumar
+  IPL Debut                : 2025
+  Date of Birth            : 29 August 2001
+  Total IPL Matches        : 7
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Ashwani Kumar is a young left-arm fast bowler from Punjab. He garnered
+  attention with his ability to bowl brilliantly in the slog overs. He has
+  plenty of variations in his kitty which makes him a promising asset. MI
+  roped him in for INR 30 Lakh at the 2025 TATA IPL Auction.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -19,11 +26,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    38    |    3     |    17    |    7*    |   5.67   |    34    |  50.00   |    0     |    0     |    0     |    1     |    4     |    0    
-    2025   |    11    |    2     |    10    |    5     |   5.00   |    27    |  37.04   |    0     |    0     |    0     |    0     |    0     |    0    
-    2024   |    5     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2023   |    13    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    3     |    0    
-    2022   |    9     |    1     |    7     |    7*    |   7.00   |    7     |  100.00  |    0     |    0     |    0     |    1     |    0     |    0    
+   Career  |    7     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2025   |    7     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -33,12 +37,28 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    38    |   876    |   1207   |    36    |   4/33   |  33.53   |   8.27   |  24.33   |    1     |    0    
-    2025   |    11    |   252    |   410    |    11    |   2/26   |  37.27   |   9.76   |  22.91   |    0     |    0    
-    2024   |    5     |   120    |   144    |    2     |   1/27   |  72.00   |   7.20   |  60.00   |    0     |    0    
-    2023   |    13    |   294    |   392    |    11    |   2/23   |  35.64   |   8.00   |  26.73   |    0     |    0    
-    2022   |    9     |   210    |   261    |    12    |   4/33   |  21.75   |   7.46   |  17.50   |    1     |    0    
+   Career  |    7     |   123    |   232    |    11    |   4/24   |  21.09   |  11.32   |  11.18   |    1     |    0    
+    2025   |    7     |   123    |   232    |    11    |   4/24   |  21.09   |  11.32   |  11.18   |    1     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/maheesh-theekshana/20570
+Source: https://www.iplt20.com/players/ashwani-kumar/22030
 ================================================================================
+Career-Stats
+
+Batting Stats
+
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|--|--|--|-|--|--|--|
+|ODI|--|--|--|-|--|--|--|... |T20I|--|--|--|-|--|--|--|
+|FC|--|--|--|NaN|NaN|--|--|
+|listA|--|--|--|NaN|NaN|--|--|
+|T20s|4|4|59|143.90|14.75|--|6/1|... Bowling Stats
+
+|Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|--|--|--|--|--|--|--|--|
+|ODI|--|--|--|--|--|--|--|--|... |T20I|--|--|--|--|--|--|--|--|
+|FC|--|--|--|--|-|-|-|--|
+|listA|--|--|--|--|-|-|-|--|
+|T20s|4|4|73|4|8.10|-|24.50|0|

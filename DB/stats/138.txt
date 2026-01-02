@@ -1,14 +1,13 @@
 ================================================================================
-IPL PLAYER PROFILE: KUNAL RATHORE
+IPL PLAYER PROFILE: VIDWATH KAVERAPPA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Kunal Rathore
-  IPL Debut                : 2025
-  Date of Birth            : 09 October 2002
+  Player Name              : Vidwath Kaverappa
+  Date of Birth            : 25 February 1999
   Total IPL Matches        : 1
-  Role                     : Wicketkeeper Batter
+  Role                     : Bowler
   Nationality              : Indian
 
 BATTING STATISTICS
@@ -19,20 +18,30 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    1     |    0     |    0     |    0     |   0.00   |    5     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2025   |    1     |    0     |    0     |    0     |   0.00   |    5     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/kunal-rathore/5763
+Source: https://www.iplt20.com/players/vidwath-kaverappa/5656
 ================================================================================
+### Vidhwath Kaverappa
+
+### India
+
+### Popular PlayersVirat KohliRohit SharmaSachin TendulkarSourav GangulyHardik PandyaOverviewNewsStats... ### Batting Performance
+|Format|M|Inns|No|R|H.S|Avg|BF|SR|100s|50s|
+|--|--|--|--|--|--|--|--|--|--|--|
+|t20|14|1|--|--|--|0.00|2|0.00|--|--|... |fc|22|29|12|150|37|8.82|395|37.97|--|--|
+|list a|18|5|3|29|19|14.50|47|61.70|--|--|
+|t10|--|--|--|--|--|--|--|--|--|--|... ### Bowling Performance
+|Format|M|Inns|Ovs|R|Wkts|BBI|Avg|ECN|SR|4W|5W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|t20|14|14|50.50|312|25|5/11|12.48|6.13|12.2|--|1|... |fc|22|43|652.40|1763|82|7/53|21.50|2.70|47.7|4|5|
+|list a|18|18|145.40|601|38|5/17|15.81|4.12|23.0|1|1|
+|t10|--|--|0.00|--|--|--|--|--|--|--|--|... ### Recent Form (Last 5 Matches)AllTestODIT20
+|Match|Bat|Bowl|Date|Venue|Format|
+|--|--|--|--|--|--|
+|SL vs MW|-|0/39|24 Aug 2025|Mysore|t20|
+|SL vs MD|-|2/39|22 Aug 2025|Mysore|t20|... |BBS vs SL|1*|-|21 Aug 2025|Mysore|t20|
+|GM vs SL|-|0/21|19 Aug 2025|Mysore|t20|
+|SL vs GM|-|0/40|16 Aug 2025|Mysore|t20|

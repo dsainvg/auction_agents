@@ -1,45 +1,98 @@
-================================================================================
-IPL PLAYER PROFILE: ASHWANI KUMAR
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Ashwani Kumar
-  IPL Debut                : 2025
-  Date of Birth            : 29 August 2001
-  Total IPL Matches        : 7
-  Role                     : WK-Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    Ashwani Kumar is a young left-arm fast bowler from Punjab. He garnered
-  attention with his ability to bowl brilliantly in the slog overs. He has
-  plenty of variations in his kitty which makes him a promising asset. MI
-  roped him in for INR 30 Lakh at the 2025 TATA IPL Auction.
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    7     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
-    2025   |    7     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    7     |   123    |   232    |    11    |   4/24   |  21.09   |  11.32   |  11.18   |    1     |    0    
-    2025   |    7     |   123    |   232    |    11    |   4/24   |  21.09   |  11.32   |  11.18   |    1     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/ashwani-kumar/22030
-================================================================================
+|Barbados Royals|10|9|2|158|56|0|1|16|3|22.57|108.96|3|0|BR|1405|1|0|6|-|-|-|
+|Guyana Amazon Warriors|12|9|2|278|85|0|2|18|14|39.71|137.62|3|0|GUY|1407|0|0|6|-|-|-|... |Trinbago Knight Riders|13|13|4|233|56*|0|1|14|9|25.88|119.48|2|0|TKR|1408|1|0|6|-|-|-|
+|Jamaica Tallawahs|10|9|1|228|53|0|2|17|10|28.50|125.96|3|0|JAM|1410|0|0|6|-|-|-|... |St Kitts And Nevis Patriots|12|12|6|265|64*|0|2|25|9|44.16|136.59|7|0|SKN|1480|2|0|6|-|-|-|
+|Antigua & Barbuda Falcons|2|1|0|0|0|0|0|0|0|0.00|0.00|1|0|ABF|4497|1|0|6|-|-|-|... |Antigua & Barbuda Falcons|2|5|1|25|2|1/11|0|0|12.50|5.00|15.00|ABF|4497|53|6|-|-|-|
+|Barbados Royals|10|28|1|194|9|3/18|1|0|21.55|6.92|18.66|BR|1405|53|6|-|-|-|... |Guyana Amazon Warriors|10|31|0|207|8|2/15|0|0|25.87|6.67|23.25|GUY|1407|53|6|-|-|-|
+|Jamaica Tallawahs|8|24|0|180|8|3/39|1|0|22.50|7.50|18.00|JAM|1410|53|6|-|-|-|... |St Kitts And Nevis Patriots|11|27.5|1|211|8|3/12|1|0|26.37|7.58|20.87|SKN|1480|53|6|-|-|-|
+|Trinbago Knight Riders|12|37|0|240|10|3/17|1|0|24.00|6.48|22.20|TKR|1408|53|6|-|-|-|... |Dubai Capitals|2|0|0|-|-|0|0|0|0|-|0.00|-|-|DC|3382|0|0|6|ADKR|-|-|
+|Gulf Giants|1|1|0|15|15|0|0|3|0|15.00|88.23|-|-|GG|3383|0|0|6|ADKR|-|-|... |MI Emirates|1|1|0|20|20|0|0|2|1|20.00|153.84|1|0|MIE|3384|0|0|6|ADKR|-|-|
+|Sharjah Warriorz|1|1|0|33|33|0|0|5|1|33.00|157.14|-|-|SW|3385|0|0|6|ADKR|-|-|... |Dubai Capitals|1|3|0|31|1|1/31|0|0|31.00|10.33|18.00|DC|3382|1|6|ADKR|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Australia|4|8|0|211|55|0|1|13|6|26.37|51.46|5|0|AUS|1|0|0|1|WI|West Indies|WI|... |Bangladesh|4|7|0|88|32|0|0|8|1|12.57|50.86|3|0|BAN|2|2|0|1|WI|West Indies|WI|
+|England|9|17|1|397|102*|1|2|45|2|24.81|44.25|1|0|ENG|3|3|1|1|WI|West Indies|WI|... |India|8|14|1|447|137*|2|1|45|3|34.38|50.56|1|0|IND|4|1|0|1|WI|West Indies|WI|
+|New Zealand|4|8|0|116|64|0|1|18|0|14.50|50.65|1|0|NZ|5|2|0|1|WI|West Indies|WI|... |Pakistan|8|16|2|591|131|2|3|67|4|42.21|42.67|4|0|PAK|6|1|0|1|WI|West Indies|WI|
+|South Africa|4|8|0|124|62|0|1|14|2|15.50|36.90|3|0|SA|7|2|0|1|WI|West Indies|WI|... |Sri Lanka|5|10|0|136|41|0|0|16|0|13.60|40.35|5|0|SL|8|1|0|1|WI|West Indies|WI|
+|Zimbabwe|4|6|0|249|95|0|2|20|3|41.50|61.94|4|0|ZIM|10|0|0|1|WI|West Indies|WI|... |Afghanistan|1|1|0|2|2|0|0|0|0|2.00|28.57|-|-|AFG|1188|0|0|1|WI|West Indies|WI|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Afghanistan|2|8|1|20|3|3/10|1|0|6.66|2.50|16.00|AFG|1188|49|1|WI|West Indies|WI|... |Australia|8|85|5|370|4|2/25|0|0|92.50|4.35|127.50|AUS|1|49|1|WI|West Indies|WI|... |Bangladesh|6|62.5|5|217|6|3/18|1|0|36.16|3.45|62.83|BAN|2|49|1|WI|West Indies|WI|
+|England|12|240|27|846|25|8/60|2|2|33.84|3.52|57.60|ENG|3|49|1|WI|West Indies|WI|... |India|11|224.1|31|764|15|5/121|1|1|50.93|3.40|89.66|IND|4|49|1|WI|West Indies|WI|
+|New Zealand|5|96.4|7|399|6|2/51|0|0|66.50|4.12|96.66|NZ|5|49|1|WI|West Indies|WI|... |Pakistan|12|183.4|20|631|9|4/103|1|0|70.11|3.43|122.44|PAK|6|49|1|WI|West Indies|WI|
+|South Africa|5|66|12|172|0|0/14|0|0|-|2.60|-|SA|7|49|1|WI|West Indies|WI|... |Sri Lanka|7|95.1|8|312|12|5/83|1|1|26.00|3.27|47.58|SL|8|49|1|WI|West Indies|WI|
+|Zimbabwe|8|84.4|15|236|6|2/9|0|0|39.33|2.78|84.66|ZIM|10|49|1|WI|West Indies|WI|... |Australia|3|3|0|96|59|0|1|9|0|32.00|71.64|1|0|AUS|1|0|0|2|WI|West Indies|WI|
+|Bangladesh|9|7|1|133|51|0|1|6|2|22.16|71.12|5|0|BAN|2|0|0|2|WI|West Indies|WI|... |England|6|4|1|29|20*|0|0|3|0|9.66|78.37|3|0|ENG|3|2|0|2|WI|West Indies|WI|
+|India|11|7|1|119|38|0|0|7|0|19.83|76.77|4|0|IND|4|1|0|2|WI|West Indies|WI|... |Sri Lanka|7|6|1|103|41|0|0|8|1|20.60|82.40|4|0|SL|8|1|1|2|WI|West Indies|WI|
+|Zimbabwe|1|1|0|44|44|0|0|3|0|44.00|83.01|-|-|ZIM|10|0|0|2|WI|West Indies|WI|... |Ireland|10|9|2|186|55|0|1|16|2|26.57|70.99|4|0|IRE|13|0|0|2|WI|West Indies|WI|
+|Netherlands|1|0|0|-|-|0|0|0|0|-|0.00|2|0|NED|15|0|0|2|WI|West Indies|WI|... |United Arab Emirates|3|2|1|34|27*|0|0|1|0|34.00|75.55|0|0|UAE|21|0|0|2|WI|West Indies|WI|
+|USA|1|1|0|55|55|0|1|4|1|55.00|100.00|1|0|USA|22|0|0|2|WI|West Indies|WI|... |Afghanistan|6|5|1|154|94|0|1|15|0|38.50|77.00|3|0|AFG|1188|1|0|2|WI|West Indies|WI|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Afghanistan|5|35|1|108|7|3/30|1|0|15.42|3.08|30.00|AFG|1188|51|2|WI|West Indies|WI|... |Australia|2|16|0|71|0|0/31|0|0|-|4.43|-|AUS|1|51|2|WI|West Indies|WI|
+|Bangladesh|8|51|2|248|4|2/47|0|0|62.00|4.86|76.50|BAN|2|51|2|WI|West Indies|WI|... |England|6|47|1|246|4|1/19|0|0|61.50|5.23|70.50|ENG|3|51|2|WI|West Indies|WI|
+|India|7|34.5|1|214|1|1/37|0|0|214.00|6.14|209.00|IND|4|51|2|WI|West Indies|WI|... |Ireland|8|49|0|237|9|3/44|1|0|26.33|4.83|32.66|IRE|13|51|2|WI|West Indies|WI|
+|Nepal|1|3|0|9|0|0/9|0|0|-|3.00|-|NEP|637|51|2|WI|West Indies|WI|... |Netherlands|1|10|0|77|3|3/77|1|0|25.66|7.70|20.00|NED|15|51|2|WI|West Indies|WI|
+|Oman|1|10|1|36|0|0/36|0|0|-|3.60|-|OMA|28|51|2|WI|West Indies|WI|... |Sri Lanka|7|47.2|0|270|3|1/20|0|0|90.00|5.70|94.66|SL|8|51|2|WI|West Indies|WI|
+|United Arab Emirates|3|28|2|119|3|2/49|0|0|39.66|4.25|56.00|UAE|21|51|2|WI|West Indies|WI|... |USA|1|10|0|59|1|1/59|0|0|59.00|5.90|60.00|USA|22|51|2|WI|West Indies|WI|
+|Zimbabwe|1|4|0|27|1|1/27|0|0|27.00|6.75|24.00|ZIM|10|51|2|WI|West Indies|WI|... |Australia|2|2|0|37|37|0|0|3|2|18.50|168.18|1|0|AUS|1|1|0|3|WI|West Indies|WI|... |Bangladesh|4|4|0|78|39|0|0|3|2|19.50|80.41|-|-|BAN|2|1|0|3|WI|West Indies|WI|
+|England|7|5|2|59|24|0|0|6|2|19.66|134.09|3|0|ENG|3|0|0|3|WI|West Indies|WI|... |India|5|2|0|16|12|0|0|2|0|8.00|94.11|2|0|IND|4|0|0|3|WI|West Indies|WI|
+|New Zealand|1|1|0|0|0|0|0|0|0|0.00|0.00|2|0|NZ|5|1|0|3|WI|West Indies|WI|... |South Africa|8|7|4|172|67*|0|2|15|5|57.33|135.43|1|0|SA|7|0|0|3|WI|West Indies|WI|
+|Sri Lanka|4|4|0|36|19|0|0|3|0|9.00|90.00|1|0|SL|8|1|0|3|WI|West Indies|WI|... |Australia|2|5.2|0|36|2|2/19|0|0|18.00|6.75|16.00|AUS|1|31|3|WI|West Indies|WI|
+|Bangladesh|3|10|0|52|3|1/8|0|0|17.33|5.20|20.00|BAN|2|31|3|WI|West Indies|WI|... |England|6|14|0|145|4|1/15|0|0|36.25|10.35|21.00|ENG|3|31|3|WI|West Indies|WI|
+|India|5|20|0|115|7|3/25|1|0|16.42|5.75|17.14|IND|4|31|3|WI|West Indies|WI|... |Ireland|1|2|0|16|1|1/16|0|0|16.00|8.00|12.00|IRE|13|31|3|WI|West Indies|WI|
+|New Zealand|1|1|0|4|0|0/4|0|0|-|4.00|-|NZ|5|31|3|WI|West Indies|WI|... |Papua New Guinea|1|4|0|26|0|0/26|0|0|-|6.50|-|PNG|750|31|3|WI|West Indies|WI|
+|South Africa|7|17|1|141|5|3/12|1|0|28.20|8.29|20.40|SA|7|31|3|WI|West Indies|WI|... |Sri Lanka|4|13|0|83|0|0/6|0|0|-|6.38|-|SL|8|31|3|WI|West Indies|WI|
+|USA|1|4|0|19|3|3/19|1|0|6.33|4.75|8.00|USA|22|31|3|WI|West Indies|WI|... |Australia|1|2|1|131|76|0|2|17|0|131.00|54.35|-|-|AUS|1|0|0|4|-|-|-|
+|Derbyshire|1|2|2|170|110*|1|1|25|2|-|85.85|-|-|DER|225|0|0|4|-|-|-|... |Neutral|50|146.5|3|1010|45|3/12 v SKN|4|0|22.44|6.87|19.57|SKN|1480|53|6|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Neutral|1|3|0|31|1|1/31 v DC|0|0|31.00|10.33|18.00|DC|3382|1|6|ADKR|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|22|42|0|900|106 v IND|1|5|90|7|21.42|49.88|12|0|IND|4|8|1|1|WI|West Indies|WI|... |Home|23|42|4|1225|137* v IND|4|4|126|13|32.23|44.95|14|0|IND|4|4|0|1|WI|West Indies|WI|
+|Neutral|6|11|0|236|64 v NZ|0|2|30|1|21.45|44.44|1|0|NZ|5|0|0|1|WI|West Indies|WI|... |Away|35|565.4|54|2068|41|5/83 v SL|3|2|50.43|3.65|82.78|SL|8|49|1|WI|West Indies|WI|
+|Home|31|420.5|61|1334|35|8/60 v ENG|3|2|38.11|3.16|72.14|ENG|3|49|1|WI|West Indies|WI|... |Neutral|10|159.4|16|565|10|3/10 v AFG|1|0|56.50|3.53|95.80|AFG|1188|49|1|WI|West Indies|WI|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|27|23|3|508|59 v AUS|0|2|36|4|25.40|76.96|8|0|AUS|1|3|1|2|WI|West Indies|WI|... |Home|22|15|4|174|33* v SL|0|0|13|0|15.81|63.27|13|0|SL|8|2|0|2|WI|West Indies|WI|
+|Neutral|11|7|1|271|94 v AFG|0|3|23|2|45.16|85.22|7|0|AFG|1188|0|0|2|WI|West Indies|WI|... |Away|24|148.2|3|812|13|2/31 v AFG|0|0|62.46|5.47|68.46|AFG|1188|51|2|WI|West Indies|WI|... |Home|17|108.5|4|523|12|3/30 v AFG|1|0|43.58|4.80|54.41|AFG|1188|51|2|WI|West Indies|WI|
+|Neutral|10|88|1|386|11|3/30 v AFG|2|0|35.09|4.38|48.00|AFG|1188|51|2|WI|West Indies|WI|... |Away|9|8|2|104|37 v AUS|0|0|8|4|17.33|130.00|5|0|AUS|1|1|0|3|WI|West Indies|WI|
+|Home|14|10|4|178|67* v SA|0|1|15|5|29.66|117.10|2|0|SA|7|1|0|3|WI|West Indies|WI|... |Neutral|12|8|1|158|52 v SA|0|1|13|4|22.57|108.96|5|0|SA|7|2|0|3|WI|West Indies|WI|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|8|25|0|189|5|2/14 v IND|0|0|37.80|7.56|30.00|IND|4|31|3|WI|West Indies|WI|... |Home|13|36|1|283|7|1/8 v BAN|0|0|40.42|7.86|30.85|BAN|2|31|3|WI|West Indies|WI|
+|Neutral|10|29.2|0|165|13|3/12 v SA|3|0|12.69|5.62|13.53|SA|7|31|3|WI|West Indies|WI|... |Away|1|2|1|29|18 v JAM|0|0|2|0|29.00|0.00|2|0|JAM|423|0|0|4|-|-|-|
+|Home|5|7|1|236|114 v WIS|1|0|20|3|39.33|51.08|5|0|WIS|1027|0|0|4|-|-|-|... |Neutral|49|76|13|2837|136* v LEE|5|18|299|39|45.03|48.68|26|0|LEE|518|3|1|4|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|1|11|4|22|0|0/1 v TRI|0|0|-|2.00|-|TRI|1138|49|4|-|-|-|... |Home|7|81|22|250|5|2/5 v DER|0|0|50.00|3.08|97.20|DER|225|49|4|-|-|-|
+|Neutral|68|759.5|183|2081|95|7/22 v WIS|7|6|21.90|2.73|47.98|WIS|1027|49|4|-|-|-|... |Away|1|1|0|136|136 v SLBP-XI|1|0|16|1|136.00|120.35|1|0|SLBP-XI|1411|0|0|5|-|-|-|
+|Home|8|8|0|185|84 v IND-A|0|2|14|2|23.12|74.29|5|0|IND-A|395|1|0|5|-|-|-|... |Neutral|42|38|5|1317|105 v HAM|1|9|102|35|39.90|89.89|19|0|HAM|361|3|0|5|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|1|9|1|57|2|2/21 v GUY|0|0|28.50|6.33|27.00|GUY|1197|34|5|-|-|-|... |Home|8|43.3|0|217|8|4/19 v IND-A|1|0|27.12|4.98|32.62|IND-A|395|34|5|-|-|-|
+|Neutral|25|178.5|10|782|36|4/19 v IND-A|6|0|21.72|4.37|29.80|IND-A|395|34|5|-|-|-|... |Away|3|2|2|52|38* v SKN|0|0|4|1|-|148.57|1|0|SKN|1480|0|0|6|-|-|-|
+|Home|5|5|1|67|33 v SW|0|0|7|2|16.75|119.64|2|0|SW|3385|1|0|6|-|-|-|... |Neutral|70|61|12|1348|85 v GUY|0|9|116|49|27.51|125.51|23|0|GUY|1407|5|0|6|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|3|6|0|47|0|0/4 v BR|0|0|-|7.83|-|BR|1405|64|6|-|-|-|... |Neutral|59|174.5|3|1200|51|3/12 v SKN|4|0|23.52|6.86|20.56|SKN|1480|64|6|-|-|-|... |Neutral|7|4|0|48|23 v VK|0|0|5|1|12.00|94.11|4|0|VK|1645|1|0|73|TOR|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |2018|3|3|3|52|38* v SKN|0|0|4|1|-|144.44|2|0|SKN|1480|1|0|6|-|-|-|
+|2020|11|9|3|225|66 v GUY|0|2|15|6|37.50|110.29|4|0|GUY|1407|0|0|6|-|-|-|... |2021|12|12|3|446|85 v GUY|0|4|35|24|49.55|144.33|7|0|GUY|1407|2|0|6|-|-|-|
+|2022|11|10|1|100|19 v SKN|0|0|9|3|11.11|101.01|1|0|SKN|1480|0|0|6|-|-|-|... |2023|10|8|1|156|53 v JAM|0|1|14|5|22.28|124.80|2|0|JAM|1410|1|0|6|-|-|-|
+|2024|12|11|4|183|56* v TKR|0|1|13|6|26.14|126.20|3|0|TKR|1408|1|0|6|-|-|-|... |2018|2|4|0|40|0|0/11 v SKN|0|0|-|10.00|-|SKN|1480|53|6|-|-|-|
+|2020|9|29|0|135|9|3/12 v SKN|1|0|15.00|4.65|19.33|SKN|1480|53|6|-|-|-|... |2021|12|38|2|263|10|2/33 v JAM|0|0|26.30|6.92|22.80|JAM|1410|53|6|-|-|-|
+|2022|10|29|0|219|6|3/17 v TKR|1|0|36.50|7.55|29.00|TKR|1408|53|6|-|-|-|... |2023|9|23.5|0|174|11|3/39 v JAM|1|0|15.81|7.30|13.00|JAM|1410|53|6|-|-|-|
+|2024|11|29|1|226|9|3/18 v BR|1|0|25.11|7.79|19.33|BR|1405|53|6|-|-|-|... |2025|5|3|0|68|33 v SW|0|0|10|2|22.66|133.33|1|0|SW|3385|0|0|6|ADKR|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2025|1|3|0|31|1|1/31 v DC|0|0|31.00|10.33|18.00|DC|3382|1|6|ADKR|... |2016|7|12|1|325|137* v IND|1|1|33|2|29.54|41.61|1|0|IND|4|0|0|1|WI|West Indies|WI|
+|2017|10|19|2|740|131 v PAK|2|4|86|4|43.52|49.30|6|0|PAK|6|1|0|1|WI|West Indies|WI|... |2018|9|17|0|396|106 v IND|1|1|41|2|23.29|52.17|6|0|IND|4|2|0|1|WI|West Indies|WI|
+|2019|6|10|1|234|102* v ENG|1|1|26|3|26.00|50.64|1|0|ENG|3|3|0|1|WI|West Indies|WI|... |2020|5|10|0|174|51 v ENG|0|1|18|0|17.40|39.01|1|0|ENG|3|2|1|1|WI|West Indies|WI|
+|2021|6|12|0|140|62 v SA|0|1|18|2|11.66|32.48|4|0|SA|7|2|0|1|WI|West Indies|WI|... |2022|2|4|0|115|55 v AUS|0|1|10|2|28.75|54.24|1|0|AUS|1|0|0|1|WI|West Indies|WI|
+|2023|4|7|0|141|70 v ZIM|0|1|11|2|20.14|52.22|3|0|ZIM|10|2|0|1|WI|West Indies|WI|... |2025|2|4|0|96|44 v AUS|0|0|3|4|24.00|48.48|4|0|AUS|1|0|0|1|WI|West Indies|WI|... |2016|9|207.1|26|643|11|5/121 v IND|0|1|58.45|3.10|113.00|IND|4|49|1|WI|West Indies|WI|
+|2017|15|248.2|29|912|20|4/103 v PAK|3|0|45.60|3.67|74.50|PAK|6|49|1|WI|West Indies|WI|... |2018|12|121.1|9|445|11|4/15 v SL|2|0|40.45|3.67|66.09|SL|8|49|1|WI|West Indies|WI|
+|2019|10|149.4|17|500|17|8/60 v ENG|2|1|29.41|3.34|52.82|ENG|3|49|1|WI|West Indies|WI|... |2020|6|132|15|503|12|5/172 v ENG|0|1|41.91|3.81|66.00|ENG|3|49|1|WI|West Indies|WI|
+|2021|9|121.5|18|374|8|5/83 v SL|0|1|46.75|3.06|91.37|SL|8|49|1|WI|West Indies|WI|... |2022|4|71|3|313|3|2/25 v AUS|0|0|104.33|4.40|142.00|AUS|1|49|1|WI|West Indies|WI|
+|2023|7|81|12|220|3|2/9 v ZIM|0|0|73.33|2.71|162.00|ZIM|10|49|1|WI|West Indies|WI|... |2025|4|14|2|57|1|1/0 v AUS|0|0|57.00|4.07|84.00|AUS|1|49|1|WI|West Indies|WI|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2017|8|6|1|68|33* v IND|0|0|4|0|13.60|64.15|4|0|IND|4|2|0|2|WI|West Indies|WI|... |2018|3|3|0|49|32 v BAN|0|0|1|1|16.33|64.47|-|-|BAN|2|0|0|2|WI|West Indies|WI|
+|2019|14|9|1|321|94 v AFG|0|2|25|1|40.12|81.67|4|0|AFG|1188|0|0|2|WI|West Indies|WI|... |2020|5|5|1|82|41 v SL|0|0|6|1|20.50|78.84|3|0|SL|8|1|1|2|WI|West Indies|WI|
+|2022|3|3|0|33|19 v IRE|0|0|4|0|11.00|44.00|2|0|IRE|13|0|0|2|WI|West Indies|WI|... |2023|9|5|1|134|55 v USA|0|1|8|1|33.50|85.89|5|0|USA|22|0|0|2|WI|West Indies|WI|
+|2024|12|8|3|171|59 v AUS|0|1|16|0|34.20|76.68|8|0|AUS|1|0|0|2|WI|West Indies|WI|... |2025|6|6|1|95|55 v IRE|0|1|8|2|19.00|79.16|2|0|IRE|13|2|0|2|WI|West Indies|WI|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2017|4|6.5|1|48|1|1/15 v AFG|0|0|48.00|7.02|41.00|AFG|1188|51|2|WI|West Indies|WI|... |2018|3|20|1|101|2|2/47 v BAN|0|0|50.50|5.05|60.00|BAN|2|51|2|WI|West Indies|WI|
+|2019|11|80|1|362|8|3/30 v AFG|1|0|45.25|4.52|60.00|AFG|1188|51|2|WI|West Indies|WI|... |2020|5|42|0|208|4|2/53 v IRE|0|0|52.00|4.95|63.00|IRE|13|51|2|WI|West Indies|WI|
+|2022|3|20|0|93|4|3/44 v IRE|1|0|23.25|4.65|30.00|IRE|13|51|2|WI|West Indies|WI|... |2023|9|74|3|372|8|3/77 v NED|1|0|46.50|5.02|55.50|NED|15|51|2|WI|West Indies|WI|
+|2024|11|77.2|2|390|5|1/18 v BAN|0|0|78.00|5.04|92.80|BAN|2|51|2|WI|West Indies|WI|... |2025|5|25|0|147|4|1/1 v IRE|0|0|36.75|5.88|37.50|IRE|13|51|2|WI|West Indies|WI|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2021|3|3|0|48|39 v BAN|0|0|4|0|16.00|85.71|-|-|BAN|2|1|0|3|WI|West Indies|WI|... |2022|3|2|0|16|12 v IND|0|0|2|0|8.00|94.11|1|0|IND|4|0|0|3|WI|West Indies|WI|
+|2023|4|2|1|10|6 v SA|0|0|2|0|10.00|142.85|2|0|SA|7|0|0|3|WI|West Indies|WI|... |2024|22|17|5|336|67* v SA|0|2|26|11|28.00|121.73|7|0|SA|7|3|0|3|WI|West Indies|WI|
+|2025|3|2|1|30|24 v ENG|0|0|2|2|30.00|142.85|2|0|ENG|3|0|0|3|WI|West Indies|WI|

@@ -1,26 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: RAVICHANDRAN ASHWIN
+IPL PLAYER PROFILE: GRAEME SMITH
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Ravichandran Ashwin
-  IPL Debut                : 2009
-  Date of Birth            : 17 September 1986
-  Total IPL Matches        : 221
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  In R Ashwin, Delhi Capitals have made a valuable addition to their ranks
-  through a trade with Kings XI Punjab (now Punjab Kings) a season ago. The
-  wily off-spinner has been legendary with his performances – including the
-  recent showings in Australia and against England at home – for the Indian
-  Test team, and will be looking to make an impact in IPL 2021 as well. He
-  spent a majority of his IPL career with Chennai Super Kings, before going on
-  to play for Rising Pune Supergiants. Post that, Ashwin led KXIP (now PBKS).
-  His carrom ball remains a potent weapon, and Ashwin’s wicket-taking skills
-  will be on full show in the IPL as well.
+  Player Name              : Graeme Smith
+  IPL Debut                : 2008
+  Date of Birth            : 01 February 1981
+  Total IPL Matches        : 29
+  Role                     : Batter
+  Nationality              : South African
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -30,23 +19,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   221    |    34    |   833    |    50    |  13.02   |   705    |  118.16  |    0     |    1     |    64    |    29    |    52    |    0    
-    2025   |    9     |    0     |    33    |    13    |   8.25   |    30    |  110.00  |    0     |    0     |    3     |    1     |    4     |    0    
-    2024   |    15    |    3     |    86    |    29    |  14.33   |    74    |  116.22  |    0     |    0     |    5     |    4     |    5     |    0    
-    2023   |    13    |    4     |    67    |    30    |  11.17   |    51    |  131.37  |    0     |    0     |    5     |    3     |    1     |    0    
-    2022   |    17    |    5     |   191    |    50    |  27.29   |   135    |  141.48  |    0     |    1     |    14    |    9     |    5     |    0    
-    2021   |    13    |    2     |    44    |   20*    |  14.66   |    42    |  104.76  |    0     |    0     |    2     |    1     |    3     |    0    
-    2020   |    15    |    3     |    37    |   14*    |  12.33   |    34    |  108.82  |    0     |    0     |    3     |    1     |    2     |    0    
-    2019   |    14    |    1     |    42    |   17*    |   8.40   |    28    |  150.00  |    0     |    0     |    3     |    3     |    4     |    0    
-    2018   |    14    |    1     |   102    |    45    |  12.75   |    71    |  143.66  |    0     |    0     |    7     |    5     |    5     |    0    
-    2016   |    14    |    4     |    41    |    29    |  20.50   |    38    |  107.89  |    0     |    0     |    3     |    1     |    3     |    0    
-    2015   |    14    |    3     |    52    |    23    |  17.33   |    32    |  162.50  |    0     |    0     |    6     |    1     |    3     |    0    
-    2014   |    16    |    3     |    45    |    14    |  15.00   |    45    |  100.00  |    0     |    0     |    4     |    0     |    1     |    0    
-    2013   |    18    |    1     |    35    |   11*    |   8.75   |    49    |  71.42   |    0     |    0     |    4     |    0     |    4     |    0    
-    2012   |    19    |    2     |    18    |    8     |   6.00   |    15    |  120.00  |    0     |    0     |    2     |    0     |    5     |    0    
-    2011   |    16    |    0     |    2     |    2     |   1.00   |    6     |  33.33   |    0     |    0     |    0     |    0     |    4     |    0    
-    2010   |    12    |    2     |    30    |   11*    |   7.50   |    40    |  75.00   |    0     |    0     |    2     |    0     |    1     |    0    
-    2009   |    2     |    0     |    8     |    8     |   8.00   |    15    |  53.33   |    0     |    0     |    1     |    0     |    2     |    0    
+   Career  |    29    |    3     |   739    |    91    |  28.42   |   668    |  110.63  |    0     |    4     |    94    |    9     |    8     |    0    
+    2011   |    4     |    0     |    42    |    24    |  10.50   |    51    |  82.35   |    0     |    0     |    6     |    0     |    1     |    0    
+    2010   |    2     |    0     |    44    |    26    |  22.00   |    39    |  112.82  |    0     |    0     |    7     |    0     |    2     |    0    
+    2009   |    12    |    1     |   212    |    77    |  19.27   |   216    |  98.14   |    0     |    1     |    27    |    1     |    3     |    0    
+    2008   |    11    |    2     |   441    |    91    |  49.00   |   362    |  121.82  |    0     |    3     |    54    |    8     |    2     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -56,24 +33,1010 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   221    |   4710   |   5653   |   187    |   4/34   |  30.23   |   7.20   |  25.19   |    1     |    0    
-    2025   |    9     |   186    |   283    |    7     |   2/41   |  40.43   |   9.13   |  26.57   |    0     |    0    
-    2024   |    15    |   330    |   467    |    9     |   3/24   |  51.89   |   8.49   |  36.67   |    0     |    0    
-    2023   |    13    |   294    |   368    |    14    |   2/23   |  26.29   |   7.51   |  21.00   |    0     |    0    
-    2022   |    17    |   402    |   503    |    12    |   3/17   |  41.92   |   7.51   |  33.50   |    0     |    0    
-    2021   |    13    |   268    |   331    |    7     |   2/27   |  47.28   |   7.41   |  38.28   |    0     |    0    
-    2020   |    15    |   306    |   391    |    13    |   3/29   |  30.07   |   7.66   |  23.53   |    0     |    0    
-    2019   |    14    |   330    |   400    |    15    |   3/23   |  26.66   |   7.27   |  22.00   |    0     |    0    
-    2018   |    14    |   304    |   410    |    10    |   2/18   |  41.00   |   8.09   |  30.40   |    0     |    0    
-    2016   |    14    |   264    |   319    |    10    |   4/34   |  31.90   |   7.25   |  26.40   |    1     |    0    
-    2015   |    14    |   234    |   228    |    10    |   2/5    |  22.80   |   5.84   |  23.40   |    0     |    0    
-    2014   |    16    |   359    |   437    |    16    |   3/30   |  27.31   |   7.30   |  22.43   |    0     |    0    
-    2013   |    18    |   348    |   390    |    15    |   2/18   |  26.00   |   6.72   |  23.20   |    0     |    0    
-    2012   |    19    |   395    |   432    |    14    |   3/24   |  30.85   |   6.56   |  28.21   |    0     |    0    
-    2011   |    16    |   378    |   388    |    20    |   3/16   |  19.40   |   6.15   |  18.90   |    0     |    0    
-    2010   |    12    |   288    |   293    |    13    |   3/16   |  22.53   |   6.10   |  22.15   |    0     |    0    
-    2009   |    2     |    24    |    13    |    2     |   2/13   |   6.50   |   3.25   |  12.00   |    0     |    0    
+   Career  |    29    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2011   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2010   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2009   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2008   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/ravichandran-ashwin/8
+Source: https://www.iplt20.com/players/graeme-smith/219
 ================================================================================
+Quick Links
+
+Test Series
+
+ODI Series
+
+T20I Series
+
+World Cup
+
+World Cup 2023
+
+World Cup 2019
+
+World Cup 2015
+
+World Cup 2011
+
+World Cup 2007
+
+World Cup 2003
+
+World Cup 1999
+
+World Cup 1996... World Cup 1992
+
+World Cup 1987
+
+World Cup 1983
+
+World Cup 1979
+
+World Cup 1975
+
+T20I World Cup
+
+World Cup 2024
+
+World Cup 2022
+
+World Cup 2021
+
+World Cup 2016
+
+World Cup 2014... World Cup 2012
+
+World Cup 2010
+
+World Cup 2009
+
+World Cup 2007
+
+Champions Trophy
+
+Champions Trophy 2025
+
+Champions Trophy 2017
+
+Champions Trophy 2013
+
+Champions Trophy 2009
+
+Champions Trophy 2006
+
+Champions Trophy 2004... Champions Trophy 2002
+
+Test Championship
+
+Yearwise Cricstats
+
+2024 stats
+
+2023 stats
+
+2022 stats
+
+2021 stats
+
+2020 stats
+
+2019 stats
+
+2018 stats
+
+2017 stats
+
+2016 stats
+
+2015 stats
+
+Alltime stats
+
+Jamie Smith
+
+Wicketkeeper Batter... Full Name:
+
+Jamie Luke Smith
+
+Date of Birth:
+
+12 Jul 2000
+
+Current Age:
+
+25 Year, 3 Month, 13 Days
+
+Born:
+
+Epsom Surrey
+
+Teams:
+
+TEST
+
+Rank
+
+21
+
+Cap No
+
+715
+
+First Game
+
+2024-07-10
+
+Last Game
+
+2025-07-31... ODI
+
+Rank
+
+
+
+Cap No
+
+274
+
+First Game
+
+2023-09-23
+
+Last Game
+
+2025-09-07
+
+T20I
+
+Rank
+
+76
+
+Cap No
+
+107
+
+First Game
+
+2025-01-25
+
+Last Game
+
+2025-06-10
+
+Player Stats... Last 10 Matches
+
+Yearwise Stats
+
+Teamwise Stats
+
+Groundwise Stats
+
+Ranking
+
+TEST's Batting Statistics
+
+2024
+
+MAT
+
+1
+
+ING
+
+15
+
+RUNS
+
+637
+
+BF
+
+881
+
+50s
+
+4
+
+100s
+
+1
+
+6s
+
+15
+
+4s
+
+63... NO
+
+0
+
+HS
+
+111
+
+AVG
+
+42.47
+
+SR
+
+72.30
+
+2024
+
+MAT
+
+-99
+
+ING
+
+7
+
+RUNS
+
+311
+
+BF
+
+392
+
+50s
+
+1
+
+100s
+
+1
+
+6s
+
+4
+
+4s
+
+33
+
+NO
+
+0... HS
+
+111
+
+AVG
+
+44.43
+
+SR
+
+79.34
+
+2024
+
+MAT
+
+-99
+
+ING
+
+7
+
+RUNS
+
+231
+
+BF
+
+380
+
+50s
+
+2
+
+100s
+
+0
+
+6s
+
+10
+
+4s
+
+18
+
+NO
+
+0
+
+HS
+
+89... AVG
+
+33.00
+
+SR
+
+60.79
+
+2024
+
+MAT
+
+-99
+
+ING
+
+1
+
+RUNS
+
+95
+
+BF
+
+109
+
+50s
+
+1
+
+100s
+
+0
+
+6s
+
+1
+
+4s
+
+12
+
+NO
+
+0
+
+HS
+
+95
+
+AVG
+
+95.00... SR
+
+87.16
+
+2025
+
+MAT
+
+21
+
+ING
+
+10
+
+RUNS
+
+438
+
+BF
+
+548
+
+50s
+
+2
+
+100s
+
+1
+
+6s
+
+11
+
+4s
+
+48
+
+NO
+
+3
+
+HS
+
+184
+
+AVG
+
+62.57
+
+SR
+
+79.93... 2025
+
+MAT
+
+-99
+
+ING
+
+2
+
+RUNS
+
+10
+
+BF
+
+42
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+0
+
+4s
+
+1
+
+NO
+
+0
+
+HS
+
+8
+
+AVG
+
+0.00
+
+SR
+
+0.00
+
+2025
+
+MAT... -99
+
+ING
+
+8
+
+RUNS
+
+428
+
+BF
+
+506
+
+50s
+
+2
+
+100s
+
+1
+
+6s
+
+11
+
+4s
+
+47
+
+NO
+
+3
+
+HS
+
+184
+
+AVG
+
+85.60
+
+SR
+
+84.58
+
+ODI's Batting Statistics
+
+2023... MAT
+
+2
+
+ING
+
+1
+
+RUNS
+
+9
+
+BF
+
+10
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+0
+
+4s
+
+0
+
+NO
+
+0
+
+HS
+
+9
+
+AVG
+
+9.00
+
+SR
+
+90.00
+
+2023
+
+MAT
+
+-99... ING
+
+1
+
+RUNS
+
+9
+
+BF
+
+10
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+0
+
+4s
+
+0
+
+NO
+
+0
+
+HS
+
+9
+
+AVG
+
+0.00
+
+SR
+
+0.00
+
+2024
+
+MAT
+
+0
+
+ING
+
+5
+
+RUNS... 124
+
+BF
+
+133
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+5
+
+4s
+
+9
+
+NO
+
+0
+
+HS
+
+49
+
+AVG
+
+24.80
+
+SR
+
+93.23
+
+2024
+
+MAT
+
+-99
+
+ING
+
+5
+
+RUNS
+
+124
+
+BF... 133
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+5
+
+4s
+
+9
+
+NO
+
+0
+
+HS
+
+49
+
+AVG
+
+24.80
+
+SR
+
+93.23
+
+2025
+
+MAT
+
+4
+
+ING
+
+6
+
+RUNS
+
+125
+
+BF
+
+85
+
+50s... 1
+
+100s
+
+0
+
+6s
+
+3
+
+4s
+
+22
+
+NO
+
+0
+
+HS
+
+64
+
+AVG
+
+20.83
+
+SR
+
+147.06
+
+2025
+
+MAT
+
+-99
+
+ING
+
+3
+
+RUNS
+
+101
+
+BF
+
+56
+
+50s
+
+1
+
+100s... 0
+
+6s
+
+3
+
+4s
+
+17
+
+NO
+
+0
+
+HS
+
+64
+
+AVG
+
+33.67
+
+SR
+
+180.36
+
+2025
+
+MAT
+
+-99
+
+ING
+
+3
+
+RUNS
+
+24
+
+BF
+
+29
+
+50s
+
+0
+
+100s
+
+0
+
+6s... 0
+
+4s
+
+5
+
+NO
+
+0
+
+HS
+
+15
+
+AVG
+
+8.00
+
+SR
+
+82.76
+
+T20I's Batting Statistics
+
+2025
+
+MAT
+
+3
+
+ING
+
+5
+
+RUNS
+
+130
+
+BF
+
+67
+
+50s
+
+1
+
+100s
+
+0... 6s
+
+10
+
+4s
+
+9
+
+NO
+
+0
+
+HS
+
+60
+
+AVG
+
+26.00
+
+SR
+
+194.03
+
+2025
+
+MAT
+
+-99
+
+ING
+
+3
+
+RUNS
+
+102
+
+BF
+
+51
+
+50s
+
+1
+
+100s
+
+0
+
+6s
+
+7... 4s
+
+8
+
+NO
+
+0
+
+HS
+
+60
+
+AVG
+
+34.00
+
+SR
+
+200.00
+
+2025
+
+MAT
+
+-99
+
+ING
+
+2
+
+RUNS
+
+28
+
+BF
+
+16
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+3
+
+4s
+
+1
+NO
+
+0
+
+HS
+
+22
+
+AVG
+
+14.00
+
+SR
+
+175.00

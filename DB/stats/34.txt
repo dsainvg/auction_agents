@@ -1,27 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: TRENT BOULT
+IPL PLAYER PROFILE: MAHEESH THEEKSHANA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Trent Boult
-  IPL Debut                : 2015
-  Date of Birth            : 22 July 1989
-  Total IPL Matches        : 120
-  Role                     : WK-Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Trent Boult is one of the most prolific pacers in T20 cricket. He first
-  rose to the spotlight following his achievements at the 2015 World Cup,
-  which saw him end as the joint-highest wicket-taker with 22 wickets. Over
-  the years, he has represented SRH, KKR, DC, MI, and RR, winning two titles,
-  first with SRH in 2016 and then with MI in 2020, where he picked 25 wickets,
-  including a Player of the Match performance in the Final. The left-arm pacer
-  can swing the new ball and is known for striking early in the powerplay
-  consistently. Boult is back in the MI fold after being secured for a price
-  of INR 12.5 Crore at the 2025 TATA IPL Auction.
+  Player Name              : Maheesh Theekshana
+  IPL Debut                : 2022
+  Date of Birth            : 01 August 2000
+  Total IPL Matches        : 38
+  Role                     : Bowler
+  Nationality              : Sri Lankan
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -31,18 +19,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   120    |    20    |    85    |   17*    |   9.44   |    81    |  104.94  |    0     |    0     |    5     |    3     |    35    |    0    
-    2025   |    16    |    1     |    2     |    1     |   2.00   |    3     |  66.67   |    0     |    0     |    0     |    0     |    1     |    0    
-    2024   |    16    |    3     |    14    |    12    |   7.00   |    16    |  87.50   |    0     |    0     |    2     |    0     |    4     |    0    
-    2023   |    10    |    3     |    16    |    15    |  16.00   |    14    |  114.29  |    0     |    0     |    1     |    1     |    5     |    0    
-    2022   |    16    |    6     |    40    |   17*    |  20.00   |    29    |  137.93  |    0     |    0     |    2     |    1     |    2     |    0    
-    2021   |    14    |    4     |    1     |    1*    |   0.00   |    4     |  25.00   |    0     |    0     |    0     |    0     |    5     |    0    
-    2020   |    15    |    0     |    0     |    0*    |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    4     |    0    
-    2019   |    5     |    2     |    7     |    6     |   7.00   |    4     |  175.00  |    0     |    0     |    0     |    1     |    2     |    0    
-    2018   |    14    |    0     |    0     |    0*    |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    9     |    0    
-    2017   |    6     |    1     |    5     |    5*    |   0.00   |    8     |  62.50   |    0     |    0     |    0     |    0     |    0     |    0    
-    2016   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
-    2015   |    7     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+   Career  |    38    |    3     |    17    |    7*    |   5.67   |    34    |  50.00   |    0     |    0     |    0     |    1     |    4     |    0    
+    2025   |    11    |    2     |    10    |    5     |   5.00   |    27    |  37.04   |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    5     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2023   |    13    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    3     |    0    
+    2022   |    9     |    1     |    7     |    7*    |   7.00   |    7     |  100.00  |    0     |    0     |    0     |    1     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -52,19 +33,85 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   120    |   2683   |   3747   |   143    |   4/18   |  26.20   |   8.38   |  18.76   |    2     |    0    
-    2025   |    16    |   346    |   517    |    22    |   4/26   |  23.50   |   8.97   |  15.73   |    1     |    0    
-    2024   |    16    |   320    |   443    |    16    |   3/22   |  27.69   |   8.31   |  20.00   |    0     |    0    
-    2023   |    10    |   228    |   312    |    13    |   3/29   |  24.00   |   8.21   |  17.54   |    0     |    0    
-    2022   |    16    |   372    |   492    |    16    |   2/18   |  30.75   |   7.94   |  23.25   |    0     |    0    
-    2021   |    14    |   308    |   406    |    13    |   3/28   |  31.23   |   7.90   |  23.69   |    0     |    0    
-    2020   |    15    |   344    |   457    |    25    |   4/18   |  18.28   |   7.97   |  13.76   |    1     |    0    
-    2019   |    5     |   114    |   163    |    5     |   2/27   |  32.60   |   8.57   |  22.80   |    0     |    0    
-    2018   |    14    |   316    |   466    |    18    |   2/20   |  25.88   |   8.84   |  17.55   |    0     |    0    
-    2017   |    6     |   143    |   216    |    5     |   2/30   |  43.20   |   9.06   |  28.60   |    0     |    0    
-    2016   |    1     |    24    |    39    |    1     |   1/39   |  39.00   |   9.75   |  24.00   |    0     |    0    
-    2015   |    7     |   168    |   236    |    9     |   3/19   |  26.22   |   8.42   |  18.66   |    0     |    0    
+   Career  |    38    |   876    |   1207   |    36    |   4/33   |  33.53   |   8.27   |  24.33   |    1     |    0    
+    2025   |    11    |   252    |   410    |    11    |   2/26   |  37.27   |   9.76   |  22.91   |    0     |    0    
+    2024   |    5     |   120    |   144    |    2     |   1/27   |  72.00   |   7.20   |  60.00   |    0     |    0    
+    2023   |    13    |   294    |   392    |    11    |   2/23   |  35.64   |   8.00   |  26.73   |    0     |    0    
+    2022   |    9     |   210    |   261    |    12    |   4/33   |  21.75   |   7.46   |  17.50   |    1     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/trent-boult/969
+Source: https://www.iplt20.com/players/maheesh-theekshana/20570
 ================================================================================
+### IPL 2026: 3 overseas players who deserved an IPL contract
+
+IPL 2026: Overseas players who deserved an IPL contract17 Dec 20252 Min
+
+#23 All Rounder in ODI
+
+#19 Bowler in T20
+
+#4 Bowler in ODI
+
+Full Name
+
+Maheesh Theekshana
+
+Nationality
+
+Sri Lanka
+
+Other Name
+
+Maheesh Theekshana
+
+Role
+
+--
+
+Birth Date
+
+01 Aug 2000 (25y 152d)
+
+Birth Place
+
+--
+
+Batting Style
+
+Right Hand Bat
+
+Bowling Style
+
+Right Arm Off Break
+
+#23 All Rounder in ODI
+
+#19 Bowler in T20
+
+#4 Bowler in ODI
+
+|Format|M|Inns|No|R|H.S|Avg|BF|SR|100s|50s|
+|--|--|--|--|--|--|--|--|--|--|--|
+|test|2|3|--|59|38|19.66|149|39.59|--|--|
+|odi|59|33|12|344|38|16.38|624|55.12|--|--|
+|t20i|72|32|11|93|14|4.42|154|60.38|--|--|
+|t20|214|76|33|258|15|6|369|69.91|--|--|
+|fc|5|8|--|131|38|16.37|280|46.78|--|--|
+|list a|81|46|15|397|38|12.8|739|53.72|--|--|
+|t10|22|5|2|28|13|9.33|22|127.27|--|--|
+|Format|M|Inns|Ovs|R|Wkts|BBI|Avg|ECN|SR|4W|5W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|test|2|4|60.50|188|5|2/28|37.6|3.09|73|--|--|
+|odi|59|58|481.30|2215|79|4/25|28.03|4.6|36.5|7|--|
+|t20i|72|72|271.30|1903|69|3/17|27.57|7|23.6|--|--|
+|t20|214|213|810.30|5714|217|4/15|26.33|7.04|22.4|4|--|
+|fc|5|7|129.50|422|13|5/76|32.46|3.25|59.9|--|1|
+|list a|81|80|647.20|2876|106|4/25|27.13|4.44|36.6|8|--|
+|t10|22|21|40.00|410|22|3/12|18.64|10.25|10.91|--|--|
+|MIE vs SW|-|0/12|14 Dec 2025|Abu Dhabi|t20|
+|--|--|--|--|--|--|
+|GG vs SW|-|0/33|10 Dec 2025|Dubai|t20|
+|SW vs MIE|-|1/42|07 Dec 2025|Sharjah|t20|
+|PAK vs SL|1|0/22|29 Nov 2025|Rawalpindi|t20i|
+|PAK vs SL|-|0/42|27 Nov 2025|Rawalpindi|t20i|
+IPL 2026: Overseas players who deserved an IPL contract17 Dec 20252 Min

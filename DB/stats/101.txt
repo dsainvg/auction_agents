@@ -1,14 +1,36 @@
 ================================================================================
-IPL PLAYER PROFILE: SHAI HOPE
+IPL PLAYER PROFILE: MUSTAFIZUR RAHMAN
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Shai Hope
-  IPL Debut                : 2024
-  Date of Birth            : 10 November 1993
-  Total IPL Matches        : 9
-  Role                     : Batter
+  Player Name              : Mustafizur Rahman
+  IPL Debut                : 2016
+  Date of Birth            : 06 September 1995
+  Total IPL Matches        : 60
+  Role                     : Bowler
+  Nationality              : Bangladeshi
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  Mustafizur Rahman is a left-arm pace bowler who came to Dhaka in 2012 to
+  try his luck at a fast-bowler’s camp, after he had impressed in an Under-17
+  tournament in his hometown Satkhira. He was admitted to the Bangladesh
+  Cricket Board's pace foundation and soon caught the coaches' attention to
+  make the Bangladesh Under-19 side for the 2014 World Cup. He initially
+  lacked pace, but built it up through the 2014-15 first-class season, when he
+  took 26 wickets. An international call up came soon and Mustafizur impressed
+  straightaway making some of the best in the business look tentative against
+  him. He enjoyed great success against India in the Asia Cup in 2016 and
+  caught the eye worldwide for his ability to generate good pace and for his
+  deceptive slower one. The IPL 2016 was his first stint with the IPL and he
+  was known for his lethal yorker to KKR all-rounder Andre Russell. He was
+  impressive for SRH last year and would be looking to do well in the 2017
+  edition as well. RR acquired Mustafizur's services after bringing him on the
+  board for INR 1 Cr. The left-arm pacer from Bangladesh has thus far played
+  three IPL seasons and has 24 IPL wickets to his name and he will be looking
+  to add a few more wickets to his tally as RR look to clinch the IPL 2021
+  title.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -18,9 +40,110 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    9     |    1     |   183    |    41    |  22.88   |   122    |  150.00  |    0     |    0     |    12    |    12    |    6     |    0    
-    2024   |    9     |    1     |   183    |    41    |  22.88   |   122    |  150.00  |    0     |    0     |    12    |    12    |    6     |    0    
+   Career  |    60    |    8     |    13    |    8*    |   6.50   |    24    |  54.17   |    0     |    0     |    0     |    1     |    7     |    0    
+    2025   |    3     |    0     |    0     |    0     |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    9     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2023   |    2     |    1     |    1     |    1*    |    -     |    1     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
+    2022   |    8     |    1     |    3     |    3*    |    -     |    5     |  60.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2021   |    14    |    5     |    8     |    8*    |   0.00   |    14    |  57.14   |    0     |    0     |    0     |    1     |    1     |    0    
+    2018   |    7     |    1     |    1     |    1     |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    2     |    0    
+    2017   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2016   |    16    |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    60    |   1364   |   1849   |    65    |   4/29   |  28.45   |   8.13   |  20.98   |    1     |    0    
+    2025   |    3     |    66    |    87    |    4     |   3/33   |  21.75   |   7.91   |  16.50   |    0     |    0    
+    2024   |    9     |   206    |   318    |    14    |   4/29   |  22.71   |   9.26   |  14.71   |    1     |    0    
+    2023   |    2     |    42    |    79    |    1     |   1/38   |  79.00   |  11.29   |  42.00   |    0     |    0    
+    2022   |    8     |   192    |   244    |    8     |   3/18   |  30.50   |   7.63   |  24.00   |    0     |    0    
+    2021   |    14    |   311    |   436    |    14    |   3/20   |  31.14   |   8.41   |  22.21   |    0     |    0    
+    2018   |    7     |   165    |   230    |    7     |   3/24   |  32.85   |   8.36   |  23.57   |    0     |    0    
+    2017   |    1     |    16    |    34    |    0     |   0/34   |    -     |  12.75   |    -     |    0     |    0    
+    2016   |    16    |   366    |   421    |    17    |   3/16   |  24.76   |   6.90   |  21.52   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/shai-hope/20710
+Source: https://www.iplt20.com/players/mustafizur-rahman/1594
 ================================================================================
+**Mustafizur Rahman** (Bengali: মুস্তাফিজুর রহমান; born 6 September 1995) is a Bangladeshi international cricketer. A left-arm fast-medium bowler, he is recognized for his most prolific 'slower cutters' all over the world.... He has taken more wickets in the death overs of Twenty20 Internationals than any other bowler. His career took off during the 2015 Bangladesh Premier League when he caught the attention of cricket pundits with his ability to bowl accurate cutters and slower deliveries, earning him the nickname "*The Fizz***.**" This talent quickly propelled him to international prominence.... Making his debut for the Bangladesh national team in 2015, Mustafizur Rahman showcased his skills in the limited-overs formats. Mustafizur's international career highlights includes his debut series against India in 2015, where he became the first player to claim 11 wickets in his first two one day international matches.... This achievement propelled Bangladesh to a historic series victory over India. He has represented his country in numerous international tournaments, including the ICC Cricket World Cup, the ICC Champions Trophy, and the Asia Cup. In club career he was acquired by Sunrisers Hyderabad in 2016 with a fee of $208k, where he won his first Indian Premier League (IPL) title. He was the fifth highest wicket taker in the tournament. He has subsequently played in the IPL for Mumbai Indians, Rajasthan Royals, Delhi Capitals and Chennai Super Kings.... He is the only overseas player to win the Emerging Player Award in 2016 IPL for Sunrisers Hyderabad. He was listed in ICC Men's ODI Team of the Year three times (2015, 2018, 2021) and ICC Men's T20I Team of the Year once (2021).... ## Early career
+
+In 2012, Mustafizur travelled to Bangladesh's capital Dhaka to try out for a fast-bowlers camp. Prior to that, scouters first encountered him in an Under-17 tournament in Satkhira. He was admitted to the Bangladesh Cricket Board's foundation of fast bowling. Soon he was selected to the Bangladesh Under-19 side for the 2014 Under-19 Cricket World Cup in UAE, where he took a total of eight wickets.... Mustafizur started both his First-class cricket and List-A cricket from 2014, representing Khulna Division and Abahani Limited, respectively. He was picked for Bangladesh A's tour of West Indies.... ## International career
+
+### Emergence
+
+Mustafizur began his international career in a twenty overs match against Pakistan on 24 April 2015, where he took the wickets of Shahid Afridi and Mohammad Hafeez, two veteran Pakistani batsmen.... In June 2015, India toured Bangladesh for one Test and three One Day Internationals. Mustafizur was picked in the ODI squad. In his first match of the series, Mustafizur gave signs of his potential against the strong Indian batting line-up by taking a five-wicket haul off 9.2 overs in the first match.... Bangladesh won the match and Mustafizur became the tenth bowler in the history of ODIs to take five wickets on debut. In the second ODI, Mustafizur took another six wickets. This helped him to earn the record of most wickets of any bowler after two ODIs, surpassing the record previously held by Zimbabwe's Brian Vitori. He completed the last ODI with 2 wickets and made history by taking 13 wickets in a three-match ODI series.... The following month, Mustafizur took 5 wickets in three ODIs to help Bangladesh win the series against South Africa by 2–1. He made his Test debut in the same series versus South Africa where he picked up 4 wickets.... ### Injury problems
+
+In the month of November, Bangladesh hosted Zimbabwe for three ODIs and two T20s. Mustafizur played a salient role in the ODI matches, taking a total of 8 wickets. For his performances in 2015, he was named in the World ODI XI by ICC. He was also named in the ODI XI of the year 2015 by *ESPNcricinfo* and *Cricbuzz*.... He captured his third five-wicket haul in the last game. He could not contribute much in the T20 series, though he bowled economically, which resulted in both sides sharing a win. The next year in January, Bangladesh again played with Zimbabwe in four T20s. Mustafizur played in the first two matches, which they won. While bowling in the second T20I against Zimbabwe in January 2016, Mustafizur injured his shoulder. Following that, he was dropped from the squad for the first time since his debut.... During the Asia Cup held in the next month, he was again sidelined from the team due to his side strain, playing only the first three games. He was able to play against Australia, India and New Zealand in the 2016 ICC World Twenty20 held in India in March. He became the first Bangladeshi bowler to grab five wickets in the history of T20 World Cup after taking five wickets for 22 runs against New Zealand.... He took total of 9 wickets in three matches in the 2016 edition. He was named as 12th man in the 'Team of the Tournament' for the 2016 T20 World Cup by the ICC.
+
+Mustafizur was again unable to play all matches when Bangladesh toured New Zealand during December 2016 and January 2017. He played his first Test match since August 2015 against Sri Lanka at Galle in March 2017, taking eight wickets in the series.... In April 2018, he was one of the ten cricketers to be awarded a central contract by the Bangladesh Cricket Board (BCB) ahead of the 2018 season.
+
+On 29 May 2018, Mustafizur was ruled out of an upcoming three-match T20I series against Afghanistan due to a toe injury.... ### 2019–present
+
+In April 2019, he was named in Bangladesh's squad for the 2019 Cricket World Cup. On 5 July 2019, in the match against Pakistan, Mustafizur took his 100th wicket in ODIs. He finished the tournament as the leading wicket-taker for Bangladesh, with twenty dismissals in eight matches. Following the World Cup, the International Cricket Council (ICC) named Mustafizur as the rising star of the squad.... In September 2021, he was named in Bangladesh's squad for the 2021 ICC Men's T20 World Cup. In May 2024, he was named in Bangladesh's squad for the 2024 ICC Men's T20 World Cup tournament.... On 12 January 2025, he was named in Bangladesh's squad for the 2025 ICC Champions Trophy. In May 2025, he was named in Bangladesh's squad for their tour to the United Arab Emirates. On 17 May 2025, during the 1st T20I, he became the first player to bowl 300 dot balls in death overs in T20I cricket.... ## Domestic career
+
+### Bangladesh Premier League
+
+Mustafizur's first professional Twenty20 career outside international cricket was the Bangladesh Premier League, where he played for Dhaka Dynamites in its 2015 season. He took 14 wickets in 10 matches in that tournament. In October 2018, he was named in the squad for the Rajshahi Kings team, following the draft for the 2018–19 Bangladesh Premier League.... In November 2019, he was selected to play for the Rangpur Rangers in the 2019–20 Bangladesh Premier League. In 21 January, he was selected to play for the Comilla Victorians which has announced the squad for the BPL 2022 season. Mustafizur Rahman selected in icon category and contract for Bangladesh Premier League 2021-22 season.... He was selected to play for Dhaka Capitals in 2024-25 Bangladesh Premiere League. On 20 January, he became only the 4th bowler to reach 100 BPL wickets, after Shakib Al Hasan, Taskin Ahmed and Rubel Hossain.... ### Indian Premier League
+
+In February 2016, Mustafizur was drafted by Sunrisers Hyderabad in the 2016 IPL auction. He took 17 wickets in 16 matches in the tournament where his team won the title. He was named as "Emerging Player of the Tournament", the first overseas player to receive this award.... In December 2016, he was retained by the Sunrisers Hyderabad in the 2017 IPL auction. He was doubtful about missing the first-leg of the tournament.... In January 2018, he was bought by the Mumbai Indians in the 2018 IPL auction. In February 2021, he was bought by the Rajasthan Royals from his base price of INR 1.00 crore in the 2021 IPL auction. In February 2022, he was bought by the Delhi Capitals in the auction for the 2022 Indian Premier League tournament. He played 8 match for Delhi capital and took 8 wickets. He played for Indian Premier League team Chennai Super Kings in 2024.... Delhi Capitals have included Mustafizur Rahman in their squad as a replacement for Jack Fraser-McGurk for IPL-18.
+
+### NatWest T20 Blast
+
+In March 2016, English side Sussex announced that they had signed Mustafizur as their second overseas player for the T20 Blast competition. He picked up four wickets while giving away 23 runs in his debut match against Essex. After another match, he faced a shoulder surgery which sidelined him for six months.... ### Pakistan Super League
+
+Mustafizur was selected by Lahore Qalandars in the Pakistan Super League. The BCB was reluctant to let him play there. However, the issue was resolved when Mustafizur got a shoulder injury in early 2016, thus preventing him from playing in the PSL.... ## Playing style
+
+"Mustafizur has a God-gifted slow ball."
+
+— Ashish Nehra
+
+Mustafizur achieved success in the beginning of his international career by bowling off cutters, a type of bowling which moves away (from the right-hander) in the off direction, of the pitch. Mustafizur stated on a press conference in June 2015 that he first discovered the technique after his fellow cricketer, Anamul Haque insisted him to bowl a slower delivery. According to former Indian cricketer Maninder Singh, his slower balls are difficult to read.... ## Personal life
+
+Mustafizur grew up in the small town of Satkhira in Khulna, Bangladesh. He is the youngest of Abul Qasem Gazi and Mahmuda Khatun's six children. His father is an enthusiastic fan of cricket. Mustafizur's interest in cricket rose when he started practicing the game at a location that was 40 kilometres (25 mi) away from home every morning, with his brother Mokhlesur Rahman. This affected his education as he occasionally missed school to play cricket.... Prior to discovering his bowling talents, Mustafizur played as a batsman with a tennis ball. According to him, he took inspiration from Pakistani pacer Mohammad Amir who is his idol.... On 15 March 2019, along with several members of the Bangladesh test team, he was moments from entering the Al Noor mosque in Christchurch, New Zealand, when a terrorist attack began. All members of the team were "deeply affected". Mustafizur went on to get married on 22 March. Mustafizur's brother was hopeful that marriage could help him "overcome the shock" of witnessing the attack in New Zealand.... ## Records and achievements
+
+- Ony the third and Second Bangladeshi bowler to bowl 1000 dot balls in T20Is.
+- Most Dot Balls in Death Overs (Overs 16-20) in T20Is - 300, first bowler to get this milestone.
+- ICC ODI Team of the Year - 2015, the first Bangladeshi cricketer to achieve this and the second to be selected for any ICC team2018, the first Bangladeshi cricketer to achieve this twice and 2021.... - ICC Emerging Cricketer of the Year - 2016, the first Bangladeshi player to win one of the ICC's annual awards. Mustafizur was also included as the 12th man in the 2016 ICC World Twenty20 Men's Team of the Tournament.
+- The ESPNcricinfo Award for the Best T20 performance of the year -2016, for his maiden T20I five-wicket haul against New Zealand during the World T20.... - The Best Athlete of the Year Award from the Bangladesh Sports Press Association (BSPA) of the year 2015.
+- The first and so far the only foreign cricketer to win IPL's Emerging player of the year - 2016
+- Fastest Bangladeshi bowler to 50 ODI wickets - 27 matches.... - Fastest Bangladeshi and 4th fastest bowler to reach 100th ODI wicket - 54 matches.
+- Quickest Bangladeshi, quickest fast bowler and fourth quickest bowler to take 50 T20I wickets - 33 matches.
+- ICC Men's T20I Team of the Year - 2021.
+- Third Bangladeshi player to take 300 wickets across all formats of international cricket.... ## Notes
+
+## References
+
+## External links
+- Mustafizur Rahman at ESPNcricinfo
+
+Categories: - 1995 births... - Living people
+- Bangladeshi cricketers
+- Bangladesh Test cricketers
+- Bangladesh One Day International cricketers
+- Bangladesh Twenty20 International cricketers
+- 21st-century Bangladeshi sportsmen
+- People from Satkhira District
+- Cricketers who have taken five wickets on One Day International debut... - Khulna Division cricketers
+- Dhaka Dominators cricketers
+- Lahore Qalandars cricketers
+- Bangladeshi expatriate cricketers in Pakistan
+- Sunrisers Hyderabad cricketers
+- Rajshahi Royals cricketers
+- Mumbai Indians cricketers... - Sussex cricketers
+- Expatriate cricketers in England
+- Abahani Limited cricketers
+- Mohammedan Sporting Club cricketers
+- Bangladesh South Zone cricketers
+- Rajasthan Royals cricketers
+- 21st-century Bengali people
+- Delhi Capitals cricketers... - Comilla Victorians cricketers
+- Cricketers from Khulna Division
+- Chennai Super Kings cricketers
+- Bangladeshi expatriate cricketers in India
+- Cricketers at the 2023 Cricket World Cup

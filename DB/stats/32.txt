@@ -1,55 +1,351 @@
-================================================================================
-IPL PLAYER PROFILE: JITESH SHARMA
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Jitesh Sharma
-  IPL Debut                : 2022
-  Date of Birth            : 22 October 1993
-  Total IPL Matches        : 55
-  Role                     : Wicketkeeper Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    A young Jitesh Sharma made an impression with his attacking intent at the
-  top of the order in domestic cricket for Vidarbha, thus earning his
-  first-ever TATA IPL contract with Mumbai Indians in 2016. But he reinvented
-  himself as a highly capable finisher over the years and had a breakthrough
-  2022 season with PBKS, then also going on to play for India. With his
-  ability to play effective cameos, finish games, and keep wickets as well,
-  Sharma is an excellent utility player. RCB shelling out a whopping INR 11
-  Crore for Sharma ahead of TATA IPL 2025 showcases his promise.
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    55    |    8     |   991    |   85*    |  25.41   |   631    |  157.05  |    0     |    1     |    77    |    62    |    44    |    5    
-    2025   |    15    |    4     |   261    |   85*    |  37.29   |   148    |  176.35  |    0     |    1     |    24    |    17    |    19    |    1    
-    2024   |    14    |    1     |   187    |   32*    |  17.00   |   142    |  131.69  |    0     |    0     |    9     |    12    |    13    |    0    
-    2023   |    14    |    1     |   309    |   49*    |  23.77   |   198    |  156.06  |    0     |    0     |    22    |    21    |    3     |    2    
-    2022   |    12    |    2     |   234    |    44    |  29.25   |   143    |  163.64  |    0     |    0     |    22    |    12    |    9     |    2    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    55    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/jitesh-sharma/3185
-================================================================================
+|## Akeal Hosein Introduction|
+|--|
+|Role|Bowling Allrounder|
+|Batting|Left Handed|
+|Bowling|spin Left-arm orthodox|
+|Country|West Indies|
+|--|--|
+|Birth|25-Apr-1993 (32 yr), Port-of-Spain|
+|Height|--|
+|Teams|West Indies U19, Barbados Tridents, Dhaka Dynamites, Trinbago Knight Riders (Mostly) West Indies,|
+|Social Accounts|
+|Last Updated|Last updated 10 hours ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Akeal Hosein Upcoming Matches|
+|--|
+|QPCC vs MPSC (Match 13) Stats|
+|QPCC vs CS (Match 17) Stats|
+|## Akeal Hosein Stats|
+|--|
+|Competition|ODI|T20|IPL|
+|Matches|37|65|1|
+|Highest Score|60|44|16|
+|Runs|265|244|16|
+|50s|1|0|0|
+|100s|0|0|0|
+|Run Per Inn|9.8|8.4|16.0|
+|Run Per Match|7.1|3.7|16.0|
+|Boundary (In Ball)|15.1|8.6|5.0|
+|4s (In Ball)|26.0|16.1|10.0|
+|6s (In Ball)|36.4|18.8|10.0|
+|Wickets|57|59|1|
+|Over Per Match|9.0|3.2|4.0|
+|Wicket Per Inn|1.5|0.9|1.0|
+|Wicket Per Match|1.5|0.9|1.0|
+|Wicket (In Ball)|35.6|22.6|24.0|
+|Wicket (In Runs)|28.9|27.0|40.0|
+|Field In Match %|62 %|30 %|-|
+|Catch In Match %|43 %|29 %|-|
+|Check More Stats On Advance Cricket App|
+|## Akeal Hosein Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|12 Mar 25|T20|24|25|8|61|
+|06 Mar 25|T20|20|62|8|94|
+|06 Feb 25|T20|16|-6|0|14|
+|02 Feb 25|T20|0|0|6|10|
+|31 Jan 25|T20|0|27|8|39|
+|25 Jan 25|T20|30|0|0|34|
+|24 Jan 25|T20|3|0|0|7|
+|21 Jan 25|T20|2|35|8|49|
+|19 Jan 25|T20|0|0|0|4|
+|16 Jan 25|T20|4|0|0|8|
+|13 Jan 25|T20|1|0|0|5|
+|11 Jan 25|T20|34|14|0|52|
+|09 Jan 25|T20|-2|0|0|2|
+|01 Jan 25|T20|10|2|0|16|
+|29 Dec 24|T20|0|27|0|31|
+|26 Dec 24|T20|0|19|0|23|
+|21 Dec 24|T20|0|62|0|66|
+|18 Dec 24|T20|39|31|0|74|
+|16 Dec 24|T20|2|76|16|98|
+|## Akeal Hosein Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|12 Mar 25|QPCC vs YCC|8|17(10)|170.0|catch|
+|06 Mar 25|QPCC vs PSC|5|18(16)|112.5|not out|
+|06 Feb 25|MIE vs SWR|7|15(17)|88.2|run out|
+|02 Feb 25|MIE vs SWR|DNB|
+|31 Jan 25|MIE vs GG|DNB|
+|25 Jan 25|MIE vs GG|8|20(11)|181.8|not out|
+|24 Jan 25|MIE vs ADKR|8|3(7)|42.8|not out|
+|21 Jan 25|MIE vs ADKR|8|2(2)|100|not out|
+|19 Jan 25|MIE vs SWR|DNB|
+|16 Jan 25|MIE vs DV|8|4(1)|400|not out|
+|13 Jan 25|MIE vs DC|7|1(1)|100|not out|
+|11 Jan 25|MIE vs DC|6|30(31)|96.7|catch|
+|09 Jan 25|SIX vs STA|10|0(1)|0|not out|
+|01 Jan 25|SIX vs HUR|9|10(13)|76.9|catch|
+|29 Dec 24|SIX vs HEA|DNB|
+|26 Dec 24|SIX vs STA|DNB|
+|Akeal Hosein Recent Batting|
+|## Akeal Hosein Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|12 Mar 25|QPCC vs YCC|4.0|29|1|0|7.3|
+|06 Mar 25|QPCC vs PSC|4.0|21|2|0|5.25|
+|06 Feb 25|MIE vs SWR|2.5|35|0|0|12.35|
+|02 Feb 25|MIE vs SWR|4.0|30|0|0|7.50|
+|31 Jan 25|MIE vs GG|4.0|24|1|0|6.00|
+|25 Jan 25|MIE vs GG|1.0|6|0|0|6.00|
+|24 Jan 25|MIE vs ADKR|1.0|11|0|0|11.00|
+|21 Jan 25|MIE vs ADKR|4.0|25|1|0|6.25|
+|19 Jan 25|MIE vs SWR|4.0|35|0|0|8.75|
+|16 Jan 25|MIE vs DV|2.0|18|0|0|9.00|
+|13 Jan 25|MIE vs DC|4.0|30|0|0|7.50|
+|11 Jan 25|MIE vs DC|3.0|18|0|1|6.00|
+|09 Jan 25|SIX vs STA|3.0|26|0|0|8.66|
+|01 Jan 25|SIX vs HUR|4.0|25|0|0|6.25|
+|29 Dec 24|SIX vs HEA|4.0|26|1|0|6.50|
+|26 Dec 24|SIX vs STA|4.0|50|1|0|12.50|
+|Akeal Hosein Recent Bowling All Recent Bowling Details|
+|Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|37|65|1|
+|Innings|27|29|1|
+|Not Out|8|13|1|
+|Runs|265|244|16|
+|Highest Score|60|44|16|
+|Average|13.94|15.25|
+|Balls Faced|364|226|10|
+|Strike Rate|72.8|107.9|160|
+|20s|1|2|0|
+|30s|2|2|0|
+|50s|1|0|0|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|14|14|1|
+|6s|10|12|1|
+|Outtype|
+|LBW|2|1|0|
+|Bowled|1|3|0|
+|Stumped|2|0|0|
+|Catch|12|10|0|
+|Run Out|2|2|0|
+|Wicket Taker|
+|Left Arm|2|3|0|
+|1- Fast|2|0|0|
+|2- Fast-Medium|0|2|0|
+|3- Medium|0|0|0|
+|4- Slow|0|1|0|
+|1- Bowled|0|1|0|
+|2- Catch|1|2|0|
+|3- Stumped|0|0|0|
+|4- Lbw|1|0|0|
+|Right Arm|15|11|0|
+|1- Fast|1|3|0|
+|2- Fast-Medium|4|4|0|
+|3- Medium|4|1|0|... |4- Slow|6|3|0|
+|1- Bowled|1|2|0|
+|2- Catch|11|8|0|
+|3- Stumped|2|0|0|
+|4- Lbw|1|1|0|... |Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|37|65|1|
+|Innings|37|62|1|
+|Balls|2030|1338|24|
+|Runs|1649|1597|40|
+|BBI|... |Average|28.92|27.06|40.00|
+|Strike Rate|35.61|22.67|24.00|
+|Maiden|10|2|0|
+|2w|9|9|0|
+|3w|8|2|0|
+|5w|0|1|0|... |8w|0|0|0|
+|10w|0|0|0|
+|Wickets|57|59|1|
+|LBW|11|5|0|
+|Bowled|15|10|0|
+|Stumped|1|7|0|
+|Catch|30|37|1|... |Batsman Type|
+|Right Handed|37|44|1|
+|1- LBW|5|4|0|
+|2- Bowled|11|7|0|
+|3- Stumped|1|6|0|
+|4- Catch|20|27|1|... |Left Handed|20|15|0|
+|1- LBW|6|1|0|
+|2- Bowled|4|3|0|
+|3- Stumped|0|1|0|
+|4- Catch|10|10|0|... Akeal Hosein played 37 ODI matches and scored 265 runs in 27 Innings. Akeal Hosein's Highest Score in ODI is 60. A Hosein has 0 ODI centuries, 1 ODI half centuries and 2 times 30+ and 1 times 20+ ODI runs.... A Hosein has a strike rate of 72.8 with run per match of 7.16 in 364 ODI balls. Akeal Hosein made total 24 boundaries with 14 fours and 10 sixes in ODI. A Hosein's ODI outtype analysis are lbw 2 times, bowled 1, stumped 2 times, catch 12 times, Run Out 2 times.... Akeal Hosein's ODI wicket takers are 2 left arm and 15 right arm. A Hosein's Left Arm ODI Wicket Taker analysis are Fast bowler 2 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... Akeal Hosein's Right Arm ODI Wicket Taker analysis are Fast bowler 1 wickets, Fast-Medium bowler 4 wickets, Medium bowler 4 wickets, Slow bowler 6 wickets. A Hosein's wicket taken by Left Arm Bowlers in ODI analysis are lbw 1 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets. Akeal Hosein's wicket taken by Right Arm Bowlers in ODI analysis are lbw 1 wickets, bowled 1 wickets, stumped 2 wickets, catch 11 wickets.... Akeal Hosein Took 57 Wickets (In 37 ODI innings) with Strike Rate of 35.61 and average of 28.92. A Hosein's delivered 2030 balls (with 10 Maiden over) and took 2 wickets 9 times 3 wickets 8 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 37 Right Handed and 20 Left Handed batsman out by Akeal Hosein in ODI. Right Handed Batsman ODI outtype analysis (wicket taken by A Hosein) are LBW 5 times, Bowled 11 times, Stumped 1 times, Catch 20 times. Left Handed Batsman ODI outtype analysis (wicket taken by A Hosein) are LBW 6 times, Bowled 4 times, Stumped 0 times, Catch 10 times.... Akeal Hosein Fielding analysis are Catch 16 times, Stumping 0 times, Direct Throw(Run Out) 2 times, Throw(Run Out) 1 times.... Akeal Hosein played 65 T20 matches and scored 244 runs in 29 Innings. Akeal Hosein's Highest Score in T20 is 44. A Hosein has 0 T20 centuries, 0 T20 half centuries and 2 times 30+ and 2 times 20+ T20 runs.... A Hosein has a strike rate of 107.9 with run per match of 3.75 in 226 T20 balls. Akeal Hosein made total 26 boundaries with 14 fours and 12 sixes in T20. A Hosein's T20 outtype analysis are lbw 1 times, bowled 3, stumped 0 times, catch 10 times, Run Out 2 times.... Akeal Hosein's T20 wicket takers are 3 left arm and 11 right arm. A Hosein's Left Arm T20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 2 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets.... Akeal Hosein's Right Arm T20 Wicket Taker analysis are Fast bowler 3 wickets, Fast-Medium bowler 4 wickets, Medium bowler 1 wickets, Slow bowler 3 wickets. A Hosein's wicket taken by Left Arm Bowlers in T20 analysis are lbw 0 wickets, bowled 1 wickets, stumped 0 wickets, catch 2 wickets. Akeal Hosein's wicket taken by Right Arm Bowlers in T20 analysis are lbw 1 wickets, bowled 2 wickets, stumped 0 wickets, catch 8 wickets.... Akeal Hosein Took 59 Wickets (In 62 T20 innings) with Strike Rate of 22.67 and average of 27.06. A Hosein's delivered 1338 balls (with 2 Maiden over) and took 2 wickets 9 times 3 wickets 2 times, 5 wickets 1 times, 8 wickets 0 times, 10 wickets 0 times.... 44 Right Handed and 15 Left Handed batsman out by Akeal Hosein in T20. Right Handed Batsman T20 outtype analysis (wicket taken by A Hosein) are LBW 4 times, Bowled 7 times, Stumped 6 times, Catch 27 times. Left Handed Batsman T20 outtype analysis (wicket taken by A Hosein) are LBW 1 times, Bowled 3 times, Stumped 1 times, Catch 10 times.... Akeal Hosein Fielding analysis are Catch 19 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 1 times.... Akeal Hosein played 1 IPL matches and scored 16 runs in 1 Innings. Akeal Hosein's Highest Score in IPL is 16. A Hosein has 0 IPL centuries, 0 IPL half centuries and 0 times 30+ and 0 times 20+ IPL runs.... A Hosein has a strike rate of 160 with run per match of 16.00 in 10 IPL balls. Akeal Hosein made total 2 boundaries with 1 fours and 1 sixes in IPL. A Hosein's IPL outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 0 times, Run Out 0 times.... Akeal Hosein's IPL wicket takers are 0 left arm and 0 right arm. A Hosein's Left Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... Akeal Hosein's Right Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. A Hosein's wicket taken by Left Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Akeal Hosein's wicket taken by Right Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Akeal Hosein Took 1 Wickets (In 1 IPL innings) with Strike Rate of 24.00 and average of 40.00. A Hosein's delivered 24 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 1 Right Handed and 0 Left Handed batsman out by Akeal Hosein in IPL. Right Handed Batsman IPL outtype analysis (wicket taken by A Hosein) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 1 times. Left Handed Batsman IPL outtype analysis (wicket taken by A Hosein) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Akeal Hosein plays cricket as Bowling Allrounder. Akeal Hosein run per match stats are 7.1 runs in ODI, 3.7 runs in T20, 16.0 runs in IPL, 3.5 runs in T10, 6.6 runs in BBL, 0.5 runs in Hundred, 4.5 runs in CPL, 8.8 runs in PSL, 9.0 runs in DODI, 7.0 runs in DT20.... A Hosein wicket per match stats are 1.5 in ODI, 0.9 in T20, 1.0 in IPL, 0.4 in T10, 1.2 in BBL, 1.3 in Hundred, 0.7 in CPL, 1.2 in PSL, 1.1 in DODI, 0.7 in DT20.... A Hosein make boundary in every 15.1 balls in ODI, 8.6 balls in T20, 5.0 balls in IPL, 6.1 balls in T10, 9.3 balls in BBL, 0 balls in Hundred, 9.3 balls in CPL, 7.9 balls in PSL, 9.8 balls in DODI, 11.9 balls in DT20.... Akeal Hosein wicket in every 35.6 balls in ODI, 22.6 balls in T20, 24.0 balls in IPL, 14.2 balls in T10, 18.3 balls in BBL, 14.1 balls in Hundred, 24.6 balls in CPL, 19.1 balls in PSL, 45.6 balls in DODI, 22.7 balls in DT20.... Akeal Hosein hits six in every 36.4 balls in ODI, every 18.8 balls in T20, every 10.0 balls in IPL, every 8.6 balls in T10, every 16.8 balls in BBL, every 0 balls in Hundred, every 22.3 balls in CPL, every 15.8 balls in PSL, every 23.6 balls in DODI, every 21.8 balls in DT20.... Akeal Hosein score four in every 26.0 balls in ODI, 16.1 balls in T20, 10.0 balls in IPL, 21.5 balls in T10, 21.0 balls in BBL, 0 balls in Hundred, 16.1 balls in CPL, 15.8 balls in PSL, 16.8 balls in DODI, 26.2 balls in DT20.... |## Akeal Hosein stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|BT|all|CPL|14|22|14.00|Stats|
+|GUY|all|CPL|0|0|Stats|
+|TKR|all|CPL|23|44|16.66|Stats|
+|ABF|all|CPL|0|0|Stats|
+|WI|all|ODI|28|60|13.35|Stats|
+|TNT|all|DODI|1|16|16.00|Stats|
+|TNT|all|DODI|3|42|40.50|Stats|
+|WI-U19|all|DODI|1|11|11.00|Stats|
+|WI|all|T20|29|44|15.25|Stats|
+|SA|all|T20|0|0|Stats|
+|## Akeal Hosein stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Queens Park Oval|all|CPL|9|44|21.80|Stats|
+|Kensington Oval|all|CPL|6|20|19.00|Stats|
+|Warner Park|all|CPL|9|22|19.50|Stats|
+|Daren Sammy National Cricket S|all|CPL|2|5|2.50|Stats|
+|Providence Stadium|all|CPL|4|2|1.33|Stats|
+|National Cricket Stadium|all|CPL|0|0|Stats|
+|Central Broward Regional Park|all|CPL|3|22|19.50|Stats|
+|Sabina Park|all|CPL|2|8|9.00|Stats|
+|Brian Lara Stadium|all|CPL|1|0|0.00|Stats|
+|Sir Vivian Richards Stadium|all|CPL|1|11|11.00|Stats|
+|## Akeal Hosein stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Providence Stadium|all|CPL|9|6|7.41|Stats|
+|Brian Lara Stadium|all|CPL|5|5|6.47|Stats|
+|Sir Vivian Richards Stadium|all|CPL|2|0|5.57|Stats|
+|Sabina Park|all|CPL|1|0|4.00|Stats|
+|Queens Park Oval|all|CPL|8|10|6.28|Stats|
+|Central Broward Regional Park|all|CPL|4|2|6.89|Stats|
+|Kensington Oval|all|CPL|11|8|7.11|Stats|
+|Warner Park|all|CPL|16|18|5.35|Stats|
+|Daren Sammy National Cricket S|all|CPL|3|0|7.66|Stats|
+|National Cricket Stadium|all|CPL|1|0|8.66|Stats|
+|## Akeal Hosein stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|CPL 2023|all|CPL|6|44|15.75|Stats|
+|CPL 2017|all|CPL|6|22|13.60|Stats|
+|CPL 2019|all|CPL|0|0|Stats|
+|CPL 2021|all|CPL|7|22|31.50|Stats|
+|CPL 2016|all|CPL|3|8|10.00|Stats|
+|CPL 2014|all|CPL|3|12|4.33|Stats|
+|CPL 2015|all|CPL|2|8|11.00|Stats|
+|CPL 2022|all|CPL|5|14|9.66|Stats|
+|CPL 2024|all|CPL|5|20|15.00|Stats|
+|WI TO IND 2022|all|ODI|2|34|17.00|Stats|
+|## Akeal Hosein stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|CPL 2023|all|CPL|11|8|6.94|Stats|
+|CPL 2017|all|CPL|8|6|6.91|Stats|
+|CPL 2019|all|CPL|3|0|7.42|Stats|
+|CPL 2016|all|CPL|6|4|7.09|Stats|
+|CPL 2021|all|CPL|11|13|4.92|Stats|
+|CPL 2024|all|CPL|9|9|6.82|Stats|
+|CPL 2022|all|CPL|6|9|6.25|Stats|
+|CPL 2014|all|CPL|6|0|7.00|Stats|
+|New Zealand tour of West Indie|all|ODI|3|5|4.79|Stats|
+|IRE TO WI 2022|all|ODI|3|6|5.17|Stats|
+|## Akeal Hosein stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|Jamaica|all|CPL|2|8|9.00|Stats|
+|Barbados|all|CPL|6|20|19.00|Stats|
+|Saint Kitts and Nevis|all|CPL|9|22|19.50|Stats|
+|Saint Lucia|all|CPL|2|5|2.50|Stats|
+|West Indies|all|CPL|6|11|3.00|Stats|
+|United States|all|CPL|3|22|19.50|Stats|
+|Trinidad and Tobago|all|CPL|9|44|21.80|Stats|
+|Grenada|all|CPL|0|0|Stats|
+|Netherlands|all|ODI|1|3|3.00|Stats|
+|Jamaica|all|ODI|3|23|19.50|Stats|
+|## Akeal Hosein stats Bowling On Countries|
+|--|
+|Country|Year|Mode|Inn|Wkts|Eco|Stats|
+|Trinidad and Tobago|all|CPL|8|10|6.28|Stats|
+|Saint Kitts and Nevis|all|CPL|16|18|5.35|Stats|
+|Saint Lucia|all|CPL|3|0|7.66|Stats|
+|West Indies|all|CPL|16|11|6.87|Stats|
+|Barbados|all|CPL|11|8|7.11|Stats|
+|United States|all|CPL|4|2|6.89|Stats|
+|Jamaica|all|CPL|1|0|4.00|Stats|
+|Grenada|all|CPL|1|0|8.66|Stats|
+|Netherlands|all|ODI|3|8|4.13|Stats|
+|India|all|ODI|2|2|5.66|Stats|
+|## Akeal Hosein stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|TKR|all|CPL|4|12|9.66|Stats|
+|STZ|all|CPL|7|13|9.00|Stats|
+|SNP|all|CPL|4|11|8.50|Stats|
+|GAW|all|CPL|10|44|17.50|Stats|
+|JT|all|CPL|6|22|30.00|Stats|
+|AH|all|CPL|3|12|32.00|Stats|
+|BR|all|CPL|3|20|16.50|Stats|
+|IRE|all|ODI|3|23|19.50|Stats|
+|IND|all|ODI|5|34|24.33|Stats|
+|PAK|all|ODI|3|60|41.00|Stats|
+|## Akeal Hosein stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Shere Bangla National Stadium|all|BAN|ODI|2|12|13.00|Stats|
+|Zahur Ahmed Chowdhury Stadium|all|BAN|ODI|1|0|0.00|Stats|
+|Sir Vivian Richards Stadium|all|SL|ODI|0|0|Stats|
+|Coolidge Cricket Ground|all|WNI|DODI|0|0|Stats|
+|Sir Vivian Richards Stadium|all|BAR|DODI|1|16|16.00|Stats|
+|Coolidge Cricket Ground|all|JAM|DODI|0|0|Stats|... |Coolidge Cricket Ground|all|GUY|DODI|0|0|Stats|
+|Queens Park Oval|all|PSC|DT20|1|18|18.00|Stats|
+|Queens Park Oval|all|YCC|DT20|1|17|17.00|Stats|
+|Queens Park Oval|all|PSC|IPL|1|18|18.00|Stats|
+|## Akeal Hosein stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Shere Bangla National Stadium|all|BAN|ODI|2|4|3.67|Stats|
+|Zahur Ahmed Chowdhury Stadium|all|BAN|ODI|1|0|4.60|Stats|
+|Sir Vivian Richards Stadium|all|SL|ODI|3|4|4.40|Stats|
+|Coolidge Cricket Ground|all|WNI|DODI|1|2|2.50|Stats|
+|Sir Vivian Richards Stadium|all|BAR|DODI|1|2|4.40|Stats|
+|Coolidge Cricket Ground|all|JAM|DODI|1|0|8.25|Stats|
+|Coolidge Cricket Ground|all|GUY|DODI|1|1|3.60|Stats|
+|Queens Park Oval|all|PSC|DT20|1|2|5.25|Stats|
+|Queens Park Oval|all|YCC|DT20|1|1|7.25|Stats|
+|Queens Park Oval|all|PSC|IPL|1|2|5.25|Stats|
+|## Akeal Hosein stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|CPL 2024|SKN|CPL|0|0|Stats|
+|CPL 2024|GUY|CPL|0|0|Stats|
+|CPL 2019|GUY|CPL|0|0|Stats|
+|CPL 2024|BR|CPL|1|20|20.00|Stats|
+|CPL 2024|SLK|CPL|2|5|5.00|Stats|
+|CPL 2024|TKR|CPL|0|0|Stats|
+|CPL 2024|ABF|CPL|2|11|20.00|Stats|
+|CPL 2015|TKR|CPL|1|8|8.00|Stats|
+|CPL 2014|GAW|CPL|0|0|Stats|
+|CPL 2014|STK|CPL|1|0|0.00|Stats|
+|## Akeal Hosein stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|CPL 2024|ABF|CPL|2|1|5.50|Stats|
+|CPL 2024|SKN|CPL|1|1|9.00|Stats|
+|CPL 2024|GUY|CPL|2|2|5.50|Stats|
+|CPL 2019|GUY|CPL|1|0|9.00|Stats|
+|CPL 2024|BR|CPL|2|5|5.50|Stats|
+|CPL 2024|SLK|CPL|2|0|9.37|Stats|
+|CPL 2014|JT|CPL|1|0|4.00|Stats|
+|CPL 2017|JT|CPL|2|2|6.71|Stats|
+|CPL 2016|SNP|CPL|2|2|7.40|Stats|
+|CPL 2016|TKR|CPL|2|2|6.85|Stats|
+|## Akeal Hosein stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|West Indies|all|TKR|CPL|0|0|Stats|
+|Trinidad and Tobago|all|ABF|CPL|1|9|9.00|Stats|
+|West Indies|all|BR|CPL|0|0|Stats|
+|United States|all|GAW|CPL|1|5|5.00|Stats|
+|Barbados|all|GAW|CPL|2|17|20.00|Stats|
+|Barbados|all|STZ|CPL|0|0|Stats|
+|Barbados|all|TKR|CPL|1|2|2.00|Stats|
+|United States|all|JT|CPL|2|22|34.00|Stats|
+|Trinidad and Tobago|all|TKR|CPL|3|12|13.50|Stats|
+|Barbados|all|SNP|CPL|0|0|Stats|
+|## Akeal Hosein stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|West Indies|all|BR|CPL|1|3|3.75|Stats|
+|Trinidad and Tobago|all|ABF|CPL|1|1|5.33|Stats|
+|Barbados|all|JT|CPL|1|0|7.66|Stats|
+|Barbados|all|STZ|CPL|2|0|10.40|Stats|
+|Barbados|all|TKR|CPL|2|0|9.25|Stats|
+|United States|all|JT|CPL|2|2|6.71|Stats|
+|Trinidad and Tobago|all|TKR|CPL|1|2|4.50|Stats|
+|Barbados|all|SNP|CPL|1|2|6.75|Stats|
+|Jamaica|all|JT|CPL|1|0|4.00|Stats|
+|United States|all|GAW|CPL|2|0|7.12|Stats|

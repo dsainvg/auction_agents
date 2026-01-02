@@ -1,63 +1,16 @@
-================================================================================
-IPL PLAYER PROFILE: JAYANT YADAV
-================================================================================
+Career-Stats
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Jayant Yadav
-  IPL Debut                : 2015
-  Date of Birth            : 22 January 1990
-  Total IPL Matches        : 20
-  Role                     : WK-Batter
-  Nationality              : Indian
+Batting Stats
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-    A bowling all-rounder from Haryana, Jayant Yadav is known for his tight
-  off-spin and his ability to contribute useful lower-order runs. With over
-  250 first-class wickets and nearly 3,000 runs, he has been a key figure in
-  domestic cricket. His ability to contain runs and bowl effectively in the
-  powerplay makes him a valuable asset in T20 cricket. After spending five
-  seasons with Delhi Capitals (2014-2018), he became a two-time IPL champion
-  with Mumbai Indians (2019, 2020), playing a crucial role in the IPL 2020
-  final by dismissing Shikhar Dhawan. He later joined Gujarat Titans in 2022,
-  winning the title with them. The franchise retained their trust in him,
-  re-signing him for INR 75 Lakh at the 2025 TATA IPL Auction.
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    20    |    1     |    40    |    23    |  10.00   |    36    |  111.11  |    0     |    0     |    2     |    1     |    8     |    0    
-    2023   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
-    2021   |    5     |    1     |    34    |    23    |  17.00   |    26    |  130.76  |    0     |    0     |    2     |    1     |    2     |    0    
-    2020   |    2     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2019   |    2     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
-    2017   |    2     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2016   |    5     |    0     |    6     |    5     |   3.00   |    10    |  60.00   |    0     |    0     |    0     |    0     |    1     |    0    
-    2015   |    3     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    20    |   390    |   445    |    8     |   1/23   |  55.63   |   6.85   |  48.75   |    0     |    0    
-    2023   |    1     |    24    |    26    |    0     |   0/26   |    -     |   6.50   |    -     |    0     |    0    
-    2021   |    5     |   102    |   130    |    2     |   1/25   |  65.00   |   7.64   |  51.00   |    0     |    0    
-    2020   |    2     |    42    |    43    |    1     |   1/25   |  43.00   |   6.14   |  42.00   |    0     |    0    
-    2019   |    2     |    42    |    50    |    1     |   1/25   |  50.00   |   7.14   |  42.00   |    0     |    0    
-    2017   |    2     |    36    |    42    |    0     |   0/16   |    -     |   7.00   |    -     |    0     |    0    
-    2016   |    5     |   102    |   125    |    2     |   1/23   |  62.50   |   7.35   |  51.00   |    0     |    0    
-    2015   |    3     |    42    |    29    |    2     |   1/8    |  14.50   |   4.14   |  21.00   |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/jayant-yadav/1740
-================================================================================
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|--|--|--|-|--|--|--|
+|ODI|--|--|--|-|--|--|--|... |T20I|--|--|--|-|--|--|--|
+|FC|21|35|867|53.29|27.09|3/1|96/20|
+|listA|27|27|1020|93.66|39.23|6/2|122/27|... |T20s|27|23|414|120.35|18.00|3/0|46/13|
+Bowling Stats... |Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|--|--|--|--|--|--|--|--|
+|ODI|--|--|--|--|--|--|--|--|... |T20I|--|--|--|--|--|--|--|--|
+|FC|21|10|180|1|4.30|-|129.00|0|
+|listA|27|23|432|10|6.71|-|48.30|0|... |T20s|27|9|94|8|8.22|-|15.63|0|

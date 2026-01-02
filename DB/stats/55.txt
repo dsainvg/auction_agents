@@ -1,25 +1,27 @@
 ================================================================================
-IPL PLAYER PROFILE: MAHIPAL LOMROR
+IPL PLAYER PROFILE: KARN SHARMA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Mahipal Lomror
-  IPL Debut                : 2018
-  Date of Birth            : 16 November 1999
-  Total IPL Matches        : 40
+  Player Name              : Karn Sharma
+  IPL Debut                : 2009
+  Date of Birth            : 23 October 1987
+  Total IPL Matches        : 90
+  Role                     : Bowler
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  Mahipal Lomror gained recognition based on his performances in Indiaâ€™s
-  Under-19 team. The youngster who has been playing for his state side in the
-  junior domestic circuit got an opportunity to display his skills on a larger
-  platform when he was selected for the ICC Under-19 Cricket World Cup 2016 in
-  Bangladesh. He was bought by the Delhi Daredevils (now Delhi Capitals) ahead
-  of the ninth season of the IPL before moving to Rajasthan Royals. While he
-  featured only in only five games across IPL 2019 and IPL 2020, Rajasthan
-  Royals retained the youngster for the IPL 2021.
+  A leg-spinner from Uttar Pradesh, Karn Sharma made headlines in IPL 2014
+  when Sunrisers Hyderabad bought him for INR 3.75 cr to in the IPL Auction.
+  It was the highest amount earned by a domestic uncapped player in the
+  auction and was a reward for his performance with SRH when he grabbed 11
+  wickets in 13 games at an economy rate of 6.60. With 15 wickets in 2014
+  season, the old-fashioned leggie started playing a vital role in the team’
+  spin bowling options. Karn was bought by Mumbai Indians in the 2017 edition
+  of the league and they tried hard to bring him back, but CSK outbid them and
+  landed the star spinner for INR 5 Cr.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -29,14 +31,19 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    40    |    6     |   527    |   54*    |  18.17   |   373    |  141.29  |    0     |    1     |    33    |    30    |    10    |    0    
-    2024   |    10    |    2     |   125    |    33    |  15.63   |    68    |  183.82  |    0     |    0     |    9     |    9     |    3     |    0    
-    2023   |    12    |    2     |   135    |   54*    |  16.88   |    97    |  139.18  |    0     |    1     |    9     |    8     |    4     |    0    
-    2022   |    7     |    0     |    86    |    42    |  17.20   |    57    |  150.88  |    0     |    0     |    7     |    4     |    2     |    0    
-    2021   |    4     |    1     |    94    |    43    |  31.33   |    73    |  128.76  |    0     |    0     |    3     |    6     |    0     |    0    
-    2020   |    3     |    0     |    59    |    47    |  19.66   |    54    |  109.25  |    0     |    0     |    2     |    3     |    0     |    0    
-    2019   |    2     |    0     |    8     |    8     |   8.00   |    3     |  266.66  |    0     |    0     |    2     |    0     |    1     |    0    
-    2018   |    2     |    1     |    20    |    11    |  20.00   |    21    |  95.23   |    0     |    0     |    1     |    0     |    0     |    0    
+   Career  |    90    |    16    |   351    |   39*    |  14.04   |   292    |  120.21  |    0     |    0     |    20    |    17    |    23    |    0    
+    2025   |    6     |    1     |    1     |    1*    |    -     |    1     |  100.00  |    0     |    0     |    0     |    0     |    3     |    0    
+    2024   |    9     |    0     |    31    |    20    |  10.33   |    15    |  206.67  |    0     |    0     |    2     |    3     |    6     |    0    
+    2023   |    7     |    0     |    3     |    2     |   1.50   |    5     |  60.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2020   |    5     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2019   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2018   |    6     |    1     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    3     |    0    
+    2017   |    9     |    0     |    49    |    19    |   8.16   |    41    |  119.51  |    0     |    0     |    5     |    2     |    3     |    0    
+    2016   |    5     |    3     |    36    |   26*    |   0.00   |    30    |  120.00  |    0     |    0     |    3     |    1     |    0     |    0    
+    2015   |    14    |    3     |   104    |    32    |  17.33   |    85    |  122.35  |    0     |    0     |    3     |    6     |    4     |    0    
+    2014   |    14    |    4     |    42    |   17*    |  10.50   |    29    |  144.82  |    0     |    0     |    1     |    3     |    0     |    0    
+    2013   |    13    |    3     |    85    |   39*    |  21.25   |    86    |  98.83   |    0     |    0     |    6     |    2     |    4     |    0    
+    2009   |    1     |    1     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -46,15 +53,165 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    40    |    90    |   127    |    1     |   1/22   |  127.00  |   8.47   |  90.00   |    0     |    0    
-    2024   |    10    |    6     |    18    |    0     |   0/18   |    -     |  18.00   |    -     |    0     |    0    
-    2023   |    12    |    12    |    17    |    0     |   0/4    |    -     |   8.50   |    -     |    0     |    0    
-    2022   |    7     |    12    |    18    |    0     |   0/7    |    -     |   9.00   |    -     |    0     |    0    
-    2021   |    4     |    42    |    47    |    1     |   1/22   |  47.00   |   6.71   |  42.00   |    0     |    0    
-    2020   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2019   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    2     |    18    |    27    |    0     |   0/8    |    -     |   9.00   |    -     |    0     |    0    
+   Career  |    90    |   1585   |   2215   |    83    |   4/16   |  26.69   |   8.38   |  19.10   |    2     |    0    
+    2025   |    6     |    90    |   128    |    7     |   3/23   |  18.29   |   8.53   |  12.86   |    0     |    0    
+    2024   |    9     |   144    |   254    |    7     |   2/29   |  36.29   |  10.58   |  20.57   |    0     |    0    
+    2023   |    7     |   129    |   223    |    10    |   2/19   |  22.30   |  10.37   |  12.90   |    0     |    0    
+    2020   |    5     |   114    |   165    |    5     |   2/25   |  33.00   |   8.68   |  22.80   |    0     |    0    
+    2019   |    1     |    17    |    33    |    1     |   1/33   |  33.00   |  11.64   |  17.00   |    0     |    0    
+    2018   |    6     |    57    |    89    |    4     |   2/13   |  22.25   |   9.36   |  14.25   |    0     |    0    
+    2017   |    9     |   184    |   214    |    13    |   4/16   |  16.46   |   6.97   |  14.15   |    1     |    0    
+    2016   |    5     |    98    |   171    |    0     |   0/24   |    -     |  10.46   |    -     |    0     |    0    
+    2015   |    14    |   239    |   332    |    10    |   2/12   |  33.20   |   8.33   |  23.90   |    0     |    0    
+    2014   |    14    |   304    |   376    |    15    |   4/38   |  25.06   |   7.42   |  20.26   |    1     |    0    
+    2013   |    13    |   209    |   230    |    11    |   2/19   |  20.90   |   6.60   |  19.00   |    0     |    0    
+    2009   |    1     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/mahipal-lomror/2970
+Source: https://www.iplt20.com/players/karn-sharma/1118
 ================================================================================
+# Kartik Sharma
+
+India
+
+Wicketkeeper Batter
+
+### More India Players
+
+Parvez Pinto Sultan
+
+Bowler
+
+Emmanuel Cherian
+
+Bowler
+
+Aniket Umashankar Verma
+
+Batter
+
+Vivrant Sharma
+
+Allrounder
+
+Kunal Chandela
+
+Sameer Choudhary
+
+Luvnith Sujith Sisodia
+
+Wicketkeeper Batter
+
+Priyansh Arya
+
+Opening Batter
+
+Siddarth Yadav
+
+Limar Kali Dabi
+
+### Personal Information
+
+- Age
+
+- 19 years
+
+- Batting Style
+
+- Right Hand Bat
+
+- Playing Role
+
+- Wicketkeeper Batter
+
+### Teams
+
+Rajasthan
+
+India
+
+## Career Stats
+
+### Batting
+
+|Format|Mat|Inns|NO|Runs|HS|Ave|BF|SR|100|50|4s|6s|Ct|St|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|FC|3|5|-|148|113|29.60|175|84.57|1|-|13|8|2|-|
+|List A|9|8|-|445|123|55.62|377|118.03|2|2|33|26|7|-|
+|T20s|7|6|-|201|58|33.50|122|164.75|-|2|9|17|3|-|
+### Bowling
+
+|Format|Mat|Inns|Balls|Runs|Wkts|BBI|Ave|Econ|SR|5W|10W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|FC|3|-|-|-|-|-|-|-|-|-|-|
+|List A|9|-|-|-|-|-|-|-|-|-|-|
+|T20s|7|-|-|-|-|-|-|-|-|-|-|
+## Recent Matches
+
+|Match|Date|Venue|Format|Toss|Bat|Bowl|Field|Result|Series|
+|--|--|--|--|--|--|--|--|--|--|
+|RAJ vs AP|2025-01-30|Vizianagaram Vizianagaram|TEST|Won (Bat)|13 & 0|-|0c/0s & 0c/0s|Lost Andhra won by 6 wickets|Ranji Trophy 2024/25|
+|RAJ vs VIDAR|2025-01-23|Jaipur Jaipur|TEST|Lost (Bat)|16 & 6|-|-|Lost Vidarbha won by 221 runs|Ranji Trophy 2024/25|
+|RAJ vs VIDAR|2025-01-12|Vadodara Vadodara|ODI|Lost (Bowl)|62|-|-|Lost Vidarbha won by 9 wickets (with 39 balls remaining)|Vijay Hazare Trophy 2024/25|
+|RAJ vs TN|2025-01-09|Vadodara Vadodara|ODI|Lost (Bowl)|35|-|2c/0s|Won Rajasthan won by 19 runs|Vijay Hazare Trophy 2024/25|
+|RAJ vs SIKM|2025-01-05|DY Patil Navi Mumbai|ODI|Won (Bowl)|45|-|-|Lost Sikkim won by 6 runs|Vijay Hazare Trophy 2024/25|
+|RAJ vs RLYS|2025-01-03|Mumbai Mumbai|ODI|Won (Bowl)|100|-|-|Won Rajasthan won by 1 wicket (with 1 ball remaining)|Vijay Hazare Trophy 2024/25|
+|RAJ vs SVCS|2024-12-31|Mumbai Mumbai|ODI|Won (Bowl)|53|-|1c/0s|Won Rajasthan won by 5 wickets (with 24 balls remaining)|Vijay Hazare Trophy 2024/25|
+|RAJ vs MEGHA|2024-12-28|Wankhede Mumbai|ODI|Won (Bowl)|15|-|0c/0s|Won Rajasthan won by 6 wickets (with 104 balls remaining)|Vijay Hazare Trophy 2024/25|
+|RAJ vs HP|2024-12-26|Mumbai Mumbai|ODI|Won (Bowl)|12|-|1c/0s|Won Rajasthan won by 2 wickets (with 3 balls remaining)|Vijay Hazare Trophy 2024/25|
+|RAJ vs AP|2024-12-23|Wankhede Mumbai|ODI|Won (Bowl)|-|-|2c/0s|Won Rajasthan won by 9 wickets (with 38 balls remaining)|Vijay Hazare Trophy 2024/25|
+## Debut/Last Matches
+
+|First-class|
+|--|
+|Debut|2024-11-13 Rajasthan v Uttarakhand, Dehradun|
+|Last|2025-01-30 Rajasthan v Andhra, Vizianagaram|
+|List A|
+|Debut|2024-12-21 Rajasthan v Maharashtra, Mumbai|
+|Last|2025-01-12 Rajasthan v Vidarbha, Vadodara|
+|Twenty20|
+|Debut|2024-11-23 Rajasthan v Bihar, Saurashtra|
+|Last|2024-12-05 Rajasthan v Bengal, Rajkot|
+## About
+
+In the dynamic world of cricket, the emergence of young talent is always a thrilling spectacle. One such name that has captured the attention of fans and experts alike is
+
+**Kartik Sharma**. Known for his impressive skills and unwavering dedication, Sharma has quickly cemented his place in the cricketing community. In this article, we will explore his journey, achievements, and the impact he is making in the sport.
+
+## Early Life and Background
+
+Kartik Sharma was born on August 5, 2002, in the vibrant city of Delhi, India. From a young age, he exhibited a passion for sports, particularly cricket. Growing up in a family that cherished the game, it was only natural for him to be drawn to the cricket field. His father, a former cricketer at the local level, played a pivotal role in nurturing his talent.
+
+Sharma's early education at St. Stephen's School provided him with a solid foundation, not just academically but also in terms of sportsmanship. It was during these formative years that he honed his skills, participating in various local tournaments and gaining invaluable experience. His dedication and hard work soon began to pay off, leading him to be recognized as a promising cricketer.
+
+## Cricketing Journey
+
+Sharma's professional cricket journey began when he joined the Delhi U-19 team. His performances were nothing short of spectacular, showcasing his ability to adapt to various formats of the game. In the 2019-2020 season, he made headlines during the U-19 National Championship, where he was the leading wicket-taker for his team. His ability to swing the ball and take crucial wickets made him a standout player.
+
+### Breakthrough in Domestic Cricket
+
+After his success in the U-19 circuit, Kartik Sharma's big break came when he was selected for the Delhi Ranji Trophy team. This prestigious tournament is known for launching the careers of many cricketing legends. In his debut match, Sharma made an immediate impact, taking three wickets and helping his team secure a vital victory.
+
+His impressive performances in the domestic circuit have not gone unnoticed. Cricket analysts and fans have started to draw comparisons between Sharma and some of the greats of the game. With each match, he continues to enhance his reputation, cementing his status as a player to watch in the coming years.
+
+## Playing Style and Skills
+
+What sets Kartik Sharma apart from his contemporaries is his versatile playing style. Primarily a right-arm fast bowler, his ability to generate pace and swing the ball makes him a formidable opponent on the field. Sharma is not just a bowler; he is also a capable lower-order batsman, known for his resilience and determination. This dual skill set allows him to contribute significantly to his team in various situations.
+
+Moreover, his calm demeanor and strategic thinking during high-pressure situations have earned him respect among his teammates and coaches. Sharma's commitment to fitness and continuous improvement reflects his understanding of the modern game. He is dedicated to honing his skills and adapting to the evolving demands of cricket.
+
+### A Bright Future Ahead
+
+As Kartik Sharma continues to rise through the ranks, the cricketing world eagerly anticipates his future contributions. His journey is a testament to the power of perseverance and passion. With the support of his family, coaches, and fans, Sharma is on the path to becoming one of India's cricketing icons.
+
+## Achievements and Recognition
+
+- Leading wicket-taker in the U-19 National Championship (2019-2020).
+
+- Debut in the Delhi Ranji Trophy with a remarkable performance.
+
+- Recognized as one of the most promising young bowlers in India.
+
+- Consistent performances in domestic leagues, gaining attention from national selectors.... ## Conclusion
+
+Kartik Sharma is not just a name; he represents the hope and dreams of many aspiring cricketers in India. His journey from a young boy with a passion for cricket to a promising talent in domestic cricket serves as an inspiration. As fans, we can only wait with bated breath to see how this young star will shape the future of Indian cricket.... With his remarkable skills and unwavering determination, it is clear that Kartik Sharma is destined for greatness. Whether he continues to break records or inspires the next generation of cricketers, one thing is certain: his name will be etched in the annals of cricket history.

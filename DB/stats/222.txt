@@ -1,59 +1,1302 @@
-================================================================================
-IPL PLAYER PROFILE: BASIL THAMPI
-================================================================================
+# Nathan Smith Stats
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Basil Thampi
-  IPL Debut                : 2017
-  Date of Birth            : 11 September 1993
-  Total IPL Matches        : 25
-  Role                     : Bowler
-  Nationality              : Indian
+2025/2026
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Kerala pacer Basil Thampi’s ability to hit the deck hard and extract
-  credible pace was a vital talking point in his inaugural season for Gujarat
-  Lions in 2017. He claimed a decent haul of 11 wickets at a substantial
-  strike rate of 24.36 for them in that season. Thampi was then drafted into
-  the Sunrisers Hyderabad squad in 2018 and since then been a part of the
-  franchise. The fast bowler will be looking to make an impact this year.
+2024/2025
 
-CAREER HIGHLIGHTS
---------------------------------------------------------------------------------
-  1. Career best strike rate: 24.36
+2023/2024
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    25    |    7     |    32    |   13*    |  32.00   |    35    |  91.43   |    0     |    0     |    1     |    1     |    5     |    0    
-    2022   |    5     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2020   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2019   |    3     |    1     |    1     |    1*    |   0.00   |    1     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
-    2018   |    4     |    1     |    3     |    3     |   3.00   |    6     |  50.00   |    0     |    0     |    0     |    0     |    2     |    0    
-    2017   |    12    |    5     |    28    |   13*    |   0.00   |    28    |  100.00  |    0     |    0     |    1     |    1     |    2     |    0    
+2022/2023
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    25    |   521    |   846    |    22    |   3/29   |  38.45   |   9.74   |  23.68   |    0     |    0    
-    2022   |    5     |    96    |   152    |    5     |   3/35   |  30.40   |   9.50   |  19.20   |    0     |    0    
-    2020   |    1     |    24    |    46    |    1     |   1/46   |  46.00   |  11.50   |  24.00   |    0     |    0    
-    2019   |    3     |    72    |   110    |    0     |   0/29   |    -     |   9.16   |    -     |    0     |    0    
-    2018   |    4     |    61    |   114    |    5     |   2/4    |  22.80   |  11.21   |  12.20   |    0     |    0    
-    2017   |    12    |   268    |   424    |    11    |   3/29   |  38.54   |   9.49   |  24.36   |    0     |    0    
+2021/2022
 
-================================================================================
-Source: https://www.iplt20.com/players/basil-thampi/3825
-================================================================================
+2020/2021
+
+2019/2020
+
+2018/2019
+
+More
+
+2017/2018
+
+2016/2017
+
+2015/2016... ## This Season (2025/2026) & Career Stats
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+23
+
+3
+
+34
+
+5... 4
+
+0
+
+2070'FA Cup
+
+1
+
+0
+
+2
+
+0
+
+0
+
+0
+
+90'League Cup
+
+1
+
+0
+
+1
+
+0
+
+0
+
+0
+
+90'EFL Trophy
+
+4
+
+0
+
+5
+
+0
+
+0
+
+0
+
+221'
+
+Total 2025/2026... 29
+
+3
+
+42
+
+5
+
+2471'CompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+262
+
+15... 296
+
+81
+
+23
+
+0
+
+23137'EFL League One
+
+133
+
+9
+
+186
+
+34
+
+12
+
+0
+
+11710'National League
+
+39
+
+2
+
+56
+
+10
+
+3
+
+1
+
+3392'EFL Trophy
+
+31
+
+1
+
+34
+
+9
+
+1
+
+0
+
+2651'FA Cup... 21
+
+0
+
+30
+
+6
+
+2
+
+1
+
+1818'League Cup
+
+11
+
+0
+
+20
+
+2
+
+2
+
+0
+
+970'
+
+Total 2025/2026
+
+497
+
+27
+
+622
+
+142
+
+43678'
+
+Above is the career stats for Nathan Smith. Nathan Smith has played a total of 497 matches, scored 27 goals, and accumulated 9 assists. Nathan James has played the most amount of matches at EFL League Two with 262 apperances in England. Stats do not include club and international friendlies.
+
+### Per 90 minute stats in the EFL League Two... ## Nathan Smith Stats - Detailed
+
+## EFL League Two Stats for Nathan Smith
+
+|General|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Matches Played|23|N/A|99|
+|Minutes|2070|90 min' per appearance|99|
+|Matches Started|23|N/A|99|
+|Matches Subbed In|0|N/A|N/A|
+|Matches Subbed Out|0|N/A|N/A|... ## Defending Stats
+
+|Defending|Total|Per 90 or %|Percentile|
+|--|--|--|--|
+|Goals Conceded|34|1.48|22|
+|Minutes Per Goal Conceded|61 min'|N/A|22|
+|Clean Sheets|5|22%|41|... |Tackles|20|0.87|23|
+|Interceptions|28|1.22|87|
+|Ground Duels|258|11.22|54|
+|Ground Duels Won|175|7.61|85|
+|Aerial Duels Won|120|5.22|88|... |Dribbled Past|5|0.22|81|
+|Clearances|236|10.26|96|
+|Shots Blocked|32|1.39|99|
+|Penalties Given Away|1|0.04|14|... As a Defender, Nathan Smith has conceded 34 goals and kept 5 clean sheets in 23 matches in the EFL League Two 2025/2026 season. That means when Smith is on the pitch, his team conceded a goal every 61 minutes. Moreover, he's made 0.87 tackles and 1.22 interceptions for every 90 minutes he was on the pitch. Smith is also racking up about 10.26 clearances at the same time.... ## Yellow Cards, Red Cards and Foul Stats
+
+|Cards & Fouls|Total|Per 90|Percentile|
+|--|--|--|--|
+|Yellow Cards|4|N/A|N/A|
+|Red Cards|0|N/A|N/A|
+|Total Cards|4|0.17|50|
+|Minutes Per Booking|518 min' / card|N/A|64|... |Cards Over 0.5|4|17%|70|
+|Fouls Committed|17|0.74|28|
+|Fouled Against|35|1.52|77|
+Nathan Smith has received 4 yellow cards and 0 red cards in 23 matches so far in the EFL League Two 2025/2026 season. He commits 0.74 fouls per 90 minutes.... ## Goals and xG (Expected Goals)
+
+|Goals, xG, Shots|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Goals Scored|3|0.13|64|
+|Goal Involvement|3|0.13|48|
+|Goals at Home|0|0|55|... |Goals at Away|3|0.27|84|
+|Expected Goals (xG)|2.68|0.12|52|
+|Non-Penalty xG (npxG)|2.68|0.12|54|
+|Penalties Scored|0|N/A|N/A|... |Hat-tricks|0|N/A|N/A|
+|3 or More Goals|0|N/A|N/A|
+|2 or More Goals|0|N/A|N/A|
+|Minutes Per Goal|690 min' / goal|N/A|N/A|... Nathan Smith has scored 3 goals in 23 matches so far in the EFL League Two 2025/2026 season. 0 of the 3 goals were scored at home while he scored 3 goals at away games. Overall, Nathan Smith's goals scored per 90 minutes is 0.13.... Moreover, Nathan Smith's total G/A (goals + assists) is 3 for this season. His goal involvement equates to 0.13 per 90 minutes. His Non-Penalty xG per 90 minutes is 0.12. This puts Nathan Smith's npxG output at 2.68 which puts him in the top 54 percentile of EFL League Two players.... ## Shots Taken
+
+|Shots Data|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Shots Taken|14|0.61|32|
+|Shots On Target|3/ 14|0.13|28|
+|Shots Off Target|11/ 14|0.48|36|... |Hit The Woodwork|0 times|0.00|74|
+|Shot Conversion Rate|21.43%|N/A|91|
+|Shot Accuracy|21.43%|N/A|31|
+|Shots Per Goal Scored|4.67|N/A|N/A|... Nathan Smith has taken 14 shots in 23 matches so far in the EFL League Two 2025/2026 season. Of the 14 shots, 3 shots were on target and the other 11 shots were off target. That means that Smith's shooting accuracy is 21.43%. He scores a goal for every 4.67 shots he takes and takes 0.61 shots per 90 minutes on the pitch.... ## Assists, Passing, & Chance Creation Stats
+
+|Assists & Passing|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Assists|0|0|47|
+|Expected Assists (xA)|1.01|0.04|12|
+|Passes|577|25.09|32|... |Successful Passes|413/ 577|17.96|41|
+|Pass Completion Rate|71.58%|N/A|60|
+|Key Passes|4|0.17|14|
+|Crosses|0|0.00|11|
+|Successful Crosses|0/ 0|0.00|27|
+|Cross Completion Rate|0.00%|N/A|27|
+|Minutes Per Assist|No Assists|N/A|N/A|
+Nathan Smith hasn't assisted any goals during this EFL League Two season.... ## Dribbling & Offside Stats
+
+|Dribbles & Offsides|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Dribbles|0|0.00|6|
+|Successful Dribbles|0|0.00|11|
+|Dribble Success Rate|0.00%|N/A|11|
+|Dispossesed|4|0.17|86|
+|Offsides|2|0.09|57|... ## Penalty Stats
+
+|Penalties|This Season|Career|
+|--|--|--|
+|Penalty Conversion Rate|No Pens|No Pens|
+|Penalties Taken|0|0|
+|Penalties Scored|0|0|
+|Penalties Missed|0|0|
+Nathan Smith has not taken any penalty kicks in his career yet (based on all the season data that we have at FootyStats). His penalty kick stats will be updated once he takes a pen in an official fixture.... ## FA Cup Stats for Nathan Smith
+
+|General|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Matches Played|1|N/A|-1|
+|Minutes|90|90 min' per appearance|-1|
+|Matches Started|1|N/A|-1|
+|Matches Subbed In|0|N/A|N/A|
+|Matches Subbed Out|0|N/A|N/A|... ### Defending Stats
+
+|Defending|Total|Per 90 or %|Percentile|
+|--|--|--|--|
+|Goals Conceded|2|2|-1|
+|Minutes Per Goal Conceded|45 min'|N/A|-1|
+|Clean Sheets|0|0%|-1|... |Tackles|0|0.00|-1|
+|Interceptions|0|0.00|-1|
+|Ground Duels|0|0.00|-1|
+|Ground Duels Won|0|0.00|-1|
+|Aerial Duels Won|0|0.00|-1|... |Dribbled Past|0|0.00|-1|
+|Clearances|0|0.00|-1|
+|Shots Blocked|0|0.00|-1|
+|Penalties Given Away|0|0.00|-1|... As a Defender, Nathan Smith has conceded 34 goals and kept 5 clean sheets in 1 matches in the EFL League Two 2025/2026 season. That means when Smith is on the pitch, his team conceded a goal every 45 minutes. Moreover, he's made 0.00 tackles and 0.00 interceptions for every 90 minutes he was on the pitch. Smith is also racking up about 0.00 clearances at the same time.... ## Yellow Cards, Red Cards and Foul Stats
+
+|Cards & Fouls|Total|Per 90|Percentile|
+|--|--|--|--|
+|Yellow Cards|0|N/A|N/A|
+|Red Cards|0|N/A|N/A|
+|Total Cards|0|0|-1|
+|Minutes Per Booking|No Bookings|N/A|-1|
+|Cards Over 0.5|0|0%|-1|
+|Fouls Committed|0|0.00|-1|
+|Fouled Against|0|0.00|-1|... ### Goals and xG (Expected Goals)
+
+|Goals, xG, Shots|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Goals Scored|0|0|-1|
+|Goal Involvement|0|0|-1|
+|Goals at Home|0|0|-1|
+|Goals at Away|0|0|-1|... |Expected Goals (xG)|0.00|0.00|-1|
+|Non-Penalty xG (npxG)|0.00|0.00|-1|
+|Penalties Scored|0|N/A|N/A|
+|Hat-tricks|0|N/A|N/A|
+|3 or More Goals|0|N/A|N/A|
+|2 or More Goals|0|N/A|N/A|
+|Minutes Per Goal|0 min' / goal|N/A|N/A|... ## Shots Taken
+
+|Shots Data|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Shots Taken|0|0.00|-1|
+|Shots On Target|0/ 0|0.00|-1|
+|Shots Off Target|0/ 0|0.00|-1|
+|Hit The Woodwork|0 times|0.00|-1|
+|Shot Conversion Rate|0.00%|N/A|-1|
+|Shot Accuracy|0.00%|N/A|-1|
+|Shots Per Goal Scored|0.00|N/A|N/A|... ### Assists, Passing, & Chance Creation Stats
+
+|Assists & Passing|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Assists|0|0|-1|
+|Expected Assists (xA)|0.00|0.00|-1|
+|Passes|0|0.00|-1|... |Successful Passes|0/ 0|0.00|-1|
+|Pass Completion Rate|0.00%|N/A|-1|
+|Key Passes|0|0.00|-1|
+|Crosses|0|0.00|-1|
+|Successful Crosses|0/ 0|0.00|-1|
+|Cross Completion Rate|0.00%|N/A|-1|
+|Minutes Per Assist|No Assists|N/A|N/A|... ### Dribbling & Offside Stats
+
+|Dribbles & Offsides|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Dribbles|0|0.00|-1|
+|Successful Dribbles|0|0.00|-1|
+|Dribble Success Rate|0.00%|N/A|-1|
+|Dispossesed|0|0.00|-1|
+|Offsides|0|0.00|-1|... ## Penalty Stats
+
+|Penalties|This Season|Career|
+|--|--|--|
+|Penalty Conversion Rate|No Pens|No Pens|
+|Penalties Taken|0|0|
+|Penalties Scored|0|0|
+|Penalties Missed|0|0|... ## League Cup Stats for Nathan Smith
+
+|General|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Matches Played|1|N/A|0|
+|Minutes|90|90 min' per appearance|0|
+|Matches Started|1|N/A|0|
+|Matches Subbed In|0|N/A|N/A|
+|Matches Subbed Out|0|N/A|N/A|... ### Defending Stats
+
+|Defending|Total|Per 90 or %|Percentile|
+|--|--|--|--|
+|Goals Conceded|1|1|56|
+|Minutes Per Goal Conceded|90 min'|N/A|56|
+|Clean Sheets|0|0%|28|... |Tackles|1|1.00|46|
+|Interceptions|2|2.00|98|
+|Ground Duels|9|9.00|74|
+|Ground Duels Won|7|7.00|96|
+|Aerial Duels Won|6|6.00|99|... |Dribbled Past|0|0.00|99|
+|Clearances|15|15.00|99|
+|Shots Blocked|1|1.00|86|
+|Penalties Given Away|0|0.00|99|... As a Defender, Nathan Smith has conceded 34 goals and kept 5 clean sheets in 1 matches in the EFL League Two 2025/2026 season. That means when Smith is on the pitch, his team conceded a goal every 90 minutes. Moreover, he's made 1.00 tackles and 2.00 interceptions for every 90 minutes he was on the pitch. Smith is also racking up about 15.00 clearances at the same time.... ## Yellow Cards, Red Cards and Foul Stats
+
+|Cards & Fouls|Total|Per 90|Percentile|
+|--|--|--|--|
+|Yellow Cards|0|N/A|N/A|
+|Red Cards|0|N/A|N/A|
+|Total Cards|0|0|72|
+|Minutes Per Booking|No Bookings|N/A|72|
+|Cards Over 0.5|0|0%|70|
+|Fouls Committed|1|1.00|70|
+|Fouled Against|0|0.00|24|... ### Goals and xG (Expected Goals)
+
+|Goals, xG, Shots|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Goals Scored|0|0|56|
+|Goal Involvement|0|0|48|
+|Goals at Home|0|0|60|
+|Goals at Away|0|0|92|... |Expected Goals (xG)|0.06|0.06|60|
+|Non-Penalty xG (npxG)|0.06|0.06|60|
+|Penalties Scored|0|N/A|N/A|
+|Hat-tricks|0|N/A|N/A|... |3 or More Goals|0|N/A|N/A|
+|2 or More Goals|0|N/A|N/A|
+|Minutes Per Goal|0 min' / goal|N/A|N/A|... ## Shots Taken
+
+|Shots Data|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Shots Taken|1|1.00|68|
+|Shots On Target|0/ 1|0.00|50|
+|Shots Off Target|1/ 1|1.00|80|
+|Hit The Woodwork|0 times|0.00|94|
+|Shot Conversion Rate|0.00%|N/A|74|
+|Shot Accuracy|0.00%|N/A|50|
+|Shots Per Goal Scored|0.00|N/A|N/A|... ### Assists, Passing, & Chance Creation Stats
+
+|Assists & Passing|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Assists|0|0|76|
+|Expected Assists (xA)|0.12|0.12|62|
+|Passes|63|63.00|84|... |Successful Passes|57/ 63|57.00|92|
+|Pass Completion Rate|90.48%|N/A|92|
+|Key Passes|0|0.00|32|
+|Crosses|0|0.00|34|
+|Successful Crosses|0/ 0|0.00|64|
+|Cross Completion Rate|0.00%|N/A|64|
+|Minutes Per Assist|No Assists|N/A|N/A|... ### Dribbling & Offside Stats
+
+|Dribbles & Offsides|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Dribbles|0|0.00|36|
+|Successful Dribbles|0|0.00|54|
+|Dribble Success Rate|0.00%|N/A|54|
+|Dispossesed|0|0.00|99|
+|Offsides|0|0.00|80|... ## Penalty Stats
+
+|Penalties|This Season|Career|
+|--|--|--|
+|Penalty Conversion Rate|No Pens|No Pens|
+|Penalties Taken|0|0|
+|Penalties Scored|0|0|
+|Penalties Missed|0|0|... ## EFL Trophy Stats for Nathan Smith
+
+|General|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Matches Played|4|N/A|99|
+|Minutes|221|55 min' per appearance|0|
+|Matches Started|2|N/A|3|
+|Matches Subbed In|2|N/A|N/A|
+|Matches Subbed Out|0|N/A|N/A|... ### Defending Stats
+
+|Defending|Total|Per 90 or %|Percentile|
+|--|--|--|--|
+|Goals Conceded|5|2.04|12|
+|Minutes Per Goal Conceded|44 min'|N/A|12|
+|Clean Sheets|0|0%|21|... |Tackles|2|0.72|38|
+|Interceptions|3|1.08|76|
+|Ground Duels|31|11.12|79|
+|Ground Duels Won|24|8.61|98|
+|Aerial Duels Won|17|6.10|99|... |Dribbled Past|0|0.00|99|
+|Clearances|23|8.25|99|
+|Shots Blocked|5|1.79|97|
+|Penalties Given Away|0|0.00|99|... As a Defender, Nathan Smith has conceded 34 goals and kept 5 clean sheets in 4 matches in the EFL League Two 2025/2026 season. That means when Smith is on the pitch, his team conceded a goal every 44 minutes. Moreover, he's made 0.72 tackles and 1.08 interceptions for every 90 minutes he was on the pitch. Smith is also racking up about 8.25 clearances at the same time.... ## Yellow Cards, Red Cards and Foul Stats
+
+|Cards & Fouls|Total|Per 90|Percentile|
+|--|--|--|--|
+|Yellow Cards|0|N/A|N/A|
+|Red Cards|0|N/A|N/A|
+|Total Cards|0|0|67|
+|Minutes Per Booking|No Bookings|N/A|67|
+|Cards Over 0.5|0|0%|67|
+|Fouls Committed|2|0.72|43|
+|Fouled Against|6|2.15|93|... ### Goals and xG (Expected Goals)
+
+|Goals, xG, Shots|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Goals Scored|0|0|64|
+|Goal Involvement|0|0|49|
+|Goals at Home|0|0|69|
+|Goals at Away|0|0|84|... |Expected Goals (xG)|0.00|0.00|26|
+|Non-Penalty xG (npxG)|0.00|0.00|26|
+|Penalties Scored|0|N/A|N/A|
+|Hat-tricks|0|N/A|N/A|
+|3 or More Goals|0|N/A|N/A|
+|2 or More Goals|0|N/A|N/A|
+|Minutes Per Goal|0 min' / goal|N/A|N/A|... ## Shots Taken
+
+|Shots Data|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Shots Taken|0|0.00|26|
+|Shots On Target|0/ 0|0.00|51|
+|Shots Off Target|0/ 0|0.00|33|
+|Hit The Woodwork|0 times|0.00|92|
+|Shot Conversion Rate|0.00%|N/A|70|
+|Shot Accuracy|0.00%|N/A|51|
+|Shots Per Goal Scored|0.00|N/A|N/A|... ### Assists, Passing, & Chance Creation Stats
+
+|Assists & Passing|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Assists|0|0|68|
+|Expected Assists (xA)|0.30|0.11|58|
+|Passes|171|61.31|94|... |Successful Passes|154/ 171|55.22|94|
+|Pass Completion Rate|90.06%|N/A|96|
+|Key Passes|0|0.00|29|
+|Crosses|0|0.00|36|
+|Successful Crosses|0/ 0|0.00|64|
+|Cross Completion Rate|0.00%|N/A|64|
+|Minutes Per Assist|No Assists|N/A|N/A|... ### Dribbling & Offside Stats
+
+|Dribbles & Offsides|Total|Per 90 Minutes|Percentile|
+|--|--|--|--|
+|Dribbles|0|0.00|27|
+|Successful Dribbles|0|0.00|33|
+|Dribble Success Rate|0.00%|N/A|33|
+|Dispossesed|0|0.00|99|
+|Offsides|0|0.00|76|... ## Penalty Stats
+
+|Penalties|This Season|Career|
+|--|--|--|
+|Penalty Conversion Rate|No Pens|No Pens|
+|Penalties Taken|0|0|
+|Penalties Scored|0|0|
+|Penalties Missed|0|0|... ## Nathan Smith's Statistical Analysis
+
+Nathan Smith is a Defender who has appeared in
+
+**23 matches** this season in EFL League Two, playing a total of **2070 minutes**. Nathan Smith concedes an average of **1.48 goals** for every 90 minutes that the player is on the pitch. Their Clean Sheets ratio is currently at **22%**. That means Nathan Smith has kept a Clean Sheet in **5 matches out of the 23** that the player has played in. See how they rank against other EFL League Two Players.... Nathan Smith scored a total of
+
+**3 goals** so far this season in the league, which places him at **5th** in the Tranmere Rovers squad's Top Scorers list.
+
+##### Minute by Minute
+
+Scores a goal every 690 minutes
+
+No Assists
+
+No Bookings
+
+##### Penalty Record (Career)... ##### Rank by Output (Current League)
+
+Goal Rank
+
+Goals Conceded Rank
+
+## Previous Seasons' Performances... ##### 2024/2025 SeasonCompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+24
+
+0
+
+23... 9
+
+2
+
+0
+
+1880'EFL Trophy
+
+3
+
+0
+
+3
+
+1
+
+0
+
+0
+
+270'
+
+Total 2024/2025
+
+27
+
+0
+
+26
+
+10
+
+2150'
+
+** Goals / 90 min'**
+
+** Conceded / 90 min'**
+
+**Bookings / 90 min'**
+
+**0 Goals**
+
+**1.1 Conceded**
+
+**0.1 Bookings**... ##### 2023/2024 SeasonCompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+42
+
+2
+
+55... 12
+
+6
+
+0
+
+3591'FA Cup
+
+4
+
+0
+
+2
+
+2
+
+1
+
+1
+
+288'EFL Trophy
+
+1
+
+0
+
+2
+
+0
+
+0
+
+0
+
+90'League Cup
+
+3
+
+0
+
+2
+
+2
+
+1
+
+0
+
+270'
+
+Total 2023/2024
+
+50
+
+2
+
+61
+
+16
+
+4239'
+
+** Goals / 90 min'**
+
+** Conceded / 90 min'**
+
+**Bookings / 90 min'**
+
+**0.05 Goals**
+
+**1.38 Conceded**
+
+**0.15 Bookings**... ##### 2022/2023 SeasonCompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+45
+
+3
+
+70... 11
+
+4
+
+0
+
+4015'League Cup
+
+1
+
+0
+
+2
+
+0
+
+1
+
+0
+
+70'FA Cup
+
+1
+
+0
+
+3
+
+0
+
+0
+
+0
+
+90'EFL Trophy
+
+2
+
+0
+
+2
+
+0
+
+0
+
+0
+
+180'
+
+Total 2022/2023
+
+49
+
+3
+
+77
+
+11
+
+4355'
+
+** Goals / 90 min'**
+
+** Conceded / 90 min'**
+
+**Bookings / 90 min'**
+
+**0.07 Goals**
+
+**1.57 Conceded**
+
+**0.09 Bookings**... ##### 2021/2022 SeasonCompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+47
+
+2
+
+41... 17
+
+8
+
+0
+
+4230'FA Cup
+
+3
+
+0
+
+6
+
+0
+
+0
+
+0
+
+270'EFL Trophy
+
+2
+
+0
+
+4
+
+0
+
+0
+
+0
+
+180'League Cup
+
+1
+
+0
+
+2
+
+0
+
+0
+
+0
+
+90'
+
+Total 2021/2022
+
+53
+
+2
+
+53
+
+17
+
+4770'
+
+** Goals / 90 min'**
+
+** Conceded / 90 min'**
+
+**Bookings / 90 min'**
+
+**0.04 Goals**
+
+**0.87 Conceded**
+
+**0.17 Bookings**... ##### 2020/2021 SeasonCompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+44
+
+4
+
+51... 15
+
+2
+
+0
+
+3956'League Cup
+
+1
+
+0
+
+1
+
+0
+
+0
+
+0
+
+90'EFL Trophy
+
+4
+
+0
+
+4
+
+1
+
+0
+
+0
+
+360'FA Cup
+
+1
+
+0
+
+1
+
+0
+
+0
+
+0
+
+90'
+
+Total 2020/2021
+
+50
+
+4
+
+57
+
+16
+
+4496'
+
+** Goals / 90 min'**
+
+** Conceded / 90 min'**
+
+**Bookings / 90 min'**
+
+**0.09 Goals**
+
+**1.16 Conceded**
+
+**0.05 Bookings**... ##### 2019/2020 SeasonCompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+34
+
+5
+
+33... 11
+
+1
+
+0
+
+2913'League Cup
+
+1
+
+0
+
+2
+
+0
+
+0
+
+0
+
+90'FA Cup
+
+3
+
+0
+
+5
+
+1
+
+0
+
+0
+
+270'EFL Trophy
+
+3
+
+0
+
+5
+
+0
+
+0
+
+0
+
+270'
+
+Total 2019/2020
+
+41
+
+5
+
+45
+
+12
+
+3543'
+
+** Goals / 90 min'**
+
+** Conceded / 90 min'**
+
+**Bookings / 90 min'**
+
+**0.15 Goals**
+
+**1.02 Conceded**
+
+**0.03 Bookings**... ##### 2018/2019 SeasonCompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+44
+
+0
+
+50... 14
+
+4
+
+0
+
+3948'FA Cup
+
+1
+
+0
+
+2
+
+0
+
+0
+
+0
+
+90'EFL Trophy
+
+5
+
+0
+
+4
+
+3
+
+0
+
+0
+
+450'League Cup
+
+1
+
+0
+
+4
+
+0
+
+0
+
+0
+
+90'
+
+Total 2018/2019
+
+51
+
+0
+
+60
+
+17
+
+4578'
+
+** Goals / 90 min'**
+
+** Conceded / 90 min'**
+
+**Bookings / 90 min'**
+
+**0 Goals**
+
+**1.14 Conceded**
+
+**0.09 Bookings**... ##### 2017/2018 SeasonCompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+46
+
+1
+
+64... 10
+
+2
+
+0
+
+4140'EFL Trophy
+
+4
+
+0
+
+4
+
+2
+
+0
+
+0
+
+360'FA Cup
+
+3
+
+0
+
+2
+
+1
+
+0
+
+0
+
+270'League Cup
+
+1
+
+0
+
+4
+
+0
+
+0
+
+0
+
+90'
+
+Total 2017/2018
+
+54
+
+1
+
+74
+
+13
+
+4860'
+
+** Goals / 90 min'**
+
+** Conceded / 90 min'**
+
+**Bookings / 90 min'**
+
+**0.02 Goals**
+
+**1.39 Conceded**
+
+**0.04 Bookings**... ##### 2016/2017 SeasonCompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+46
+
+4
+
+61... 11
+
+2
+
+0
+
+4104'FA Cup
+
+3
+
+0
+
+4
+
+2
+
+1
+
+0
+
+270'EFL Trophy
+
+3
+
+1
+
+1
+
+2
+
+1
+
+0
+
+270'League Cup
+
+1
+
+0
+
+2
+
+0
+
+0
+
+0
+
+90'
+
+Total 2016/2017
+
+53
+
+5
+
+68
+
+15
+
+4734'
+
+** Goals / 90 min'**
+
+** Conceded / 90 min'**
+
+**Bookings / 90 min'**
+
+**0.09 Goals**
+
+**1.34 Conceded**
+
+**0.04 Bookings**... ##### 2015/2016 SeasonCompetitionMPGoalsConcededCS
+
+Table of teams with the highest number of matches where they conceded 0 goals. Stats are taken from League runs only.
+
+* Team must have played a minimum of 7 matches before they qualify for this CS table.
+
+39
+
+2
+
+56... 10
+
+3
+
+1
+
+3392'FA Cup
+
+1
+
+0
+
+3
+
+0
+
+0
+
+0
+
+90'
+
+Total 2015/2016
+
+40
+
+2
+
+59
+
+10
+
+3482'
+
+** Goals / 90 min'**
+
+** Conceded / 90 min'**
+
+**Bookings / 90 min'**... **0.05 Goals**
+
+**1.49 Conceded**
+
+**0.11 Bookings**

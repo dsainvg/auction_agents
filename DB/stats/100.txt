@@ -1,23 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: DONOVAN FERREIRA
+IPL PLAYER PROFILE: WILLIAM O’ROURKE
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Donovan Ferreira
-  IPL Debut                : 2024
-  Date of Birth            : 21 July 1998
+  Player Name              : William O’Rourke
+  IPL Debut                : 2025
+  Date of Birth            : 06 August 2001
   Total IPL Matches        : 3
-  Role                     : Wicketkeeper Batter
-  Nationality              : South African
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    South African all-rounder Donovan Ferreira was a part of Rajasthan Royals
-  setup in IPL 2023 and 2024. Ferreira is a seasoned T20 cricketer known for
-  his explosive hitting and handy off-spin. He will provide valuable balance
-  to the Delhi Capitals squad after being signed for INR 75 Lakh at the 2025
-  TATA IPL Auction.
+  Role                     : Bowler
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -27,9 +18,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    0     |    9     |    7     |   3.00   |    14    |  64.29   |    0     |    0     |    0     |    0     |    2     |    0    
-    2025   |    1     |    0     |    1     |    1     |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    0     |    0    
-    2024   |    2     |    0     |    8     |    7     |   4.00   |    11    |  72.73   |    0     |    0     |    0     |    0     |    2     |    0    
+   Career  |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2025   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -39,10 +29,22 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    3     |    62    |   132    |    6     |   3/27   |  22.00   |  12.77   |  10.33   |    0     |    0    
+    2025   |    3     |    62    |   132    |    6     |   3/27   |  22.00   |  12.77   |  10.33   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/donovan-ferreira/5652
+Source: https://www.iplt20.com/players/william-o-rourke/22385
 ================================================================================
+## BOWLING STATS
+
+|bowling|test|odi|t20i|t20|fc|listA|
+|--|--|--|--|--|--|--|
+|Matches|11|17|7|53|28|38|
+|Innings|20|17|7|51|54|38|... |Wickets|39|22|7|60|96|59|
+|Runs|947|798|188|1503|2557|1550|
+|Overs|260.2|140.4|27.0|179.5|767.1|303.0|
+|Economy|3.6|5.7|7.0|8.4|3.3|5.1|... |Average|24.3|36.3|26.9|25.1|26.6|26.3|
+|5w|2|0|0|1|2|1|
+|10w|0|0|0|0|0|0|
+|Hattrick|0|0|0|0|0|0|... |Best Match|9/93|4/43|3/27|5/22|9/93|6/20|
+|Best Inning|5/34|4/43|3/27|5/22|5/34|6/20|

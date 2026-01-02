@@ -1,54 +1,8 @@
-================================================================================
-IPL PLAYER PROFILE: JHYE RICHARDSON
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Jhye Richardson
-  IPL Debut                : 2021
-  Date of Birth            : 20 September 1996
-  Total IPL Matches        : 4
-  Role                     : Bowler
-  Nationality              : Australian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    Aussie bowlers and their obsession with pace is a match made in heaven as
-  young right arm pacer Jhye Richardson made it to the club, consistently
-  bowling at decent speeds as well as maintaining accuracy at the same time.
-  Richardson had rapid career progress after finding success in both Sheffield
-  Shield as well as the BBL. He was the fourth most expensive player sold in
-  the 2021 IPL auction after the Punjab Kings acquired him for a whopping
-  price of INR 14 cr. It would be a significant achievement for the right arm
-  pacer if he manages to translate his past success to the IPL.
-
-CAREER HIGHLIGHTS
---------------------------------------------------------------------------------
-  1. Most expensive player in IPL history
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    4     |    0     |    17    |    15    |   5.67   |    26    |  65.38   |    0     |    0     |    2     |    0     |    1     |    0    
-    2024   |    1     |    0     |    2     |    2     |   2.00   |    2     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
-    2021   |    3     |    0     |    15    |    15    |   7.50   |    24    |  62.50   |    0     |    0     |    2     |    0     |    1     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    66    |   117    |    3     |   2/41   |  39.00   |  10.64   |  22.00   |    0     |    0    
-    2021   |    3     |    66    |   117    |    3     |   2/41   |  39.00   |  10.63   |  22.00   |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/jhye-richardson/3781
-================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Hyderabad|1|1|0|9|9|0|0|2|0|9.00|47.36|-|-|HYD|1213|0|0|4|-|-|-|
+|Uttarakhand|1|2|0|20|18|0|0|2|0|10.00|25.00|-|-|UT|1668|0|0|4|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Hyderabad|1|1|0|2|0|0/2|0|0|-|2.00|-|HYD|1213|2|4|-|-|-|
+|Uttarakhand|1|3|0|6|0|0/6|0|0|-|2.00|-|UT|1668|2|4|-|-|-|... |Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|9(19)|0/2|Hyderabad|Nov 13 2024|
+|18(65) & 2(15)|0/6|Uttarakhand|Nov 6 2024|

@@ -1,34 +1,26 @@
 ================================================================================
-IPL PLAYER PROFILE: SHUBHAM DUBEY
+IPL PLAYER PROFILE: DARSHAN NALKANDE
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Shubham Dubey
-  IPL Debut                : 2024
-  Date of Birth            : 27 August 1994
-  Total IPL Matches        : 13
-  Role                     : WK-Batter
+  Player Name              : Darshan Nalkande
+  IPL Debut                : 2022
+  Date of Birth            : 04 October 1998
+  Total IPL Matches        : 6
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  Shubham Dubey, a hard-hitting left-handed batter from Vidarbha, grabbed
-  attention with a blistering 58 off 20 balls in the 2023 Syed Mushtaq Ali
-  Trophy, boasting a stunning strike rate of 290. Playing as a finisher, he
-  amassed 221 runs at an average of 73.66 and a strike rate of 187.28,
-  emerging as Vidarbha’s second-highest run-scorer in their quarter-final run.
-  Continuing his form in SMAT 2024-25, Dubey smashed 134 runs at an average of
-  67 and a strike rate of 181.08, including a quickfire 30 off 14 against
-  Odisha. After being part of Rajasthan Royals' set-up in IPL 2024, he will
-  don the Pink jersey again in 2025, having been picked for INR 80 lakh. Known
-  for his explosive finishing, Dubey will aim to make a significant impact in
-  the slog overs.
-
-CAREER HIGHLIGHTS
---------------------------------------------------------------------------------
-  1. Career best average: 73.66
-  2. Career best strike rate: 290.
+    Darshan Nalkande has played only a handful of games in domestic cricket
+  having just broken into first-class cricket with the former Ranji Trophy
+  champions Vidarbha. But that was good enough for Punjab Kings to snap him up
+  at the player auctions for a salary of INR 30 lakhs. He made an instant
+  impact on his Vijay Hazare Trophy debut when he scored an unbeaten 56 from
+  just 30 balls to take Vidarbha to an improbable victory over Maharashtra,
+  even though he is known more for his skills with the ball. He did not play
+  any games in 2019 and 2020 seasons but was retained by PBKS ahead of the
+  2021 IPL auction.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -38,9 +30,10 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    13    |    5     |   139    |   34*    |  23.17   |    85    |  163.53  |    0     |    0     |    9     |    10    |    1     |    0    
-    2025   |    9     |    4     |   106    |   34*    |  26.50   |    66    |  160.61  |    0     |    0     |    6     |    8     |    1     |    0    
-    2024   |    4     |    1     |    33    |    25    |  16.50   |    19    |  173.68  |    0     |    0     |    3     |    2     |    0     |    0    
+   Career  |    6     |    0     |    12    |    12    |   6.00   |    12    |  100.00  |    0     |    0     |    0     |    1     |    2     |    0    
+    2024   |    3     |    0     |    12    |    12    |  12.00   |    11    |  109.09  |    0     |    0     |    0     |    1     |    2     |    0    
+    2023   |    1     |    0     |    0     |    0     |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2022   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -50,10 +43,32 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    6     |    84    |   148    |    6     |   2/21   |  24.67   |  10.57   |  14.00   |    0     |    0    
+    2024   |    3     |    29    |    45    |    3     |   2/21   |  15.00   |   9.31   |   9.67   |    0     |    0    
+    2023   |    1     |    24    |    44    |    1     |   1/44   |  44.00   |  11.00   |  24.00   |    0     |    0    
+    2022   |    2     |    31    |    59    |    2     |   2/37   |  29.50   |  11.42   |  15.50   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/shubham-dubey/20688
+Source: https://www.iplt20.com/players/darshan-nalkande/4447
 ================================================================================
+### Darshan Nalkande
+
+### India
+
+### Popular PlayersVirat KohliRohit SharmaSachin TendulkarSourav GangulyHardik PandyaOverviewNewsStats... ### Batting Performance
+|Format|M|Inns|No|R|H.S|Avg|BF|SR|100s|50s|
+|--|--|--|--|--|--|--|--|--|--|--|
+|t20|51|24|5|144|21|7.57|145|99.31|--|--|... |fc|8|12|3|175|66|19.44|295|59.32|--|2|
+|list a|37|19|4|338|57|22.53|329|102.73|--|2|
+|t10|--|--|--|--|--|--|--|--|--|--|... ### Bowling Performance
+|Format|M|Inns|Ovs|R|Wkts|BBI|Avg|ECN|SR|4W|5W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|t20|51|51|167.30|1393|80|5/9|17.41|8.31|12.5|3|2|... |fc|8|12|128.00|521|12|3/52|43.41|4.07|64.0|--|--|
+|list a|37|37|301.00|1672|64|6/55|26.12|5.55|28.2|1|2|
+|t10|--|--|0.00|--|--|--|--|--|--|--|--|... ### Recent Form (Last 5 Matches)AllTestODIT20
+|Match|Bat|Bowl|Date|Venue|Format|
+|--|--|--|--|--|--|
+|VID vs KER|1 & 51*|3/52|26 Feb 2025|Nagpur|firstclass|
+|VID vs MUM|12* & 4|1/46 & 0/36|17 Feb 2025|Nagpur|firstclass|... |KAR vs VID|11|2/67|18 Jan 2025|Vadodara|lista|
+|VID vs MAHA|-|3/64|16 Jan 2025|Vadodara|lista|
+|VID vs RAJ|-|1/58|12 Jan 2025|Vadodara|lista|

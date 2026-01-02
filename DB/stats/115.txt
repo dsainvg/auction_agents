@@ -1,22 +1,35 @@
 ================================================================================
-IPL PLAYER PROFILE: ADIL RASHID
+IPL PLAYER PROFILE: ANGKRISH RAGHUVANSHI
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Adil Rashid
-  IPL Debut                : 2021
-  Date of Birth            : 17 February 1988
-  Total IPL Matches        : 3
-  Role                     : Bowler
-  Nationality              : English
+  Player Name              : Angkrish Raghuvanshi
+  IPL Debut                : 2024
+  Date of Birth            : 05 June 2005
+  Total IPL Matches        : 22
+  Role                     : All-Rounder
+  Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    A World Cup-winner and one of the finest modern-day leg-spinners in the
-  white-ball cricket, Adil Rashid, replaced Jhye Richardson in the PBKS squad.
-  Rashid has a bag full of experience in international cricket and it will
-  come handy for PBKS.
+    Angkrish Raghuvanshi, a right-handed top-order batter from Mumbai, made
+  headlines representing India at the 2022 Under-19 World Cup where he ended
+  up as the highest run-getter scoring 278 runs from six innings. He made his
+  debut for the Knight Riders in IPL 2024 and was picked up by the franchise
+  again for the 2025 season at a price of INR 30 lakh.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    22    |    2     |   463    |    54    |  28.94   |   320    |  144.69  |    0     |    2     |    46    |    16    |    6     |    0    
+    2025   |    12    |    2     |   300    |    50    |  33.33   |   215    |  139.53  |    0     |    1     |    30    |    8     |    2     |    0    
+    2024   |    10    |    0     |   163    |    54    |  23.29   |   105    |  155.24  |    0     |    1     |    16    |    8     |    4     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -26,9 +39,27 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    1     |    18    |    35    |    0     |   0/35   |    -     |  11.67   |    -     |    0     |    0    
-    2021   |    1     |    18    |    35    |    0     |   0/35   |    -     |  11.66   |    -     |    0     |    0    
+   Career  |    22    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/adil-rashid/796
+Source: https://www.iplt20.com/players/angkrish-raghuvanshi/20690
 ================================================================================
+Career-Stats
+
+Batting Stats
+
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|--|--|--|-|--|--|--|
+|ODI|--|--|--|-|--|--|--|... |T20I|--|--|--|-|--|--|--|
+|FC|10|13|421|56.13|32.38|4/1|44/8|
+|listA|12|10|192|114.29|27.43|1/0|19/5|... |T20s|7|7|63|131.25|12.60|--|7/2|
+Bowling Stats... |Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|--|--|--|--|--|--|--|--|
+|ODI|--|--|--|--|--|--|--|--|... |T20I|--|--|--|--|--|--|--|--|
+|FC|--|--|--|--|-|-|-|--|
+|listA|--|--|--|--|-|-|-|--|
+|T20s|--|--|--|--|-|-|-|--|

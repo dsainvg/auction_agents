@@ -1,25 +1,23 @@
 ================================================================================
-IPL PLAYER PROFILE: RAJ ANGAD BAWA
+IPL PLAYER PROFILE: LALIT YADAV
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Raj Angad Bawa
-  IPL Debut                : 2022
-  Date of Birth            : 12 November 2002
-  Total IPL Matches        : 5
-  Role                     : WK-Batter
+  Player Name              : Lalit Yadav
+  IPL Debut                : 2021
+  Date of Birth            : 03 January 1997
+  Total IPL Matches        : 27
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  Raj Angad Bawa was one of the key members during India’s triumph at the
-  2022 U-19 World Cup. The youngster was effective with both the bat and the
-  ball, scoring 252 runs in just five innings, including a whirlwind knock of
-  162* against Uganda while picking 9 wickets, including a fifer in the final
-  against England. The Himachali, following his performances, was picked by
-  PBKS for IPL 2022 and will now don the Blue and Gold after being picked by
-  MI for INR 30 Lakh.
+    Delhi Capitals bought all-rounder Lalit Yadav for INR 20 Lakh during the
+  IPL Player Auction and have retained him for the IPL 2021. The 24-year-old,
+  who has thus far played 12 First Class matches, put in some impressive
+  all-round performances for Delhi in the latest edition of the Syed Mushtaq
+  Ali Trophy and Vijay Hazare Trophy and his IPL side will be wanting him to
+  showcase his skills in the IPL 2021.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -29,9 +27,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    5     |    1     |    19    |    11    |   9.50   |    18    |  105.56  |    0     |    0     |    1     |    0     |    3     |    0    
-    2025   |    3     |    1     |    8     |    8*    |    -     |    4     |  200.00  |    0     |    0     |    0     |    0     |    3     |    0    
-    2022   |    2     |    0     |    11    |    11    |   5.50   |    14    |  78.57   |    0     |    0     |    1     |    0     |    0     |    0    
+   Career  |    27    |    5     |   305    |   48*    |  19.06   |   290    |  105.17  |    0     |    0     |    27    |    7     |    16    |    0    
+    2024   |    2     |    0     |    10    |    7     |   5.00   |    12    |  83.33   |    0     |    0     |    1     |    0     |    0     |    0    
+    2023   |    6     |    1     |    66    |    38    |  13.20   |    59    |  111.86  |    0     |    0     |    8     |    0     |    5     |    0    
+    2022   |    12    |    1     |   161    |   48*    |  23.00   |   146    |  110.27  |    0     |    0     |    11    |    7     |    6     |    0    
+    2021   |    7     |    3     |    68    |   22*    |  34.00   |    73    |  93.15   |    0     |    0     |    7     |    0     |    5     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -41,10 +41,32 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    7     |    84    |   101    |    4     |   2/13   |  25.25   |   7.21   |  21.00   |    0     |    0    
+    2021   |    7     |    84    |   101    |    4     |   2/13   |  25.25   |   7.21   |  21.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/raj-angad-bawa/20601
+Source: https://www.iplt20.com/players/lalit-yadav/6870
 ================================================================================
+### Lalit Yadav
+
+### India
+
+### Popular PlayersVirat KohliRohit SharmaSachin TendulkarSourav GangulyHardik PandyaOverviewNewsStats... ### Batting Performance
+
+|Format|M|Inns|No|R|H.S|Avg|BF|SR|100s|50s|
+|--|--|--|--|--|--|--|--|--|--|--|
+|t20|10|3|1|19|9|9.5|24|79.16|--|--|... |fc|31|33|4|282|27|9.72|632|44.62|--|--|
+|list a|8|5|4|26|10|26|19|136.84|--|--|
+|t10|--|--|--|--|--|--|--|--|--|--|... ### Bowling Performance
+
+|Format|M|Inns|Ovs|R|Wkts|BBI|Avg|ECN|SR|4W|5W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|t20|10|10|30.50|237|7|3/19|33.85|7.68|26.4|--|--|... |fc|31|49|733.30|2306|80|7/56|28.82|3.14|55|1|5|
+|list a|8|8|54.00|275|6|2/15|45.83|5.09|54|--|--|
+|t10|--|--|0.00|--|--|--|--|--|--|--|--|... ### Recent Form (Last 5 Matches)AllTestODIT20
+
+|TN vs VID|0|0/37 & 1/46|01 Nov 2025|Coimbatore|firstclass|
+|--|--|--|--|--|--|
+|PAS vs NMB|-|0/26|15 Jun 2025|Nagpur|t20|... |PAS vs ORT|0*|0/20|13 Jun 2025|Nagpur|t20|
+|ORT vs PAS|5*|3/22|12 Jun 2025|Nagpur|t20|
+|PAS vs NMB|18|1/41|11 Jun 2025|Nagpur|t20|

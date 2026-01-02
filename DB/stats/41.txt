@@ -1,62 +1,8 @@
-================================================================================
-IPL PLAYER PROFILE: RAHUL CHAHAR
-================================================================================
+**Auqib Nabi Dar** (born 4 November 1996) is an Indian cricketer who plays as a right-arm medium bowler. He represents Jammu & Kashmir in domestic cricket and Delhi Capitals in the Indian Premier League.... ## Career
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Rahul Chahar
-  IPL Debut                : 2017
-  Date of Birth            : 04 August 1999
-  Total IPL Matches        : 79
-  Role                     : Bowler
-  Nationality              : Indian
+Auqib made his List A debut for Jammu & Kashmir in the 2018–19 Vijay Hazare Trophy on 23 September 2018. He made his Twenty20 debut on 11 November 2019, for Jammu & Kashmir in the 2019–20 Syed Mushtaq Ali Trophy.... Auqib made his first-class debut on 3 January 2020, for Jammu & Kashmir in the 2019–20 Ranji Trophy. On 19 January 2020, he took 5 for 39 wickets against Odisha in a Ranji Trophy match. In October 2024 he took his best first-class figures, 5 for 29, to help Jammu & Kashmir dismiss Services for 71.... In the 2024-25 Ranji season Auqib took 44 wickets, the second-most in the season, with a strike-rate of 30.47 and an average of 13.93. He was selected for North Zone in the 2025-26 Duleep Trophy. In the game against East Zone he took four wickets in four balls starting with Virat Singh.... He achieved his highest score and best bowling figures in Jammu & Kashmir's innings defeat of Rajasthan in October 2025, when he made 55 and took 3 for 29 and 7 for 24. He was bought by Delhi Capitals for 8.40 crore in the IPL auction 2026.
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-    Mumbai Indians showed confidence in this skilful leg spinner and gave him
-  13 of the 16 matches they played in 2019. There is no dearth of talent in
-  him and he surely proved that in the 2020 season scalping 15 wickets, not
-  letting the batsmen get away with his clever googlies. Captain Rohit Sharma
-  had used him in the powerplay and he proved that he could do the difficult
-  job too. It will not be surprising if he gets to bowl in the first six overs
-  again
+## References
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    79    |    8     |   129    |   25*    |   8.06   |   124    |  104.03  |    0     |    0     |    13    |    5     |    23    |    0    
-    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2024   |    9     |    1     |    21    |    16    |  21.00   |    15    |  140.00  |    0     |    0     |    3     |    1     |    3     |    0    
-    2023   |    14    |    1     |    0     |    0     |   0.00   |    9     |   0.00   |    0     |    0     |    0     |    0     |    4     |    0    
-    2022   |    13    |    2     |    77    |   25*    |  12.83   |    68    |  113.24  |    0     |    0     |    7     |    4     |    5     |    0    
-    2021   |    11    |    0     |    14    |    8     |   2.80   |    15    |  93.33   |    0     |    0     |    1     |    0     |    3     |    0    
-    2020   |    15    |    1     |    2     |    2*    |   0.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    4     |    0    
-    2019   |    13    |    2     |    12    |    10    |   6.00   |    11    |  109.09  |    0     |    0     |    2     |    0     |    3     |    0    
-    2017   |    3     |    1     |    3     |    3*    |   0.00   |    2     |  150.00  |    0     |    0     |    0     |    0     |    1     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    79    |   1670   |   2150   |    75    |   4/27   |  28.67   |   7.72   |  22.27   |    1     |    0    
-    2025   |    1     |    6     |    9     |    0     |   0/9    |    -     |   9.00   |    -     |    0     |    0    
-    2024   |    9     |   186    |   279    |    10    |   3/23   |  27.90   |   9.00   |  18.60   |    0     |    0    
-    2023   |    14    |   298    |   385    |    8     |   2/16   |  48.13   |   7.75   |  37.25   |    0     |    0    
-    2022   |    13    |   280    |   360    |    14    |   3/25   |  25.71   |   7.71   |  20.00   |    0     |    0    
-    2021   |    11    |   258    |   318    |    13    |   4/27   |  24.46   |   7.39   |  19.84   |    1     |    0    
-    2020   |    15    |   318    |   433    |    15    |   2/18   |  28.86   |   8.16   |  21.20   |    0     |    0    
-    2019   |    13    |   282    |   308    |    13    |   3/19   |  23.69   |   6.55   |  21.69   |    0     |    0    
-    2017   |    3     |    42    |    58    |    2     |   1/26   |  29.00   |   8.28   |  21.00   |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/rahul-chahar/3763
-================================================================================
+## External links
+- Auqib Nabi at ESPNcricinfo

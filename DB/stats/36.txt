@@ -1,23 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: AVESH KHAN
+IPL PLAYER PROFILE: YASH DHULL
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Avesh Khan
-  IPL Debut                : 2017
-  Date of Birth            : 13 December 1996
-  Total IPL Matches        : 76
-  Role                     : WK-Batter
+  Player Name              : Yash Dhull
+  IPL Debut                : 2023
+  Date of Birth            : 11 November 2002
+  Total IPL Matches        : 4
+  Role                     : Batter
   Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Avesh Khan is a tall, right-arm pace bowler from Madhya Pradesh who first
-  came to the limelight at the 2016 Under-19 Cricket World Cup where he
-  finished as India’s highest wicket-taker. Avhesh Khan has represented RCB,
-  DC, LSG and RR in the past and will be back in Blue & Orange having been
-  picked for 9.75 Crore.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -27,36 +19,27 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    76    |    12    |    62    |   19*    |  31.00   |    37    |  167.57  |    0     |    0     |    6     |    4     |    13    |    0    
-    2025   |    13    |    3     |    21    |   19*    |  21.00   |    12    |  175.00  |    0     |    0     |    3     |    1     |    2     |    0    
-    2024   |    16    |    3     |    10    |    7*    |    -     |    5     |  200.00  |    0     |    0     |    1     |    0     |    2     |    0    
-    2023   |    9     |    1     |    0     |    0*    |    -     |    1     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
-    2022   |    13    |    3     |    22    |    12    |  22.00   |    13    |  169.23  |    0     |    0     |    0     |    3     |    2     |    0    
-    2021   |    16    |    1     |    5     |    5*    |   0.00   |    3     |  166.66  |    0     |    0     |    1     |    0     |    1     |    0    
-    2020   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2019   |    1     |    1     |    4     |    4*    |   0.00   |    3     |  133.33  |    0     |    0     |    1     |    0     |    1     |    0    
-    2018   |    6     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    3     |    0    
-    2017   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    76    |   1619   |   2461   |    87    |   4/24   |  28.29   |   9.12   |  18.61   |    1     |    0    
-    2025   |    13    |   284    |   487    |    13    |   3/37   |  37.46   |  10.29   |  21.85   |    0     |    0    
-    2024   |    16    |   329    |   526    |    19    |   3/27   |  27.68   |   9.59   |  17.32   |    0     |    0    
-    2023   |    9     |   174    |   283    |    8     |   3/25   |  35.38   |   9.76   |  21.75   |    0     |    0    
-    2022   |    13    |   286    |   416    |    18    |   4/24   |  23.11   |   8.73   |  15.89   |    1     |    0    
-    2021   |    16    |   366    |   450    |    24    |   3/13   |  18.75   |   7.37   |  15.25   |    0     |    0    
-    2020   |    1     |    24    |    42    |    0     |   0/42   |    -     |  10.50   |    -     |    0     |    0    
-    2019   |    1     |    18    |    30    |    0     |   0/30   |    -     |  10.00   |    -     |    0     |    0    
-    2018   |    6     |   114    |   204    |    4     |   2/29   |  51.00   |  10.73   |  28.50   |    0     |    0    
-    2017   |    1     |    24    |    23    |    1     |   1/23   |  23.00   |   5.75   |  24.00   |    0     |    0    
+   Career  |    4     |    0     |    16    |    13    |   5.33   |    23    |  69.57   |    0     |    0     |    1     |    0     |    2     |    0    
+    2023   |    4     |    0     |    16    |    13    |   5.33   |    23    |  69.57   |    0     |    0     |    1     |    0     |    2     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/avesh-khan/1561
+Source: https://www.iplt20.com/players/yash-dhull/20623
 ================================================================================
+**Yash Vijay Dhull** (born 11 November 2002) is an Indian cricketer. He plays for Delhi in domestic cricket and previously appeared for Delhi Capitals in the Indian Premier League. He made his first-class cricket debut for the Delhi cricket team in the 2021–22 Ranji Trophy in February 2022, scoring two centuries on debut as an opening batsman.... He has played for the India national under-19 cricket team, including in India's winning side at the 2022 ICC Under-19 Cricket World Cup and 2021 ACC Under-19 Asia Cup captaining the side in both tournaments.... ## Career
+
+Yash Dhull was born and raised in New Delhi. He started playing cricket at the age of 11. Dhull has led the Delhi Under-14 and Under-16 cricket teams.... In December 2021, Dhull was named as the captain of India's team for the 2022 ICC Under-19 Cricket World Cup in the West Indies. In the Super League semi-final match against Australia, Dhull scored 110 runs, with India progressing to the final of the tournament. Following the conclusion of the tournament, Dhull was named as the captain of the International Cricket Council's (ICC) team of the tournament.... Dhull played under-19 cricket for Delhi. He made his first-clas debut on 17 February 2022 against Tamil Nadu in the Ranji Trophy, scoring a century in both of his innings in the match. Before making his senior debut, Dhull had been bought by Delhi Capitals in the 2022 IPL auction ahead of the 2022 Indian Premier League.... Dhull finished the 2021–22 Ranji Trophy as Delhi's highest run scorer, scoring a total of 479 runs at an average of 119.75. This included three centuries, the last of which was an unbeaten double hundred against Chhattisgarh.
+
+He made his Twenty20 debut for Delhi against Manipur, on 11 October 2022 in the 2022–23 Syed Mushtaq Ali Trophy. He made his List A debut for Delhi against Vidarbha, on 12 November 2022 in the 2022–23 Vijay Hazare Trophy.... He scored his first List A century for India A against United Arab Emirates A, in 2023 ACC Emerging Teams Asia Cup, on 14 July 2023, at Singhalese Sports Club Cricket Ground, Colombo. He scored unbeaten 108 runs from 84 balls.
+
+## References
+
+## External links
+- Yash Dhull at ESPNcricinfo
+
+Categories: - 2002 births
+- Living people
+- Indian cricketers
+- Cricketers from Delhi
+- Delhi cricketers
+- Delhi Capitals cricketers
+- 21st-century Indian sportsmen

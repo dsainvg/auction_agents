@@ -1,26 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: KANE WILLIAMSON
+IPL PLAYER PROFILE: SHAI HOPE
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Kane Williamson
-  IPL Debut                : 2015
-  Date of Birth            : 08 August 1990
-  Total IPL Matches        : 79
+  Player Name              : Shai Hope
+  IPL Debut                : 2024
+  Date of Birth            : 10 November 1993
+  Total IPL Matches        : 9
   Role                     : Batter
-  Nationality              : New Zealander
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Part of the famed ‘Fab Four’ along with Virat Kohli, Steven Smith and Joe
-  Root, Kane Williamson is one of the coolest customers around the circuit. He
-  rose to the occasion wonderfully well in the 2018 IPL as he captained SRH to
-  the final, in the absence of regular captain David Warner. Williamson’s
-  abilities with the bat are nothing short of substantial as he has scored
-  runs across conditions and formats. With Sunrisers having a formidable set
-  of foreign players in their playing XI, Williamson often has to wait for his
-  opportunities, but when he does, he makes the most of it.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -30,35 +18,89 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    79    |    17    |   2128   |    89    |  35.47   |   1694   |  125.62  |    0     |    18    |   186    |    64    |    40    |    0    
-    2024   |    2     |    0     |    27    |    26    |  13.50   |    27    |  100.00  |    0     |    0     |    4     |    0     |    1     |    0    
-    2023   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2022   |    13    |    2     |   216    |    57    |  19.64   |   231    |  93.51   |    0     |    1     |    16    |    8     |    10    |    0    
-    2021   |    10    |    4     |   266    |   66*    |  44.33   |   235    |  113.19  |    0     |    2     |    29    |    2     |    7     |    0    
-    2020   |    12    |    4     |   317    |    67    |  45.28   |   237    |  133.75  |    0     |    3     |    26    |    10    |    6     |    0    
-    2019   |    9     |    2     |   156    |   70*    |  22.28   |   130    |  120.00  |    0     |    1     |    12    |    5     |    2     |    0    
-    2018   |    17    |    3     |   735    |    84    |  52.50   |   516    |  142.44  |    0     |    8     |    64    |    28    |    6     |    0    
-    2017   |    7     |    1     |   256    |    89    |  42.66   |   169    |  151.47  |    0     |    2     |    20    |    10    |    1     |    0    
-    2016   |    6     |    0     |   124    |    50    |  20.66   |   122    |  101.63  |    0     |    1     |    14    |    0     |    5     |    0    
-    2015   |    2     |    1     |    31    |   26*    |  31.00   |    27    |  114.81  |    0     |    0     |    1     |    1     |    2     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    63    |    18    |    31    |    0     |   0/24   |    -     |  10.33   |    -     |    0     |    0    
-    2021   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    12    |    12    |    24    |    0     |   0/24   |    -     |  12.00   |    -     |    0     |    0    
-    2019   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2017   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    6     |    6     |    7     |    0     |   0/7    |    -     |   7.00   |    -     |    0     |    0    
-    2015   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    9     |    1     |   183    |    41    |  22.88   |   122    |  150.00  |    0     |    0     |    12    |    12    |    6     |    0    
+    2024   |    9     |    1     |   183    |    41    |  22.88   |   122    |  150.00  |    0     |    0     |    12    |    12    |    6     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/kane-williamson/440
+Source: https://www.iplt20.com/players/shai-hope/20710
 ================================================================================
+**Shai Diego Hope** (born 10 November 1993) is a Barbadian cricketer, who plays as a wicketkeeper-batsman for the West Indies cricket team. He is also the current ODI &T20I captain of the West Indies cricket team. In June 2018, he was named the Men's Cricketer of the Year, Test Cricketer of the Year and the ODI Cricketer of the Year at the annual Cricket West Indies' Awards.... The following year, he was named the CWI ODI Player of the Year. He is generally regarded as one of the best ODI batsmen in the contemporary cricketing world. Hope has also twice been named, for both 2020 and 2022, in the ICC ODI Team of the Year. Hope is the first cricketer in history to hit hundreds against all Full Member nations in international cricket.... ## Personal life
+
+Hope has an elder brother, Kyle Hope, who also plays professional cricket. He pursued secondary schooling at Queen's College in Saint James, Barbados.... ## Early and domestic career
+
+Hope was further educated at Bedes Senior School in East Sussex, England under the guidance of former Sussex captain Alan Wells. Whilst at Bedes, Hope guided the 1st XI to the national 20/20 final where he scored a half century in a losing cause versus Millfield. During the 2012 season, Hope had a brief stint at local East Sussex side Chiddingly CC averaging 46 runs throughout the season with a top score of 61. He also considered remaining in the United Kingdom at that time, with the intention to qualify to play for the England cricket team.... Hope has been described by the West Indian cricket writer and commentator Tony Cozier as "A stylish No. 3 batsman whose 211 for Barbados against Windward Islands cricket team was the tournament's only double-hundred". In 2017, he was a key member of the Barbados team that won the Regional Super50, scoring centuries in both the semi-final and final, and was named man of the match in both games.... In November 2019, Hope was selected to play for the Rangpur Rangers in the 2019–20 Bangladesh Premier League. In July 2020, he was named in the Barbados Tridents squad for the 2020 Caribbean Premier League. On 15 October 2022 Hope was named as the new captain, replacing Jason Holder, of the Barbados Pride for the 2021-22 Regional Super50 tournament.... In April of the following year, Hope joined English club Yorkshire for three games of the 2023 County Championship season. During his debut game for the club, he notched a second innings 83, in an eventual loss to Leicestershire. His second game for Yorkshire against Gloucestershire ensued without a ball bowled due to heavy rain. During Hope's final match with the side, he scored an unbeaten second-innings 53 in an eventual draw against Sussex at Hove.... ## International career
+
+Hope made his Test debut against England on 1 May 2015. In August 2016, he was added to the West Indies squad for their Test series against India.... Hope made his One Day International (ODI) debut in the second match of the tri-series, against Sri Lanka. His maiden ODI ton came on his second ODI, in the same tour against Zimbabwe, when he scored 101 during chasing the 257 runs. His score did not change the game, where the match ended in a tie, which is the 34th tied ODI match and the first tied ODI match between the two teams and he was adjudged man of the match for his performance.... On 25 August 2017, Hope scored his maiden Test ton in the second Test against England. He along with Kraigg Brathwaite put a 246-run partnership to lift the West Indies total to 427. Chasing 322 in the second innings, Hope scored his second hundred and guided West Indies to a 5-wicket win.... In the second innings also, Brathwaite and Hope added 144 runs as well. The win was West Indies' first away victory over England since 2000 and Hope was awarded man of the match for his winning performances. Hope's two centuries in the match against England marked the first time this feat had been achieved at Headingley Cricket Ground in first-class cricket. His contribution in the 2017 tour of England was recognised in April 2018 when he was named one of the five Wisden Cricketers of the Year.... In December 2017, Hope was added to the West Indies' Twenty20 International (T20I) squad ahead of their series against New Zealand. He made his T20I debut for the West Indies against New Zealand on 29 December 2017.
+
+In October 2018, Cricket West Indies (CWI) awarded Hope a contract across all formats of cricket for the 2018–19 season.... In May 2019, Hope played in his 50th ODI match, in the opening fixture of the 2019 Ireland Tri-Nation Series. In that match, Hope and John Campbell made 365 runs for the opening wicket. It was the highest opening partnership in ODIs, and it was also the first time that both openers for the West Indies had scored 150 runs each in an ODI match.... In the next match of the tri-series, against Bangladesh, Hope became the fastest batsman for the West Indies, in terms of number of innings, to score 2,000 runs in ODIs, doing so in his 47th innings.... Hope was named in the West Indies' squad for the 2019 Cricket World Cup. The International Cricket Council (ICC) named Hope as the key player of the West Indies' squad prior to the tournament. On 17 June 2019, in the match against Bangladesh, Hope played in his 100th international match for the West Indies. Hope scored 96 runs facing 121 balls with 4 fours and a six against Bangladesh at Taunton, 17 June 2019.... On 22 December 2019, during the third match against India, Hope became the second-fastest batsman, in terms of innings, to score 3,000 runs in ODIs, doing so in his 67th innings.
+
+He was later named in the 2019 ICC ODI team of the Year. In June 2020, Hope was named in the West Indies' Test squad, for their series against England. The Test series was originally scheduled to start in May 2020, but was moved back to July 2020 due to the COVID-19 pandemic.... On 8 June 2022 Hope went on to score 127 against Pakistan in the first game of a three match ODI series played at the Multan Cricket Stadium. In so doing he became the 3rd fastest batsman of all time to compile 4000 runs in one day internationals and the 11th West Indian batsman to accomplish this feat.... Hope played his 100th ODI match on 24 July 2022, scoring 115 against India in the second match of their bilateral series. Hope shared a fourth wicket stand of 117 with Nicholas Pooran but did so in a losing cause. He was later bestowed with the honour of being named in the 2022 ICC ODI team of the Year.... On 21 March 2023, Hope scored 128 not out to spur the Windies to eventually win the second ODI of their 2023 tour of South Africa played at Buffalo Park, East London. With this knock he became the second West Indian, after Richie Richardson, to score a century on his ODI captaincy debut. Along with Heinrich Klaasen, Hope was later jointly adjudged as the man of the ODI series.... In December 2023, he scored his 16th ODI century against England in the first game of the three-match series. He scored 109 not out off 83 balls to steer his team to a memorable victory. In the process, Hope crossed 5000 runs in ODIs, becoming the fastest ever West Indian to reach the mark, equalling the record of Sir Vivian Richards, in his 114th innings, and the 3rd fastest in the world.... In May 2024, he was named in the West Indies squad for the 2024 ICC Men's T20 World Cup tournament.... ## List of international centuries
+
+Hope has scored four centuries in Test matches and 18 in One Day and 1 in t20Internationals. His highest Test score of 147 came against England at Leeds in August 2017. His highest ODI score of 170 came against Ireland at Dublin in May 2019.
+
+### Key
+- ***** – Remained not out
+- **‡** – Captain of West Indies in that match
+- **†** – Man of the match
+
+### Test centuries
+
+**List of Test centuries scored by Shai Hope**
+|No.|Score|Opponent|Venue|Date|Result|Ref|
+|--|--|--|--|--|--|--|
+|1|147|England|Headingley, Leeds|25–29 August 2017|Won| |
+|2|118*|England|Headingley, Leeds|25–29 August 2017|Won| |
+|3|103|India|Arun Jaitley Cricket Stadium, New Delhi|10–14 October 2025|Lost| |
+|4|140|New Zealand|Hagley Oval, Christchurch|2–6 December 2025|Drawn| |
+
+### One Day International centuries
+
+**List of ODI centuries scored by Shai Hope**
+|No.|Score|Opponent|Venue|Date|Result|Ref|
+|--|--|--|--|--|--|--|
+|1|101 †|Zimbabwe|Queens Sports Club, Bulawayo|19 November 2016|Tied| |
+|2|123*|India|ACA–VDCA Cricket Stadium, Visakhapatnam|24 October 2018|Tied| |
+|3|146* †|Bangladesh|Shere Bangla National Stadium, Dhaka|11 December 2018|Won| |
+|4|108*|Bangladesh|Sylhet International Cricket Stadium, Sylhet|14 December 2018|Lost| |
+|5|170|Ireland|Castle Avenue, Dublin|5 May 2019|Won| |
+|6|109 †|Bangladesh|Castle Avenue, Dublin|7 May 2019|Lost| |
+|7|109* †|Afghanistan|Ekana Cricket Stadium, Lucknow|11 November 2019|Won| |
+|8|102*|India|MA Chidambaram Stadium, Chennai|15 December 2019|Won| |
+|9|115|Sri Lanka|Sinhalese Sports Club Ground, Colombo|22 February 2020|Lost| |
+|10|110 †|Sri Lanka|North Sound|10 March 2021|Won| |
+|11|119* †|Netherlands|VRA Cricket Ground, Amstelveen|31 May 2022|Won| |
+|12|127|Pakistan|Multan Cricket Stadium, Multan|8 June 2022|Lost| |
+|13|115|India|Queen's Park Oval, Port of Spain|24 July 2022|Lost| |
+|14|128* ‡ †|South Africa|Buffalo Park, East London|18 March 2023|Won| |
+|15|132 ‡ †|Nepal|Harare Sports Club, Harare|22 June 2023|Won| |
+|16|109* ‡ †|England|Sir Vivian Richards Stadium, North Sound|3 December 2023|Won| |
+|17|117 ‡|England|Sir Vivian Richards Stadium, North Sound|2 November 2024|Lost| |
+|18|120* ‡ †|Pakistan|Brian Lara Stadium, San Fernando|12 August 2025|Won| |
+|19|109* ‡ †|New Zealand|McLean Park, Napier|19 November 2025|Lost| |
+
+### Twenty20 International centuries
+
+**List of T20I centuries scored by Shai Hope**
+|No.|Score|Opponent|Venue|Date|Result|Ref|
+|--|--|--|--|--|--|--|
+|1|102* ‡|Australia|Warner Park, Basseterre|25 July 2025|Lost| |
+
+## References
+
+## External links
+- Shai Hope at ESPNcricinfo
+
+Categories: - 1993 births
+- Living people
+- West Indies Test cricketers
+- West Indies One Day International cricketers
+- West Indies Twenty20 International cricketers
+- Barbados cricketers
+- Barbados Royals cricketers
+- Guyana Amazon Warriors cricketers
+- Wisden Cricketers of the Year
+- Cricketers at the 2019 Cricket World Cup
+- Cricketers from Saint Michael, Barbados
+- Hobart Hurricanes cricketers
+- Delhi Capitals cricketers
+- Multan Sultans cricketers

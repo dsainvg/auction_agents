@@ -1,32 +1,26 @@
 ================================================================================
-IPL PLAYER PROFILE: SARFARAZ KHAN
+IPL PLAYER PROFILE: JITESH SHARMA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Sarfaraz Khan
-  IPL Debut                : 2015
-  Date of Birth            : 22 October 1997
-  Total IPL Matches        : 50
-  Role                     : Batter
+  Player Name              : Jitesh Sharma
+  IPL Debut                : 2022
+  Date of Birth            : 22 October 1993
+  Total IPL Matches        : 55
+  Role                     : Wicketkeeper Batter
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    The hard-hitting Sarfaraz Khan became the youngest to be picked up by a
-  franchise in the 2015 IPL Auction by Royal Challengers Bangalore and spent
-  four seasons under the tutelage of Virat Kohli, where he managed to make a
-  mark with his unique batting. Sarfaraz has the experience of playing against
-  opposition on pitches across the world thanks to exposure at the Under-19
-  level. After making a switch from Mumbai to Uttar Pradesh in domestic
-  cricket and then back to Mumbai, Sarfaraz is looking to revive his T20
-  standing. He was picked up by PBKS for INR 25 lakhs at the player auctions
-  prior to IPL 2019 and was retained ahead of the 2020 season. In 2019, he
-  played 8 games and made 180 runs. Sarfaraz is highly talented and he has it
-  in him to get that one big knock which will pitchfork him into prominence.
-  2020 was an average season for the righthander but he will be keeping his
-  hopes alive and back his abilities to support the PBKS batting in the 14th
-  edition with his unorthodox shots.
+    A young Jitesh Sharma made an impression with his attacking intent at the
+  top of the order in domestic cricket for Vidarbha, thus earning his
+  first-ever TATA IPL contract with Mumbai Indians in 2016. But he reinvented
+  himself as a highly capable finisher over the years and had a breakthrough
+  2022 season with PBKS, then also going on to play for India. With his
+  ability to play effective cameos, finish games, and keep wickets as well,
+  Sharma is an excellent utility player. RCB shelling out a whopping INR 11
+  Crore for Sharma ahead of TATA IPL 2025 showcases his promise.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -36,13 +30,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    40    |    9     |   441    |    67    |  23.21   |   319    |  138.24  |    0     |    1     |    50    |    11    |    4     |    0    
-    2021   |    2     |    0     |    0     |    0*    |   0.00   |    4     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2020   |    5     |    1     |    33    |   14*    |  16.50   |    29    |  113.79  |    0     |    0     |    5     |    0     |    2     |    0    
-    2019   |    8     |    1     |   180    |    67    |  45.00   |   143    |  125.87  |    0     |    1     |    19    |    4     |    0     |    0    
-    2018   |    7     |    1     |    51    |   22*    |  10.20   |    41    |  124.39  |    0     |    0     |    7     |    1     |    2     |    0    
-    2016   |    5     |    2     |    66    |   35*    |  33.00   |    31    |  212.90  |    0     |    0     |    7     |    4     |    0     |    0    
-    2015   |    13    |    4     |   111    |   45*    |  27.75   |    71    |  156.33  |    0     |    0     |    12    |    2     |    0     |    0    
+   Career  |    55    |    8     |   991    |   85*    |  25.41   |   631    |  157.05  |    0     |    1     |    77    |    62    |    44    |    5    
+    2025   |    15    |    4     |   261    |   85*    |  37.29   |   148    |  176.35  |    0     |    1     |    24    |    17    |    19    |    1    
+    2024   |    14    |    1     |   187    |   32*    |  17.00   |   142    |  131.69  |    0     |    0     |    9     |    12    |    13    |    0    
+    2023   |    14    |    1     |   309    |   49*    |  23.77   |   198    |  156.06  |    0     |    0     |    22    |    21    |    3     |    2    
+    2022   |    12    |    2     |   234    |    44    |  29.25   |   143    |  163.64  |    0     |    0     |    22    |    12    |    9     |    2    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -52,13 +44,31 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    38    |    2     |    6     |    0     |   0/6    |    -     |  18.00   |    -     |    0     |    0    
-    2020   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2019   |    8     |    2     |    6     |    0     |   0/6    |    -     |  18.00   |    -     |    0     |    0    
-    2018   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2015   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    55    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    15    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/sarfaraz-khan/1564
+Source: https://www.iplt20.com/players/jitesh-sharma/3185
 ================================================================================
+Career-Stats
+
+Batting Stats
+
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|--|--|--|-|--|--|--|
+|ODI|--|--|--|-|--|--|--|... |T20I|--|--|--|-|--|--|--|
+|FC|--|--|--|NaN|NaN|--|--|
+|listA|--|--|--|NaN|NaN|--|--|
+|T20s|--|--|--|NaN|NaN|--|--|... Bowling Stats
+
+|Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|--|--|--|--|--|--|--|--|
+|ODI|--|--|--|--|--|--|--|--|... |T20I|--|--|--|--|--|--|--|--|
+|FC|--|--|--|--|-|-|-|--|
+|listA|--|--|--|--|-|-|-|--|
+|T20s|--|--|--|--|-|-|-|--|

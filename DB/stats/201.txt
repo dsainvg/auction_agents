@@ -1,31 +1,29 @@
 ================================================================================
-IPL PLAYER PROFILE: YUDHVIR SINGH CHARAK
+IPL PLAYER PROFILE: TRISTAN STUBBS
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Yudhvir Singh Charak
-  IPL Debut                : 2023
-  Date of Birth            : 13 September 1997
-  Total IPL Matches        : 9
-  Role                     : WK-Batter
+  Player Name              : Tristan Stubbs
+  IPL Debut                : 2022
+  Date of Birth            : 14 August 2000
+  Total IPL Matches        : 32
+  Role                     : Wicketkeeper Batter
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    Yudhvir Singh Charak, a promising right-arm pacer, made an impactful IPL
-  debut, picking up two wickets for Lucknow Super Giants in the 2023 edition.
-  The Jammu-born speedster, known for his natural pace, has honed his skills
-  from a young age and emerged as a standout talent in domestic U19 cricket.
-  He made his T20 debut for Hyderabad in the 2019 Syed Mushtaq Ali Trophy
-  against Chandigarh and also marked his first-class debut the same year.
-  Yudhvir first entered the IPL circuit when Mumbai Indians signed him for the
-  2021 edition, making him only the second cricketer from Jammu to feature in
-  the tournament. Ahead of IPL 2025, Rajasthan Royals secured the talented
-  pacer for INR 35 lakhs. This move presents an exciting learning opportunity
-  for Yudhvir, as he will gain valuable insights from teammates like Sanju
-  Samson, Jofra Archer, and Sandeep Sharma to further refine his bowling
-  skills.
+  A fearless T20 batter, Tristan Stubbs made his IPL debut in 2022 for
+  Mumbai Indians, even before making his international debut for South Africa.
+  However, it was with Delhi Capitals in IPL 2024 that he truly announced
+  himself, finishing as the team’s second-highest run-getter with 378 runs at
+  an average of 54 and a strike rate of 190.90. His match-winning performances
+  earned him a retention for TATA IPL 2025.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best average: 54
+  2. Career best strike rate: 190.90.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -35,10 +33,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    9     |    0     |    22    |    14    |   5.50   |    16    |  137.50  |    0     |    0     |    1     |    2     |    0     |    0    
-    2025   |    4     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2024   |    2     |    0     |    21    |    14    |  10.50   |    14    |  150.00  |    0     |    0     |    1     |    2     |    0     |    0    
-    2023   |    3     |    0     |    1     |    1     |   0.50   |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+   Career  |    32    |    13    |   705    |   71*    |  41.47   |   432    |  163.19  |    0     |    3     |    51    |    37    |    17    |    1    
+    2025   |    14    |    7     |   300    |   41*    |  50.00   |   199    |  150.75  |    0     |    0     |    25    |    11    |    10    |    1    
+    2024   |    14    |    6     |   378    |   71*    |  54.00   |   198    |  190.91  |    0     |    3     |    24    |    26    |    7     |    0    
+    2023   |    2     |    0     |    25    |    20    |  12.50   |    31    |  80.65   |    0     |    0     |    2     |    0     |    0     |    0    
+    2022   |    2     |    0     |    2     |    2     |   1.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -48,11 +47,12 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    9     |   138    |   253    |    8     |   3/47   |  31.63   |  11.00   |  17.25   |    0     |    0    
-    2025   |    4     |    66    |   131    |    4     |   3/47   |  32.75   |  11.91   |  16.50   |    0     |    0    
-    2024   |    2     |    24    |    52    |    1     |   1/24   |  52.00   |  13.00   |  24.00   |    0     |    0    
-    2023   |    3     |    48    |    70    |    3     |   2/19   |  23.33   |   8.75   |  16.00   |    0     |    0    
+   Career  |    32    |    36    |    69    |    4     |   2/11   |  17.25   |  11.50   |   9.00   |    0     |    0    
+    2025   |    14    |    12    |    40    |    0     |   0/12   |    -     |  20.00   |    -     |    0     |    0    
+    2024   |    14    |    12    |    15    |    3     |   2/11   |   5.00   |   7.50   |   4.00   |    0     |    0    
+    2023   |    2     |    12    |    14    |    1     |   1/14   |  14.00   |   7.00   |  12.00   |    0     |    0    
+    2022   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/yudhvir-singh-charak/10842
+Source: https://www.iplt20.com/players/tristan-stubbs/20631
 ================================================================================

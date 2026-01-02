@@ -1,52 +1,288 @@
-================================================================================
-IPL PLAYER PROFILE: MUKESH KUMAR
-================================================================================
+|## Rohan Kunnummal Introduction|
+|--|
+|Role|Batsman|
+|Batting|Right Handed|
+|Bowling|spin Right-arm offbreak|
+|Country|
+|--|
+|Birth|10-May-1998 (26 yr), Palakkad, Kerala|
+|Height|--|
+|Teams|India U19, Kerala (Mostly)|
+|Social Accounts|
+|Last Updated|Last updated 1 months ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Rohan Kunnummal Stats|
+|--|
+|Competition|SMAT|DODI|DT20|
+|Matches|17|4|54|
+|Highest Score|56|120|107|
+|Runs|464|125|1432|
+|50s|3|0|11|
+|100s|0|1|2|
+|Run Per Inn|27.2|31.2|27.0|
+|Run Per Match|27.2|31.2|26.5|
+|Boundary (In Ball)|6.7|6.3|4.3|
+|4s (In Ball)|8.0|6.7|6.6|
+|6s (In Ball)|40.9|121.0|12.5|
+|Wickets|0|0|0|
+|Over Per Match|-|-|0.0|
+|Wicket Per Inn|-|-|-|
+|Wicket Per Match|-|-|-|
+|Wicket (In Ball)|-|-|-|
+|Wicket (In Runs)|-|-|-|
+|Field In Match %|41 %|50 %|66 %|
+|Catch In Match %|29 %|50 %|64 %|
+|Check More Stats On Advance Cricket App|
+|## Rohan Kunnummal Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|18 Sep 24|T20|76|0|16|96|
+|17 Sep 24|T20|93|0|8|105|
+|15 Sep 24|T20|146|0|8|158|
+|13 Sep 24|T20|80|0|16|100|
+|12 Sep 24|T20|20|0|8|32|
+|10 Sep 24|T20|27|0|8|39|
+|09 Sep 24|T20|27|0|16|47|
+|07 Sep 24|T20|31|0|0|35|
+|06 Sep 24|T20|-2|0|0|2|
+|04 Sep 24|T20|10|0|16|30|
+|03 Sep 24|T20|7|0|0|11|
+|11 May 24|T20|5|0|0|9|
+|10 May 24|T20|11|0|0|15|
+|09 May 24|T20|86|0|36|126|
+|08 May 24|T20|152|0|16|172|
+|09 Dec 23|ODI|152|0|16|172|
+|05 Dec 23|ODI|-3|0|0|1|
+|25 Nov 23|ODI|1|0|0|5|
+|23 Nov 23|ODI|4|0|0|8|
+|## Rohan Kunnummal Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|18 Sep 24|CG vs AKS|2|51(26)|196.1|catch|
+|17 Sep 24|CG vs TR|2|64(34)|188.2|catch|
+|15 Sep 24|CG vs TR|2|103(58)|177.5|catch|
+|13 Sep 24|CG vs AKS|2|61(48)|127|bowled|
+|12 Sep 24|CG vs KBT|2|16(8)|200|catch|
+|10 Sep 24|CG vs TT|2|23(19)|121|catch|
+|09 Sep 24|CG vs AP|2|19(12)|158.3|catch|
+|07 Sep 24|CG vs TT|2|20(10)|200|bowled|
+|06 Sep 24|CG vs TR|1|0(3)|0|lbw|
+|04 Sep 24|CG vs KBT|1|8(3)|266.6|catch|
+|03 Sep 24|CG vs AKS|2|6(5)|120|bowled|
+|11 May 24|KOD vs ERL|2|4(3)|133.3|catch|
+|10 May 24|KOD vs KAG|2|9(8)|112.5|catch|
+|09 May 24|KOD vs IDK|2|67(52)|128.8|catch|
+|08 May 24|KOD vs APH|2|107(58)|184.4|bowled|
+|09 Dec 23|KER vs MAH|2|120(95)|126.3|catch|
+|Rohan Kunnummal Recent Batting|
+|## Rohan Kunnummal Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|18 Sep 24|CG vs AKS|DNB|
+|17 Sep 24|CG vs TR|DNB|
+|15 Sep 24|CG vs TR|DNB|
+|13 Sep 24|CG vs AKS|DNB|
+|12 Sep 24|CG vs KBT|DNB|
+|10 Sep 24|CG vs TT|DNB|
+|09 Sep 24|CG vs AP|DNB|
+|07 Sep 24|CG vs TT|DNB|
+|06 Sep 24|CG vs TR|DNB|
+|04 Sep 24|CG vs KBT|DNB|
+|03 Sep 24|CG vs AKS|DNB|
+|11 May 24|KOD vs ERL|DNB|
+|10 May 24|KOD vs KAG|DNB|
+|09 May 24|KOD vs IDK|DNB|
+|08 May 24|KOD vs APH|DNB|
+|09 Dec 23|KER vs MAH|DNB|
+|Rohan Kunnummal Recent Bowling All Recent Bowling Details|
+|Competition|SMAT|DODI|DT20|
+|--|--|--|--|
+|Matches|17|4|54|
+|Innings|17|4|53|
+|Not Out|2|0|2|
+|Runs|464|125|1432|
+|Highest Score|56|120|107|
+|Average|30.93|31.25|28.07|
+|Balls Faced|409|121|929|
+|Strike Rate|113.4|103.3|154.1|
+|20s|2|0|8|
+|30s|6|0|2|
+|50s|3|0|11|
+|100s|0|1|2|
+|200s|0|0|0|
+|90s|0|0|1|
+|150s|0|0|0|
+|4s|51|18|139|
+|6s|10|1|74|
+|Outtype|
+|LBW|1|0|2|
+|Bowled|2|2|13|
+|Stumped|2|0|1|
+|Catch|8|2|34|
+|Run Out|2|0|1|
+|Wicket Taker|
+|Left Arm|3|1|7|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|2|
+|3- Medium|0|0|0|
+|4- Slow|3|1|5|
+|1- Bowled|1|0|3|
+|2- Catch|1|1|4|
+|3- Stumped|1|0|0|
+|4- Lbw|0|0|0|
+|Right Arm|10|1|40|
+|1- Fast|0|0|1|
+|2- Fast-Medium|2|1|6|
+|3- Medium|4|0|27|
+|4- Slow|4|0|6|
+|1- Bowled|1|0|8|
+|2- Catch|7|1|30|
+|3- Stumped|1|0|1|
+|4- Lbw|1|0|1|
+|Competition|SMAT|DODI|DT20|
+|--|--|--|--|
+|Matches|17|4|54|
+|Innings|0|0|1|
+|Balls|0|0|6|
+|Runs|0|0|5|
+|BBI|
+|Average|0|0|0|
+|Strike Rate|
+|Maiden|0|0|0|
+|2w|0|0|0|
+|3w|0|0|0|
+|5w|0|0|0|
+|8w|0|0|0|
+|10w|0|0|0|
+|Wickets|0|0|0|
+|LBW|0|0|0|
+|Bowled|0|0|0|
+|Stumped|0|0|0|... |Catch|0|0|0|
+|Batsman Type|
+|Right Handed|0|0|0|
+|1- LBW|0|0|0|
+|2- Bowled|0|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|0|0|0|... |Left Handed|0|0|0|
+|1- LBW|0|0|0|
+|2- Bowled|0|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|0|0|0|
+Rohan Kunnummal played 17 SMAT matches and scored 464 runs in 17 Innings.... Rohan Kunnummal's Highest Score in SMAT is 56. R Kunnummal has 0 SMAT centuries, 3 SMAT half centuries and 6 times 30+ and 2 times 20+ SMAT runs. R Kunnummal has a strike rate of 113.4 with run per match of 27.29 in 409 SMAT balls.... Rohan Kunnummal made total 61 boundaries with 51 fours and 10 sixes in SMAT. R Kunnummal's SMAT outtype analysis are lbw 1 times, bowled 2, stumped 2 times, catch 8 times, Run Out 2 times.... Rohan Kunnummal's SMAT wicket takers are 3 left arm and 10 right arm. R Kunnummal's Left Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 3 wickets.... Rohan Kunnummal's Right Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 2 wickets, Medium bowler 4 wickets, Slow bowler 4 wickets. R Kunnummal's wicket taken by Left Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 1 wickets, stumped 1 wickets, catch 1 wickets.... Rohan Kunnummal's wicket taken by Right Arm Bowlers in SMAT analysis are lbw 1 wickets, bowled 1 wickets, stumped 1 wickets, catch 7 wickets.
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Mukesh Kumar
-  IPL Debut                : 2023
-  Date of Birth            : 12 October 1993
-  Total IPL Matches        : 32
-  Role                     : WK-Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Bihar-born Mukesh Kumar moved to Bengal in 2014 and made his first-class
-  debut a year later with a four-for. Known for his swing and skiddy bowling,
-  Mukesh made his all-format debut for India within two weeks during the
-  Carribean Tour in 2023. He’s been a part of Delhi Capitals since IPL 2023
-  and produced an impactful 2024 season with 17 wickets in 10 games. DC
-  acquired his services back for INR 8 Crore using RTM at the 2025 TATA IPL
-  Auction.
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    32    |    4     |    10    |    6*    |  10.00   |    18    |  55.56   |    0     |    0     |    0     |    0     |    9     |    0    
-    2025   |    12    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    3     |    0    
-    2024   |    10    |    1     |    3     |    3     |   3.00   |    9     |  33.33   |    0     |    0     |    0     |    0     |    3     |    0    
-    2023   |    10    |    3     |    7     |    6*    |    -     |    9     |  77.78   |    0     |    0     |    0     |    0     |    3     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    32    |   636    |   1102   |    36    |   4/33   |  30.61   |  10.40   |  17.67   |    1     |    0    
-    2025   |    12    |   237    |   408    |    12    |   4/33   |  34.00   |  10.33   |  19.75   |    1     |    0    
-    2024   |    10    |   213    |   368    |    17    |   3/14   |  21.65   |  10.37   |  12.53   |    0     |    0    
-    2023   |    10    |   186    |   326    |    7     |   2/30   |  46.57   |  10.52   |  26.57   |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/mukesh-kumar/5622
-================================================================================
+Rohan Kunnummal Fielding analysis are Catch 5 times, Stumping 0 times, Direct Throw(Run Out) 1 times, Throw(Run Out) 0 times.... Rohan Kunnummal played 4 DODI matches and scored 125 runs in 4 Innings. Rohan Kunnummal's Highest Score in DODI is 120. R Kunnummal has 1 DODI centuries, 0 DODI half centuries and 0 times 30+ and 0 times 20+ DODI runs.... R Kunnummal has a strike rate of 103.3 with run per match of 31.25 in 121 DODI balls. Rohan Kunnummal made total 19 boundaries with 18 fours and 1 sixes in DODI. R Kunnummal's DODI outtype analysis are lbw 0 times, bowled 2, stumped 0 times, catch 2 times, Run Out 0 times.... Rohan Kunnummal's DODI wicket takers are 1 left arm and 1 right arm. R Kunnummal's Left Arm DODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets.... Rohan Kunnummal's Right Arm DODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 1 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. R Kunnummal's wicket taken by Left Arm Bowlers in DODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets.... Rohan Kunnummal's wicket taken by Right Arm Bowlers in DODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets.... Rohan Kunnummal Took 0 Wickets (In 0 DODI innings) with Strike Rate of and average of 0. R Kunnummal's delivered 0 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 0 Right Handed and 0 Left Handed batsman out by Rohan Kunnummal in DODI. Right Handed Batsman DODI outtype analysis (wicket taken by R Kunnummal) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times. Left Handed Batsman DODI outtype analysis (wicket taken by R Kunnummal) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Rohan Kunnummal Fielding analysis are Catch 2 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Rohan Kunnummal played 54 DT20 matches and scored 1432 runs in 53 Innings. Rohan Kunnummal's Highest Score in DT20 is 107. R Kunnummal has 2 DT20 centuries, 11 DT20 half centuries and 2 times 30+ and 8 times 20+ DT20 runs.... R Kunnummal has a strike rate of 154.1 with run per match of 26.51 in 929 DT20 balls. Rohan Kunnummal made total 213 boundaries with 139 fours and 74 sixes in DT20. R Kunnummal's DT20 outtype analysis are lbw 2 times, bowled 13, stumped 1 times, catch 34 times, Run Out 1 times.... Rohan Kunnummal's DT20 wicket takers are 7 left arm and 40 right arm. R Kunnummal's Left Arm DT20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 2 wickets, Medium bowler 0 wickets, Slow bowler 5 wickets.... Rohan Kunnummal's Right Arm DT20 Wicket Taker analysis are Fast bowler 1 wickets, Fast-Medium bowler 6 wickets, Medium bowler 27 wickets, Slow bowler 6 wickets. R Kunnummal's wicket taken by Left Arm Bowlers in DT20 analysis are lbw 0 wickets, bowled 3 wickets, stumped 0 wickets, catch 4 wickets.... Rohan Kunnummal's wicket taken by Right Arm Bowlers in DT20 analysis are lbw 1 wickets, bowled 8 wickets, stumped 1 wickets, catch 30 wickets.... Rohan Kunnummal Took 0 Wickets (In 1 DT20 innings) with Strike Rate of and average of 0. R Kunnummal's delivered 6 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 0 Right Handed and 0 Left Handed batsman out by Rohan Kunnummal in DT20. Right Handed Batsman DT20 outtype analysis (wicket taken by R Kunnummal) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times. Left Handed Batsman DT20 outtype analysis (wicket taken by R Kunnummal) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Rohan Kunnummal Fielding analysis are Catch 35 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Rohan Kunnummal plays cricket as Batsman. Rohan Kunnummal run per match records are 27.2 runs in SMAT, 31.2 runs in DODI, 26.5 runs in DT20, 55.8 runs in VHT. R Kunnummal make boundary in every 6.7 balls in SMAT, 6.3 balls in DODI, 4.3 balls in DT20, 6.0 balls in VHT.... Rohan Kunnummal hits six in every 40.9 balls in SMAT, every 121.0 balls in DODI, every 12.5 balls in DT20, every 37.6 balls in VHT. Rohan Kunnummal score four in every 8.0 balls in SMAT, 6.7 balls in DODI, 6.6 balls in DT20, 7.2 balls in VHT.... |## Rohan Kunnummal stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|KER|all|SMAT|17|56|30.93|Stats|
+|PAN|all|DT20|5|11|7.80|Stats|
+|MTC|all|DT20|19|89|28.66|Stats|
+|KER|all|DT20|7|32|23.83|Stats|
+|TUS|all|DT20|1|37|37.00|Stats|
+|ROY|all|DT20|3|26|13.33|Stats|
+|KRL|all|DT20|3|91|33.00|Stats|
+|KER|all|VHT|11|134|68.22|Stats|
+|KER|all|DODI|4|120|31.25|Stats|
+|## Rohan Kunnummal stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Dr DY Patil Sports Academy|all|SMAT|2|36|26.00|Stats|
+|Bandra Kurla Complex|all|SMAT|2|31|21.50|Stats|
+|Maharaja Yadavindra Singh Inte|all|SMAT|1|9|9.00|Stats|
+|Palam A Stadium|all|SMAT|1|22|22.00|Stats|
+|Arun Jaitley Stadium|all|SMAT|4|56|48.66|Stats|
+|Devineni Venkata Ramana Pranee|all|SMAT|2|51|85.00|Stats|
+|St Xaviers College Ground|all|SMAT|1|34|34.00|Stats|
+|Greenfield International Stadi|all|SMAT|3|30|14.33|Stats|
+|Barabati Stadium|all|DT20|3|91|33.00|Stats|
+|Eden Gardens|all|DT20|1|22|22.00|Stats|
+|## Rohan Kunnummal stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Sanatana Dharma College Ground|all|DT20|1|0|5.00|Stats|
+|Madhavrao Scindia Cricket Grou|all|VHT|1|0|12.00|Stats|
+|Saurashtra Cricket Association|all|VHT|2|1|4.80|Stats|
+|KL Saini Ground|all|VHT|1|0|12.00|Stats|
+|## Rohan Kunnummal stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|SYAT 2019-20|all|SMAT|4|34|19.25|Stats|
+|SYAT 2018-2019|all|SMAT|2|51|85.00|Stats|
+|SMAT 2021-22|all|SMAT|5|56|42.00|Stats|
+|SMAT 2023|all|SMAT|6|36|22.33|Stats|
+|KKT20 -2021|all|DT20|3|9|6.66|Stats|
+|KCA C CHAMP 2021|all|DT20|10|89|25.33|Stats|
+|KCA C CHAMP 2022|all|DT20|9|83|32.00|Stats|
+|KCA Presidents Cup T20 2022|all|DT20|3|37|18.66|Stats|
+|Syed Mushtaq Ali Trophy 2022|all|DT20|7|32|23.83|Stats|
+|KCA TCM Presidents Cup T20 202|all|DT20|3|26|13.33|Stats|
+|## Rohan Kunnummal stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|KCA C CHAMP 2021|all|DT20|1|0|5.00|Stats|
+|VHT 2021-22|all|VHT|4|1|6.73|Stats|
+|## Rohan Kunnummal stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|India|all|SMAT|17|56|30.93|Stats|
+|India|all|DT20|53|107|28.07|Stats|
+|India|all|VHT|10|134|75.87|Stats|
+|Malaysia|all|VHT|1|7|7.00|Stats|
+|India|all|DODI|4|120|31.25|Stats|
+|## Rohan Kunnummal stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|MNP|all|SMAT|1|10|10.00|Stats|
+|HP|all|SMAT|1|22|22.00|Stats|
+|MP|all|SMAT|1|29|29.00|Stats|
+|TN|all|SMAT|2|51|42.50|Stats|
+|TRI|all|SMAT|1|30|30.00|Stats|
+|UP|all|SMAT|1|3|3.00|Stats|
+|NGL|all|SMAT|1|51|51.00|Stats|
+|JHKD|all|SMAT|1|34|34.00|Stats|
+|ASM|all|SMAT|3|56|48.00|Stats|
+|RLYS|all|SMAT|1|10|10.00|Stats|
+|## Rohan Kunnummal stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Greenfield International Stadi|all|MNP|SMAT|1|10|10.00|Stats|
+|St Xaviers College Ground|all|TN|SMAT|1|34|34.00|Stats|
+|Greenfield International Stadi|all|TRI|SMAT|1|30|30.00|Stats|
+|Greenfield International Stadi|all|UP|SMAT|1|3|3.00|Stats|
+|Sanatana Dharma College Ground|all|TIG|DT20|3|9|7.66|Stats|
+|Sanatana Dharma College Ground|all|EAG|DT20|3|26|14.00|Stats|
+|Sanatana Dharma College Ground|all|ROY|DT20|1|6|6.00|Stats|
+|## Rohan Kunnummal stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|## Rohan Kunnummal stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|SYAT 2019-20|MNP|SMAT|1|10|10.00|Stats|
+|SMAT 2021-22|HP|SMAT|1|22|22.00|Stats|
+|SMAT 2021-22|MP|SMAT|1|29|29.00|Stats|
+|SYAT 2019-20|TN|SMAT|1|34|34.00|Stats|
+|SYAT 2019-20|TRI|SMAT|1|30|30.00|Stats|
+|SYAT 2019-20|UP|SMAT|1|3|3.00|Stats|
+|SYAT 2018-2019|NGL|SMAT|1|51|51.00|Stats|
+|SYAT 2018-2019|JHKD|SMAT|1|34|34.00|Stats|
+|SMAT 2021-22|ASM|SMAT|1|56|56.00|Stats|
+|SMAT 2021-22|RLYS|SMAT|1|10|10.00|Stats|
+|## Rohan Kunnummal stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|KCA C CHAMP 2021|BKK|DT20|1|0|5.00|Stats|
+|VHT 2021-22|MP|VHT|1|1|7.00|Stats|
+|VHT 2021-22|MAH|VHT|1|0|12.00|Stats|
+|VHT 2021-22|SER|VHT|1|0|12.00|Stats|
+|VHT 2021-22|UTK|VHT|1|0|3.33|Stats|
+|## Rohan Kunnummal stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|India|all|MNP|SMAT|1|10|10.00|Stats|... |India|all|HP|SMAT|1|22|22.00|Stats|
+|India|all|MP|SMAT|1|29|29.00|Stats|
+|India|all|TN|SMAT|2|51|42.50|Stats|
+|India|all|TRI|SMAT|1|30|30.00|Stats|... |India|all|UP|SMAT|1|3|3.00|Stats|
+|India|all|NGL|SMAT|1|51|51.00|Stats|
+|India|all|JHKD|SMAT|1|34|34.00|Stats|
+|India|all|ASM|SMAT|3|56|48.00|Stats|... |India|all|RLYS|SMAT|1|10|10.00|Stats|

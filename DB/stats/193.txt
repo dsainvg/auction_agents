@@ -1,55 +1,24 @@
-================================================================================
-IPL PLAYER PROFILE: SACHIN BABY
-================================================================================
+### Tom Moores
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Sachin Baby
-  IPL Debut                : 2013
-  Date of Birth            : 18 December 1988
-  Total IPL Matches        : 20
-  Role                     : Batter
-  Nationality              : Indian
+### England
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Captain of Kerala’s limited-overs side, Sachin Baby scored heavily in the
-  2012-13 Vijay Hazare Trophy, India’s premier domestic 50-over tournament.
-  His century in the quarter-final earned Kerala a place in the final four of
-  the tournament. Baby’s penchant for limited-overs cricket earned him a
-  contract with the Rajasthan Royals for IPL 2013. RCB picked him up in the
-  IPL Player Auction 2016. In 2018, the southpaw represented SRH and in the
-  IPL 2021 Player Auction he was bought by the RCB for his base price of INR
-  20 lakhs
+### Popular PlayersVirat KohliRohit SharmaSachin TendulkarSourav GangulyHardik PandyaOverviewNewsStats... ### Batting Performance
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    19    |    1     |   144    |    33    |  14.40   |   118    |  122.03  |    0     |    0     |    11    |    5     |    10    |    0    
-    2021   |    1     |    0     |    7     |    7     |   7.00   |    17    |  41.17   |    0     |    0     |    0     |    0     |    5     |    0    
-    2017   |    3     |    0     |    15    |    12    |   5.00   |    15    |  100.00  |    0     |    0     |    2     |    0     |    2     |    0    
-    2016   |    11    |    1     |   119    |    33    |  23.80   |    79    |  150.63  |    0     |    0     |    9     |    5     |    1     |    0    
-    2013   |    4     |    0     |    3     |    3     |   3.00   |    7     |  42.85   |    0     |    0     |    0     |    0     |    2     |    0    
+|Format|M|Inns|No|R|H.S|Avg|BF|SR|100s|50s|
+|--|--|--|--|--|--|--|--|--|--|--|
+|t20|165|146|34|2853|80|25.47|2094|136.24|--|13|... |fc|78|122|7|2681|106|23.31|5245|51.11|2|8|
+|list a|33|30|6|951|148|39.62|807|117.84|1|5|
+|t10|41|30|7|459|47|19.96|256|179.30|--|--|... ### Bowling Performance
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    19    |    10    |    8     |    2     |   2/4    |   4.00   |   4.80   |   5.00   |    0     |    0    
-    2021   |    1     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
-    2017   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    11    |    10    |    8     |    2     |   2/4    |   4.00   |   4.80   |   5.00   |    0     |    0    
-    2013   |    4     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
+|Format|M|Inns|Ovs|R|Wkts|BBI|Avg|ECN|SR|4W|5W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|t20|165|--|0.00|--|--|--|0|0|0|--|--|... |fc|78|2|1.20|6|--|--|0|4.5|0|--|--|
+|list a|33|--|0.00|--|--|--|0|0|0|--|--|
+|t10|41|--|0.00|--|--|--|--|--|--|--|--|... ### Recent Form (Last 5 Matches)AllTestODIT20
 
-================================================================================
-Source: https://www.iplt20.com/players/sachin-baby/1115
-================================================================================
+|DV vs GG|10* & 1*|08 Dec 2025|Dubai|t20|
+|--|--|--|--|--|
+|DC vs GG|13|06 Dec 2025|Dubai|t20|
+|GG vs MIE|1*|04 Dec 2025|Dubai|t20|
+|AT vs DB|0|28 Nov 2025|Abu Dhabi|t10|
+|DB vs AS|24|27 Nov 2025|Abu Dhabi|t10|

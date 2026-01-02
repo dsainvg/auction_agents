@@ -1,27 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: JAGADEESHA SUCHITH
+IPL PLAYER PROFILE: SACHIN RANA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Jagadeesha Suchith
-  IPL Debut                : 2015
-  Date of Birth            : 16 January 1994
-  Total IPL Matches        : 22
+  Player Name              : Sachin Rana
+  IPL Debut                : 2011
+  Date of Birth            : 18 September 1984
+  Total IPL Matches        : 11
   Role                     : Bowler
   Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    A late entrant to the Delhi Capitals for the IPL 2019 season, Suchith was
-  drafted into the franchise after all-rounder Harshal Patel was ruled out of
-  the rest of the competition with an injury. Suchith is a clever left-arm
-  orthodox spinner and a useful lower-order batsman capable of striking big.
-  He has had a taste of the IPL before, when he played for Mumbai Indians in
-  2015 even before he made his first-class debut, taking 10 wickets! He played
-  just one game for DC and was transferred to Kings XI Punjab (Punjab Kings)
-  ahead of the 2020 season. Suchith will play for the Sunrisers Hyderabad in
-  the 2021 IPL season.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -31,12 +19,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    22    |    6     |    70    |   34*    |  17.50   |    61    |  114.75  |    0     |    0     |    6     |    3     |    12    |    0    
-    2022   |    5     |    0     |    2     |    2     |   1.00   |    8     |  25.00   |    0     |    0     |    0     |    0     |    3     |    0    
-    2021   |    2     |    1     |    14    |   14*    |   0.00   |    6     |  233.33  |    0     |    0     |    2     |    1     |    1     |    0    
-    2019   |    1     |    0     |    6     |    6     |   6.00   |    15    |  40.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2016   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2015   |    13    |    5     |    48    |   34*    |  48.00   |    32    |  150.00  |    0     |    0     |    4     |    2     |    8     |    0    
+   Career  |    11    |    4     |    91    |    19    |  22.75   |    81    |  112.35  |    0     |    0     |    9     |    1     |    3     |    0    
+    2014   |    9     |    4     |    73    |   19*    |  24.33   |    65    |  112.30  |    0     |    0     |    7     |    1     |    3     |    0    
+    2011   |    2     |    0     |    18    |    18    |  18.00   |    16    |  112.50  |    0     |    0     |    2     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -46,13 +31,42 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    22    |   420    |   602    |    19    |   2/12   |  31.68   |   8.60   |  22.11   |    0     |    0    
-    2022   |    5     |   108    |   140    |    7     |   2/12   |  20.00   |   7.78   |  15.43   |    0     |    0    
-    2021   |    2     |    42    |    66    |    0     |   0/21   |    -     |   9.42   |    -     |    0     |    0    
-    2019   |    1     |    24    |    28    |    2     |   2/28   |  14.00   |   7.00   |  12.00   |    0     |    0    
-    2016   |    1     |    12    |    31    |    0     |   0/31   |    -     |  15.50   |    -     |    0     |    0    
-    2015   |    13    |   234    |   337    |    10    |   2/14   |  33.70   |   8.64   |  23.40   |    0     |    0    
+   Career  |    11    |    16    |    18    |    0     |   0/2    |    -     |   6.75   |    -     |    0     |    0    
+    2014   |    9     |    12    |    16    |    0     |   0/7    |    -     |   8.00   |    -     |    0     |    0    
+    2011   |    2     |    4     |    2     |    0     |   0/2    |    -     |   3.00   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/jagadeesha-suchith/2741
+Source: https://www.iplt20.com/players/sachin-rana/128
 ================================================================================
+Nahid Rana
+
+Batting Stats
+
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|10|16|17|19.32|2.43|--|3/0|
+|ODI|5|3|6|33.33|--|--|1/0|
+|T20I|--|--|--|-|--|--|--|
+Bowling Stats... |Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|10|17|1464|27|4.61|54.22|41.67|1|... |ODI|5|5|264|5|5.11|52.80|45.00|0|
+|T20I|1|1|24|2|12.50|12.00|25.00|0|
+All Matches... |Opposition|Batting|Bowling|Format|Date|
+|--|--|--|--|--|
+|Sylhet Division vs Rajshahi Division|4(7)|3/88(23.4)|First-class|30-Nov-2025|
+|Bangladesh vs Ireland|4*(6)|1/65(14) & 2/40(8)|Tests|11-Nov-2025|... |Khulna Division vs Rajshahi Division|0*(9)|1/28(12)|First-class|01-Nov-2025|
+Test Matches... |Opposition|Batting|Bowling|Date|
+|--|--|--|--|
+|Bangladesh vs Ireland|4*(6)|1/65(14) & 2/40(8)|11-Nov-2025|
+|Sri Lanka vs Bangladesh|0*(7) & 0*(0)|1/94(20)|25-Jun-2025|... |Sri Lanka vs Bangladesh|0(8) & DNB|0/97(19) & DNB|17-Jun-2025|
+ODI Matches
+
+|Opposition|Batting|Bowling|Date|
+|--|--|--|--|
+|Afghanistan vs Bangladesh|2*(9)|0/56(8.2)|14-Oct-2025|
+|Bangladesh vs New Zealand|0*(4)|1/43(9)|24-Feb-2025|
+|West Indies vs Bangladesh|4*(5)|1/36(8)|10-Dec-2024|
+T20s Matches... |Opposition|Batting|Bowling|Date|
+|--|--|--|--|
+|Rajshahi Division vs Dhaka Division|0*(1)|1/26(4)|30-Sep-2025|
+|Rajshahi Division vs Chattogram Division|DNB|0/26(4)|29-Sep-2025|... |Rajshahi Division vs Khulna Division|DNB|1/42(4)|26-Sep-2025|

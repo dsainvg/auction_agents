@@ -1,27 +1,13 @@
-================================================================================
-IPL PLAYER PROFILE: PRASHANT SOLANKI
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Prashant Solanki
-  IPL Debut                : 2022
-  Date of Birth            : 15 October 1992
-  Total IPL Matches        : 2
-  Role                     : Bowler
-  Nationality              : Indian
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2022   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/prashant-solanki/20576
-================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Coastal Riders|2|0|0|-|-|0|0|0|0|-|0.00|2|0|CSR|3178|0|0|73|
+|Godavari Titans|1|0|0|-|-|0|0|0|0|-|0.00|-|-|GOD|3179|0|0|73|... |Uttarandhra Lions|1|0|0|-|-|0|0|0|0|-|0.00|-|-|UTL|3180|0|0|73|
+|Rayalaseema Kings|2|0|0|-|-|0|0|0|0|-|0.00|-|-|RYLS|3181|0|0|73|... |Bezawada Tigers|1|0|0|-|-|0|0|0|0|-|0.00|-|-|BZW|3183|0|0|73|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Bezawada Tigers|1|4|0|23|1|1/23|0|0|23.00|5.75|24.00|BZW|3183|7|73|... |Coastal Riders|2|8|0|61|0|0/25|0|0|-|7.62|-|CSR|3178|7|73|
+|Godavari Titans|1|4|0|25|1|1/25|0|0|25.00|6.25|24.00|GOD|3179|7|73|... |Rayalaseema Kings|2|8|0|63|1|1/44|0|0|63.00|7.87|48.00|RYLS|3181|7|73|
+|Uttarandhra Lions|1|4|0|31|1|1/31|0|0|31.00|7.75|24.00|UTL|3180|7|73|... |Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|DNB|1/44|Rayalaseema Kings|Jul 12 2024|
+|DNB|0/25|Coastal Riders|Jul 11 2024|
+|DNB|1/31|Uttarandhra Lions|Jul 8 2024|... |DNB|1/25|Godavari Titans|Jul 7 2024|
+|DNB|0/36|Coastal Riders|Jul 6 2024|

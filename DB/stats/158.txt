@@ -1,42 +1,888 @@
-================================================================================
-IPL PLAYER PROFILE: RILEE ROSSOUW
-================================================================================
+Quick Links
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Rilee Rossouw
-  IPL Debut                : 2014
-  Date of Birth            : 09 October 1989
-  Total IPL Matches        : 22
-  Role                     : Batter
-  Nationality              : South African
+Test Series
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    22    |    2     |   473    |   82*    |  23.65   |   308    |  153.57  |    0     |    2     |    45    |    25    |    9     |    0    
-    2024   |    8     |    0     |   211    |    61    |  26.38   |   116    |  181.90  |    0     |    1     |    25    |    11    |    4     |    0    
-    2023   |    9     |    2     |   209    |   82*    |  29.86   |   141    |  148.23  |    0     |    1     |    17    |    11    |    3     |    0    
-    2015   |    2     |    0     |    14    |    14    |   7.00   |    10    |  140.00  |    0     |    0     |    1     |    1     |    2     |    0    
-    2014   |    3     |    0     |    39    |    24    |  13.00   |    41    |  95.12   |    0     |    0     |    2     |    2     |    0     |    0    
+ODI Series
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2015   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2014   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+T20I Series
 
-================================================================================
-Source: https://www.iplt20.com/players/rilee-rossouw/239
-================================================================================
+World Cup
+
+World Cup 2023
+
+World Cup 2019
+
+World Cup 2015
+
+World Cup 2011
+
+World Cup 2007
+
+World Cup 2003
+
+World Cup 1999
+
+World Cup 1996... World Cup 1992
+
+World Cup 1987
+
+World Cup 1983
+
+World Cup 1979
+
+World Cup 1975
+
+T20I World Cup
+
+World Cup 2024
+
+World Cup 2022
+
+World Cup 2021
+
+World Cup 2016
+
+World Cup 2014... World Cup 2012
+
+World Cup 2010
+
+World Cup 2009
+
+World Cup 2007
+
+Champions Trophy
+
+Champions Trophy 2025
+
+Champions Trophy 2017
+
+Champions Trophy 2013
+
+Champions Trophy 2009
+
+Champions Trophy 2006
+
+Champions Trophy 2004... Champions Trophy 2002
+
+Test Championship
+
+Yearwise Cricstats
+
+2024 stats
+
+2023 stats
+
+2022 stats
+
+2021 stats
+
+2020 stats
+
+2019 stats
+
+2018 stats
+
+2017 stats
+
+2016 stats
+
+2015 stats
+
+Alltime stats
+
+George Linde
+
+Allrounder... Full Name:
+
+George Fredrik Linde
+
+Date of Birth:
+
+04 Dec 1991
+
+Current Age:
+
+33 Year, 10 Month, 24 Days
+
+Born:
+
+Cape Town
+
+Teams:
+
+TEST
+
+Rank
+
+
+
+Cap No
+
+340
+
+First Game
+
+2019-10-19
+
+Last Game
+
+2021-02-04... ODI
+
+Rank
+
+
+
+Cap No
+
+141
+
+First Game
+
+2021-09-04
+
+Last Game
+
+2021-09-07
+
+T20I
+
+Rank
+
+
+
+Cap No
+
+87
+
+First Game
+
+2020-11-27
+
+Last Game
+
+2025-08-10
+
+Player Stats
+
+Last 10 Matches... Yearwise Stats
+
+Teamwise Stats
+
+Groundwise Stats
+
+Ranking
+
+'s 2025 stats
+
+T20I
+
+MAT
+
+6
+
+ING
+
+5
+
+RUNS
+
+66
+
+BF
+
+51
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+3
+
+4s
+
+3
+
+NO
+
+2... HS
+
+30
+
+AVG
+
+22.00
+
+SR
+
+129.41
+
+T20I
+
+1st Inning
+
+ING
+
+1
+
+RUNS
+
+23
+
+BF
+
+15
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+1
+
+4s
+
+1
+
+NO
+
+1
+
+HS
+
+23... AVG
+
+23.00
+
+SR
+
+153.33
+
+T20I
+
+2nd Inning
+
+ING
+
+4
+
+RUNS
+
+43
+
+BF
+
+36
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+2
+
+4s
+
+2
+
+NO
+
+1
+
+HS
+
+30
+
+AVG
+
+14.33... SR
+
+119.44
+
+T20I
+
+MAT
+
+-99
+
+ING
+
+1
+
+RUNS
+
+0
+
+BF
+
+3
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+0
+
+4s
+
+0
+
+NO
+
+0
+
+HS
+
+0
+
+AVG
+
+0.00
+
+SR
+
+0.00... T20I
+
+MAT
+
+-99
+
+ING
+
+1
+
+RUNS
+
+10
+
+BF
+
+10
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+0
+
+4s
+
+1
+
+NO
+
+0
+
+HS
+
+10
+
+AVG
+
+10.00
+
+SR
+
+100.00
+
+T20I... MAT
+
+-99
+
+ING
+
+3
+
+RUNS
+
+56
+
+BF
+
+38
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+3
+
+4s
+
+2
+
+NO
+
+2
+
+HS
+
+30
+
+AVG
+
+56.00
+
+SR
+
+147.37
+
+T20I
+
+MAT
+
+6... ING
+
+6
+
+BALLS
+
+13
+
+WKT
+
+4
+
+RUNS
+
+121
+
+ECO
+
+9.31
+
+AVG
+
+30.25
+
+SR
+
+19.50
+
+5Ws
+
+0
+
+T20I
+
+1st Inning
+
+ING
+
+5
+
+BALLS
+
+10
+
+WKT
+
+4... RUNS
+
+91
+
+ECO
+
+9.10
+
+AVG
+
+22.75
+
+SR
+
+15.00
+
+5Ws
+
+0
+
+T20I
+
+2nd Inning
+
+ING
+
+1
+
+BALLS
+
+3
+
+WKT
+
+0
+
+RUNS
+
+30
+
+ECO
+
+10.00
+
+AVG... 30.00
+
+SR
+
+18.00
+
+5Ws
+
+0
+
+T20I
+
+MAT
+
+-99
+
+ING
+
+1
+
+BALLS
+
+2
+
+WKT
+
+1
+
+RUNS
+
+26
+
+ECO
+
+0.00
+
+AVG
+
+0.00
+
+SR
+
+5Ws
+
+0
+
+T20I... MAT
+
+-99
+
+ING
+
+1
+
+BALLS
+
+3
+
+WKT
+
+0
+
+RUNS
+
+30
+
+ECO
+
+10.00
+
+AVG
+
+30.00
+
+SR
+
+18.00
+
+5Ws
+
+0
+
+T20I
+
+MAT
+
+-99
+
+ING
+
+2
+
+BALLS
+
+4... WKT
+
+3
+
+RUNS
+
+19
+
+ECO
+
+4.75
+
+AVG
+
+6.33
+
+SR
+
+8.00
+
+5Ws
+
+0
+
+T20I
+
+MAT
+
+-99
+
+ING
+
+2
+
+BALLS
+
+4
+
+WKT
+
+0
+
+RUNS
+
+46
+
+ECO... 11.50
+
+AVG
+
+46.00
+
+SR
+
+24.00
+
+5Ws
+
+0
+
+'s 2025 matches
+
+Match
+
+R
+
+B
+
+4s
+
+6s
+
+SR
+
+O
+
+R
+
+W
+
+Eco
+
+Win/Loss
+
+Scorecard
+
+1st T20I (N) - Sun, 10 Aug 2025 vs Australia... 0
+
+3
+
+0
+
+0
+
+0.00
+
+Loss
+
+View Scorecard
+
+Final - Sat, 26 Jul 2025 vs TBA
+
+10
+
+10
+
+1
+
+0
+
+100.00
+
+Loss
+
+View Scorecard
+
+5th - Tue, 22 Jul 2025 vs New Zealand... 23
+
+15
+
+1
+
+1
+
+153.33
+
+Loss
+
+View Scorecard
+
+2nd - Wed, 16 Jul 2025 vs New Zealand
+
+30
+
+20
+
+1
+
+2
+
+150.00
+
+Loss
+
+View Scorecard
+
+1st - Mon, 14 Jul 2025 vs Zimbabwe... 3
+
+3
+
+0
+
+0
+
+100.00
+
+Win
+
+View Scorecard
+
+1st T20I (N) - Sun, 10 Aug 2025 vs Australia
+
+2.00
+
+26
+
+1
+
+13.00
+
+Loss
+
+View Scorecard
+
+Final - Sat, 26 Jul 2025 vs TBA... 1.00
+
+9
+
+0
+
+9.00
+
+Loss
+
+View Scorecard
+
+5th - Tue, 22 Jul 2025 vs New Zealand
+
+3.00
+
+30
+
+0
+
+10.00
+
+Loss
+
+View Scorecard
+
+4th - Sun, 20 Jul 2025 vs Zimbabwe... 3.00
+
+33
+
+0
+
+11.00
+
+Win
+
+View Scorecard
+
+2nd - Wed, 16 Jul 2025 vs New Zealand
+
+1.00
+
+13
+
+0
+
+13.00
+
+Loss
+
+View Scorecard
+
+1st - Mon, 14 Jul 2025 vs Zimbabwe
+3.00
+
+10
+
+3
+
+3.33
+
+Win
+
+View Scorecard

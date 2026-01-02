@@ -1,25 +1,26 @@
 ================================================================================
-IPL PLAYER PROFILE: SAI KISHORE
+IPL PLAYER PROFILE: NAVDEEP SAINI
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Sai Kishore
-  IPL Debut                : 2022
-  Date of Birth            : 06 November 1996
-  Total IPL Matches        : 25
-  Role                     : WK-Batter
+  Player Name              : Navdeep Saini
+  IPL Debut                : 2019
+  Date of Birth            : 23 November 1992
+  Total IPL Matches        : 32
+  Role                     : Bowler
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    A slow left-arm orthodox spinner from Tamil Nadu, R. Sai Kishore is known
-  for his control, height advantage, and economical bowling. With over 350
-  domestic wickets, he has been a consistent performer in Indian domestic
-  cricket. Sai Kishore was previously part of CSK in 2020-21 before moving to
-  Gujarat Titans in 2022, where he played a role in their title-winning
-  campaign. GT used their RTM (Right to Match) card to secure him for INR 2
-  Crore at the 2025 TATA IPL Auction.
+    Navdeep Saini is one of the brightest fast bowling prospects in India at
+  the moment. He can quite comfortably clock in excess of 140 kmph on the
+  speed gun. He was the star of Delhi's campaign as they reached the Ranji
+  Trophy final in 2017-18. 34 wickets in 8 games is a brilliant return for
+  someone so young and who has yet to make the grade at International level.
+  He was bought by Delhi Daredevils in the tenth edition of the league. 2018
+  Player Auction saw a fierce bidding war for the youngster and RCB
+  successfully emerged on top to buy him for INR 3cr.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -29,10 +30,12 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    25    |    1     |    18    |    13    |   4.50   |    16    |  112.50  |    0     |    0     |    0     |    2     |    10    |    0    
-    2025   |    15    |    0     |    5     |    3     |   1.67   |    10    |  50.00   |    0     |    0     |    0     |    0     |    5     |    0    
-    2024   |    5     |    1     |    13    |    13    |  13.00   |    6     |  216.67  |    0     |    0     |    0     |    2     |    2     |    0    
-    2022   |    5     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    3     |    0    
+   Career  |    32    |    3     |    33    |   12*    |   8.25   |    37    |  89.19   |    0     |    0     |    3     |    0     |    8     |    0    
+    2023   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2022   |    2     |    0     |    2     |    2     |   2.00   |    2     |  100.00  |    0     |    0     |    0     |    0     |    2     |    0    
+    2021   |    2     |    0     |    2     |    2     |   2.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2020   |    13    |    2     |    27    |   12*    |  27.00   |    27    |  100.00  |    0     |    0     |    3     |    0     |    2     |    0    
+    2019   |    13    |    1     |    2     |    2     |   2.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    3     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -42,11 +45,37 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    25    |   441    |   651    |    32    |   4/33   |  20.34   |   8.86   |  13.78   |    1     |    0    
-    2025   |    15    |   255    |   393    |    19    |   3/30   |  20.68   |   9.25   |  13.42   |    0     |    0    
-    2024   |    5     |    90    |   137    |    7     |   4/33   |  19.57   |   9.13   |  12.86   |    1     |    0    
-    2022   |    5     |    96    |   121    |    6     |   2/7    |  20.17   |   7.56   |  16.00   |    0     |    0    
+   Career  |    28    |   586    |   828    |    17    |   2/24   |  48.71   |   8.48   |  34.47   |    0     |    0    
+    2021   |    2     |    24    |    52    |    0     |   0/25   |    -     |  13.00   |    -     |    0     |    0    
+    2020   |    13    |   274    |   379    |    6     |   2/25   |  63.16   |   8.29   |  45.66   |    0     |    0    
+    2019   |    13    |   288    |   397    |    11    |   2/24   |  36.09   |   8.27   |  26.18   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/sai-kishore/7123
+Source: https://www.iplt20.com/players/navdeep-saini/3824
 ================================================================================
+**Navdeep Amarjeet Saini** (Hindi: [nʌʋˈd̪eːp ˈsɛːniː]; born 23 November 1992) is an Indian cricketer who represented his country in all three international formats between 2019 and 2021. He has played for Delhi in domestic cricket since 2013 and has appeared in the Indian Premier League (IPL). He made his international debut for the India cricket team in August 2019.... ## Early life
+
+Navdeep Saini was born on 23 November 1992 in Karnal, Haryana. His father, a driver, was employed with the government of Haryana. His grandfather Karam Singh, an independence activist, was a part of Subhas Chandra Bose's Indian National Army.... ## Domestic career
+
+Saini made his Twenty20 debut on 2 January 2016 in the 2015–16 Syed Mushtaq Ali Trophy.
+
+In February 2017, he was bought by the Delhi Daredevils team for the 2017 Indian Premier League for 10 lakhs. In January 2018, he was bought by the Royal Challengers Bangalore in the 2018 IPL auction for 3 crores.... He was the leading wicket-taker for Delhi in the 2017–18 Ranji Trophy, with 34 dismissals in eight matches. He was also the leading wicket-taker for Delhi in the 2018–19 Vijay Hazare Trophy, with sixteen dismissals in eight matches. In October 2018, he was named in India C's squad for the 2018–19 Deodhar Trophy. The following month, he was named as one of eight players to watch ahead of the 2018–19 Ranji Trophy.... In February 2022, he was bought by the Rajasthan Royals in the 2022 Indian Premier League auction. In July 2022, he signed a short-term deal with Kent to play up to three County Championship and five One-Day Cup matches in England. He made his debut against Warwickshire and took seven wickets, including a five-wicket haul in the first innings.... In the Duleep Trophy 2024, he further showcased his prowess as part of Team India B. Musheer Khan and Navdeep Saini set a new record for the highest 8th wicket partnership against India A. Saini played a pivotal role, scoring 56 off 144 balls with 8 fours and 1 six, helping India B reach a total of 321 by the end of their first innings.... ## International career
+
+In June 2018, he was added to India's Test squad for their one-off match against Afghanistan as a replacement for Mohammed Shami, but he did not play. In April 2019, he was named as a standby bowler for the 2019 Cricket World Cup.... In July 2019, he was named in India's One Day International (ODI) and Twenty20 International (T20I) squads for their series against the West Indies. He made his T20I debut against the West Indies on 3 August 2019. He took three wickets from his four overs, including Nicholas Pooran and Shimron Hetmyer in two consecutive deliveries.... He bowled a wicket-maiden in the last over of the innings, dismissing Kieron Pollard. He was named the man of the match. In December 2019, he was added to India's One Day International (ODI) squad for their home series against the West Indies. He made his ODI debut for India, also against the West Indies, on 22 December 2019.... In February 2020, he was named in India's Test squad for their series against New Zealand. In October 2020, he was again named in India's Test squad, this time for their series against Australia. However, Saini could not play the whole tour due to a back spasm. He made his Test debut for India on 7 January 2021, against Australia, taking the wicket of fellow debutant Will Pucovski, as his maiden dismissal in Test cricket.... ## References
+## External links
+- Navdeep Saini at ESPNcricinfo
+
+Categories: - 1992 births... - Living people
+- Indian cricketers
+- India Test cricketers
+- India One Day International cricketers
+- India Twenty20 International cricketers
+- 21st-century Indian sportsmen
+- Indian A cricketers
+- Delhi cricketers
+- India Green cricketers
+- Royal Challengers Bengaluru cricketers... - People from Karnal
+- Cricketers from Haryana
+- Rajasthan Royals cricketers
+- Kent cricketers
+- Indian expatriate cricketers in England

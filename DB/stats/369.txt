@@ -1,56 +1,52 @@
-================================================================================
-IPL PLAYER PROFILE: LUNGISANI NGIDI
-================================================================================
+|Full Name|Tanmay Dharamchand Agarwal|
+|--|--|
+|Date of Birth|May 3, 1995|
+|Age|30 Years|
+|Nationality|Indian|
+|Role|Batsman / Left hand bat & Right arm leg break googly|
+|Match|R|BF|4s|6s|S/R|O|R|W|E/R|
+|--|--|--|--|--|--|--|--|--|--|
+|VID vs HYD|136 & 6|232 & 10|13 & 1|1 & 0|58.62 & 60.00|0|0|0|0|
+|HYD vs HIM|177|327|19|0|54.12|0|0|0|0|
+|ARP vs HYD|22|19|3|1|115.78|0|0|0|0|
+|PUN vs HYD|22|16|2|1|137.50|0|0|0|0|
+|KAR vs HYD|35|48|3|1|72.92|0|0|0|0|
+|Game Type|Mat|Inn|R|BF|NO|Avg|S/R|100s|50s|H|4s|6s|Ct|St|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|T20s|72|71|1976|1534|4|29.49|128.81|0|12|97|209|52|29|0|
+|LISTAs|60|60|2550|3123|5|46.36|81.65|7|16|150|270|37|24|0|
+|FIRSTCLASS|66|117|5004|9789|9|46.33|51.11|17|13|366|537|67|50|0|
+|Game Type|Mat|Inn|O|R|W|Avg|E/R|Best|5w|10w|
+|--|--|--|--|--|--|--|--|--|--|--|
+|T20s|72|0|0|0|0|0|0|0|0|0|
+|LISTAs|60|3|2.5|16|1|16.00|5.64|1/1|0|0|
+|FIRSTCLASS|66|10|14.4|66|0|0|4.50|0|0|0|
+## Tanmay Agarwal Biography
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Lungisani Ngidi
-  IPL Debut                : 2018
-  Date of Birth            : 29 March 1996
-  Total IPL Matches        : 16
-  Role                     : Bowler
-  Nationality              : South African
+Tanmay Agarwal is an Indian cricketer who plays for Hyderabad cricket team in India’s domestic circuit. He was born on 3 May 1995 in Hyderabad, India. He is a left-handed top-order batsman and has right-arm leg break as his bowling style.
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-    A tall pacer, Lungi Ngidi made his debut for South Africa in 2017 against
-  Sri Lanka and was adjudged the Man of the Match. Ngidi was identified as a
-  T20 prospect early on when he finished as the joint second-highest
-  wicket-taker in the Africa Cup, a provincial T20 tournament that serves as a
-  curtain raiser to the season, in September 2015. Even though Ngidi was a
-  prospect for limited overs, his maiden Test call arrived against India at
-  Centurion. Once again Ngidi had a dream debut and was adjudged the Man of
-  the Match. Ngidi clearly came under the limelight that resulted in him
-  getting a contract with the Chennai Super Kings at the IPL.
+**Background**
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    16    |    1     |    0     |    0     |    -     |    2     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
-    2025   |    2     |    1     |    0     |    0*    |    -     |    2     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2021   |    3     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
-    2020   |    4     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2018   |    7     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
+Tanmay Agarwal has represented Hyderabad at Under-14, Under-16, Under-19, Under-22 and Under-25 level.
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    16    |   372    |   529    |    29    |   4/10   |  18.24   |   8.53   |  12.83   |    1     |    0    
-    2025   |    2     |    48    |    81    |    4     |   3/30   |  20.25   |  10.13   |  12.00   |    0     |    0    
-    2021   |    3     |    72    |   125    |    5     |    -     |  25.00   |  10.41   |  14.40   |    0     |    0    
-    2020   |    4     |    96    |   167    |    9     |    -     |  18.55   |  10.43   |  10.66   |    0     |    0    
-    2018   |    7     |   156    |   156    |    11    |   4/10   |  14.18   |   6.00   |  14.18   |    1     |    0    
+He made his first-class and List A debut for Hyderabad in the year 2014. He has been a part of the Hyderabad team since the 2014-15 season and has played for them across all the three formats.
 
-================================================================================
-Source: https://www.iplt20.com/players/lungisani-ngidi/3746
-================================================================================
+**Domestic Career**
+
+When he was just 19, Tanmay slammed a century on his Ranji Trophy debut match against Goa.
+
+He followed his good performances from the Ranji Trophy as he scored a century on his List A debut as well.
+
+Tanmay came to prominence when he made a 48-ball-91 against Goa and then followed it with a score of 85 runs off 49 balls against Tamil Nadu in the domestic T20 competition.
+
+**Club Career**
+
+Tanmay was bought by Sunrisers Hyderabad franchise in 2017 IPL auction. He couldn't make it in the playing eleven as the Sunrisers had other experienced batters in their squad. He was again bought by the Sunrisers in the 2018 IPL auction at his base price of Rs. 20 lakhs.
+
+**Stats and Records**
+
+Tanmay has been taking an aggressive approach in T20s, as he has scored 706 runs in 27 matches with an impressive strike rate of 132.45. He has three fifties to his name with a top score of 91.
+
+He has played 13 matches in his List A career and has made 502 runs at an average of 38.61 including 2 hundreds and 2 fifties.
+
+In the 26 first-class matches he has played, he has scored 1697 runs at an average of 41.39 with six centuries and an equal number of half-centuries.

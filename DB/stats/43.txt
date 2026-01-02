@@ -1,0 +1,48 @@
+================================================================================
+IPL PLAYER PROFILE: TANUSH KOTIAN
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Tanush Kotian
+  IPL Debut                : 2024
+  Total IPL Matches        : 1
+  Nationality              : Indian
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    24    |    24    |  24.00   |    31    |  77.42   |    0     |    0     |    3     |    0     |    0     |    0    
+    2024   |    1     |    0     |    24    |    24    |  24.00   |    31    |  77.42   |    0     |    0     |    3     |    0     |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/tanush-kotian/20722
+================================================================================
+### Tanush Kotian
+
+### India
+
+### Popular PlayersVirat KohliRohit SharmaSachin TendulkarSourav GangulyHardik PandyaOverviewNewsStats... ### Batting Performance
+
+|Format|M|Inns|No|R|H.S|Avg|BF|SR|100s|50s|
+|--|--|--|--|--|--|--|--|--|--|--|
+|t20|33|11|7|87|28|21.75|88|98.86|--|--|... |fc|42|63|13|2120|120|42.4|3536|59.95|2|17|
+|list a|21|10|3|129|39|18.42|113|114.15|--|--|
+|t10|--|--|--|--|--|--|--|--|--|--|... ### Bowling Performance
+
+|Format|M|Inns|Ovs|R|Wkts|BBI|Avg|ECN|SR|4W|5W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|t20|33|31|103.20|661|33|4/16|20.03|6.39|18.7|1|--|... |fc|42|75|1013.40|3421|125|5/58|27.36|3.37|48.6|8|3|
+|list a|21|21|189.30|910|22|4/31|41.36|4.8|51.6|1|--|
+|t10|--|--|0.00|--|--|--|--|--|--|--|--|... ### Recent Form (Last 5 Matches)AllTestODIT20
+
+|CHA vs MUM|-|0/34|29 Dec 2025|Jaipur|lista|
+|--|--|--|--|--|--|
+|MUM vs UT|4|1/50|26 Dec 2025|Jaipur|lista|
+|MUM vs SIKM|-|1/63|24 Dec 2025|Jaipur|lista|... |MUM vs HYD|2|0/28|12 Dec 2025|Pune|t20|
+|MUM vs ODI|-|0/26|08 Dec 2025|Lucknow|t20|

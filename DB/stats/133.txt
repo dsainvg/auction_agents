@@ -1,16 +1,39 @@
 ================================================================================
-IPL PLAYER PROFILE: AVANISH RAO ARAVELLY
+IPL PLAYER PROFILE: KUNAL RATHORE
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Avanish Rao Aravelly
-  IPL Debut                : 2023
-  Date of Birth            : 02 June 2005
-  Total IPL Matches        : 0
+  Player Name              : Kunal Rathore
+  IPL Debut                : 2025
+  Date of Birth            : 09 October 2002
+  Total IPL Matches        : 1
   Role                     : Wicketkeeper Batter
   Nationality              : Indian
 
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    0     |    0     |   0.00   |    5     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2025   |    1     |    0     |    0     |    0     |   0.00   |    5     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+
 ================================================================================
-Source: https://www.iplt20.com/players/avanish-rao-aravelly/20715
+Source: https://www.iplt20.com/players/kunal-rathore/5763
 ================================================================================
+Kunal Singh Rathore, a wicketkeeper and left-handed batter from Kota, has steadily risen through Rajasthan's domestic cricket ranks. His journey in the sport began at an early age, driven by dedication and consistent performances. Despite a slow start in first-class and List A cricket, Rathore made a mark in the 2022 Syed Mushtaq Ali Trophy, scoring 147 runs at an average of 36.75 and a strike rate of 128.94. This performance earned him an IPL contract with Rajasthan for the 2023 season.... Though he didn’t get a chance to play in IPL 2023, the experience proved invaluable. The lessons learnt translated into success at the domestic level, as Rathore shone across all three formats during the 2023-24 season. His contributions, both with the bat and behind the stumps, played a crucial role in Rajasthan’s journey to the Vijay Hazare Trophy final.... Rajasthan retained him for the 2024 IPL season, but for the second consecutive year, he remained on the bench. Following the season, he was released by the franchise. However, in the 2025 IPL auction, Rajasthan reacquired him for INR 30 lakh, reaffirming their faith in his potential.

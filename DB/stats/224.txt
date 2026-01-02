@@ -1,0 +1,78 @@
+================================================================================
+IPL PLAYER PROFILE: JASON BEHRENDORFF
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : Jason Behrendorff
+  IPL Debut                : 2019
+  Date of Birth            : 20 April 1990
+  Total IPL Matches        : 17
+  Role                     : Bowler
+  Nationality              : Australian
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    0     |    0     |    0     |    -     |    0     |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    5     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |   114    |   165    |    5     |   2/22   |  33.00   |   8.68   |  22.80   |    0     |    0    
+    2019   |    5     |   114    |   165    |    5     |   2/22   |  33.00   |   8.68   |  22.80   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/jason-behrendorff/937
+================================================================================
+**Jason Paul Behrendorff** (born 20 April 1990) is an Australian cricketer who played One Day Internationals and Twenty20 Internationals for Australia and first-class and List A cricket for Western Australia, but has now retired from those formats of cricket. He currently plays Twenty20 cricket in the Big Bash League for the Melbourne Renegades.... Although born in New South Wales, Behrendorff grew up in Canberra and played representative cricket for the Australian Capital Territory at both junior and senior levels. A left-arm fast bowler, he transferred to Western Australia for the 2009–10 season and made his debut at state level the following season, playing several matches after injuries to other fast bowlers.... Behrendorff has since become a regular for Western Australia, opening the bowling in both the Sheffield Shield and the one-day Matador BBQs One-Day Cup. He made his debut for the Perth Scorchers during the 2012–13 season of the BBL, and featured in the Scorchers teams that won consecutive titles during the 2013–14 and 2014–15 seasons.... He later featured in the Scorchers' 2021–22 and 2022-23 championship triumphs. Behrendorff announced his retirement from first-class and List A cricket at the end of the 2024-25 Australian cricket season, but his intention to continue playing in the Big Bash League, leaving the Scorchers after 13 years for a 3 year contract with the Melbourne Renegades, citing his long-term ambition to move to Melbourne after his cricket career.... ## Domestic career
+
+Born in Camden, New South Wales and of German heritage, Behrendorff grew up in Canberra and played cricket for the Australian Capital Territory at both under-17 and under-19 level. He played grade cricket for Tuggeranong Valley in the grade cricket competition of the Australian Capital Territory and also represented the Prime Minister's XI in a match against the touring New Zealand national cricket team in 2009. Behrendorff was recruited by Western Australia for the 2009–10 season, having impressed state selectors during a trial match.... Beginning in the Futures League, good form allowed him to make his List A debut for Western Australia in the 2010–11 Ryobi One-Day Cup, in a match against Tasmania at Hands Oval. In the match, he dismissed Mark Cosgrove with the first ball of Tasmania's innings, finishing with figures of 1/18 from five overs.... Due to injuries to other fast bowlers, Behrendorff played more regularly at state level the following season, taking 4/76 on his Sheffield Shield debut against Victoria in November 2011. He finished the 2011–12 season with 13 wickets from five Shield matches and five wickets from five Ryobi One-Day Cup matches, having often competed with Nathan Coulter-Nile for a regular spot in the side. At the end of the 2011–12 season, Behrendorff was given the "Future Legend" award at the Western Australian Cricket Association's awards night.... Owing to this form, Behrendorff was offered contracts with both Western Australia and the Perth Scorchers for the 2012–13 season. In his first Sheffield Shield match for the season, against Victoria in November 2012, he took 4/29 and 3/24, although Western Australia still lost the match.... Behrendorff debuted for Perth in the BBL the following month, taking 3/44 from four overs against the Melbourne Renegades. At grade cricket level, he plays for the Subiaco–Floreat Cricket Club. As of December 2012, Behrendorff was studying a sports science degree at Edith Cowan University, having previously undertaken work at Hockey Australia.... In June 2014, pending recovery of an achilles injury, Behrendorff was picked for the Australia A team in a series of four-day matches against South Africa A in Townsville in August 2014. Behrendorff again played for the Scorchers during the 2014–15 BBL season and was a member of the team that won its second consecutive title.... Generally opening the bowling, he took 15 wickets from ten matches, equal with teammate Yasir Arafat and behind only the Melbourne Stars' John Hastings (16 wickets) for the tournament. Behrendorff bowled 40 overs during the tournament (completing his allocation in every game), more than any other player.... His wickets came at an average of 16.73 and an economy rate of 6.27 runs per over, which was only beaten by four spinners – Shakib Al Hasan, Michael Beer, Fawad Ahmed and Brad Hogg – amongst those who bowled more than 15 overs.
+
+At the 2014 Allan Border Medal ceremony, held in January 2015, Behrendorff was named "Domestic Player of the Year". He recorded 22 percent of the vote for the award, which is voted on by players, beating teammate Adam Voges (16 percent).... In February 2017, Behrendorff took figures of 9 for 37 in the first innings against Victoria, the fifth-best figures in the Sheffield Shield.
+
+Behrendorff retired from first-class and List A cricket at the conclusion of the 2024-25 Australian cricket season. Behrendorff also left the Perth Scorchers after 13 seasons to move his family to the city of Melbourne, signing with the Melbourne Renegades on a three year contract.... ## International career
+
+In August 2017, Behrendorff was named in Australia's Twenty20 International (T20I) squad for their series against India. He made his T20I debut for Australia against India on 7 October 2017.... On 12 January 2019 he made his One Day International (ODI) debut against India at the Sydney Cricket Ground, taking 2 wickets. In April 2019, he was named in Australia's squad for the 2019 Cricket World Cup. On 25 June 2019 in the match against England, Behrendorff took his first five-wicket haul in ODIs.... In August 2023, Behrendorff was named in Australia’s T20 squad to face South Africa in a 3 match series. Behrendorff played the 2nd Match recording figures of 2/25 to help Australia to their 2nd win of an eventual 3-0 sweep of South Africa.... In November 2023, Behrendorff was named in the Australian squad to face India in a 5 match T20i series. Behrendorff played in 4 out of the 5 matches proving to be economical with figures of 1/25, 1/12, 2/32 and 2/38. Behrendorff appeared to be the only consistent performer of Australia’s weakened bowling attack throughout the 4-1 series loss.... Behrendorff’s economy of 6.68 across his 5 matches in favourable batting conditions and valiant wicket taking efforts earned him the 2024 Australian Men’s Twenty20 International player of the year.... ## IPL career
+
+Ahead of the 2018 Indian Premier League, Behrendorff was signed by Mumbai Indians. He was, however, ruled out of playing in the tournament after suffering a back injury. The team retained him for the 2019 IPL season and he made his IPL debut against Chennai Super Kings on 3 April 2019. He was released by Mumbai ahead of the 2020 IPL auction.... Behrendorff was signed by the Chennai Super Kings as a replacement for Josh Hazlewood ahead of the 2021 IPL season. In February 2022, he was bought by the Royal Challengers Bangalore in the auction for the 2022 Indian Premier League tournament.
+
+In 2023 Indian Premier League, he was picked up by Mumbai Indians in the auction for the 15th edition of the tournament.... ## Personal life
+
+Behrendorff is of German descent. In April 2014, Behrendorff married Juvelle Hatt in Perth, Western Australia. Behrendorff relocated his family to Melbourne in 2025. His younger brother Luke represented Australia in European handball.
+
+Behrendorff is an avid supporter of the Essendon Football Club in the Australian Football League.... ## References
+
+## External links
+- Jason Behrendorff at ESPNcricinfo
+
+Categories: - 1990 births... - Living people
+- Australian cricketers
+- Australia One Day International cricketers
+- Australia Twenty20 International cricketers
+- Western Australia cricketers
+- Perth Scorchers cricketers
+- Cricketers at the 2019 Cricket World Cup
+- Australian people of German descent
+- Middlesex cricketers... - Australian expatriate cricketers in England
+- Mumbai Indians cricketers
+- Australian expatriate cricketers in India
+- Jaffna Kings cricketers
+- Australian expatriate cricketers in Sri Lanka
+- Sportspeople from Canberra
+- Cricketers from the Australian Capital Territory
+- 21st-century Australian sportsmen
+
+- MI London cricketers
+- Melbourne Renegades cricketers

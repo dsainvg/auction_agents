@@ -1,15 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: RAHMANULLAH GURBAZ
+IPL PLAYER PROFILE: MATHEESHA PATHIRANA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Rahmanullah Gurbaz
-  IPL Debut                : 2023
-  Date of Birth            : 28 November 2001
-  Total IPL Matches        : 19
-  Role                     : Wicketkeeper Batter
-  Nationality              : Afghan
+  Player Name              : Matheesha Pathirana
+  IPL Debut                : 2022
+  Date of Birth            : 18 December 2002
+  Total IPL Matches        : 32
+  Role                     : Bowler
+  Nationality              : Sri Lankan
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -19,10 +19,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    19    |    1     |   363    |    81    |  21.35   |   269    |  134.94  |    0     |    2     |    34    |    22    |    17    |    0    
-    2025   |    5     |    1     |    74    |    35    |  18.50   |    53    |  139.62  |    0     |    0     |    10    |    3     |    2     |    0    
-    2024   |    3     |    0     |    62    |    39    |  31.00   |    46    |  134.78  |    0     |    0     |    7     |    4     |    5     |    0    
-    2023   |    11    |    0     |   227    |    81    |  20.64   |   170    |  133.53  |    0     |    2     |    17    |    15    |    10    |    0    
+   Career  |    32    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    9     |    0    
+    2025   |    12    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    3     |    0    
+    2024   |    6     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2023   |    12    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    4     |    0    
+    2022   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -32,11 +33,36 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    19    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    32    |   702    |   1016   |    47    |   4/28   |  21.62   |   8.68   |  14.94   |    1     |    0    
+    2025   |    12    |   251    |   424    |    13    |   3/36   |  32.62   |  10.14   |  19.31   |    0     |    0    
+    2024   |    6     |   132    |   169    |    13    |   4/28   |  13.00   |   7.68   |  10.15   |    1     |    0    
+    2023   |    12    |   278    |   371    |    19    |   3/15   |  19.53   |   8.01   |  14.63   |    0     |    0    
+    2022   |    2     |    41    |    52    |    2     |   2/24   |  26.00   |   7.61   |  20.50   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/rahmanullah-gurbaz/20625
+Source: https://www.iplt20.com/players/matheesha-pathirana/20627
 ================================================================================
+**Heenatigala Pathiranage Matheesha Anushal Vihanga Pathirana**, popularly as **Matheesha Pathirana** (Sinhala: මතීෂ පතිරණ, [matiːʃə patirəɳə]; Tamil: மதிஷ பத்திரன; born 18 December 2002), is a professional Sri Lankan cricketer who currently plays limited over internationals for the national team. He has been referred to as "Baby Malinga", as he has modelled his bowling action after Lasith Malinga.... Prior to his Twenty20 debut, he was part of Sri Lanka's squad for the 2020 Under-19 Cricket World Cup. In January 2022, he was named in Sri Lanka's team for the 2022 ICC Under-19 Cricket World Cup in the West Indies. He was a key member of the Chennai Super Kings team which won the IPL trophy in 2023. He picked 19 wickets in the 2023 edition of the IPL. He became the youngest foreign player to win an IPL trophy.... ## Biography
+
+Pathirana was an ardent cricket fan from his schooling days. His parents were both classical musicians as his father Anura Pathirana's voice is often compared to the likes of veteran Indian playback singer S. P. Balasubrahmanyam. Pathirana too had the thing of music in his blood inherited from his parents when he showed his talent as a skilled pianist at the school level where he was adjudged the best pianist.... He also excelled in his music examination conducted at the GCE Ordinary Level, Pathirana initially found it difficult to process the teaching methods of his music teacher and his voice did not pitch well at occasions, but he eventually mastered the notes.... According to his mother Shalika Pathirana, he even went to the extreme of procrastinating his school homework and also failed to concentrate on his studies, as he was determined to engage in sporting activities, mostly inclined towards cricket. His mother recalled an incident where she apparently became angry and frustrated with him for ignoring education while showing his desire only about cricket, which caused her emotionally upset, and as a result, she burnt his beloved cricket bat into ashes.... Pathirana's school teacher also complained to his mother that he never showed his attention in the classroom and was distracted by the view of the cricket stadium which was surrounded around the school premises. However, it turned out that his first interest in sport was in baseball which was quite uncharacteristic and unconventional in a typical Sri Lankan society, as baseball is not an ideal sport to look for there.... He started playing baseball at the age of 13, because at his school, the access to cricket facilities was restricted upto a certain level. However, he changed his mind to choose cricket and started to make progress under the watchful eyes of seniors like former Sri Lankan seam bowler Chaminda Vaas. He received more fame and recognition when a social media manager Anfal Hanafi went onto upload a video of Pathirana taking 6 wickets which eventually helped him to establish a name for himself and foray into Sri Lankan international cricket.... ## Franchise cricket
+
+In August 2021, he was named in the SLC Greys' squad for the 2021 SLC Invitational T20 League. He made his Twenty20 debut on 22 August 2021, for SLC Greys in the 2021 SLC Invitational T20 League.... In April 2022, he was signed by the Chennai Super Kings, as a replacement for Adam Milne for the 2022 Indian Premier League. It was revealed that Pathirana was fast-tracked to the Chennai Super Kings side with the intervention of MS Dhoni for the 2022 season, and Pathirana went onto flourish under the leadership of Dhoni.... In 2021, Dhoni apparently watched the clips and footage of Pathirana's bowling in a local schools cricket match in Kandy. Dhoni also expressed an interest in wanting Pathirana for the 2021 Indian Premier League and he then wrote a letter asking Pathirana to get vaccinated and join CSK team in the UAE during the peak of the COVID-19 pandemic.... He made his debut against the Gujarat Titans in 2022 IPL edition. In the very first ball, he took the wicket of Shubman Gill, becoming the first Sri Lankan and ninth overall to achieve the feat in IPL. In July 2022, he was signed by the Kandy Falcons for the third edition of the Lanka Premier League.... He became the youngest ever overseas Player to win an IPL tournament as he was part of CSK's triumph at the 2023 IPL. He also ended up 2023 IPL season on a high note by picking up 19 scalps with an economy of 8.01 in 12 matches, and he was used as a canny operator especially in the death overs whereas he rose with a reputation as a vital cog during 2023 season. Pathirana himself revealed that he learned the craft and art of playing T20 cricket through the mentorship of MS Dhoni.... ## International career
+
+In May 2022, he was named in Sri Lanka's Twenty20 International (T20I) squad for their series against Australia. However, he was ruled out due to an injury and did not play the series. In August 2022, he was named in Sri Lanka's T20I squad for the 2022 Asia Cup.... He made his T20I debut on 27 August 2022, against Afghanistan. In March 2023, he was named in both One Day International (ODI) and T20I squad for the series against New Zealand. He made his ODI debut on 2 June 2023, against Afghanistan. He dismissed Rahmat Shah to claim his maiden ODI wicket.... In June 2023 Sri Lanka Cricket announced their 15-member squad for the 2023 Cricket World Cup Qualifier. The national team opted to selected Pathirana in their line-up. During the first T20I against Afghanistan, Pathirana delivered a match winning bowling spell where he took 4/24 which included 2 wickets in the penultimate over. Sri Lanka finally won the match by 4 runs, and he adjudged player of match for his performances.
+
+In May 2024, he was named in Sri Lanka’s squad for the 2024 ICC Men's T20 World Cup tournament.... ## References
+
+## External links
+- Matheesha Pathirana at ESPNcricinfo
+
+Categories: - 2002 births
+- Living people
+- Sri Lankan cricketers
+- Sri Lanka One Day International cricketers
+- Sri Lanka Twenty20 International cricketers
+- 21st-century Sri Lankan sportsmen
+- Cricketers from Kandy
+- Chennai Super Kings cricketers
+- Sri Lankan expatriate cricketers in India
+- Joburg Super Kings cricketers
+- Alumni of Trinity College, Kandy

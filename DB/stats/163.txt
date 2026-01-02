@@ -1,24 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: MOEEN ALI
+IPL PLAYER PROFILE: RICHARD GLEESON
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Moeen Ali
-  IPL Debut                : 2018
-  Date of Birth            : 18 June 1987
-  Total IPL Matches        : 73
+  Player Name              : Richard Gleeson
+  IPL Debut                : 2024
+  Date of Birth            : 02 December 1987
+  Total IPL Matches        : 3
+  Role                     : Bowler
   Nationality              : English
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    A versatile left-handed batsman and an aggressive off-break bowler, Moeen
-  Ali was bought by Chennai Super Kings for INR 7 crores at the IPL 2021
-  Player Auction. The left-hander represented RCB for two seasons before he
-  was released by the franchise ahead of the 2021 edition of the league. Come
-  the fourteenth edition of the league, the English all-rounder is all set to
-  don the yellow jersey and will be a great addition to the squad with his
-  all-round abilities.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -28,15 +19,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    73    |    6     |   1167   |    93    |  22.02   |   835    |  139.76  |    0     |    6     |    95    |    67    |    24    |    0    
-    2025   |    6     |    0     |    5     |    5     |   2.50   |    14    |  35.71   |    0     |    0     |    0     |    0     |    2     |    0    
-    2024   |    8     |    0     |   128    |    56    |  25.60   |    98    |  130.61  |    0     |    1     |    7     |    8     |    2     |    0    
-    2023   |    15    |    3     |   124    |    23    |  17.71   |    91    |  136.26  |    0     |    0     |    12    |    6     |    4     |    0    
-    2022   |    10    |    0     |   244    |    93    |  24.40   |   177    |  137.85  |    0     |    1     |    24    |    11    |    5     |    0    
-    2021   |    15    |    1     |   357    |    58    |  25.50   |   260    |  137.30  |    0     |    1     |    31    |    19    |    7     |    0    
-    2020   |    3     |    0     |    12    |    11    |   4.00   |    16    |  75.00   |    0     |    0     |    1     |    0     |    1     |    0    
-    2019   |    11    |    2     |   220    |    66    |  27.50   |   133    |  165.41  |    0     |    2     |    16    |    17    |    1     |    0    
-    2018   |    5     |    0     |    77    |    65    |  19.25   |    46    |  167.39  |    0     |    1     |    4     |    6     |    2     |    0    
+   Career  |    3     |    1     |    2     |    2*    |    -     |    2     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    2     |    1     |    2     |    2*    |    -     |    2     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -46,16 +31,115 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    73    |   854    |   1029   |    41    |   4/26   |  25.10   |   7.23   |  20.83   |    1     |    0    
-    2025   |    6     |    96    |   136    |    6     |   2/23   |  22.67   |   8.50   |  16.00   |    0     |    0    
-    2024   |    8     |    48    |    71    |    2     |   2/23   |  35.50   |   8.88   |  24.00   |    0     |    0    
-    2023   |    15    |   156    |   195    |    9     |   4/26   |  21.67   |   7.50   |  17.33   |    1     |    0    
-    2022   |    10    |   143    |   158    |    8     |   3/13   |  19.75   |   6.63   |  17.88   |    0     |    0    
-    2021   |    15    |   152    |   161    |    6     |   3/7    |  26.83   |   6.35   |  25.33   |    0     |    0    
-    2020   |    3     |    30    |    42    |    1     |   1/21   |  42.00   |   8.40   |  30.00   |    0     |    0    
-    2019   |    11    |   150    |   169    |    6     |   2/18   |  28.16   |   6.76   |  25.00   |    0     |    0    
-    2018   |    5     |    79    |    97    |    3     |   1/13   |  32.33   |   7.36   |  26.33   |    0     |    0    
+   Career  |    3     |    68    |   110    |    2     |   1/30   |  55.00   |   9.71   |  34.00   |    0     |    0    
+    2025   |    1     |    21    |    39    |    1     |   1/39   |  39.00   |  11.14   |  21.00   |    0     |    0    
+    2024   |    2     |    47    |    71    |    1     |   1/30   |  71.00   |   9.06   |  47.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/moeen-ali/1735
+Source: https://www.iplt20.com/players/richard-gleeson/20730
 ================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Punjab Kings|2|1|1|2|2*|0|0|0|0|-|100.00|-|-|PBKS|1107|0|0|6|CSK|Chennai Super Kings|CSK|
+|Gujarat Titans|1|0|0|-|-|0|0|0|0|-|0.00|-|-|GT|2955|0|0|6|MI|Mumbai Indians|MI|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Gujarat Titans|1|3.3|0|39|1|1/39|0|0|39.00|11.14|21.00|GT|2955|1|6|MI|Mumbai Indians|MI|
+|Punjab Kings|2|7.5|0|71|1|1/30|0|0|71.00|9.06|47.00|PBKS|1107|1|6|MI|Mumbai Indians|MI|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |India|2|1|0|2|2|0|0|0|0|2.00|66.66|2|0|IND|4|0|0|3|ENG|England|ENG|
+|Pakistan|2|0|0|-|-|0|0|0|0|-|0.00|1|0|PAK|6|0|0|3|ENG|England|ENG|... |South Africa|2|1|0|0|0|0|0|0|0|0.00|0.00|1|0|SA|7|1|0|3|ENG|England|ENG|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|India|2|8|1|46|4|3/15|1|0|11.50|5.75|12.00|IND|4|6|3|ENG|England|ENG|... |Pakistan|2|6|0|52|1|1/39|0|0|52.00|8.66|36.00|PAK|6|6|3|ENG|England|ENG|
+|South Africa|2|7|0|89|4|3/51|1|0|22.25|12.71|10.50|SA|7|6|3|ENG|England|ENG|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Durban's Super Giants|2|0|0|-|-|0|0|0|0|-|0.00|-|-|DSG|3278|0|0|6|SEC|-|-|
+|Joburg Super Kings|4|1|1|1|1*|0|0|0|0|-|100.00|1|0|JSK|3279|0|0|6|SEC|-|-|... |MI Cape Town|4|3|1|2|1*|0|0|0|0|1.00|22.22|-|-|MICT|3280|1|0|6|SEC|-|-|
+|Pretoria Capitals|2|1|1|1|1*|0|0|0|0|-|100.00|-|-|PC|3281|0|0|6|SEC|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Durban's Super Giants|2|7|0|31|4|2/12|0|0|7.75|4.42|10.50|DSG|3278|13|6|SEC|
+|Joburg Super Kings|4|15|0|120|4|2/22|0|0|30.00|8.00|22.50|JSK|3279|13|6|SEC|... |MI Cape Town|4|14|0|117|5|2/22|0|0|23.40|8.35|16.80|MICT|3280|13|6|SEC|
+|Paarl Royals|3|9.2|0|90|1|1/19|0|0|90.00|9.64|56.00|PR|3283|13|6|SEC|... |Pretoria Capitals|2|5|0|53|3|2/31|0|0|17.66|10.60|10.00|PC|3281|13|6|SEC|
+|Sunrisers Eastern Cape|1|4|0|32|2|2/32|0|0|16.00|8.00|12.00|SEC|3282|13|6|SEC|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Desert Vipers|1|0|0|-|-|0|0|0|0|-|0.00|-|-|DV|3380|0|0|6|GG|-|-|
+|Abu Dhabi Knight Riders|1|0|0|-|-|0|0|0|0|-|0.00|-|-|ADKR|3381|0|0|6|GG|-|-|... |Sharjah Warriorz|1|0|0|-|-|0|0|0|0|-|0.00|1|0|SW|3385|0|0|6|GG|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Abu Dhabi Knight Riders|1|4|0|30|1|1/30|0|0|30.00|7.50|24.00|ADKR|3381|5|6|GG|
+|Desert Vipers|1|4|0|29|2|2/29|0|0|14.50|7.25|12.00|DV|3380|5|6|GG|... |Dubai Capitals|1|4|0|14|1|1/14|0|0|14.00|3.50|24.00|DC|3382|5|6|GG|
+|MI Emirates|1|4|0|35|0|0/35|0|0|-|8.75|-|MIE|3384|5|6|GG|... |Sharjah Warriorz|1|4|0|35|1|1/35|0|0|35.00|8.75|24.00|SW|3385|5|6|GG|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Punjabi Legends|1|1|0|4|4|0|0|0|0|4.00|66.66|-|-|PL|1624|0|0|7|-|-|-|
+|Sindhis|1|0|0|-|-|0|0|0|0|-|0.00|-|-|SIN|1686|0|0|7|-|-|-|... |Rajputs|1|0|0|-|-|0|0|0|0|-|0.00|-|-|RAJ|1687|0|0|7|-|-|-|
+|Northern Warriors|5|2|2|2|2*|0|0|0|0|-|66.66|1|0|NW|1688|1|0|7|-|-|-|... |Chennai Brave Jaguars|2|0|0|-|-|0|0|0|0|-|0.00|-|-|CBJ|2874|0|0|7|-|-|-|
+|New York Strikers|3|1|0|1|1|0|0|0|0|1.00|14.28|-|-|NYS|3276|0|0|7|-|-|-|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Ajman Bolts|1|2|1|14|2|2/14|0|0|7.00|7.00|6.00|AB|4821|34|7|-|-|-|... |Bangla Tigers|6|11|0|113|9|3/4|2|0|12.55|10.27|7.33|BT|1620|34|7|-|-|-|
+|Chennai Brave Jaguars|2|3|0|38|1|1/4|0|0|38.00|12.66|18.00|CBJ|2874|34|7|-|-|-|... |Deccan Gladiators|2|4|0|47|0|0/18|0|0|-|11.75|-|DG|1978|34|7|-|-|-|
+|Delhi Bulls|1|2|0|21|1|1/21|0|0|21.00|10.50|12.00|DB|1976|34|7|-|-|-|... |Maratha Arabians|1|1|0|16|0|0/16|0|0|-|16.00|-|MA|1622|34|7|-|-|-|
+|Morrisville Samp Army|4|7|0|54|4|2/16|0|0|13.50|7.71|10.50|MSA|3277|34|7|-|-|-|... |New York Strikers|3|5|0|36|2|1/5|0|0|18.00|7.20|15.00|NYS|3276|34|7|-|-|-|
+|Northern Warriors|5|8|0|84|2|1/13|0|0|42.00|10.50|24.00|NW|1688|34|7|-|-|-|... |Pakhtoons|1|1.2|0|32|0|0/32|0|0|-|24.00|-|PAK|1623|34|7|-|-|-|
+|Punjabi Legends|1|2|0|18|3|3/18|1|0|6.00|9.00|4.00|PL|1624|34|7|-|-|-|... |Qalandars|1|2|0|30|1|1/30|0|0|30.00|15.00|12.00|QAL|1977|34|7|-|-|-|
+|Rajputs|1|2|0|9|2|2/9|0|0|4.50|4.50|6.00|RAJ|1687|34|7|-|-|-|... |Sindhis|1|2|0|20|1|1/20|0|0|20.00|10.00|12.00|SIN|1686|34|7|-|-|-|
+|Team Abu Dhabi|3|6|0|65|4|3/20|1|0|16.25|10.83|9.00|TAD|1989|34|7|-|-|-|... |UP Nawabs|1|2|0|33|1|1/33|0|0|33.00|16.50|12.00|UPN|4822|34|7|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Australia|1|1|0|6|6|0|0|1|0|6.00|24.00|-|-|AUS|1|0|0|4|-|-|-|... |Derbyshire|1|1|1|2|2*|0|0|0|0|-|15.38|1|0|DER|225|0|0|4|-|-|-|
+|Durham|2|2|0|6|6|0|0|0|0|3.00|19.35|-|-|DUR|248|1|0|4|-|-|-|... |Essex|3|4|2|46|27*|0|0|7|0|23.00|44.66|2|0|ESS|282|1|0|4|-|-|-|
+|Glamorgan|3|3|1|13|9|0|0|1|0|6.50|26.53|2|0|GLA|333|0|0|4|-|-|-|... |Gloucestershire|3|4|0|51|31|0|0|8|0|12.75|34.22|-|-|GLO|334|1|0|4|-|-|-|
+|Hampshire|1|1|1|0|0*|0|0|0|0|-|0.00|-|-|HAM|361|1|0|4|-|-|-|... |Kent|1|2|0|29|26|0|0|2|0|14.50|39.18|-|-|KET|469|0|0|4|-|-|-|
+|Leicestershire|5|4|3|11|11|0|0|0|0|11.00|29.72|2|0|LEI|506|3|0|4|-|-|-|... |Northamptonshire|2|2|0|8|8|0|0|1|0|4.00|40.00|-|-|NOR|644|1|0|4|-|-|-|
+|Nottinghamshire|2|4|1|48|25|0|0|8|0|16.00|52.17|-|-|NOT|660|1|0|4|-|-|-|... |West Indies A|1|2|1|12|12*|0|0|1|0|12.00|21.81|-|-|WI-A|1020|1|0|4|-|-|-|
+|Worcestershire|1|1|1|1|1*|0|0|0|0|-|12.50|-|-|WOR|1032|0|0|4|-|-|-|... |Yorkshire|1|2|2|9|9*|0|0|1|0|-|69.23|-|-|YOR|1062|1|0|4|-|-|-|
+|Middlesex|1|2|1|8|8|0|0|1|0|8.00|24.24|-|-|MID|1113|1|0|4|-|-|-|... |Sussex|4|2|2|8|6*|0|0|1|0|-|15.68|1|0|SUS|1186|0|0|4|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Australia|1|20|4|70|2|2/70|0|0|35.00|3.50|60.00|AUS|1|33|4|-|-|-|... |Derbyshire|2|28|5|98|5|5/64|0|1|19.60|3.50|33.60|DER|225|33|4|-|-|-|
+|Durham|3|27|6|78|6|3/26|2|0|13.00|2.88|27.00|DUR|248|33|4|-|-|-|... |Essex|4|86|16|297|13|5/50|2|1|22.84|3.45|39.69|ESS|282|33|4|-|-|-|
+|Glamorgan|6|83.2|18|295|13|5/60|1|1|22.69|3.54|38.46|GLA|333|33|4|-|-|-|... |Gloucestershire|4|69.3|13|209|9|5/46|1|1|23.22|3.00|46.33|GLO|334|33|4|-|-|-|
+|Hampshire|2|31|10|91|6|3/34|2|0|15.16|2.93|31.00|HAM|361|33|4|-|-|-|... |Kent|2|30|5|95|9|6/79|1|1|10.55|3.16|20.00|KET|469|33|4|-|-|-|
+|Leicestershire|10|177.2|43|544|29|6/43|4|2|18.75|3.06|36.68|LEI|506|33|4|-|-|-|... |Middlesex|2|24.3|9|67|2|2/25|0|0|33.50|2.73|73.50|MID|1113|33|4|-|-|-|
+|Northamptonshire|4|75.4|17|297|15|5/50|1|2|19.80|3.92|30.26|NOR|644|33|4|-|-|-|... |Nottinghamshire|3|42.2|2|197|10|4/38|3|0|19.70|4.65|25.40|NOT|660|33|4|-|-|-|
+|Oxford MCCU|1|18.1|7|33|3|3/33|1|0|11.00|1.81|36.33|OXF|712|33|4|-|-|-|... |Sussex|6|95.5|18|331|7|3/62|1|0|47.28|3.45|82.14|SUS|1186|33|4|-|-|-|
+|Warwickshire|1|27|3|68|2|2/68|0|0|34.00|2.51|81.00|WAS|1007|33|4|-|-|-|... |West Indies A|2|29|9|85|2|2/43|0|0|42.50|2.93|87.00|WI-A|1020|33|4|-|-|-|
+|Worcestershire|2|30.2|6|93|6|5/37|0|1|15.50|3.06|30.33|WOR|1032|33|4|-|-|-|... |Yorkshire|2|26|5|105|4|3/74|1|0|26.25|4.03|39.00|YOR|1062|33|4|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|South Africa|1|1|0|5|5|0|0|0|0|5.00|26.31|1|0|SA|7|0|0|5|-|-|-|... |Derbyshire|1|0|0|-|-|0|0|0|0|-|0.00|-|-|DER|225|0|0|5|-|-|-|
+|Durham|2|1|1|6|6*|0|0|0|0|-|100.00|1|0|DUR|248|0|0|5|-|-|-|... |Lancashire|1|1|1|4|4*|0|0|0|0|-|66.66|-|-|LAN|492|0|0|5|-|-|-|... |West Indies A|3|2|0|14|13|0|0|1|0|7.00|32.55|-|-|WI-A|1020|0|0|5|-|-|-|
+|Worcestershire|2|0|0|-|-|0|0|0|0|-|0.00|0|0|WOR|1032|0|0|5|-|-|-|... |Yorkshire|2|2|1|1|1*|0|0|0|0|1.00|20.00|1|0|YOR|1062|1|0|5|-|-|-|
+|South|3|3|2|21|12*|0|0|1|0|21.00|60.00|-|-|SOR|1553|0|1|5|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Derbyshire|1|9|0|66|4|4/66|1|0|16.50|7.33|13.50|DER|225|18|5|-|-|-|
+|Durham|2|17|1|94|4|2/35|0|0|23.50|5.52|25.50|DUR|248|18|5|-|-|-|... |Lancashire|1|5|0|22|0|0/22|0|0|-|4.40|-|LAN|492|18|5|-|-|-|
+|South|3|21|1|150|3|2/65|0|0|50.00|7.14|42.00|SOR|1553|18|5|-|-|-|... |South Africa|1|7|0|40|1|1/40|0|0|40.00|5.71|42.00|SA|7|18|5|-|-|-|
+|Surrey|1|4.2|0|23|1|1/23|0|0|23.00|5.30|26.00|SUR|944|18|5|-|-|-|... |Warwickshire|2|12|0|70|0|0/27|0|0|-|5.83|-|WAS|1007|18|5|-|-|-|
+|West Indies A|3|26|2|121|7|3/52|1|0|17.28|4.65|22.28|WI-A|1020|18|5|-|-|-|... |Worcestershire|2|19.5|1|103|7|5/47|0|1|14.71|5.19|17.00|WOR|1032|18|5|-|-|-|
+|Yorkshire|2|19|0|127|1|1/56|0|0|127.00|6.68|114.00|YOR|1062|18|5|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Northern Warriors|5|2|2|2|2*|0|0|0|0|-|66.66|1|0|NW|1688|1|0|7|MA|-|-|
+|Delhi Bulls|1|0|0|-|-|0|0|0|0|-|0.00|-|-|DB|1976|0|0|7|DG|-|-|... |Team Abu Dhabi|3|0|0|-|-|0|0|0|0|-|0.00|-|-|TAD|1989|0|0|7|DB|-|-|
+|Galle Marvels|2|0|0|-|-|0|0|0|0|-|0.00|1|0|GM|2488|0|0|7|HBT|-|-|... |Chennai Brave Jaguars|2|0|0|-|-|0|0|0|0|-|0.00|-|-|CBJ|2874|0|0|7|DB|-|-|
+|New York Strikers|3|1|0|1|1|0|0|0|0|1.00|14.28|-|-|NYS|3276|0|0|7|DB|-|-|... |Nuwara Eliya Kings|1|0|0|-|-|0|0|0|0|-|0.00|-|-|NEK|4834|0|0|7|HBT|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Ajman Bolts|1|2|1|14|2|2/14|0|0|7.00|7.00|6.00|AB|4821|3|7|TAD|... |Bangla Tigers|6|11|0|113|9|3/4|2|0|12.55|10.27|7.33|BT|1620|3|7|TAD|
+|Bulawayo Brave Jaguars|1|2|0|19|2|2/19|0|0|9.50|9.50|6.00|BBJ|3893|3|7|TAD|... |Cape Town Samp Army|2|3|0|18|3|3/8|1|0|6.00|6.00|6.00|CTSA|3894|3|7|TAD|
+|Chennai Brave Jaguars|2|3|0|38|1|1/4|0|0|38.00|12.66|18.00|CBJ|2874|3|7|TAD|... |Deccan Gladiators|2|4|0|47|0|0/18|0|0|-|11.75|-|DG|1978|3|7|TAD|
+|Delhi Bulls|1|2|0|21|1|1/21|0|0|21.00|10.50|12.00|DB|1976|3|7|TAD|... |Durban Wolves|2|3|0|15|2|2/2|0|0|7.50|5.00|9.00|DW|3895|3|7|TAD|
+|Galle Marvels|2|4|0|44|0|0/20|0|0|-|11.00|-|GM|2488|3|7|TAD|... |Jaffna Titans|3|5|0|51|3|3/21|1|0|17.00|10.20|10.00|JT|4832|3|7|TAD|
+|Joburg Bangla Tigers|2|3.4|0|37|3|2/17|0|0|12.33|10.09|7.33|JBT|3897|3|7|TAD|... |Kandy Bolts|1|2|0|26|0|0/26|0|0|-|13.00|-|KB|4833|3|7|TAD|
+|Maratha Arabians|1|1|0|16|0|0/16|0|0|-|16.00|-|MA|1622|3|7|TAD|... |Morrisville Samp Army|4|7|0|54|4|2/16|0|0|13.50|7.71|10.50|MSA|3277|3|7|TAD|
+|New York Strikers|3|5|0|36|2|1/5|0|0|18.00|7.20|15.00|NYS|3276|3|7|TAD|... |Northern Warriors|5|8|0|84|2|1/13|0|0|42.00|10.50|24.00|NW|1688|3|7|TAD|
+|Nuwara Eliya Kings|1|2|1|23|3|3/23|1|0|7.66|11.50|4.00|NEK|4834|3|7|TAD|... |NYS Lagos|1|1|0|1|2|2/1|0|0|0.50|1.00|3.00|NYSL|4765|3|7|TAD|
+|Pakhtoons|1|1.2|0|32|0|0/32|0|0|-|24.00|-|PAK|1623|3|7|TAD|... |Punjabi Legends|1|2|0|18|3|3/18|1|0|6.00|9.00|4.00|PL|1624|3|7|TAD|
+|Qalandars|1|2|0|30|1|1/30|0|0|30.00|15.00|12.00|QAL|1977|3|7|TAD|... |Rajputs|1|2|0|9|2|2/9|0|0|4.50|4.50|6.00|RAJ|1687|3|7|TAD|
+|Sindhis|1|2|0|20|1|1/20|0|0|20.00|10.00|12.00|SIN|1686|3|7|TAD|... |Team Abu Dhabi|3|6|0|65|4|3/20|1|0|16.25|10.83|9.00|TAD|1989|3|7|TAD|
+|UP Nawabs|1|2|0|33|1|1/33|0|0|33.00|16.50|12.00|UPN|4822|3|7|TAD|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Cricket Australia XI|1|0|0|-|-|0|0|0|0|-|0.00|-|-|CAU|1486|0|0|71|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Cricket Australia XI|1|9|2|33|1|1/33|0|0|33.00|3.66|54.00|CAU|1486|1|71|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Cricket Australia XI|1|8|0|48|1|1/48|0|0|48.00|6.00|48.00|CAU|1486|2|72|-|-|-|... |New South Wales XI|1|6|0|31|2|2/31|0|0|15.50|5.16|18.00|NWS|2061|2|72|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Yorkshire|1|0|0|-|-|0|0|0|0|-|0.00|-|-|YOR|1062|0|0|73|WAS|-|-|
+|Desert Vipers|1|0|0|-|-|0|0|0|0|-|0.00|-|-|DV|3380|0|0|73|GG|-|-|... |Abu Dhabi Knight Riders|1|0|0|-|-|0|0|0|0|-|0.00|-|-|ADKR|3381|0|0|73|GG|-|-|
+|Dubai Capitals|2|0|0|-|-|0|0|0|0|-|0.00|-|-|DC|3382|0|0|73|GG|-|-|... |Sharjah Warriorz|1|1|0|0|0|0|0|0|0|0.00|0.00|-|-|SW|3385|1|0|73|GG|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Abu Dhabi Knight Riders|1|4|0|25|0|0/25|0|0|-|6.25|-|ADKR|3381|1|73|WAS|... |Desert Vipers|1|4|0|19|1|1/19|0|0|19.00|4.75|24.00|DV|3380|1|73|WAS|
+|Dubai Capitals|2|7|0|36|4|2/14|0|0|9.00|5.14|10.50|DC|3382|1|73|WAS|... |Sharjah Warriorz|1|4|0|27|1|1/27|0|0|27.00|6.75|24.00|SW|3385|1|73|WAS|
+|Yorkshire|1|2|0|23|0|0/23|0|0|-|11.50|-|YOR|1062|1|73|WAS|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Away|1|1|1|2|2* v PBKS|0|0|0|0|-|100.00|-|-|PBKS|1107|0|0|6|CSK|Chennai Super Kings|CSK|
+|Home|1|0|0|-|-|0|0|0|0|-|0.00|-|-|PBKS|1107|0|0|6|CSK|Chennai Super Kings|CSK|... |Neutral|1|0|0|-|-|0|0|0|0|-|0.00|-|-|PBKS|1107|0|0|6|CSK|Chennai Super Kings|CSK|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|1|4|0|41|0|0/41 v PBKS|0|0|-|10.25|-|PBKS|1107|1|6|MI|Mumbai Indians|MI|... |Home|1|3.5|0|30|1|1/30 v PBKS|0|0|30.00|7.82|23.00|PBKS|1107|1|6|MI|Mumbai Indians|MI|
+|Neutral|1|3.3|0|39|1|1/30 v PBKS|0|0|39.00|11.14|21.00|PBKS|1107|1|6|MI|Mumbai Indians|MI|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Away|2|0|0|-|-|0|0|0|0|-|0.00|1|0|SA|7|0|0|3|ENG|England|ENG|
+|Home|4|2|0|2|2 v IND|0|0|0|0|1.00|50.00|3|0|IND|4|1|0|3|ENG|England|ENG|... |Away|2|6|0|52|1|1/31 v IND|0|0|52.00|8.66|36.00|IND|4|6|3|ENG|England|ENG|
+|Home|4|15|1|135|8|3/15 v IND|2|0|16.87|9.00|11.25|IND|4|6|3|ENG|England|ENG|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Away|6|3|3|3|1* v PC|0|0|0|0|-|100.00|-|-|PC|3281|0|0|6|SEC|-|-|
+|Home|7|1|0|0|0 v MICT|0|0|0|0|0.00|0.00|1|0|MICT|3280|1|0|6|SEC|-|-|... |Neutral|3|1|0|1|1* v PC|0|0|0|0|1.00|16.66|-|-|PC|3281|0|0|6|SEC|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|

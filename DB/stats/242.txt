@@ -1,14 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: GULBADIN NAIB
+IPL PLAYER PROFILE: SHAMS MULANI
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Gulbadin Naib
+  Player Name              : Shams Mulani
   IPL Debut                : 2024
-  Date of Birth            : 04 June 1991
-  Total IPL Matches        : 0
-  Nationality              : Afghan
+  Date of Birth            : 13 March 1997
+  Total IPL Matches        : 2
+  Nationality              : Indian
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -18,9 +18,342 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    2     |    0     |    19    |    19    |  19.00   |    15    |  126.67  |    0     |    0     |    1     |    1     |    1     |    0    
-    2024   |    2     |    0     |    19    |    19    |  19.00   |    15    |  126.67  |    0     |    0     |    1     |    1     |    1     |    0    
+   Career  |    2     |    1     |    1     |    1*    |    -     |    1     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    2     |    1     |    1     |    1*    |    -     |    1     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/gulbadin-naib/20731
+Source: https://www.iplt20.com/players/shams-mulani/5884
 ================================================================================
+|## Shams Mulani Introduction|
+|--|
+|Role|Batting Allrounder|
+|Batting|Left Handed|
+|Bowling|spin Left-arm orthodox|
+|Country|India|
+|--|--|
+|Birth|13-Mar-1997 (28 yr), Raigad, Maharashtra|
+|Height|--|
+|Teams|Mumbai, India A, India U23, Aakash Tigers MWS (Mostly) Delhi Capitals,|
+|Social Accounts|
+|Last Updated|Last updated 1 days ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Shams Mulani Stats|
+|--|
+|Competition|IPL|SMAT|DODI|
+|Matches|2|31|3|
+|Highest Score|1|73|12|
+|Runs|1|149|12|
+|50s|0|1|0|
+|100s|0|0|0|
+|Run Per Inn|1.0|12.4|12.0|
+|Run Per Match|0.5|4.8|4.0|
+|Boundary (In Ball)|-|7.0|3.0|
+|4s (In Ball)|-|8.4|6.0|
+|6s (In Ball)|-|42.3|6.0|
+|Wickets|0|35|4|
+|Over Per Match|2.3|3.3|10.0|
+|Wicket Per Inn|-|1.1|1.3|
+|Wicket Per Match|-|1.1|1.3|
+|Wicket (In Ball)|-|19.3|45.0|
+|Wicket (In Runs)|-|20.6|25.2|
+|Field In Match %|-|22 %|100 %|
+|Catch In Match %|-|22 %|33 %|
+|Check More Stats On Advance Cricket App|
+|## Shams Mulani Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|13 Mar 25|T20|4|6|8|22|
+|09 Mar 25|T20|19|29|0|52|
+|07 Mar 25|T20|46|31|0|81|
+|27 Mar 24|T20|0|-6|0|-2|
+|24 Mar 24|T20|1|0|0|5|
+|01 Dec 23|ODI|0|76|18|98|
+|25 Nov 23|ODI|0|37|8|49|
+|02 Nov 23|T20|8|25|0|37|
+|27 Oct 23|T20|0|49|0|53|
+|25 Oct 23|T20|18|50|0|72|
+|23 Oct 23|T20|0|29|0|33|
+|21 Oct 23|T20|21|93|8|126|
+|19 Oct 23|T20|21|60|8|93|
+|17 Oct 23|T20|0|64|0|68|
+|16 Oct 23|T20|0|2|0|6|
+|30 Nov 22|ODI|59|2|0|65|
+|23 Nov 22|ODI|59|33|18|114|
+|21 Nov 22|ODI|0|85|0|89|
+|19 Nov 22|ODI|0|4|18|26|
+|## Shams Mulani Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|13 Mar 25|SAS vs KLT|5|4(6)|66.6|bowled|
+|09 Mar 25|SAS vs KOT|4|16(19)|84.2|catch|
+|07 Mar 25|SAS vs MBL|4|38(34)|111.7|not out|
+|27 Mar 24|MI vs SRH|DNB|
+|24 Mar 24|MI vs GT|9|1(1)|100|not out|
+|01 Dec 23|MUM vs SAU|DNB|
+|25 Nov 23|MUM vs KER|DNB|
+|02 Nov 23|MUM vs BRD|7|8(11)|72.7|bowled|
+|27 Oct 23|MUM vs MIZ|DNB|
+|25 Oct 23|MUM vs HYD|6|17(23)|73.9|catch|
+|23 Oct 23|MUM vs CHA|DNB|
+|21 Oct 23|MUM vs JAM|6|17(8)|212.5|catch|
+|19 Oct 23|MUM vs BRD|6|17(12)|141.6|lbw|
+|17 Oct 23|MUM vs MEG|DNB|
+|16 Oct 23|MUM vs HAR|DNB|
+|30 Nov 22|MUM vs UP|7|51(70)|72.8|catch|
+|Shams Mulani Recent Batting|
+|## Shams Mulani Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|13 Mar 25|SAS vs KLT|4.0|17|0|0|4.25|
+|09 Mar 25|SAS vs KOT|4.0|23|1|0|5.75|
+|07 Mar 25|SAS vs MBL|4.0|17|1|0|4.25|
+|27 Mar 24|MI vs SRH|2.0|33|0|0|16.50|
+|24 Mar 24|MI vs GT|3.0|24|0|0|8.00|
+|01 Dec 23|MUM vs SAU|10.0|16|2|3|1.60|
+|25 Nov 23|MUM vs KER|10.0|34|1|0|3.40|
+|02 Nov 23|MUM vs BRD|4.0|30|1|0|7.50|
+|27 Oct 23|MUM vs MIZ|4.0|21|1|1|5.25|
+|25 Oct 23|MUM vs HYD|4.0|29|2|0|7.25|
+|23 Oct 23|MUM vs CHA|4.0|22|1|0|5.50|
+|21 Oct 23|MUM vs JAM|4.0|18|3|0|4.50|
+|19 Oct 23|MUM vs BRD|4.0|27|2|0|6.75|
+|17 Oct 23|MUM vs MEG|4.0|6|2|0|1.50|
+|16 Oct 23|MUM vs HAR|4.0|27|0|0|6.75|
+|30 Nov 22|MUM vs UP|10.0|45|0|0|4.50|
+|Shams Mulani Recent Bowling All Recent Bowling Details|
+|Competition|IPL|SMAT|DODI|
+|--|--|--|--|
+|Matches|2|31|3|
+|Innings|1|12|1|
+|Not Out|1|2|1|
+|Runs|1|149|12|
+|Highest Score|1|73|12|
+|Average|14.90|
+|Balls Faced|1|127|6|
+|Strike Rate|100|117.3|200|
+|20s|0|0|0|
+|30s|0|0|0|
+|50s|0|1|0|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|0|15|1|
+|6s|0|3|1|
+|Outtype|
+|LBW|0|1|0|
+|Bowled|0|1|0|
+|Stumped|0|0|0|
+|Catch|0|7|0|
+|Run Out|0|1|0|
+|Wicket Taker|
+|Left Arm|0|5|0|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|4|0|
+|3- Medium|0|0|0|
+|4- Slow|0|1|0|
+|1- Bowled|0|1|0|
+|2- Catch|0|3|0|
+|3- Stumped|0|0|0|
+|4- Lbw|0|1|0|
+|Right Arm|0|4|0|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|0|0|
+|3- Medium|0|3|0|
+|4- Slow|0|1|0|
+|1- Bowled|0|0|0|
+|2- Catch|0|4|0|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Competition|IPL|SMAT|DODI|
+|--|--|--|--|
+|Matches|2|31|3|... |Innings|2|30|3|
+|Balls|30|678|180|
+|Runs|57|723|101|
+|BBI|
+|Average|0|20.65|25.25|
+|Strike Rate|19.37|45.00|
+|Maiden|0|4|3|... |2w|0|8|1|
+|3w|0|2|0|
+|5w|0|0|0|
+|8w|0|0|0|
+|10w|0|0|0|
+|Wickets|0|35|4|
+|LBW|0|8|1|... |Bowled|0|9|2|
+|Stumped|0|3|0|
+|Catch|0|15|1|
+|Batsman Type|
+|Right Handed|0|25|2|
+|1- LBW|0|7|0|
+|2- Bowled|0|8|1|... |3- Stumped|0|3|0|
+|4- Catch|0|7|1|
+|Left Handed|0|9|2|
+|1- LBW|0|1|1|
+|2- Bowled|0|1|1|
+|3- Stumped|0|0|0|... |4- Catch|0|7|0|
+Shams Mulani played 2 IPL matches and scored 1 runs in 1 Innings. Shams Mulani's Highest Score in IPL is 1. S Mulani has 0 IPL centuries, 0 IPL half centuries and 0 times 30+ and 0 times 20+ IPL runs.... S Mulani has a strike rate of 100 with run per match of 0.50 in 1 IPL balls. Shams Mulani made total 0 boundaries with 0 fours and 0 sixes in IPL. S Mulani's IPL outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 0 times, Run Out 0 times.... Shams Mulani's IPL wicket takers are 0 left arm and 0 right arm. S Mulani's Left Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Shams Mulani's Right Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... S Mulani's wicket taken by Left Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Shams Mulani's wicket taken by Right Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Shams Mulani Took 0 Wickets (In 2 IPL innings) with Strike Rate of and average of 0. S Mulani's delivered 30 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 0 Right Handed and 0 Left Handed batsman out by Shams Mulani in IPL. Right Handed Batsman IPL outtype analysis (wicket taken by S Mulani) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times. Left Handed Batsman IPL outtype analysis (wicket taken by S Mulani) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Shams Mulani played 31 SMAT matches and scored 149 runs in 12 Innings. Shams Mulani's Highest Score in SMAT is 73. S Mulani has 0 SMAT centuries, 1 SMAT half centuries and 0 times 30+ and 0 times 20+ SMAT runs.... S Mulani has a strike rate of 117.3 with run per match of 4.80 in 127 SMAT balls. Shams Mulani made total 18 boundaries with 15 fours and 3 sixes in SMAT. S Mulani's SMAT outtype analysis are lbw 1 times, bowled 1, stumped 0 times, catch 7 times, Run Out 1 times.... Shams Mulani's SMAT wicket takers are 5 left arm and 4 right arm. S Mulani's Left Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 4 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets.... Shams Mulani's Right Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 3 wickets, Slow bowler 1 wickets. S Mulani's wicket taken by Left Arm Bowlers in SMAT analysis are lbw 1 wickets, bowled 1 wickets, stumped 0 wickets, catch 3 wickets. Shams Mulani's wicket taken by Right Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 4 wickets.... Shams Mulani Took 35 Wickets (In 30 SMAT innings) with Strike Rate of 19.37 and average of 20.65. S Mulani's delivered 678 balls (with 4 Maiden over) and took 2 wickets 8 times 3 wickets 2 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 25 Right Handed and 9 Left Handed batsman out by Shams Mulani in SMAT. Right Handed Batsman SMAT outtype analysis (wicket taken by S Mulani) are LBW 7 times, Bowled 8 times, Stumped 3 times, Catch 7 times. Left Handed Batsman SMAT outtype analysis (wicket taken by S Mulani) are LBW 1 times, Bowled 1 times, Stumped 0 times, Catch 7 times.... Shams Mulani Fielding analysis are Catch 7 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Shams Mulani played 3 DODI matches and scored 12 runs in 1 Innings. Shams Mulani's Highest Score in DODI is 12. S Mulani has 0 DODI centuries, 0 DODI half centuries and 0 times 30+ and 0 times 20+ DODI runs.... S Mulani has a strike rate of 200 with run per match of 4.00 in 6 DODI balls. Shams Mulani made total 2 boundaries with 1 fours and 1 sixes in DODI. S Mulani's DODI outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 0 times, Run Out 0 times.... Shams Mulani's DODI wicket takers are 0 left arm and 0 right arm. S Mulani's Left Arm DODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... Shams Mulani's Right Arm DODI Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. S Mulani's wicket taken by Left Arm Bowlers in DODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Shams Mulani's wicket taken by Right Arm Bowlers in DODI analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets.... Shams Mulani Took 4 Wickets (In 3 DODI innings) with Strike Rate of 45.00 and average of 25.25. S Mulani's delivered 180 balls (with 3 Maiden over) and took 2 wickets 1 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 2 Right Handed and 2 Left Handed batsman out by Shams Mulani in DODI. Right Handed Batsman DODI outtype analysis (wicket taken by S Mulani) are LBW 0 times, Bowled 1 times, Stumped 0 times, Catch 1 times. Left Handed Batsman DODI outtype analysis (wicket taken by S Mulani) are LBW 1 times, Bowled 1 times, Stumped 0 times, Catch 0 times.... Shams Mulani Fielding analysis are Catch 1 times, Stumping 0 times, Direct Throw(Run Out) 1 times, Throw(Run Out) 0 times.... Shams Mulani plays cricket as Batting Allrounder. Shams Mulani run per match stats are 0.5 runs in IPL, 4.8 runs in SMAT, 4.0 runs in DODI, 15.6 runs in DT20, 12.4 runs in VHT.... S Mulani wicket per match stats are 0 in IPL, 1.1 in SMAT, 1.3 in DODI, 1.0 in DT20, 1.3 in VHT. S Mulani make boundary in every 0 balls in IPL, 7.0 balls in SMAT, 3.0 balls in DODI, 10.8 balls in DT20, 13.3 balls in VHT.... Shams Mulani wicket in every 0 balls in IPL, 19.3 balls in SMAT, 45.0 balls in DODI, 24.4 balls in DT20, 40.8 balls in VHT. Shams Mulani hits six in every 0 balls in IPL, every 42.3 balls in SMAT, every 6.0 balls in DODI, every 22.4 balls in DT20, every 111.3 balls in VHT.... Shams Mulani score four in every 0 balls in IPL, 8.4 balls in SMAT, 6.0 balls in DODI, 21.1 balls in DT20, 15.1 balls in VHT.... |## Shams Mulani stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|MI|all|IPL|1|1|1.00|Stats|
+|MUM|all|DT20|12|55|19.62|Stats|
+|ATMWS|all|DT20|6|60|53.33|Stats|
+|SAS|all|DT20|3|38|29.00|Stats|
+|MUM|all|DODI|0|0|Stats|
+|IN-A|all|DODI|1|12|12.00|Stats|
+|MUM|all|VHT|10|75|32.62|Stats|
+|MUM|all|SMAT|12|73|14.90|Stats|
+|INDA|all|DT|1|12|12.00|Stats|
+|## Shams Mulani stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Narendra Modi Stadium|all|IPL|1|1|1.00|Stats|
+|Rajiv Gandhi International Sta|all|IPL|0|0|Stats|
+|Mazgaon Cricket Club Ground|all|DT20|3|38|29.00|Stats|
+|Wankhede Stadium|all|DT20|7|60|53.66|Stats|
+|Al Amerat Cricket Ground Oman|all|DT20|4|55|28.25|Stats|
+|Al Amerat Cricket Ground Oman|all|DT20|2|6|5.00|Stats|
+|Saurashtra Cricket Association|all|DT20|4|17|16.00|Stats|
+|Eden Gardens|all|DT20|1|1|1.00|Stats|
+|KSCA Cricket 3 Ground|all|DODI|0|0|Stats|
+|Arun Jaitley Stadium|all|DODI|1|12|12.00|Stats|
+|## Shams Mulani stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Narendra Modi Stadium|all|IPL|1|0|8.00|Stats|
+|Rajiv Gandhi International Sta|all|IPL|1|0|16.50|Stats|
+|Mazgaon Cricket Club Ground|all|DT20|3|2|4.75|Stats|
+|Wankhede Stadium|all|DT20|7|4|7.88|Stats|
+|Al Amerat Cricket Ground Oman|all|DT20|4|4|4.35|Stats|
+|Al Amerat Cricket Ground Oman|all|DT20|1|3|4.50|Stats|
+|Saurashtra Cricket Association|all|DT20|7|12|6.66|Stats|
+|Eden Gardens|all|DT20|1|1|5.75|Stats|
+|KSCA Cricket 3 Ground|all|DODI|1|2|1.60|Stats|
+|Arun Jaitley Stadium|all|DODI|1|1|5.10|Stats|
+|## Shams Mulani stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|IPL 2024|all|IPL|1|1|1.00|Stats|
+|Mumbai Premier League T20 2025|all|DT20|3|38|29.00|Stats|
+|SYAT 2021|all|DT20|1|1|1.00|Stats|
+|T20 M 2019|all|DT20|6|60|53.33|Stats|
+|OMAN VS MUM T20 2021|all|DT20|6|55|20.50|Stats|
+|Syed Mushtaq Ali Trophy 2022|all|DT20|5|17|16.50|Stats|
+|DT 2018-19|all|DODI|1|12|12.00|Stats|
+|Vijay Hazare Trophy 2023|all|DODI|0|0|Stats|
+|VHT 2018-19|all|VHT|0|0|Stats|
+|VHT 2022|all|VHT|4|51|50.33|Stats|
+|## Shams Mulani stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|IPL 2024|all|IPL|2|0|11.40|Stats|
+|Mumbai Premier League T20 2025|all|DT20|3|2|4.75|Stats|
+|SYAT 2021|all|DT20|1|1|13.66|Stats|
+|T20 M 2019|all|DT20|6|3|7.09|Stats|
+|OMAN VS MUM T20 2021|all|DT20|5|7|4.39|Stats|
+|Syed Mushtaq Ali Trophy 2022|all|DT20|8|13|6.54|Stats|
+|DT 2018-19|all|DODI|1|1|5.10|Stats|
+|Vijay Hazare Trophy 2023|all|DODI|2|3|2.50|Stats|
+|VHT 2018-19|all|VHT|2|4|3.05|Stats|
+|VHT 2022|all|VHT|7|7|4.64|Stats|
+|## Shams Mulani stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|India|all|IPL|1|1|1.00|Stats|
+|India|all|DT20|15|60|36.00|Stats|
+|Oman|all|DT20|6|55|20.50|Stats|
+|India|all|DODI|1|12|12.00|Stats|
+|India|all|VHT|10|75|32.62|Stats|
+|Malaysia|all|VHT|0|0|Stats|
+|India|all|SMAT|12|73|14.90|Stats|
+|India|all|DT|1|12|12.00|Stats|
+|## Shams Mulani stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|GT|all|IPL|1|1|1.00|Stats|
+|SRH|all|IPL|0|0|Stats|
+|OMAN|all|DT20|6|55|20.50|Stats|
+|SPL|all|DT20|1|40|40.00|Stats|
+|SAU|all|DT20|1|1|1.00|Stats|
+|UT|all|DT20|1|17|17.00|Stats|
+|RAI|all|DT20|1|0|0.00|Stats|
+|RJS|all|DT20|1|2|2.00|Stats|
+|ASM|all|DT20|0|0|Stats|
+|MIZ|all|DT20|0|0|Stats|
+|## Shams Mulani stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|Wankhede Stadium|all|KER|DT20|1|1|1.00|Stats|
+|Mazgaon Cricket Club Ground|all|KOT|DT20|1|16|16.00|Stats|
+|Mazgaon Cricket Club Ground|all|MBL|DT20|1|38|38.00|Stats|
+|Mazgaon Cricket Club Ground|all|KLT|DT20|1|4|4.00|Stats|
+|Wankhede Stadium|all|BEN|SMAT|1|0|0.00|Stats|
+|Wankhede Stadium|all|ASM|SMAT|0|0|Stats|
+|CB Patel International Cricket|all|TN|SMAT|1|73|73.00|Stats|
+|CB Patel International Cricket|all|KAR|SMAT|0|0|Stats|
+|Lalabhai Contractor Stadium|all|PUN|SMAT|0|0|Stats|
+|Emerald High School Ground|all|SKM|SMAT|0|0|Stats|
+|## Shams Mulani stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Wankhede Stadium|all|KER|DT20|1|1|13.66|Stats|
+|Mazgaon Cricket Club Ground|all|KOT|DT20|1|1|5.75|Stats|
+|Mazgaon Cricket Club Ground|all|MBL|DT20|1|1|4.25|Stats|
+|Mazgaon Cricket Club Ground|all|KLT|DT20|1|0|4.25|Stats|
+|Wankhede Stadium|all|ASM|SMAT|1|2|3.75|Stats|
+|CB Patel International Cricket|all|TN|SMAT|1|3|6.50|Stats|... |CB Patel International Cricket|all|KAR|SMAT|1|1|4.00|Stats|
+|Lalabhai Contractor Stadium|all|PUN|SMAT|1|0|13.00|Stats|
+|Emerald High School Ground|all|SKM|SMAT|1|2|0.66|Stats|
+|Holkar Cricket Stadium|all|MP|SMAT|1|2|8.25|Stats|
+|## Shams Mulani stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|IPL 2024|GT|IPL|1|1|1.00|Stats|
+|IPL 2024|SRH|IPL|0|0|Stats|
+|Syed Mushtaq Ali Trophy 2022|VID|DT20|1|13|13.00|Stats|
+|T20 M 2019|NMP|DT20|1|60|60.00|Stats|
+|Syed Mushtaq Ali Trophy 2022|MIZ|DT20|0|0|Stats|
+|Syed Mushtaq Ali Trophy 2022|SAU|DT20|1|1|1.00|Stats|
+|Syed Mushtaq Ali Trophy 2022|UT|DT20|1|17|17.00|Stats|
+|Syed Mushtaq Ali Trophy 2022|RAI|DT20|1|0|0.00|Stats|
+|OMAN VS MUM T20 2021|OMAN|DT20|6|55|20.50|Stats|
+|Syed Mushtaq Ali Trophy 2022|MP|DT20|0|0|Stats|
+|## Shams Mulani stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|IPL 2024|GT|IPL|1|0|8.00|Stats|
+|IPL 2024|SRH|IPL|1|0|16.50|Stats|
+|Syed Mushtaq Ali Trophy 2022|VID|DT20|1|3|5.25|Stats|
+|T20 M 2019|SPL|DT20|1|1|3.33|Stats|
+|Syed Mushtaq Ali Trophy 2022|MIZ|DT20|1|2|5.00|Stats|
+|Syed Mushtaq Ali Trophy 2022|SAU|DT20|1|1|5.75|Stats|
+|Syed Mushtaq Ali Trophy 2022|UT|DT20|1|2|6.50|Stats|
+|Syed Mushtaq Ali Trophy 2022|RAI|DT20|1|2|6.00|Stats|
+|OMAN VS MUM T20 2021|OMAN|DT20|5|7|4.39|Stats|
+|Syed Mushtaq Ali Trophy 2022|MP|DT20|1|0|9.00|Stats|
+|## Shams Mulani stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|India|all|GT|IPL|1|1|1.00|Stats|
+|India|all|SRH|IPL|0|0|Stats|
+|India|all|UT|DT20|1|17|17.00|Stats|
+|India|all|SPL|DT20|1|40|40.00|Stats|
+|India|all|MIZ|DT20|0|0|Stats|
+|India|all|MP|DT20|0|0|Stats|
+|India|all|ASM|DT20|0|0|Stats|
+|India|all|VID|DT20|1|13|13.00|Stats|
+|Oman|all|OMAN|DT20|6|55|20.50|Stats|
+|India|all|RJS|DT20|1|2|2.00|Stats|
+|## Shams Mulani stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|India|all|GT|IPL|1|0|8.00|Stats|
+|India|all|SRH|IPL|1|0|16.50|Stats|
+|Oman|all|OMAN|DT20|5|7|4.39|Stats|
+|India|all|NMP|DT20|1|1|8.25|Stats|
+|India|all|MIZ|DT20|1|2|5.00|Stats|
+|India|all|SAU|DT20|1|1|5.75|Stats|
+|India|all|UT|DT20|1|2|6.50|Stats|
+|India|all|RAI|DT20|1|2|6.00|Stats|
+|India|all|VID|DT20|1|3|5.25|Stats|
+|India|all|MP|DT20|1|0|9.00|Stats|

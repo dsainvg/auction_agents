@@ -1,41 +1,74 @@
-================================================================================
-IPL PLAYER PROFILE: ALZARRI JOSEPH
-================================================================================
+|Full Name|Rajan Kumar|
+|--|--|
+|Date of Birth|July 8, 1996|
+|Age|28 Years|
+|Nationality|Indian|
+|Birth Place|Haridwar, Uttarakhand|
+|Batting Style|Left-hand Bat|
+|Bowling Style|Left-arm Medium-fast|
+|Debut|October 11, 2022|
+|Jersey No.|7|
+|Match|R|BF|4s|6s|S/R|O|R|W|E/R|
+|--|--|--|--|--|--|--|--|--|--|
+|UT vs GUJ|0|1|0|0|0.00|2|23|1|11.50|
+|UT vs TRI|2|2|0|0|100.00|2|18|0|9.00|
+|SAU vs UT|0|0|0|0|0|3|41|0|13.67|
+|SIKM vs UT|0|0|0|0|0|3|14|0|4.67|
+|UT vs BRD|4|3|1|0|133.33|3|27|0|9.00|
+|Game Type|Mat|Inn|R|BF|NO|Avg|S/R|100s|50s|H|4s|6s|Ct|St|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|T20s|19|4|7|8|3|7.00|87.50|0|0|4|1|0|1|0|
+|LISTAs|9|6|27|45|3|9.00|60.00|0|0|13|2|2|3|0|
+|FIRSTCLASS|2|3|11|72|0|3.66|15.27|0|0|10|1|0|1|0|
+|Game Type|Mat|Inn|O|R|W|Avg|E/R|Best|5w|10w|
+|--|--|--|--|--|--|--|--|--|--|--|
+|T20s|19|19|61.0|465|19|24.47|7.62|3/17|0|0|
+|LISTAs|9|9|69.2|348|14|24.85|5.01|5/28|1|0|
+|FIRSTCLASS|2|4|38.0|146|6|24.33|3.84|4/63|0|0|
+- Rajan Kumar: Along the Years
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Alzarri Joseph
-  IPL Debut                : 2019
-  Date of Birth            : 20 November 1996
-  Total IPL Matches        : 22
-  Role                     : Bowler
-  Nationality              : Indian
+- Rajan Kumar Records
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    22    |    6     |    27    |   15*    |  27.00   |    32    |  84.38   |    0     |    0     |    3     |    0     |    4     |    0    
-    2024   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2023   |    7     |    2     |    7     |    7*    |    -     |    12    |  58.33   |    0     |    0     |    1     |    0     |    2     |    0    
-    2022   |    9     |    2     |    5     |    4*    |   5.00   |    7     |  71.43   |    0     |    0     |    0     |    0     |    1     |    0    
-    2019   |    3     |    2     |    15    |   15*    |   0.00   |    13    |  115.38  |    0     |    0     |    2     |    0     |    1     |    0    
+- Rajan Kumar Career
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    52    |    87    |    6     |   6/12   |  14.50   |  10.04   |   8.67   |    0     |    1    
-    2019   |    3     |    52    |    87    |    6     |   6/12   |  14.50   |  10.03   |   8.66   |    0     |    1    
+Born on July 08, 1996, in Haridwar, Uttarakhand, Rajan Kumar is a left-arm medium-fast bowler and a right-handed batter. He represents his home team Uttarakhand in the domestic circuit and Royal Challengers Bengaluru (RCB) in the Indian Premier League (IPL).
 
-================================================================================
-Source: https://www.iplt20.com/players/alzarri-joseph/3098
-================================================================================
+Kumar grabbed some spotlight when he was grabbed by the Royal Challengers Bangalore (now Royal Challengers Bengaluru) in the IPL 2023 auction. He has only played a handful of domestic matches but has made quite an impact within the short span. The 28-year-old left-arm pacer looks up to veteran Australian speedster Mitchell Johnson as his cricketing idol.
+
+## Rajan Kumar: Along the Years
+
+|Year|Age|Achievement|
+|--|--|--|
+|2022|26|Made T20 debut for Uttarakhand|
+|2022|26|Made List-A debut for Uttarakhand|
+|2022|26|Bought by Royal Challengers Bangalore (now Royal Challengers Bengaluru)|
+|2024|27|Made First-class debut for Uttarakhand|
+## Rajan Kumar Records
+
+Leading wicket-taker for Uttarakhand in Syed Mushtaq Ali Trophy 2022-23
+
+## Rajan Kumar Career
+
+Rajan Kumar has just begun his career and has already shown promise in the domestic circuit. With an IPL contract in the bag, Kumar would be eyeing to grab more eyeballs with his left-arm pace.
+
+### Rajan Kumar Domestic Career
+
+Rajan Kumar made his domestic debut for Uttarakhand against Railways in Rajkot in the Syed Mushtaq Ali Trophy (SMAT) 2022-23 season on October 11, 2022. On T20 debut, the Uttarakhand pacer impressed with his left-arm medium-fast pace as he returned with figures of 4-1-8-2 at an economy of 2.00 and only conceded a single boundary in his quota. He finished his debut season as Uttarakhand’s leading wicket-taker by scalping 10 wickets in 7 games.
+
+A month later, Kumar made his List-A debut for Uttarakhand against Odisha in Mumbai in the Vijay Hazare Trophy 2022-23 season. Like his SMAT debut, he was again impressive on his Vijay Hazare Trophy debut as he finished with figures of 8.2-1-24-3.
+
+Kumar made his first-class (FC) debut for Uttarakhand against Madhya Pradesh (MP) in Dehradun in the Ranji Trophy 2023-24 season on January 05, 2024. He picked up a couple of wickets in the first innings and the match eventually ended in a draw.
+
+### Rajan Kumar IPL Career
+
+Following his impressive debut season for Uttarakhand in the SMAT 2022-23 season, the Royal Challengers Bangalore (now Royal Challengers Bengaluru) acquired Rajan Kumar for INR 70 lakhs in the IPL 2023 auction. He was retained by the franchise for IPL 2024 but is yet to make his IPL debut.
+
+A. Rajan Kumar made his domestic debut for Uttarakhand against Railways in Rajkot in the Syed Mushtaq Ali Trophy (SMAT) 2022-23 season on October 11, 2022.
+
+A. Rajan Kumar represents the Royal Challengers Bengaluru in the Indian Premier League.
+
+A. Rajan Kumar’s IPL auction price is INR 70 lakhs.
+
+A. Rajan Kumar plays for Uttarakhand in the domestic circuit.
+
+A. Rajan Kumar was retained by the franchise for IPL 2024 but is yet to make his IPL debut.

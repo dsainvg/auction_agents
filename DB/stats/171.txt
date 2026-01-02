@@ -1,52 +1,18 @@
-================================================================================
-IPL PLAYER PROFILE: SAM BILLINGS
-================================================================================
+Career-Stats
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Sam Billings
-  Date of Birth            : 15 June 1991
-  Total IPL Matches        : 30
-  Role                     : Wicketkeeper Batter
-  Nationality              : English
+Batting Stats
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Delhi Capitals bought Sam Billings for INR 2 Cr during the player auction
-  ahead of the IPL 2021. The wicketkeeper-batsman has represented England in
-  52 games – 22 ODIs and 30 T20Is – and has so far played 187 T20s and has
-  over 3500 runs to his name. Billings has played 22 IPL games across four
-  seasons and will be looking to make it count for Delhi Capitals.
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|--|--|--|-|--|--|--|
+|ODI|--|--|--|-|--|--|--|... |T20I|--|--|--|-|--|--|--|
+|FC|43|72|2389|46.16|34.13|14/5|266/13|
+|listA|29|29|1040|86.81|41.60|9/0|104/18|... |T20s|29|28|769|136.59|30.76|4/0|68/32|
+Bowling Stats... |Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|--|--|--|--|--|--|--|--|
+|ODI|--|--|--|--|--|--|--|--|... |T20I|--|--|--|--|--|--|--|--|
+|FC|43|7|90|1|3.20|-|48.00|0|
+|listA|29|5|54|1|6.56|-|59.00|0|
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    30    |    1     |   503    |    56    |  19.35   |   388    |  129.64  |    0     |    3     |    40    |    20    |    18    |    1    
-    2022   |    8     |    1     |   169    |    36    |  24.14   |   138    |  122.46  |    0     |    0     |    9     |    10    |    6     |    1    
-    2019   |    1     |    0     |    0     |    0*    |   0.00   |    4     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2018   |    10    |    0     |   108    |    56    |  13.50   |    78    |  138.46  |    0     |    1     |    8     |    5     |    5     |    0    
-    2017   |    6     |    0     |   138    |    55    |  23.00   |   104    |  132.69  |    0     |    1     |    19    |    1     |    4     |    0    
-    2016   |    5     |    0     |    88    |    54    |  22.00   |    64    |  137.50  |    0     |    1     |    4     |    4     |    3     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    29    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2017   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/sam-billings/2756
-================================================================================
+|T20s|--|--|--|--|-|-|-|--|

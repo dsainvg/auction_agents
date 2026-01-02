@@ -1,13 +1,13 @@
 ================================================================================
-IPL PLAYER PROFILE: SANVIR SINGH
+IPL PLAYER PROFILE: ABHISHEK RAUT
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Sanvir Singh
-  IPL Debut                : 2023
-  Date of Birth            : 12 October 1996
-  Total IPL Matches        : 6
+  Player Name              : Abhishek Raut
+  IPL Debut                : 2009
+  Date of Birth            : 03 March 1987
+  Total IPL Matches        : 22
   Nationality              : Indian
 
 BATTING STATISTICS
@@ -18,10 +18,120 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    6     |    3     |    25    |    8*    |  12.50   |    21    |  119.05  |    0     |    0     |    2     |    1     |    3     |    0    
-    2024   |    4     |    2     |    14    |    8*    |  14.00   |    12    |  116.67  |    0     |    0     |    1     |    0     |    3     |    0    
-    2023   |    2     |    1     |    11    |    7     |  11.00   |    9     |  122.22  |    0     |    0     |    1     |    1     |    0     |    0    
+   Career  |    22    |    7     |   194    |   36*    |  21.56   |   167    |  116.17  |    0     |    0     |    13    |    7     |    10    |    0    
+    2011   |    7     |    1     |    60    |    25    |  20.00   |    58    |  103.44  |    0     |    0     |    5     |    1     |    5     |    0    
+    2010   |    6     |    3     |    56    |   32*    |  28.00   |    48    |  116.66  |    0     |    0     |    3     |    3     |    2     |    0    
+    2009   |    9     |    3     |    78    |   36*    |  19.50   |    61    |  127.86  |    0     |    0     |    5     |    3     |    3     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    22    |    42    |    57    |    0     |   0/6    |    -     |   8.14   |    -     |    0     |    0    
+    2011   |    7     |    18    |    21    |    0     |   0/8    |    -     |   7.00   |    -     |    0     |    0    
+    2010   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2009   |    9     |    24    |    36    |    0     |   0/6    |    -     |   9.00   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/sanvir-singh/5616
+Source: https://www.iplt20.com/players/abhishek-raut/133
 ================================================================================
+# Abhishek Arun Kumar Pathak
+
+India
+
+### More India Players
+
+Rohit Dhanda
+
+M Mathivannan
+
+Bowler
+
+Rocky Bhasker
+
+Bowler
+
+Digvesh Singh Rathi
+
+Bowler
+
+Arjun Kshitish Debnath
+
+Parth Shiv Vats
+
+Chandan Kumar Singh
+
+Yuvraj Singh
+
+Bowling Allrounder
+
+Yogesh Kumar Tiwari
+
+Mandeep Singh
+
+Allrounder... ### Personal Information
+
+- Full Name
+
+- Abhishek Arun Kumar Pathak
+
+- Age
+
+- 28 years
+
+- Batting Style
+
+- Right Hand Bat
+
+### Teams
+
+Madhya Pradesh
+
+India... ## Career Stats
+
+### Batting
+
+|Format|Mat|Inns|NO|Runs|HS|Ave|BF|SR|100|50|4s|6s|Ct|St|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|T20s|5|5|-|69|29|13.80|49|140.81|-|-|6|5|3|-|... ### Bowling
+
+|Format|Mat|Inns|Balls|Runs|Wkts|BBI|Ave|Econ|SR|5W|10W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|T20s|5|2|14|19|1|1/5|19.00|8.14|14.00|-|-|... ## Recent Matches
+
+|Match|Date|Venue|Format|Toss|Bat|Bowl|Field|Result|Series|
+|--|--|--|--|--|--|--|--|--|--|
+|MP vs RAJ|2024-12-01|Saurashtra Rajkot|T20|Lost (Bowl)|29|0/14|-|Lost Rajasthan won by 6 wickets (with 22 balls remaining)|Syed Mushtaq Ali Trophy 2024/25|... |MP vs BENG|2024-11-29|Saurashtra Rajkot|T20|Lost (Bat)|12|-|1c/0s|Won M. Pradesh won by 6 wickets (with 2 balls remaining)|Syed Mushtaq Ali Trophy 2024/25|... |MP vs PNJB|2024-11-27|Rajkot Rajkot|T20|Lost (Bowl)|19|-|1c/0s|Won M. Pradesh won by 9 runs|Syed Mushtaq Ali Trophy 2024/25|
+|MP vs MEGHA|2024-11-25|Saurashtra Rajkot|T20|Won (Bat)|5|1/5|-|Won M. Pradesh won by 101 runs|Syed Mushtaq Ali Trophy 2024/25|... |MP vs MIZO|2024-11-23|Rajkot Rajkot|T20|Lost (Bowl)|4|-|1c/0s|Won M. Pradesh won by 102 runs|Syed Mushtaq Ali Trophy 2024/25|
+## Debut/Last Matches
+
+|Twenty20|
+|--|
+|Debut|2024-11-23 Madhya Pradesh v Mizoram, Rajkot|
+|Last|2024-12-01 Madhya Pradesh v Rajasthan, Saurashtra|... ## About
+
+Cricket, often referred to as a religion in India, has produced countless legends over the years. One such rising star is
+
+**Abhishek Arun Kumar Pathak**, a name that is steadily gaining recognition in the cricketing world. Known for his exceptional skills and a passion for the game, Pathak is carving out a niche for himself in the competitive arena of cricket. This article delves into the life, career, and aspirations of Abhishek Pathak, showcasing his journey and contributions to the sport.... ## Early Life and Background
+
+Born and raised in India, Abhishek Pathak was immersed in cricket from a young age. His fascination with the sport was nurtured by his family, who encouraged him to pursue his dreams. Growing up in a country where cricket is celebrated, Pathak honed his skills in local tournaments, quickly making a name for himself as a talented player.... ### Pathak's Cricketing Journey
+
+Abhishek's cricketing journey began in the bustling streets of his hometown, where he played with friends and older players. His determination and dedication soon caught the attention of local coaches, who saw immense potential in him. With rigorous training and relentless practice, Pathak developed into a formidable player, showcasing his versatility on the field.... **Early Training:**Abhishek participated in numerous coaching camps, where he learned the intricacies of batting, bowling, and fielding. **Local Tournaments:**Pathak's performances in local tournaments earned him spots on various school and club teams. **Breakthrough:**His consistent performances led to an opportunity to represent his state in junior cricket.... ## Playing Style and Strengths
+
+What sets Abhishek Pathak apart from his peers is his unique playing style. He is known for his aggressive batting approach, coupled with a sharp cricketing mind. His ability to read the game and adapt to different situations makes him a valuable asset to any team. Pathak's strengths include:... **Power Hitting:**Abhishek has the ability to clear boundaries with ease, making him a dangerous player in limited-overs formats. **Strategic Bowling:**As a bowler, he employs a mix of pace and spin, keeping batsmen guessing. **Fielding Prowess:**His quick reflexes and sharp anticipation make him a standout fielder, capable of changing the course of a match with a single catch.... ## Professional Career Highlights
+
+Pathak's professional career is still in its formative years, but he has already achieved significant milestones. His performances in domestic cricket have garnered attention from selectors and fans alike. Some of the key highlights of his career include:... **Debut Match:**Abhishek made his debut for his state team, where he impressed with both bat and ball, securing his position in the squad. **Record-Breaking Innings:**In a crucial match, he scored a record-breaking century, leading his team to victory and earning him accolades from cricketing legends. **National Representation:**His consistent performances have opened doors for him at the national level, where he hopes to make a significant impact.... ## Future Aspirations and Goals
+
+As Abhishek Pathak continues to rise through the ranks, his aspirations remain high. He dreams of representing India on the international stage and contributing to the team's success. His goals include:
+
+**International Debut:**Pathak aims to don the Indian jersey and showcase his talent to the world. **Winning Trophies:**He aspires to win prestigious tournaments like the ICC World Cup and bring glory to his country. **Inspiring the Next Generation:**Abhishek wishes to mentor young cricketers, sharing his experiences and knowledge to help them succeed.... ## Community Engagement and Philanthropy
+
+Beyond cricket, Abhishek Pathak is committed to giving back to the community. He actively participates in various philanthropic activities, focusing on youth engagement and sports development. His initiatives aim to:
+
+**Promote Sports:**Encourage young talent to pursue sports and stay active. **Provide Resources:**Offer training facilities and coaching for underprivileged children. **Foster Team Spirit:**Organize local tournaments to promote teamwork and camaraderie among youth.... ## Conclusion
+
+Abhishek Arun Kumar Pathak is a name to watch in the cricketing world. With his talent, dedication, and vision, he is well on his way to becoming a household name. As he continues to hone his skills and strive for greatness, cricket enthusiasts around the globe are eager to see what the future holds for this promising player. Whether on the field or off, Pathak’s journey serves as an inspiration to aspiring cricketers, proving that with passion and hard work, anything is possible in the world of cricket.... As we follow his career, one can't help but wonder: what will be the next chapter in Abhishek Pathak's cricketing saga? Only time will tell, but one thing is certain—his journey is just beginning.

@@ -1,13 +1,21 @@
 ================================================================================
-IPL PLAYER PROFILE: SIKANDAR RAZA
+IPL PLAYER PROFILE: RIPAL PATEL
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Sikandar Raza
-  IPL Debut                : 2023
-  Date of Birth            : 24 April 1986
+  Player Name              : Ripal Patel
+  IPL Debut                : 2021
+  Date of Birth            : 28 September 1995
   Total IPL Matches        : 9
+  Role                     : Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Ripal Patel was picked by Delhi Capitals for INR 20 Lac during the player
+  auction ahead of the IPL 2021. The Gujarat cricketer has played 11 T20s so
+  far and will be looking to make a mark in his maiden IPL edition.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -17,10 +25,1027 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    9     |    2     |   182    |    57    |  26.00   |   136    |  133.82  |    0     |    1     |    12    |    8     |    5     |    0    
-    2024   |    2     |    0     |    43    |    28    |  21.50   |    38    |  113.16  |    0     |    0     |    2     |    2     |    0     |    0    
-    2023   |    7     |    2     |   139    |    57    |  27.80   |    98    |  141.84  |    0     |    1     |    10    |    6     |    5     |    0    
+   Career  |    2     |    1     |    25    |    18    |  25.00   |    27    |  92.59   |    0     |    0     |    3     |    0     |    0     |    0    
+    2021   |    2     |    1     |    25    |    18    |  25.00   |    27    |  92.59   |    0     |    0     |    3     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    2     |    18    |    22    |    0     |   0/22   |    -     |   7.33   |    -     |    0     |    0    
+    2021   |    2     |    18    |    22    |    0     |   0/22   |    -     |   7.33   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/sikandar-raza/5603
+Source: https://www.iplt20.com/players/ripal-patel/17191
 ================================================================================
+Edition
+
+IN
+
+IN
+
+US
+
+English
+
+English
+
+हिन्दी
+
+मराठी
+
+ಕನ್ನಡ
+
+தமிழ்
+
+বাংলা
+
+മലയാളം
+
+తెలుగు
+
+ગુજરાતી
+
+Sign In
+
+TOI
+
+IPL
+
+Schedule
+
+MI Schedule
+
+CSK Schedule
+
+RR Schedule
+
+KKR Schedule
+
+RCB Schedule... LSG Schedule
+
+GT Schedule
+
+DC Schedule
+
+PBKS Schedule
+
+SRH Schedule
+
+points table
+
+IPL Live Score
+
+IPL Results
+
+Orange Cap
+
+Purple Cap
+
+Teams
+
+MI IPL Squad
+
+RCB IPL Squad
+
+LSG IPL Squad
+
+CSK IPL Squad
+
+GT IPL Squad
+
+KKR IPL Squad
+
+RR IPL Squad... DC IPL Squad
+
+PBKS IPL Squad
+
+SRH IPL Squad
+
+Playoffs
+
+stats
+
+All-Time Records
+
+Highest IPL Score
+
+Most IPL Wickets
+
+Highest Innings Score
+
+Most IPL 6
+
+Team with Most Wins
+
+Prediction Hub
+
+photos
+
+News
+
+SPORTS NEWS
+
+CRICKET NEWS
+
+IPL
+
+RIPAL PATEL IPL STATS... Ripal Patel IPL Stats
+
+Ripal Patel
+
+(Current/Last Team: DC)
+
+Ripal Patel
+
+(Current/Last Team: DC)
+
+Nationality:
+
+India
+
+Date of Birth:
+
+28/09/1995
+
+Role:
+
+Batsman
+
+Batting style:
+
+Right Handed
+
+Bowling style:
+
+Right-arm medium fast... Nick Name:
+
+
+
+IPL Debut
+
+Date:
+
+04/10/2021
+
+For Team:
+
+DC
+
+Against Team:
+
+CSK
+
+Venue:
+
+Dubai International Stadium, Dubai
+
+Career Information
+
+Teams Played
+
+Delhi Capitals
+
+Gujarat
+
+LA Titans
+
+Socal Lashings
+
+Murshidabad Kueens Womens... Gandhinagar Lions
+
+IPL Highest Score & Best Bowling Record
+
+Highest Score
+
+23
+
+Runs
+
+Against GT in 2023
+
+Best Bowling Record
+
+0/22
+
+Against RCB in 2021
+
+Performance in Last 10 IPL Matches
+
+Season 2023 - 2024
+
+(played for DC)... No.
+
+vs
+
+Batting
+
+Bowling
+
+1
+
+vs Chennai Super Kings
+
+10
+
+(16)
+
+0
+
+/0
+
+2
+
+vs Royal Challengers Bengaluru
+
+0
+
+(0)
+
+0
+
+/0
+
+3
+
+vs Gujarat Titans
+
+23
+
+(13)
+
+0
+
+/0
+
+4
+
+vs Sunrisers Hyderabad... 11
+
+(8)
+
+0
+
+/0
+
+5
+
+vs Sunrisers Hyderabad
+
+5
+
+(6)
+
+0
+
+/0
+
+Season 2022 - 2023
+
+(played for DC)
+
+No.
+
+vs
+
+Batting
+
+Bowling
+
+1
+
+vs Chennai Super Kings
+
+6
+
+(3)... 0
+
+/0
+
+2
+
+vs Sunrisers Hyderabad
+
+0
+
+(0)
+
+0
+
+/0
+
+Season 2021 - 2022
+
+(played for DC)
+
+No.
+
+vs
+
+Batting
+
+Bowling
+
+1
+
+vs Royal Challengers Bengaluru
+
+7
+
+(7)
+
+0
+
+/22... 2
+
+vs Chennai Super Kings
+
+18
+
+(20)
+
+0
+
+/0
+
+Overall IPL Records
+
+Batting Records
+
+MAT
+
+BEST
+
+INS
+
+B
+
+MDNS
+
+WKTS
+
+AVG
+
+S/R
+
+ECON
+
+3WK
+
+4WK
+
+5WK
+
+Overall
+
+9
+
+
+
+7
+
+
+
+16.00... 109.59
+
+
+
+2023
+
+5
+
+
+
+4
+
+
+
+16.33
+
+113.95
+
+
+
+2022
+
+2
+
+
+
+1
+
+
+
+6
+
+200
+
+
+
+2021
+
+2
+
+
+
+2
+
+
+
+25
+
+92.59
+
+
+
+Bowling Records
+
+MAT
+
+BEST
+
+INS
+
+B
+
+MDNS
+
+WKTS
+
+AVG
+
+S/R... ECON
+
+3WK
+
+4WK
+
+5WK
+
+Overall
+
+9
+
+0/22 vs RCB
+
+1
+
+18
+
+0
+
+0
+
+
+
+7.33
+
+0
+
+0
+
+0
+
+2023
+
+
+
+2022
+
+
+
+2021
+
+2
+
+0/22 vs RCB
+
+1
+
+18
+
+0... 0
+
+0
+
+0
+
+7.33
+
+0
+
+0
+
+0
+
+Fielding Records
+
+Catches
+
+Stumping
+
+Run Outs
+
+Overall
+
+2
+
+0
+
+0
+
+2023
+
+1
+
+0
+
+0
+
+2022
+
+1
+
+0
+
+0
+
+2021
+
+0
+
+0
+
+0
+
+Delhi Capitals Team... Delhi Capitals
+
+Captain
+
+Axar Rajeshbhai Patel
+
+Team Stats
+
+Played
+
+266
+
+Won
+
+119
+
+Lost
+
+140
+
+Tied
+
+5
+
+N/R
+
+3
+
+Head Coach
+
+Hemang Kamal Badani
+
+Team Mentor
+
+Kevin Peter Pietersen
+
+Assistant Coach
+
+Matthew Peter Mott
+
+DC Squad... Team
+
+Batters
+
+Wicket Keepers
+
+All Rounders
+
+Bowlers
+
+Batters
+
+Ashutosh Sharma
+
+Faf du Plessis
+
+Karun Nair
+
+Sameer Rizvi
+
+Sediqullah Atal
+
+Tristan Stubbs
+
+Wicket keepers
+
+Abishek Porel... Donovan Ferreira
+
+KL Rahul
+
+All Rounders
+
+Ajay Mandal
+
+Axar Patel
+
+Madhav Tiwari
+
+Manvanth Kumar
+
+Tripurana Vijay
+
+Vipraj Nigam
+
+Bowlers
+
+Darshan Nalkande
+
+Dushmantha Chameera
+
+Kuldeep Yadav... Mohit Sharma
+
+Mukesh Kumar
+
+Mustafizur Rahman
+
+T Natarajan
+
+Explore Every Corner
+
+Across The Globe
+
+Sidney Crosby Girlfriend
+
+Patrick Mahomes
+
+Austria School Shooting
+
+NBA Trade Rumors
+
+Michael Dickson
+
+Antonio Brown
+
+Taylor Swift
+
+Greta Thunberg
+
+Taylor Swift on Travis Kelce... Brittany Mahomes
+
+Vanessa Bryant
+
+Los Angeles Riots
+
+Aaron Rodgers Girlfriend
+
+Trey Hendrickson
+
+Sundar Pichai
+
+Victor Wembanyama
+
+Otto Kemp
+
+LA Protest
+
+Tua Tagovailoa
+
+Operation Sindoor
+
+Giancarlo Stanton
+
+Manny Machado... Jalen Hurts
+
+Umrah Visa
+
+Vanessa Bryant
+
+Magic Johnson
+
+Mitch Marner
+
+Lebron James
+
+Bank Holidays
+
+Gold Rate Today
+
+About us
+
+Create Your Own Ad
+
+Terms of Use and Grievance Redressal Policy
+
+Privacy policy
+
+Advertise with us
+
+RSS
+
+Newsletter
+
+Feedback... ePaper
+
+Sitemap
+
+Archives
+
+Living and Entertainment
+
+Cricbuzz
+
+Lifestyle
+
+Newspaper Subscription
+
+Food News
+
+TV
+
+Times Prime
+
+Travel Destinations
+
+Whats Hot
+
+ETimes
+
+Times Life
+
+Times Pets
+
+MyLifeXP
+
+Services
+
+CouponDunia
+
+TechGig
+
+TimesJobs
+
+Bollywood News... Times Mobile
+
+Gadgets
+
+Work with Us
+
+Colombia
+
+Hot on the Web
+
+Kareena Kapoor Khan
+
+Ishita Dutta Baby News
+
+Brain Exercises
+
+Beautiful Colourful Birds
+
+Baby Boy Names
+
+Thug Life Box Office Collection
+
+Thug Life OTT
+
+Housefull 5 Box Office Collection... Thug Life
+
+Pigeon Repellant
+
+Liver Disease Symptoms
+
+ChatGPT Down
+
+King Cobra
+
+Aamir Khan
+
+Rahul Vaidya
+
+Diamond Discovery
+
+Aishwarya Rai
+
+Charu Asopa
+
+National Parks India
+
+Liver Disease Symptoms
+
+Sitaare Zameen Par Review
+
+Baby Girl Names... Hair Growth Seeds
+
+Sanskrit Phrases
+
+Vitamin B12 Deficiency
+
+Snakes Attracting Plants
+
+Shah Rukh Khan
+
+Navjot Singh Sidhu Comeback
+
+Cancer Causing Foods
+
+Monkey Robbed Diamond
+
+King Cobras
+
+ChatGpt Down
+
+Shubhanshu Shukla... Starlink Internet Plans
+
+Kevin O'Leary
+
+Tim Cook
+
+Jeff Bezos
+
+GTA 6
+
+Blue Stain Fungi
+
+Solo Leveling
+
+One Piece
+
+Badgirl Anime Release Date Confirmed
+
+Trending Topics
+
+UPSC CSE Prelims Result
+
+Shubhanshu Shukla Educational Qualification
+
+Mallikarjun Kharge... Operation Sindoor
+
+Karnataka SSLC Result
+
+Bengaluru Stampede
+
+Harbhajan Singh
+
+Liam Plunkett
+
+Shubman Gill
+
+Saurabh Kumar
+
+Meghalaya Murder Case
+
+Myles Garrett
+
+Brian Schottenheimer
+
+Antonio Brown
+
+John Garrett
+
+Corey Perry
+
+US Birth Rate... Techniques of Using AI
+
+CM Siddaramaiah
+
+Raja Raghuvanshi Murder
+
+Asian Cup Qualifier
+
+Greta Thunberg
+
+Bank Holiday
+
+Bill Belichick Relationship
+
+Eddie Genborg
+
+OJEE Result 2025
+
+Rohit Sharma
+
+Anti Demolition Protest
+
+S Jaishankar... NIMCET 2025 Answer Key
+
+iPados 26
+
+Nyt Strands Today
+
+Garena Free Fire Max
+
+Wordle Today
+
+NYT Connections Hints
+
+WWDC 2025 Countdown
+
+Elon Musk
+
+Jeff Bezos
+
+Asteroid 2024 YR4
+
+Apple wwdc Announcement... Sam Altman
+
+Uchiha Clan
+
+Popular Categories
+
+Headlines
+
+Sports News
+
+Business News
+
+India News
+
+World News
+
+Bollywood News
+
+Health+ Tips
+
+Indian TV Shows
+
+Technology
+
+Travel
+
+Etimes
+
+Health & Fitness
+
+NFL
+
+MLC
+
+India vs England
+
+Astrology
+
+Weather Today... Platinum Rate Today
+
+Silver Rate Today
+
+Gold Rate Today
+
+TOI Games
+
+June Bank Holidays
+
+Public Holidays in June
+
+Stock Market Holidays
+
+NSE Holidays
+
+BSE Holidays
+
+Technology News
+
+International Sports
+
+Public Holidays
+
+Bank Holidays
+
+Latest News
+
+Gemini Daily Horoscope Today, June 11, 2025: Let curiosity replace old plans... Where is Deion Sanders? What we know about his current health and time away from Colorado
+
+Top 5 gameplay changes we could see if weight mechanics return in GTA 6
+
+Aaron Rodgers confirms secret wedding amid Steelers debut but who is the mystery bride?
+
+Mexico President Sheinbaum denies inciting LA protests: Calls US claims ‘absolutely false’; says Mexico backs peaceful diaspora support... Broncos officially sign J.K. Dobbins to 1-year, $5.25M deal following Chargers breakout... In another step forward, India to host Chinese vice minister for talks
+
+Taurus Daily Horoscope Today, June 11, 2025: An emotional pause brings inner truth
+
+From high school sweethearts to NFL power couple: Brittany Mahomes is the woman behind Patrick Mahomes’ success
+
+Chum Darang stands up for Northeast amid backlash over Raja Raghuvanshi Murder; says 'sidha logon pe ungli uthana...'... Nagarjuna Akkineni says Rashmika Mandanna has outshone them all over the last three years: 'None of us have Rs 2,000 crore films like her'
+
+California Governor slams Trump over 'disrespect' to troops: Photos show National Guard sleeping on floors; sues administration over LA deployment... Nintendo announces new Splatoon game for Switch 2 console
+
+Jalen Hurts wins 2025 BET Sportsman of the Year after Super Bowl glory and star power surge
+
+From earth to orbit: How Axiom-4 will reach the space station
+
+What is in the Saint Academy Quest Pack in Fortnite and how to get it?... Aries Daily Horoscope Today, June 11, 2025: You're nudged to believe again
+
+City That Never Dies Shows Us How To Die Well
+
+Copyright © 2025 Bennett, Coleman & Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service
+
+Follow Us On

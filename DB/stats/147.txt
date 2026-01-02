@@ -1,24 +1,28 @@
 ================================================================================
-IPL PLAYER PROFILE: ZEESHAN ANSARI
+IPL PLAYER PROFILE: KC CARIAPPA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Zeeshan Ansari
-  IPL Debut                : 2025
-  Date of Birth            : 16 December 1999
-  Total IPL Matches        : 10
-  Role                     : WK-Batter
+  Player Name              : KC Cariappa
+  IPL Debut                : 2015
+  Date of Birth            : 13 April 1994
+  Total IPL Matches        : 11
+  Role                     : Bowler
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    Zeeshan Ansari is a young leg-break bowler from Uttar Pradesh. The
-  youngster climbed up the ranks with performances at the U19 level and
-  domestic level that helped him secure an INR 40 Lakh deal with SRH for TATA
-  IPL 2025. It will be a great opportunity for the leggie to play alongside
-  one of the best leg spinners like Adam Zampa and Rahul Chahar in the SRH
-  lineup.
+    Mystery spinner KC Cariappa rose to fame because of innumerable
+  variations in his bowling skill set and ability to bamboozle batsmen with
+  his spin acumen. He made his debut with the Kolkata Knight Riders in 2015,
+  and later was a part of the Kings XI Punjab set up. He did not have the best
+  of IPLs picking up just 8 wickets in 10 matches across three seasons. He was
+  roped in as one of the replacements for injured pacers Kamlesh Nagarkoti &
+  Shivam Mavi in 2019. KC Cariappa will ply his trade for RR after being
+  brought on board for INR 20 Lac in the IPL 2021 Player Auction. The
+  leg-spinner has thus far played 29 T20s and has 25 wickets to his name and
+  will be out to make an impact for RR in the IPL 2021.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -28,8 +32,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    10    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    4     |    0    
-    2025   |    10    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    4     |    0    
+   Career  |    11    |    2     |    24    |   12*    |   8.00   |    21    |  114.29  |    0     |    0     |    0     |    2     |    3     |    0    
+    2019   |    1     |    1     |    9     |    9*    |   0.00   |    3     |  300.00  |    0     |    0     |    0     |    1     |    0     |    0    
+    2017   |    4     |    0     |    2     |    1     |   1.00   |    7     |  28.57   |    0     |    0     |    0     |    0     |    1     |    0    
+    2016   |    5     |    1     |    13    |   12*    |  13.00   |    11    |  118.18  |    0     |    0     |    0     |    1     |    2     |    0    
+    2015   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -39,9 +46,36 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    10    |   203    |   333    |    6     |   3/42   |  55.50   |   9.84   |  33.83   |    0     |    0    
-    2025   |    10    |   203    |   333    |    6     |   3/42   |  55.50   |   9.84   |  33.83   |    0     |    0    
+   Career  |    11    |   216    |   348    |    8     |   2/16   |  43.50   |   9.67   |  27.00   |    0     |    0    
+    2019   |    1     |    12    |    34    |    0     |   0/34   |    -     |  17.00   |    -     |    0     |    0    
+    2017   |    4     |    90    |   127    |    4     |   2/24   |  31.75   |   8.46   |  22.50   |    0     |    0    
+    2016   |    5     |   102    |   159    |    3     |   2/16   |  53.00   |   9.35   |  34.00   |    0     |    0    
+    2015   |    1     |    12    |    28    |    1     |   1/28   |  28.00   |  14.00   |  12.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/zeeshan-ansari/22007
+Source: https://www.iplt20.com/players/kc-cariappa/2743
 ================================================================================
+### KC Cariappa
+
+### India
+
+### Popular PlayersVirat KohliRohit SharmaSachin TendulkarSourav GangulyHardik PandyaOverviewNewsStats... ### Batting Performance
+
+|Format|M|Inns|No|R|H.S|Avg|BF|SR|100s|50s|
+|--|--|--|--|--|--|--|--|--|--|--|
+|t20|52|25|8|170|21|10.00|140|121.42|--|--|... |fc|11|18|2|392|75|24.50|315|124.44|--|3|
+|list a|16|12|--|199|41|16.58|195|102.05|--|--|
+|t10|--|--|--|--|--|--|--|--|--|--|... ### Bowling Performance
+
+|Format|M|Inns|Ovs|R|Wkts|BBI|Avg|ECN|SR|4W|5W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|t20|52|52|193.00|1264|50|4/15|25.28|6.54|23.1|1|--|... |fc|11|19|626.50|1546|72|7/69|21.47|2.46|52.2|5|6|
+|list a|16|16|133.30|574|16|3/28|35.87|4.29|50.0|--|--|
+|t10|--|--|0.00|--|--|--|--|--|--|--|--|... ### Recent Form (Last 5 Matches)AllTestODIT20
+
+|Match|Bat|Bowl|Date|Venue|Format|
+|--|--|--|--|--|--|
+|MIZ vs MAN|-|0/15|08 Nov 2025|Vallabh Vidyanagar|firstclass|
+|MIZ vs SIKM|58|0/110|01 Nov 2025|Hyderabad|firstclass|... |ARP vs MIZ|-|1/38 & 2/31|25 Oct 2025|Anand|firstclass|
+|HT vs MD|5|0/17|28 Aug 2025|Mysore|t20|
+|MD vs HT|-|2/14|26 Aug 2025|Mysore|t20|

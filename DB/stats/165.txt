@@ -1,29 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: DEEPAK HOODA
+IPL PLAYER PROFILE: SHAMAR JOSEPH
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Deepak Hooda
-  IPL Debut                : 2015
-  Date of Birth            : 19 April 1995
-  Total IPL Matches        : 125
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Deepak Hooda made his Indian Premier League debut with the Rajasthan
-  Royals. The youngster, who has established a reputation of being a powerful
-  striker of the cricket ball, has been in the know for the Sunrisers of late.
-  His gentle off-spinners and hard-hitting lower down the order has been
-  recognised and the franchise sees some potential in the youngster. He has
-  not quite set the stage on fire but he can be a handy all-rounder. Sunrisers
-  over the years have trusted his abilities lower down the order and he played
-  a similar role for PBKS in the 2020 season after being bought for INR 50
-  lakh at the IPL auction. He has a reputation of successfully finishing the
-  innings with the bat and can quickly help recover the team in case of early
-  wickets. If he fires at the right time, the PBKS batting unit will be a
-  settled one in the 2021 season.
+  Player Name              : Shamar Joseph
+  IPL Debut                : 2024
+  Date of Birth            : 31 August 1999
+  Total IPL Matches        : 1
+  Role                     : Bowler
+  Nationality              : English
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -33,18 +19,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   125    |    16    |   1496   |    64    |  17.60   |   1172   |  127.65  |    0     |    8     |    98    |    62    |    57    |    0    
-    2025   |    7     |    0     |    31    |    22    |   6.20   |    41    |  75.61   |    0     |    0     |    2     |    1     |    3     |    0    
-    2024   |    11    |    1     |   145    |    50    |  18.13   |   105    |  138.10  |    0     |    1     |    16    |    3     |    4     |    0    
-    2023   |    12    |    1     |    84    |    17    |   7.64   |    90    |  93.33   |    0     |    0     |    3     |    2     |    10    |    0    
-    2022   |    15    |    0     |   451    |    59    |  32.21   |   330    |  136.67  |    0     |    4     |    36    |    18    |    8     |    0    
-    2021   |    12    |    1     |   160    |    64    |  16.00   |   123    |  130.08  |    0     |    1     |    9     |    9     |    7     |    0    
-    2020   |    7     |    4     |   101    |   62*    |  101.00  |    71    |  142.25  |    0     |    1     |    5     |    5     |    3     |    0    
-    2019   |    11    |    1     |    64    |    20    |  10.66   |    63    |  101.58  |    0     |    0     |    5     |    1     |    10    |    0    
-    2018   |    9     |    4     |    87    |   32*    |  21.75   |    81    |  107.40  |    0     |    0     |    2     |    3     |    3     |    0    
-    2017   |    10    |    3     |    78    |   19*    |  26.00   |    52    |  150.00  |    0     |    0     |    5     |    4     |    5     |    0    
-    2016   |    17    |    1     |   144    |    34    |  10.28   |   121    |  119.00  |    0     |    0     |    9     |    5     |    3     |    0    
-    2015   |    14    |    0     |   151    |    54    |  16.77   |    95    |  158.94  |    0     |    1     |    6     |    11    |    1     |    0    
+   Career  |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2024   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -54,19 +30,1678 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   125    |   379    |   546    |    10    |   2/16   |  54.60   |   8.64   |  37.90   |    0     |    0    
-    2025   |    7     |    6     |    15    |    0     |   0/15   |    -     |  15.00   |    -     |    0     |    0    
-    2024   |    11    |    18    |    22    |    0     |   0/9    |    -     |   7.33   |    -     |    0     |    0    
-    2023   |    12    |    6     |    8     |    0     |   0/8    |    -     |   8.00   |    -     |    0     |    0    
-    2022   |    15    |    24    |    43    |    1     |   1/31   |  43.00   |  10.75   |  24.00   |    0     |    0    
-    2021   |    12    |    96    |   136    |    2     |   1/15   |  68.00   |   8.50   |  48.00   |    0     |    0    
-    2020   |    7     |    6     |    9     |    0     |   0/9    |    -     |   9.00   |    -     |    0     |    0    
-    2019   |    11    |    12    |    21    |    1     |   1/13   |  21.00   |  10.50   |  12.00   |    0     |    0    
-    2018   |    9     |    18    |    24    |    0     |   0/8    |    -     |   8.00   |    -     |    0     |    0    
-    2017   |    10    |    24    |    42    |    2     |   1/7    |  21.00   |  10.50   |  12.00   |    0     |    0    
-    2016   |    17    |    78    |    97    |    3     |   2/16   |  32.33   |   7.46   |  26.00   |    0     |    0    
-    2015   |    14    |    91    |   129    |    1     |   1/35   |  129.00  |   8.50   |  91.00   |    0     |    0    
+   Career  |    1     |    24    |    47    |    0     |   0/47   |    -     |  11.75   |    -     |    0     |    0    
+    2024   |    1     |    24    |    47    |    0     |   0/47   |    -     |  11.75   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/deepak-hooda/1556
+Source: https://www.iplt20.com/players/shamar-joseph/20719
 ================================================================================
+Quick Links
+
+Test Series
+
+ODI Series
+
+T20I Series
+
+World Cup
+
+World Cup 2023
+
+World Cup 2019
+
+World Cup 2015
+
+World Cup 2011
+
+World Cup 2007
+
+World Cup 2003
+
+World Cup 1999
+
+World Cup 1996... World Cup 1992
+
+World Cup 1987
+
+World Cup 1983
+
+World Cup 1979
+
+World Cup 1975
+
+T20I World Cup
+
+World Cup 2024
+
+World Cup 2022
+
+World Cup 2021
+
+World Cup 2016
+
+World Cup 2014... World Cup 2012
+
+World Cup 2010
+
+World Cup 2009
+
+World Cup 2007
+
+Champions Trophy
+
+Champions Trophy 2025
+
+Champions Trophy 2017
+
+Champions Trophy 2013
+
+Champions Trophy 2009
+
+Champions Trophy 2006
+
+Champions Trophy 2004... Champions Trophy 2002
+
+Test Championship
+
+Yearwise Cricstats
+
+2024 stats
+
+2023 stats
+
+2022 stats
+
+2021 stats
+
+2020 stats
+
+2019 stats
+
+2018 stats
+
+2017 stats
+
+2016 stats
+
+2015 stats
+
+Alltime stats
+
+Shamar Joseph
+
+Bowler... Full Name:
+
+Shamar Joseph
+
+Date of Birth:
+
+31 Aug 1999
+
+Current Age:
+
+26 Year, 3 Month, 20 Days
+
+Born:
+
+Teams:
+
+TEST
+
+Rank
+
+17
+
+Cap No
+
+337
+
+First Game
+
+2024-01-16
+
+Last Game
+
+2025-07-12... ODI
+
+Rank
+
+
+
+Cap No
+
+224
+
+First Game
+
+2025-05-21
+
+Last Game
+
+2025-08-08
+
+T20I
+
+Rank
+
+
+
+Cap No
+
+95
+
+First Game
+
+2024-05-23
+
+Last Game
+
+2025-08-03
+
+Player Stats
+
+Last 10 Matches... Yearwise Stats
+
+Teamwise Stats
+
+Groundwise Stats
+
+Ranking
+
+'s 2025 stats
+
+TEST
+
+MAT
+
+11
+
+ING
+
+6
+
+RUNS
+
+113
+
+BF
+
+108
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+9
+
+4s
+
+7
+
+NO
+
+0
+
+HS... 44
+
+AVG
+
+18.83
+
+SR
+
+104.63
+
+ODI
+
+MAT
+
+6
+
+ING
+
+3
+
+RUNS
+
+11
+
+BF
+
+14
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+1
+
+4s
+
+0
+
+NO
+
+2
+
+HS
+
+8
+
+AVG
+
+11.00... SR
+
+78.57
+
+T20I
+
+MAT
+
+3
+
+ING
+
+2
+
+RUNS
+
+23
+
+BF
+
+14
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+2
+
+4s
+
+1
+
+NO
+
+2
+
+HS
+
+21
+
+AVG
+
+23.00
+
+SR
+
+164.29... TEST
+
+2nd Inning
+
+ING
+
+3
+
+RUNS
+
+45
+
+BF
+
+62
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+2
+
+4s
+
+3
+
+NO
+
+0
+
+HS
+
+29
+
+AVG
+
+15.00
+
+SR
+
+72.58
+
+TEST
+
+4th Inning... ING
+
+3
+
+RUNS
+
+68
+
+BF
+
+46
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+7
+
+4s
+
+4
+
+NO
+
+0
+
+HS
+
+44
+
+AVG
+
+22.67
+
+SR
+
+147.83
+
+ODI
+
+1st Inning
+
+ING
+
+2... RUNS
+
+11
+
+BF
+
+13
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+1
+
+4s
+
+0
+
+NO
+
+1
+
+HS
+
+8
+
+AVG
+
+11.00
+
+SR
+
+84.62
+
+ODI
+
+2nd Inning
+
+ING
+
+1
+
+RUNS
+
+0... BF
+
+1
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+0
+
+4s
+
+0
+
+NO
+
+1
+
+HS
+
+0
+
+AVG
+
+0.00
+
+SR
+
+0.00
+
+T20I
+
+2nd Inning
+
+ING
+
+2
+
+RUNS
+
+23
+
+BF
+
+14... 50s
+
+0
+
+100s
+
+0
+
+6s
+
+2
+
+4s
+
+1
+
+NO
+
+2
+
+HS
+
+21
+
+AVG
+
+23.00
+
+SR
+
+164.29
+
+TEST
+
+MAT
+
+-99
+
+ING
+
+4
+
+RUNS
+
+61
+
+BF
+
+78
+
+50s
+
+0... 100s
+
+0
+
+6s
+
+5
+
+4s
+
+1
+
+NO
+
+0
+
+HS
+
+29
+
+AVG
+
+15.25
+
+SR
+
+78.21
+
+TEST
+
+MAT
+
+-99
+
+ING
+
+2
+
+RUNS
+
+52
+
+BF
+
+30
+
+50s
+
+0
+
+100s
+
+0... 6s
+
+4
+
+4s
+
+6
+
+NO
+
+0
+
+HS
+
+44
+
+AVG
+
+26.00
+
+SR
+
+173.33
+
+ODI
+
+MAT
+
+-99
+
+ING
+
+1
+
+RUNS
+
+8
+
+BF
+
+8
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+1... 4s
+
+0
+
+NO
+
+0
+
+HS
+
+8
+
+AVG
+
+0.00
+
+SR
+
+0.00
+
+ODI
+
+MAT
+
+-99
+
+ING
+
+1
+
+RUNS
+
+3
+
+BF
+
+5
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+0
+
+4s
+
+0... NO
+
+1
+
+HS
+
+3
+
+AVG
+
+3.00
+
+SR
+
+60.00
+
+ODI
+
+MAT
+
+-99
+
+ING
+
+1
+
+RUNS
+
+0
+
+BF
+
+1
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+0
+
+4s
+
+0
+
+NO
+
+1... HS
+
+0
+
+AVG
+
+0.00
+
+SR
+
+0.00
+
+T20I
+
+MAT
+
+-99
+
+ING
+
+2
+
+RUNS
+
+23
+
+BF
+
+14
+
+50s
+
+0
+
+100s
+
+0
+
+6s
+
+2
+
+4s
+
+1
+
+NO
+
+0
+
+HS
+
+21... AVG
+
+0.00
+
+SR
+
+0.00
+
+TEST
+
+MAT
+
+11
+
+ING
+
+6
+
+BALLS
+
+102
+
+WKT
+
+22
+
+RUNS
+
+329
+
+ECO
+
+3.20
+
+AVG
+
+14.95
+
+SR
+
+28.04
+
+5Ws
+
+0
+
+ODI
+
+MAT... 6
+
+ING
+
+5
+
+BALLS
+
+31
+
+WKT
+
+3
+
+RUNS
+
+198
+
+ECO
+
+6.29
+
+AVG
+
+66.00
+
+SR
+
+63.00
+
+5Ws
+
+0
+
+T20I
+
+MAT
+
+3
+
+ING
+
+3
+
+BALLS
+
+12
+
+WKT... 5
+
+RUNS
+
+109
+
+ECO
+
+9.08
+
+AVG
+
+21.80
+
+SR
+
+14.40
+
+5Ws
+
+0
+
+TEST
+
+1st Inning
+
+ING
+
+3
+
+BALLS
+
+48
+
+WKT
+
+9
+
+RUNS
+
+142
+
+ECO
+
+2.94
+
+AVG... 15.78
+
+SR
+
+32.20
+
+5Ws
+
+0
+
+TEST
+
+3rd Inning
+
+ING
+
+3
+
+BALLS
+
+54
+
+WKT
+
+13
+
+RUNS
+
+187
+
+ECO
+
+3.43
+
+AVG
+
+14.38
+
+SR
+
+25.15
+
+5Ws
+
+0... ODI
+
+1st Inning
+
+ING
+
+2
+
+BALLS
+
+14
+
+WKT
+
+1
+
+RUNS
+
+78
+
+ECO
+
+5.57
+
+AVG
+
+78.00
+
+SR
+
+84.00
+
+5Ws
+
+0
+
+ODI
+
+2nd Inning
+
+ING
+
+3
+
+BALLS... 17
+
+WKT
+
+2
+
+RUNS
+
+120
+
+ECO
+
+6.86
+
+AVG
+
+60.00
+
+SR
+
+52.50
+
+5Ws
+
+0
+
+T20I
+
+1st Inning
+
+ING
+
+3
+
+BALLS
+
+12
+
+WKT
+
+5
+
+RUNS
+
+109
+
+ECO... 9.08
+
+AVG
+
+21.80
+
+SR
+
+14.40
+
+5Ws
+
+0
+
+TEST
+
+MAT
+
+-99
+
+ING
+
+6
+
+BALLS
+
+102
+
+WKT
+
+22
+
+RUNS
+
+329
+
+ECO
+
+3.20
+
+AVG
+
+14.95
+
+SR
+
+28.04... 5Ws
+
+0
+
+ODI
+
+MAT
+
+-99
+
+ING
+
+3
+
+BALLS
+
+20
+
+WKT
+
+3
+
+RUNS
+
+99
+
+ECO
+
+0.00
+
+AVG
+
+0.00
+
+SR
+
+5Ws
+
+0
+
+ODI
+
+MAT
+
+-99
+
+ING
+
+1
+
+BALLS... 4
+
+WKT
+
+0
+
+RUNS
+
+48
+
+ECO
+
+12.00
+
+AVG
+
+48.00
+
+SR
+
+24.00
+
+5Ws
+
+0
+
+ODI
+
+MAT
+
+-99
+
+ING
+
+1
+
+BALLS
+
+7
+
+WKT
+
+0
+
+RUNS
+
+51
+
+ECO... 7.29
+
+AVG
+
+51.00
+
+SR
+
+42.00
+
+5Ws
+
+0
+
+T20I
+
+MAT
+
+-99
+
+ING
+
+3
+
+BALLS
+
+12
+
+WKT
+
+5
+
+RUNS
+
+109
+
+ECO
+
+0.00
+
+AVG
+
+0.00
+
+SR
+
+5Ws... 0
+
+'s 2025 matches
+
+Match
+
+R
+
+B
+
+4s
+
+6s
+
+SR
+
+O
+
+R
+
+W
+
+Eco
+
+Win/Loss
+
+Scorecard
+
+1st ODI (D/N) - Fri, 08 Aug 2025 vs Pakistan
+
+8
+
+8
+
+0
+
+1
+
+100.00... Loss
+
+View Scorecard
+
+2nd T20I (N) - Sun, 03 Aug 2025 vs Pakistan
+
+2
+
+2
+
+0
+
+0
+
+100.00
+
+Win
+
+View Scorecard... 1st T20I (N) - Fri, 01 Aug 2025 vs Pakistan
+
+21
+
+12
+
+1
+
+2
+
+175.00
+
+Loss
+
+View Scorecard
+
+3rd Test - Sat, 12 Jul 2025 vs Australia
+
+8
+
+13
+
+1
+
+0
+
+61.53... Loss
+
+View Scorecard
+
+3rd Test - Sat, 12 Jul 2025 vs Australia
+
+0
+
+1
+
+0
+
+0
+
+0.00
+
+Loss
+
+View Scorecard
+
+2nd Test - Thu, 03 Jul 2025 vs Australia
+
+29
+
+41
+
+0
+
+2
+
+70.73... Loss
+
+View Scorecard
+
+2nd Test - Thu, 03 Jul 2025 vs Australia
+
+24
+
+23
+
+0
+
+3
+
+104.34
+
+Loss
+
+View Scorecard
+
+1st Test - Wed, 25 Jun 2025 vs Australia
+
+8
+
+8
+
+2
+
+0
+
+100.00... Loss
+
+View Scorecard
+
+1st Test - Wed, 25 Jun 2025 vs Australia
+
+44
+
+22
+
+4
+
+4
+
+200.00
+
+Loss
+
+View Scorecard
+
+3rd ODI (D/N) - Tue, 03 Jun 2025 vs England
+
+3
+
+5
+
+0
+
+0... 60.00
+
+Loss
+
+View Scorecard
+
+1st ODI - Wed, 21 May 2025 vs Ireland
+
+0
+
+1
+
+0
+
+0
+
+0.00
+
+Loss
+
+View Scorecard
+
+3rd ODI - Tue, 12 Aug 2025 vs Pakistan
+
+4.00
+
+7
+
+0... 1.75
+
+Win
+
+View Scorecard
+
+2nd ODI - Sun, 10 Aug 2025 vs Pakistan
+
+7.00
+
+27
+
+1
+
+3.85
+
+Win
+
+View Scorecard
+
+1st ODI (D/N) - Fri, 08 Aug 2025 vs Pakistan
+
+9.50... 65
+
+2
+
+6.61
+
+Loss
+
+View Scorecard
+
+3rd T20I (N) - Mon, 04 Aug 2025 vs Pakistan
+
+4.00
+
+57
+
+1
+
+14.25
+
+Loss
+
+View Scorecard
+
+2nd T20I (N) - Sun, 03 Aug 2025 vs Pakistan... 4.00
+
+22
+
+1
+
+5.50
+
+Win
+
+View Scorecard
+
+1st T20I (N) - Fri, 01 Aug 2025 vs Pakistan
+
+4.00
+
+30
+
+3
+
+7.50
+
+Loss
+
+View Scorecard
+
+3rd Test - Sat, 12 Jul 2025 vs Australia... 17.30
+
+33
+
+4
+
+1.88
+
+Loss
+
+View Scorecard
+
+3rd Test - Sat, 12 Jul 2025 vs Australia
+
+13.00
+
+34
+
+4
+
+2.61
+
+Loss
+
+View Scorecard
+
+2nd Test - Thu, 03 Jul 2025 vs Australia... 15.00
+
+63
+
+1
+
+4.20
+
+Loss
+
+View Scorecard
+
+2nd Test - Thu, 03 Jul 2025 vs Australia
+
+16.00
+
+66
+
+4
+
+4.12
+
+Loss
+
+View Scorecard
+
+1st Test - Wed, 25 Jun 2025 vs Australia... 16.00
+
+46
+
+4
+
+2.87
+
+Loss
+
+View Scorecard
+
+1st Test - Wed, 25 Jun 2025 vs Australia
+
+25.50
+
+87
+
+5
+
+3.36
+
+Loss
+
+View Scorecard
+
+3rd ODI (D/N) - Tue, 03 Jun 2025 vs England... 4.00
+
+48
+
+0
+
+12.00
+
+Loss
+
+View Scorecard
+
+1st ODI - Wed, 21 May 2025 vs Ireland
+
+7.00
+
+51
+
+0
+
+7.28
+
+Loss
+
+View Scorecard

@@ -1,59 +1,87 @@
-================================================================================
-IPL PLAYER PROFILE: SHAHBAZ AHAMAD
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Shahbaz Ahamad
-  IPL Debut                : 2020
-  Date of Birth            : 11 December 1994
-  Total IPL Matches        : 58
-  Role                     : WK-Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  A versatile left-handed batter and slow left-arm orthodox bowler, Shahbaz
-  Ahamad is a handy all-rounder to have. Shahbaz spent four years with RCB
-  from 2020 before being traded to SRH for IPL 2024. Shahbaz is also a regular
-  for the Bengal T20 side and has played crucial knocks with the bat
-  time-in-time again while shining with the ball. One of Shahbaz’s best
-  matches in the IPL came in last season as he helped SRH reach the finals,
-  scoring 18 runs and backing it up with three wickets in the Qualifier. In
-  IPL 2025, LSG picked him up for INR 2.4 Crore.
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    58    |    9     |   545    |   59*    |  18.79   |   448    |  121.65  |    0     |    1     |    29    |    25    |    21    |    0    
-    2025   |    3     |    0     |    9     |    9     |   9.00   |    8     |  112.50  |    0     |    0     |    1     |    0     |    0     |    0    
-    2024   |    16    |    3     |   215    |   59*    |  23.89   |   166    |  129.52  |    0     |    1     |    7     |    13    |    3     |    0    
-    2023   |    10    |    2     |    42    |   20*    |  10.50   |    39    |  107.69  |    0     |    0     |    3     |    1     |    5     |    0    
-    2022   |    16    |    3     |   219    |    45    |  27.38   |   181    |  120.99  |    0     |    0     |    14    |    9     |    8     |    0    
-    2021   |    11    |    0     |    59    |    14    |   8.42   |    53    |  111.32  |    0     |    0     |    4     |    2     |    4     |    0    
-    2020   |    2     |    1     |    1     |    1*    |   0.00   |    1     |  100.00  |    0     |    0     |    0     |    0     |    1     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    58    |   588    |   939    |    22    |   3/23   |  42.68   |   9.58   |  26.73   |    0     |    0    
-    2025   |    3     |    51    |   102    |    1     |   1/41   |  102.00  |  12.00   |  51.00   |    0     |    0    
-    2024   |    16    |   165    |   270    |    7     |   3/23   |  38.57   |   9.82   |  23.57   |    0     |    0    
-    2023   |    10    |    42    |    95    |    1     |   1/38   |  95.00   |  13.57   |  42.00   |    0     |    0    
-    2022   |    16    |   210    |   336    |    4     |   2/26   |  84.00   |   9.60   |  52.50   |    0     |    0    
-    2021   |    11    |    84    |    92    |    7     |   3/7    |  13.14   |   6.57   |  12.00   |    0     |    0    
-    2020   |    2     |    36    |    44    |    2     |   2/26   |  22.00   |   7.33   |  18.00   |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/shahbaz-ahamad/13803
-================================================================================
+|India|3|6|1|57|31*|0|0|7|0|11.4|44.19|0|0|IND|4|0|0|1|BAN|Bangladesh|BAN|
+|New Zealand|4|7|1|65|33|0|0|5|2|10.83|49.62|0|0|NZ|5|0|0|1|BAN|Bangladesh|BAN|... |Pakistan|1|1|0|1|1|0|0|0|0|1|20.00|0|0|PAK|6|0|0|1|BAN|Bangladesh|BAN|
+|South Africa|2|4|0|20|14|0|0|0|1|5|52.63|0|0|SA|7|0|0|1|BAN|Bangladesh|BAN|... |Sri Lanka|3|5|1|18|7|0|0|1|0|4.5|26.87|1|0|SL|8|2|0|1|BAN|Bangladesh|BAN|
+|West Indies|2|4|2|23|11*|0|0|3|0|11.5|42.59|0|0|WI|9|1|0|1|BAN|Bangladesh|BAN|... |Zimbabwe|1|1|0|75|75|0|1|11|0|75|55.97|0|0|ZIM|10|0|0|1|BAN|Bangladesh|BAN|
+|Afghanistan|1|1|0|2|2|0|0|0|0|2|28.57|1|0|AFG|1188|0|0|1|BAN|Bangladesh|BAN|... |India|6|76|9|309|8|3/55 v IND|1|0|38.63|4.07|57.00|IND|4|3|1|BAN|Bangladesh|BAN|
+|New Zealand|7|134.5|21|516|5|3/36 v NZ|1|0|103.20|3.83|161.80|NZ|5|4|1|BAN|Bangladesh|BAN|... |Pakistan|2|27|3|97|4|3/57 v PAK|1|0|24.25|3.59|40.50|PAK|6|1|1|BAN|Bangladesh|BAN|
+|South Africa|4|66|10|210|2|2/24 v SA|0|0|105.00|3.18|198.00|SA|7|2|1|BAN|Bangladesh|BAN|... |Sri Lanka|5|97.2|16|374|10|4/127 v SL|1|0|37.40|3.84|58.40|SL|8|3|1|BAN|Bangladesh|BAN|
+|West Indies|4|64.1|11|205|11|6/64 v WI|0|1|18.64|3.19|35.00|WI|9|2|1|BAN|Bangladesh|BAN|... |Zimbabwe|2|48|14|128|5|4/82 v ZIM|0|0|25.60|2.67|57.60|ZIM|10|1|1|BAN|Bangladesh|BAN|
+|Afghanistan|2|16|2|85|4|4/37 v AFG|0|0|21.25|5.31|24.00|AFG|1188|1|1|BAN|Bangladesh|BAN|... |Australia|1|1|1|0|0*|0|0|0|0|0.00|0.00|0|0|AUS|1|0|0|2|BAN|Bangladesh|BAN|
+|England|7|4|0|51|21|0|0|5|2|12.75|75.00|0|0|ENG|3|0|0|2|BAN|Bangladesh|BAN|... |India|8|6|4|32|17*|0|0|1|2|16|74.42|0|0|IND|4|0|0|2|BAN|Bangladesh|BAN|
+|New Zealand|10|7|1|52|17|0|0|4|2|8.67|42.28|2|0|NZ|5|1|0|2|BAN|Bangladesh|BAN|... |Pakistan|5|2|0|6|6|0|0|0|0|3|42.86|1|0|PAK|6|1|0|2|BAN|Bangladesh|BAN|
+|South Africa|6|4|3|21|9*|0|0|1|0|21|72.41|0|0|SA|7|0|0|2|BAN|Bangladesh|BAN|... |Sri Lanka|15|8|1|34|18*|0|0|3|1|4.86|66.67|4|0|SL|8|4|1|2|BAN|Bangladesh|BAN|
+|West Indies|5|1|1|0|0|0|0|0|0.00|0.00|1|0|WI|9|0|0|2|BAN|Bangladesh|BAN|... |Zimbabwe|5|2|0|2|1|0|0|0|0|1|66.67|1|0|ZIM|10|0|0|2|BAN|Bangladesh|BAN|
+|Ireland|4|2|1|12|11|0|0|0|1|12|150.00|1|0|IRE|13|0|0|2|BAN|Bangladesh|BAN|... |Netherlands|1|1|0|11|11|0|0|1|0|11|31.43|0|0|NED|15|0|0|2|BAN|Bangladesh|BAN|
+|Scotland|1|0|0|0|0|0|0|0|0.00|0.00|0|0|SCO|16|0|0|2|BAN|Bangladesh|BAN|... |Afghanistan|13|7|1|12|7|0|0|0|0|2|31.58|1|0|AFG|1188|3|0|2|BAN|Bangladesh|BAN|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Australia|1|10|0|61|1|1/61 v AUS|0|0|61.00|6.10|60.00|AUS|1|1|2|BAN|Bangladesh|BAN|... |England|7|57|1|320|10|3/47 v ENG|2|0|32.00|5.61|34.20|ENG|3|7|2|BAN|Bangladesh|BAN|
+|India|8|61|3|331|15|5/28 v IND|1|1|22.07|5.43|24.40|IND|4|8|2|BAN|Bangladesh|BAN|... |New Zealand|10|81|4|474|9|2/43 v NZ|0|0|52.67|5.85|54.00|NZ|5|10|2|BAN|Bangladesh|BAN|
+|Pakistan|5|32|3|173|4|3/42 v PAK|1|0|43.25|5.41|48.00|PAK|6|5|2|BAN|Bangladesh|BAN|... |South Africa|6|47|1|310|10|5/35 v SA|1|1|31.00|6.60|28.20|SA|7|6|2|BAN|Bangladesh|BAN|
+|Sri Lanka|15|137.5|8|739|28|4/46 v SL|3|0|26.39|5.36|29.54|SL|8|15|2|BAN|Bangladesh|BAN|... |West Indies|5|41.2|2|205|2|1/32 v WI|0|0|102.50|4.96|124.00|WI|9|5|2|BAN|Bangladesh|BAN|
+|Zimbabwe|5|44|2|222|3|1/22 v ZIM|0|0|74.00|5.05|88.00|ZIM|10|5|2|BAN|Bangladesh|BAN|... |Ireland|2|16|3|41|5|3/26 v IRE|1|0|8.20|2.56|19.20|IRE|13|4|2|BAN|Bangladesh|BAN|
+|Netherlands|1|9|1|43|2|2/43 v NED|0|0|21.50|4.78|27.00|NED|15|1|2|BAN|Bangladesh|BAN|... |Scotland|1|7|0|43|3|3/43 v SCO|1|0|14.33|6.14|14.00|SCO|16|1|2|BAN|Bangladesh|BAN|
+|Afghanistan|13|97.1|4|472|25|4/44 v AFG|0|0|18.88|4.86|23.32|AFG|1188|13|2|BAN|Bangladesh|BAN|... |Australia|3|2|2|19|13*|0|0|1|0|0.00|105.56|0|0|AUS|1|0|0|3|BAN|Bangladesh|BAN|
+|England|3|1|1|8|8*|0|0|2|0|0.00|266.67|0|0|ENG|3|0|0|3|BAN|Bangladesh|BAN|... |India|7|5|4|52|15*|0|0|4|2|52|101.96|0|0|IND|4|0|0|3|BAN|Bangladesh|BAN|
+|New Zealand|5|4|1|17|9|0|0|3|0|5.67|170.00|2|0|NZ|5|0|0|3|BAN|Bangladesh|BAN|... |Pakistan|11|5|2|20|8*|0|0|1|1|6.67|76.92|1|0|PAK|6|0|1|3|BAN|Bangladesh|BAN|
+|South Africa|5|5|1|18|10|0|0|2|0|4.5|66.67|0|0|SA|7|1|0|3|BAN|Bangladesh|BAN|... |Sri Lanka|10|4|2|44|31|0|0|3|3|22|146.67|4|0|SL|8|1|0|3|BAN|Bangladesh|BAN|
+|West Indies|6|0|0|0|0|0|0|0|0.00|0.00|0|0|WI|9|0|1|3|BAN|Bangladesh|BAN|... |Zimbabwe|9|3|1|6|5|0|0|0|0|3|50.00|1|0|ZIM|10|1|0|3|BAN|Bangladesh|BAN|
+|Ireland|4|1|0|0|0|0|0|0|0|0.00|0|0|IRE|13|1|0|3|BAN|Bangladesh|BAN|... |United Arab Emirates|2|1|0|1|1|0|0|0|0|1|50.00|0|0|UAE|21|0|0|3|BAN|Bangladesh|BAN|
+|Oman|2|1|1|1|1*|0|0|0|0|0.00|33.33|0|0|OMA|28|0|0|3|BAN|Bangladesh|BAN|... |Nepal|1|1|1|12|12*|0|0|2|0|0.00|80.00|0|0|NEP|637|0|0|3|BAN|Bangladesh|BAN|
+|Papua New Guinea|1|0|0|0|0|0|0|0|0.00|0.00|0|0|PNG|750|0|0|3|BAN|Bangladesh|BAN|... |Afghanistan|5|2|0|2|2|0|0|0|0|1|20.00|3|0|AFG|1188|1|0|3|BAN|Bangladesh|BAN|
+|Hong Kong, China|1|0|0|0|0|0|0|0|0.00|0.00|0|0|HK|19|0|0|3|BAN|Bangladesh|BAN|... |Australia|3|8.4|0|82|2|1/24 v AUS|0|0|41.00|9.46|26.00|AUS|1|3|3|BAN|Bangladesh|BAN|
+|England|3|12|0|88|4|2/26 v ENG|0|0|22.00|7.33|18.00|ENG|3|3|3|BAN|Bangladesh|BAN|... |India|7|23.5|0|189|5|2/16 v IND|0|0|37.80|7.93|28.60|IND|4|7|3|BAN|Bangladesh|BAN|
+|New Zealand|5|17.5|0|178|3|1/24 v NZ|0|0|59.33|9.98|35.67|NZ|5|5|3|BAN|Bangladesh|BAN|... |Pakistan|11|41.4|1|287|14|3/22 v PAK|2|0|20.50|6.89|17.86|PAK|6|11|3|BAN|Bangladesh|BAN|
+|South Africa|5|16|0|145|5|2/18 v SA|0|0|29.00|9.06|19.20|SA|7|5|3|BAN|Bangladesh|BAN|... |Sri Lanka|10|35.5|0|324|11|2/24 v SL|0|0|29.45|9.04|19.55|SL|8|10|3|BAN|Bangladesh|BAN|
+|West Indies|5|18.1|0|137|7|3/16 v WI|1|0|19.57|7.54|15.57|WI|9|6|3|BAN|Bangladesh|BAN|... |Zimbabwe|9|34|1|222|12|3/14 v ZIM|2|0|18.50|6.53|17.00|ZIM|10|9|3|BAN|Bangladesh|BAN|
+|Ireland|3|10|0|71|8|4/16 v IRE|1|0|8.88|7.10|7.50|IRE|13|4|3|BAN|Bangladesh|BAN|... |Netherlands|5|20|0|126|12|4/25 v NED|0|0|10.50|6.30|10.00|NED|15|5|3|BAN|Bangladesh|BAN|
+|Scotland|1|3|0|28|1|1/28 v SCO|0|0|28.00|9.33|18.00|SCO|16|1|3|BAN|Bangladesh|BAN|... |United Arab Emirates|2|7|0|46|2|1/22 v UAE|0|0|23.00|6.57|21.00|UAE|21|2|3|BAN|Bangladesh|BAN|
+|Oman|2|6|0|39|1|1/8 v OMA|0|0|39.00|6.50|36.00|OMA|28|2|3|BAN|Bangladesh|BAN|... |Nepal|1|4|0|29|1|1/29 v NEP|0|0|29.00|7.25|24.00|NEP|637|1|3|BAN|Bangladesh|BAN|
+|Papua New Guinea|1|3.3|1|12|2|2/12 v PNG|0|0|6.00|3.43|10.50|PNG|750|1|3|BAN|Bangladesh|BAN|... |Afghanistan|5|19|1|130|7|3/33 v AFG|1|0|18.57|6.84|16.29|AFG|1188|5|3|BAN|Bangladesh|BAN|
+|Hong Kong, China|1|4|0|38|2|2/38 v HK|0|0|19.00|9.50|12.00|HK|19|1|3|BAN|Bangladesh|BAN|... |Australia Under-19|1|8|2|31|2|2/31 v AUS-U19|0|0|15.50|3.87|24.00|AUS-U19|1154|1|22|BAN-U19|Bangladesh Under-19|BAN-U19|... |England Under-19|5|35.2|1|215|7|4/46 v ENG-U19|0|0|30.71|6.08|30.29|ENG-U19|1159|5|22|BAN-U19|Bangladesh Under-19|BAN-U19|... |Namibia Under-19|1|9.4|1|29|2|2/29 v NAM-U19|0|0|14.50|3.00|29.00|NAM-U19|1167|1|22|BAN-U19|Bangladesh Under-19|BAN-U19|... |Pakistan Under-19|1|10|1|80|3|3/80 v PAK-U19|1|0|26.67|8.00|20.00|PAK-U19|1170|1|22|BAN-U19|Bangladesh Under-19|BAN-U19|... |South Africa Under-19|1|5|0|37|0|0/37 v SA-U19|0|0|-|7.40|-|SA-U19|1172|1|22|BAN-U19|Bangladesh Under-19|BAN-U19|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Barisal Division|3|2|0|21|17|0|0|4|0|10.5|65.63|2|0|BD|106|0|0|4|DM|Dhaka Metropolis|DM|... |Chattogram Division|4|5|2|47|29|0|0|2|1|15.67|36.43|0|0|CD|172|0|0|4|DM|Dhaka Metropolis|DM|
+|Dhaka Division|1|1|1|9|9*|0|0|1|0|0.00|112.50|0|0|DHD|222|0|0|4|DM|Dhaka Metropolis|DM|... |Khulna Division|2|4|3|1|1|0|0|0|0|1|5.56|0|0|KD|461|0|0|4|DM|Dhaka Metropolis|DM|... |Rajshahi Division|2|3|1|31|19|0|0|2|2|15.5|68.89|0|0|RD|805|0|0|4|DM|Dhaka Metropolis|DM|
+|Sylhet Division|2|2|2|5|5*|0|0|1|0|0.00|27.78|0|0|SYL|954|0|0|4|DM|Dhaka Metropolis|DM|... |Bangladesh South Zone|1|1|0|7|7|0|0|1|0|7|21.88|0|0|BSZ|1398|0|0|4|BNZ|Bangladesh North Zone|BNZ|
+|Bangladesh East Zone|2|3|2|11|9|0|0|0|1|11|64.71|0|0|BEZ|1399|0|0|4|BCZ|Bangladesh Central Zone|BCZ|... |Bangladesh North Zone|3|5|2|51|34|0|0|10|0|17|83.61|0|0|BNZ|1400|0|0|4|BCZ|Bangladesh Central Zone|BCZ|
+|Pakistan Shaheens|1|1|0|4|4|0|0|1|0|4|33.33|0|0|PKS|2075|0|0|4|BN-A|Bangladesh A|BN-A|... |Barisal Division|5|71.2|13|200|8|4/67 v BD|1|0|25.00|2.80|53.50|BD|106|3|4|DM|Dhaka Metropolis|DM|
+|Chattogram Division|8|86.3|15|324|15|5/67 v CD|2|1|21.60|3.75|34.60|CD|172|4|4|DM|Dhaka Metropolis|DM|... |Dhaka Division|1|10|5|29|1|1/29 v DHD|0|0|29.00|2.90|60.00|DHD|222|1|4|DM|Dhaka Metropolis|DM|
+|Khulna Division|4|42|5|150|4|2/50 v KD|0|0|37.50|3.57|63.00|KD|461|2|4|DM|Dhaka Metropolis|DM|... |Rajshahi Division|3|56|17|161|5|3/98 v RD|1|0|32.20|2.88|67.20|RD|805|2|4|DM|Dhaka Metropolis|DM|
+|Sylhet Division|4|56.3|17|136|7|3/24 v SYL|1|0|19.43|2.41|48.43|SYL|954|2|4|DM|Dhaka Metropolis|DM|... |Rangpur Division|2|32|7|107|5|4/66 v RDV|0|0|21.40|3.34|38.40|RDV|1310|1|4|DM|Dhaka Metropolis|DM|
+|Bangladesh Central Zone|2|38|5|135|7|5/54 v BCZ|0|1|19.29|3.55|32.57|BCZ|1397|1|4|BNZ|Bangladesh North Zone|BNZ|... |Bangladesh South Zone|2|32.2|5|101|3|2/33 v BSZ|0|0|33.67|3.12|64.67|BSZ|1398|1|4|BNZ|Bangladesh North Zone|BNZ|
+|Bangladesh East Zone|4|59.5|4|271|6|4/96 v BEZ|0|0|45.17|4.53|59.83|BEZ|1399|2|4|BCZ|Bangladesh Central Zone|BCZ|... |Bangladesh North Zone|6|69.4|13|278|10|4/122 v BNZ|1|0|27.80|3.99|41.80|BNZ|1400|3|4|BCZ|Bangladesh Central Zone|BCZ|
+|Pakistan Shaheens|1|15|1|56|1|1/56 v PKS|0|0|56.00|3.73|90.00|PKS|2075|1|4|BN-A|Bangladesh A|BN-A|... |Ireland A|2|1|0|14|14|0|0|1|0|14|63.64|0|0|IR-A|416|0|0|5|BAN|Bangladesh|BAN|
+|Bangladesh South Zone|1|1|0|0|0|0|0|0|0|0|0.00|1|0|BSZ|1398|1|0|5|BNZ|Bangladesh North Zone|BNZ|... |Brothers Union|3|2|1|13|8|0|0|1|0|13|118.18|0|0|BU|1422|0|0|5|AL|Abahani Limited|AL|
+|Prime Bank Cricket Club|3|0|0|0|0|0|0|0|0.00|0.00|1|0|PBCC|1423|0|0|5|AL|Abahani Limited|AL|... |Sheikh Jamal Dhanmondi Club|5|1|0|31|31|0|0|3|2|31|110.71|0|0|SJDC|1431|0|0|5|AL|Abahani Limited|AL|
+|Mohammedan Sporting Club|5|3|1|40|38*|0|0|3|1|20|74.07|2|0|MSC|1432|0|0|5|AL|Abahani Limited|AL|... |Prime Doleshwar Sporting Club|6|3|1|22|12|0|0|0|3|11|100.00|1|0|PDSC|1433|0|0|5|PBCC|Prime Bank Cricket Club|PBCC|
+|Legends of Rupganj|7|3|1|9|5|0|0|0|0|4.5|90.00|1|0|LOR|1463|0|0|5|AL|Abahani Limited|AL|... |Partex Sporting Club|2|1|1|10|10*|0|0|1|0|0.00|142.86|0|0|PAR|1465|0|1|5|PBCC|Prime Bank Cricket Club|PBCC|
+|Gazi Group Cricketers|4|1|0|1|1|0|0|0|0|1|25.00|1|0|GGC|1520|0|0|5|MSC|Mohammedan Sporting Club|MSC|... |England A|1|4|0|31|1|1/31 v ENA|0|0|31.00|7.75|24.00|ENA|269|1|5|BN-A|Bangladesh A|BN-A|
+|India A|1|5|0|46|1|1/46 v IND-A|0|0|46.00|9.20|30.00|IND-A|395|1|5|BN-A|Bangladesh A|BN-A|... |Ireland A|2|15|0|111|3|3/66 v IR-A|1|0|37.00|7.40|30.00|IR-A|416|2|5|BAN|Bangladesh|BAN|
+|Bangladesh South Zone|1|8|1|33|2|2/33 v BSZ|0|0|16.50|4.13|24.00|BSZ|1398|1|5|BNZ|Bangladesh North Zone|BNZ|... |Bangladesh East Zone|1|10|1|45|3|3/45 v BEZ|1|0|15.00|4.50|20.00|BEZ|1399|1|5|BCZ|Bangladesh Central Zone|BCZ|
+|Bangladesh North Zone|1|10|1|44|2|2/44 v BNZ|0|0|22.00|4.40|30.00|BNZ|1400|1|5|BCZ|Bangladesh Central Zone|BCZ|... |Brothers Union|3|17|0|126|2|2/45 v BU|0|0|63.00|7.41|51.00|BU|1422|3|5|AL|Abahani Limited|AL|
+|Prime Bank Cricket Club|3|25.3|2|125|7|3/46 v PBCC|1|0|17.86|4.90|21.86|PBCC|1423|3|5|AL|Abahani Limited|AL|... |Khelaghar Samaj Kallyan Samity|2|8|1|47|2|2/25 v KSKS|0|0|23.50|5.88|24.00|KSKS|1425|2|5|AL|Abahani Limited|AL|... |Kalabagan Cricket Academy|2|17|1|95|3|2/42 v KCA|0|0|31.67|5.59|34.00|KCA|1426|2|5|PBCC|Prime Bank Cricket Club|PBCC|
+|Victoria Sporting Club|2|16.5|1|59|5|3/30 v VSC|1|0|11.80|3.50|20.20|VSC|1427|2|5|AL|Abahani Limited|AL|... |Abahani Limited|3|16|0|101|5|3/29 v AL|1|0|20.20|6.31|19.20|AL|1428|3|5|PBCC|Prime Bank Cricket Club|PBCC|
+|Cricket Coaching School|1|7|1|22|2|2/22 v CCS|0|0|11.00|3.14|21.00|CCS|1429|1|5|AL|Abahani Limited|AL|... |Kalabagan Krira Chakra|3|20|2|79|4|3/30 v KKC|1|0|19.75|3.95|30.00|KKC|1430|3|5|AL|Abahani Limited|AL|
+|Sheikh Jamal Dhanmondi Club|5|41|5|215|10|3/26 v SJDC|1|0|21.50|5.24|24.60|SJDC|1431|5|5|PBCC|Prime Bank Cricket Club|PBCC|... |Mohammedan Sporting Club|5|32|0|186|5|2/58 v MSC|0|0|37.20|5.81|38.40|MSC|1432|5|5|AL|Abahani Limited|AL|
+|Prime Doleshwar Sporting Club|6|40|3|242|11|4/54 v PDSC|1|0|22.00|6.05|21.82|PDSC|1433|6|5|LOR|Legends of Rupganj|LOR|... |Legends of Rupganj|7|55.4|4|235|13|3/33 v LOR|2|0|18.08|4.22|25.69|LOR|1463|7|5|MSC|Mohammedan Sporting Club|MSC|
+|Partex Sporting Club|2|18|0|62|5|4/16 v PAR|0|0|12.40|3.44|21.60|PAR|1465|2|5|PBCC|Prime Bank Cricket Club|PBCC|... |Gazi Group Cricketers|4|34|2|216|11|4/32 v GGC|1|0|19.64|6.35|18.55|GGC|1520|4|5|AL|Abahani Limited|AL|
+|Shinepukur Cricket Club|1|10|0|46|0|0/46 v SCC|0|0|-|4.60|-|SCC|1628|1|5|MSC|Mohammedan Sporting Club|MSC|... |Rupganj Tigers Cricket Club|1|7|1|25|1|1/25 v RTCC|0|0|25.00|3.57|42.00|RTCC|3030|1|5|AL|Abahani Limited|AL|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Chattogram Challengers|7|2|1|26|15|0|0|1|1|26|200.00|0|0|CCH|1279|0|0|6|DC|Dhaka Capitals|DC|... |Sylhet Strikers|12|5|3|37|27*|0|0|6|0|18.5|137.04|2|0|SYL|1317|0|0|6|DC|Dhaka Capitals|DC|
+|Rangpur Riders|13|4|0|33|15|0|0|2|3|8.25|150.00|1|0|RAN|1382|0|1|6|DC|Dhaka Capitals|DC|... |Partex Sporting Club|1|0|0|0|0|0|0|0|0.00|0.00|0|0|PAR|1465|0|0|6|MSC|Mohammedan Sporting Club|MSC|
+|Dhaka Capitals|10|5|2|32|18*|0|0|2|2|10.67|100.00|3|0|DC|1498|1|0|6|SYL|Sylhet Strikers|SYL|... |Comilla Victorians|14|5|0|13|4|0|0|0|0|2.6|46.43|2|0|COV|1499|0|0|6|SYL|Sylhet Strikers|SYL|
+|Barisal Bulls|2|0|0|0|0|0|0|0|0.00|0.00|0|0|BB|1500|0|0|6|CCH|Chattogram Challengers|CCH|... |Durbar Rajshahi|9|4|1|7|4*|0|0|0|0|2.33|38.89|2|0|DBR|1533|1|1|6|RAN|Rangpur Riders|RAN|
+|Khulna Tigers|13|4|1|18|12|0|0|2|0|6|100.00|3|0|KHT|1534|0|0|6|DC|Dhaka Capitals|DC|... |Dambulla Sixers|1|0|0|0|0|0|0|0|0.00|0.00|0|0|DS|2487|0|0|6|CS|Colombo Strikers|CS|
+|Jaffna Kings|1|1|1|15|15*|0|0|1|1|0.00|150.00|0|0|JK|2489|0|0|6|CS|Colombo Strikers|CS|... |Kandy Falcons|1|1|0|7|7|0|0|0|1|7|233.33|0|0|KF|2490|0|0|6|CS|Colombo Strikers|CS|
+|Fortune Barishal|5|2|0|22|12|0|0|2|1|11|122.22|2|0|FBA|2513|0|0|6|DC|Dhaka Capitals|DC|... |Gemcon Khulna|2|2|1|12|12*|0|0|1|1|12|171.43|0|0|GKH|2516|1|0|6|FBA|Fortune Barishal|FBA|
+|Gazi Group Chattogram|2|1|0|2|2|0|0|0|0|2|50.00|0|0|GGC|2517|0|0|6|FBA|Fortune Barishal|FBA|... |Chittagong Kings|2|2|0|4|3|0|0|0|0|2|36.36|0|0|CHK|3825|0|0|6|DBR|Durbar Rajshahi|DBR|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Chattogram Challengers|7|22.4|0|193|10|4/28 v CCH|0|0|19.30|8.51|13.60|CCH|1279|7|6|SYL|Sylhet Strikers|SYL|... |Dhaka Gladiators|2|8|0|59|3|2/28 v DGL|0|0|19.67|7.38|16.00|DGL|1283|2|6|CCH|Chattogram Challengers|CCH|... |Duronto Rajshahi|1|3|0|31|4|4/31 v DR|0|0|7.75|10.33|4.50|DR|1285|1|6|CCH|Chattogram Challengers|CCH|
+|Sylhet Strikers|11|43.3|0|313|14|3/31 v SYL|1|0|22.36|7.20|18.64|SYL|1317|12|6|CCH|Chattogram Challengers|CCH|... |Rangpur Riders|13|46.2|0|373|18|4/42 v RAN|1|0|20.72|8.05|15.44|RAN|1382|13|6|SYL|Sylhet Strikers|SYL|
+|Brothers Union|0|0|0|0|0|0|0|0.00|0.00|0.00|-|-|1|6|-|-|-|... |Prime Bank Cricket Club|1|3.3|1|15|3|3/15 v PBCC|1|0|5.00|4.29|7.00|PBCC|1423|1|6|MSC|Mohammedan Sporting Club|MSC|... |Abahani Limited|1|2|0|5|2|2/5 v AL|0|0|2.50|2.50|6.00|AL|1428|1|6|MSC|Mohammedan Sporting Club|MSC|
+|Sheikh Jamal Dhanmondi Club|1|4|0|33|0|0/33 v SJDC|0|0|-|8.25|-|SJDC|1431|1|6|MSC|Mohammedan Sporting Club|MSC|... |Partex Sporting Club|1|4|0|33|2|2/33 v PAR|0|0|16.50|8.25|12.00|PAR|1465|1|6|MSC|Mohammedan Sporting Club|MSC|
+|Dhaka Capitals|10|35.3|0|283|20|7/19 v DC|3|1|14.15|7.97|10.65|DC|1498|10|6|DBR|Durbar Rajshahi|DBR|... |Comilla Victorians|14|47|1|404|8|2/30 v COV|0|0|50.50|8.60|35.25|COV|1499|14|6|DC|Dhaka Capitals|DC|
+|Barisal Bulls|2|7|0|43|3|2/20 v BB|0|0|14.33|6.14|14.00|BB|1500|2|6|CCH|Chattogram Challengers|CCH|... |Durbar Rajshahi|9|32.2|0|281|14|5/31 v DBR|0|1|20.07|8.69|13.86|DBR|1533|9|6|CCH|Chattogram Challengers|CCH|... |Khulna Tigers|13|43.1|0|341|22|4/9 v KHT|1|0|15.50|7.90|11.77|KHT|1534|13|6|DC|Dhaka Capitals|DC|
+|Dambulla Sixers|1|4|0|45|2|2/45 v DS|0|0|22.50|11.25|12.00|DS|2487|1|6|CS|Colombo Strikers|CS|... |Jaffna Kings|1|3|0|38|1|1/38 v JK|0|0|38.00|12.67|18.00|JK|2489|1|6|CS|Colombo Strikers|CS|
+|Kandy Falcons|1|4|0|30|1|1/30 v KF|0|0|30.00|7.50|24.00|KF|2490|1|6|CS|Colombo Strikers|CS|... |Fortune Barishal|5|20|0|166|7|3/31 v FBA|1|0|23.71|8.30|17.14|FBA|2513|5|6|DBR|Durbar Rajshahi|DBR|
+|Beximco Dhaka|3|11.5|0|97|1|1/21 v BDH|0|0|97.00|8.20|71.00|BDH|2514|3|6|FBA|Fortune Barishal|FBA|... |Minister Group Rajshahi|2|8|0|68|1|1/19 v MRA|0|0|68.00|8.50|48.00|MRA|2515|2|6|FBA|Fortune Barishal|FBA|
+|Gemcon Khulna|2|8|0|77|4|2/33 v GKH|0|0|19.25|9.63|12.00|GKH|2516|2|6|FBA|Fortune Barishal|FBA|

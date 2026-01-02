@@ -1,15 +1,18 @@
-================================================================================
-IPL PLAYER PROFILE: SAURABH DUBEY
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Saurabh Dubey
-  Date of Birth            : 01 July 1998
-  Total IPL Matches        : 0
-  Role                     : Bowler
-  Nationality              : Indian
-
-================================================================================
-Source: https://www.iplt20.com/players/saurabh-dubey/20612
-================================================================================
+|mat|runs|50s|100s|avg|S/R|
+|--|--|--|--|--|--|
+|-|-|-|-|-|-|
+|highest Runs|Balls Faced|Against|
+|--|--|--|
+|-|-|-|
+|mat|over|wickets|avg|S/R|eco|... |--|--|--|--|--|--|
+|-|-|-|-|-|-|
+|wickets taken|run|Against|
+|--|--|--|
+|-|-|-|
+|Rank|Team|Points|Rating|
+|--|--|--|--|
+|1|India|18730|271|... |2|Australia|11199|267|
+|3|England|11609|258|
+|4|New Zealand|13318|251|
+|5|South Africa|12296|241|
+|FULL Ranking|

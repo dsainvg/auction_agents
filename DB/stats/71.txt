@@ -1,15 +1,31 @@
 ================================================================================
-IPL PLAYER PROFILE: AKASH MADHWAL
+IPL PLAYER PROFILE: MAYANK AGARWAL
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Akash Madhwal
-  IPL Debut                : 2023
-  Date of Birth            : 25 November 1993
-  Total IPL Matches        : 17
-  Role                     : Bowler
+  Player Name              : Mayank Agarwal
+  IPL Debut                : 2011
+  Date of Birth            : 18 February 1991
+  Total IPL Matches        : 131
+  Role                     : Batter
   Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  After skipper KL Rahul, Mayank Agarwal remains the most-important Indian
+  batsman in the PBKS line-up. Mayank has enjoyed a fine run with the Indian
+  Test team. Mayank can strike the ball hard and long and will be responsible
+  for helping PBKS get big totals. He scored 2 half-centuries in 2019 and
+  aggregated 332 runs at an average of 25.53. He had an eventful 2020 season
+  where he scored a spectacular ton against the Rajasthan Royals and made an
+  impactful performance count in the iconic double super-over game against the
+  Mumbai Indians. Mayank is an experienced contender to play a vital role for
+  the Punjab Kings’ success in 2021.
+
+CAREER HIGHLIGHTS
+--------------------------------------------------------------------------------
+  1. Career best average: 25.53.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -19,10 +35,22 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    17    |    2     |    8     |    4*    |    -     |    14    |  57.14   |    0     |    0     |    0     |    0     |    1     |    0    
-    2025   |    4     |    1     |    4     |    4*    |    -     |    9     |  44.44   |    0     |    0     |    0     |    0     |    0     |    0    
-    2024   |    5     |    1     |    4     |    4*    |    -     |    5     |  80.00   |    0     |    0     |    0     |    0     |    1     |    0    
-    2023   |    8     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+   Career  |   131    |    5     |   2756   |   106    |  22.97   |   2064   |  133.53  |    1     |    13    |   273    |   100    |    58    |    0    
+    2025   |    4     |    1     |    95    |   41*    |  31.67   |    64    |  148.44  |    0     |    0     |    10    |    2     |    0     |    0    
+    2024   |    4     |    0     |    64    |    32    |  16.00   |    57    |  112.28  |    0     |    0     |    8     |    1     |    2     |    0    
+    2023   |    10    |    0     |   270    |    83    |  27.00   |   210    |  128.57  |    0     |    1     |    29    |    6     |    6     |    0    
+    2022   |    13    |    0     |   196    |    52    |  16.33   |   160    |  122.50  |    0     |    1     |    23    |    6     |    10    |    0    
+    2021   |    12    |    1     |   441    |   99*    |  40.09   |   314    |  140.44  |    0     |    4     |    42    |    18    |    5     |    0    
+    2020   |    11    |    0     |   424    |   106    |  38.54   |   271    |  156.45  |    1     |    2     |    44    |    15    |    6     |    0    
+    2019   |    13    |    0     |   332    |    58    |  25.53   |   234    |  141.88  |    0     |    2     |    26    |    14    |    7     |    0    
+    2018   |    11    |    1     |   120    |    30    |  12.00   |    94    |  127.65  |    0     |    0     |    9     |    5     |    2     |    0    
+    2017   |    3     |    0     |    26    |    20    |   8.66   |    27    |  96.29   |    0     |    0     |    3     |    0     |    1     |    0    
+    2016   |    3     |    0     |    27    |    10    |   9.00   |    25    |  108.00  |    0     |    0     |    3     |    1     |    0     |    0    
+    2015   |    10    |    1     |   213    |    68    |  23.66   |   177    |  120.33  |    0     |    2     |    23    |    7     |    3     |    0    
+    2014   |    8     |    0     |   115    |    31    |  14.37   |    91    |  126.37  |    0     |    0     |    12    |    3     |    1     |    0    
+    2013   |    5     |    0     |    67    |    29    |  13.40   |    62    |  108.06  |    0     |    0     |    6     |    3     |    3     |    0    
+    2012   |    16    |    1     |   225    |   64*    |  20.45   |   158    |  142.40  |    0     |    1     |    19    |    15    |    9     |    0    
+    2011   |    8     |    0     |   141    |    41    |  20.14   |   120    |  117.50  |    0     |    0     |    16    |    4     |    3     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -32,11 +60,64 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    17    |   352    |   590    |    23    |   5/5    |  25.65   |  10.06   |  15.30   |    1     |    1    
-    2025   |    4     |    90    |   166    |    4     |   3/29   |  41.50   |  11.07   |  22.50   |    0     |    0    
-    2024   |    5     |   109    |   205    |    5     |   3/20   |  41.00   |  11.28   |  21.80   |    0     |    0    
-    2023   |    8     |   153    |   219    |    14    |   5/5    |  15.64   |   8.59   |  10.93   |    1     |    1    
+   Career  |   131    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2019   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2013   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2012   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2011   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/akash-madhwal/20681
+Source: https://www.iplt20.com/players/mayank-agarwal/158
 ================================================================================
+**Mayank Anurag Agarwal** (Hindi: [ˈmʌjʌnk ʌɡʌɾˈwaːl]; born 16 February 1991) is an Indian cricketer who plays as a right-handed opener. He captains his state Karnataka across all formats in domestic cricket. He made his international debut for the India cricket team on 26 December 2018 against Australia at the MCG. He currently plays for Royal Challengers Bengaluru in IPL from the 2025 season onwards.... ## Early life and career
+
+Agarwal was born on 16 February 1991 in Bangalore. His father Anurag Agarwal is the CEO of the US$35 million healthcare company Natural Remedies. Agarwal studied at the Bishop Cotton Boys' School and Jain University in Bangalore, where he was teammates with K. L. Rahul and Karun Nair.... Agarwal came to prominence with his performances in the Under-19 Cooch Behar Trophy in 2008-09 and 2010 ICC Under-19 Cricket World Cup, in which he was the leading run-getter for India. He was also adjudged Man of the Series in the Karnataka Premier League in 2010.... ## Domestic cricket
+
+In November 2017, he scored his maiden triple century in first-class cricket, when he made 304 not out batting for Karnataka against Maharashtra in the 2017–18 Ranji Trophy. It was the 50th triple century scored in first-class cricket in India. During the same month, he scored 1,000 runs in first-class cricket. He was the leading run-scorer in the 2017–18 Ranji Trophy, finishing the tournament with 1,160 runs.... In January 2018, he was bought by the Kings XI Punjab in the 2018 IPL auction. In February 2018, he was the leading run-scorer in the 2017–18 Vijay Hazare Trophy, with 723 runs in eight matches. He scored 2,141 runs across all formats, the highest total by any batsman in an Indian domestic season. In June 2018, he was awarded with the Madhavrao Scindia Award For The Highest Run-Scorer In Ranji Trophy by the Board of Control for Cricket in India (BCCI).... He was the leading run-scorer for Karnataka in the 2018–19 Vijay Hazare Trophy, with 251 runs in seven matches. In October 2018, he was named in India B's squad for the 2018–19 Deodhar Trophy. The following month, he was named as one of eight players to watch ahead of the 2018–19 Ranji Trophy. In October 2019, he was named in India C's squad for the 2019–20 Deodhar Trophy.... On 27 September 2020, Mayank scored his maiden Indian Premier League century for Kings XI Punjab against Rajasthan Royals in Sharjah Cricket Stadium. He scored 106 off 50 balls in the match but ended up on the losing side. He scored a total of 424 runs in 11 matches for Kings XI Punjab at an average of 38.54 in IPL 2020.... Agarwal became the 13th captain of the Punjab Kings on 2 May 2021, when he captained the team against Delhi Capitals in the absence of the regular captain KL Rahul, who had undergone appendicitis surgery. He scored a 99*, making him the third batsman in the IPL to score 99 not out, and was awarded the Man of the Match award although the team ended up on the losing side.... Ahead of IPL 2022 season, Mayank was retained by Punjab Kings for INR 12Cr (US$1.6 Million).
+
+On 28 February 2022, He was named captain of Punjab Kings and became 12th full time captain of the franchise.
+
+In the 2023 IPL auction, he was bought by the Sunrisers Hyderabad ahead of the 2023 Indian Premier League.... He will be leading Rest of India in the Irani Cup fixture against Madhya Pradesh starting on 1 March in Gwalior. In 2025 Indian Premier League He was signed by Royal Challengers Bengaluru as a replacement for Devdutt Padikkal who was ruled out due to injury.... ## International career
+
+In September 2018, Agarwal was named in India's Test squad for their series against the West Indies, but he did not play. In December 2018, he was added to India's Test squad for their series against Australia, after Prithvi Shaw was ruled out of the side due to ankle injury. He made his Test debut against Australia on 26 December 2018, scoring seventy-six runs in his first innings at the Melbourne Cricket Ground.... This was the highest score by an Indian cricketer on a Test debut in Australia, going past the previous record of 51 runs set by Dattu Phadkar, at the Sydney Cricket Ground (SCG) in 1947. He played the 4th test also and finished the series with 195 runs.... In July 2019, he was added to India's squad for the 2019 Cricket World Cup, replacing Vijay Shankar, who was ruled out of the rest of the tournament due to toe injury.... In October 2019, in the first Test match against South Africa, Agarwal scored his maiden century in Test cricket. He went on to convert his maiden test century into his first double hundred in a Test match, before being dismissed for 215 runs of 371 balls with 23 fours and 6 sixes. After hitting his 2nd Test hundred against South Africa, Agarwal became only the 2nd Indian opener after Virender Sehwag (2009–10) to score back to back centuries against South Africa.... In November 2019, Agarwal hit his second double century in only his eighth Test match, at Indore against Bangladesh, recording his current highest score of 243 in 330 deliveries with eight sixes. He broke the record of Donald Bradman to become the second-fastest batsman to score two double hundreds, having achieved this in 12 innings.... The following month, he was added to India's One Day International (ODI) squad for the series against the West Indies, replacing the injured Shikhar Dhawan. He was named in India's squad for their Test and ODI series against New Zealand. He made his ODI debut for India, against New Zealand, on 5 February 2020.... In October 2020, Mayank was selected in the T20I, ODI and Test squad for the Australian tour. On 19 December 2020, in the first Test against Australia, he scored his 1,000th run in Test matches, becoming the third fastest Indian batsman to reach 1000 runs in Test.... Mayank Agarwal scored 857 runs, the fourth-highest by an Indian batsman in the inaugural WTC cycle, but lost his place to Gill after failing in three matches in Australia.
+He made his comeback in home series against New Zealand, In second test match he scored 150 in First innings And 62 in second innings for which he was awarded the man of the match.... He retained his place for next series against South Africa in the team as Rohit Sharma was ruled out due to hamstring injury. During this series, he started well with a well-constructed fifty in the first test, but struggled to make a substantial score thereafter in difficult batting conditions.
+
+In February 2022, Agarwal was drafted in as replacement for the ODIs against West Indies owing to the unavailability of few players due to covid and personal reasons.... ## Personal life
+
+Agarwal practices the meditation technique of Vipassanā, being introduced to it by his father Anurag Agarwal. He is also said to have been inspired by Joseph Murphy's book *The Power of the Subconscious Mind*.
+
+In January 2018, Agarwal was engaged to Aashita Sood, daughter of Indian Police Service officer Praveen Sood and married her on 6 June 2018. The couple had their first child, a boy, on 8 December 2022.... On 30 January 2024, he was reportedly admitted in the intensive care unit at a private hospital, ILS Hospitals in Agartala as he complained of having a stomach pain and burning sensation in his throat and mouth after consuming liquid from a bottle that he believed contained drinking water. He accidentally drank acid containing poisonous contaminants while travelling via IndiGo flight. He was rushed to hospital after vomiting inside the aircraft. Later, it was confirmed that he is stable and out of immediate danger.... ## See also
+- List of Ranji Trophy triple centuries
+
+## References
+
+## External links
+- Mayank Agarwal at ESPNcricinfo
+
+Categories: - 1991 births... - Living people
+- Indian cricketers
+- India Test cricketers
+- India One Day International cricketers
+- Cricketers from Bengaluru
+- Royal Challengers Bengaluru cricketers
+- Karnataka cricketers
+- Bishop Cotton Boys' School alumni
+- Delhi Capitals cricketers
+- India Blue cricketers... - Punjab Kings cricketers
+- 21st-century Indian sportsmen
+- Rising Pune Supergiant cricketers
+- Sunrisers Hyderabad cricketers
+- Indian A cricketers
+- Yorkshire cricketers
+- Cricketers at the 2019 Cricket World Cup

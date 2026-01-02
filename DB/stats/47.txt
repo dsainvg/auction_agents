@@ -1,15 +1,24 @@
 ================================================================================
-IPL PLAYER PROFILE: ABHINAV MANOHAR
+IPL PLAYER PROFILE: VIJAY SHANKAR
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Abhinav Manohar
-  IPL Debut                : 2022
-  Date of Birth            : 16 September 1994
-  Total IPL Matches        : 27
-  Role                     : Batter
+  Player Name              : Vijay Shankar
+  IPL Debut                : 2014
+  Date of Birth            : 26 January 1991
+  Total IPL Matches        : 78
   Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+  Vijay Shankar has been India’s go-to allrounder when Hardik Pandya was
+  out of action for Team India. After making his debut in ODIs and T20Is for
+  the national side, Shankar has only gone from strength to strength in his
+  short stint with the Indian team. A handy bowler, with a strong batting
+  technique and electric fielding capabilities, Shankar was a regular in the
+  playing XI for the Sunrisers. He would be willing to put up more telling
+  performances for his franchise this time around.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -19,11 +28,17 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    27    |    1     |   292    |    43    |  15.37   |   235    |  124.26  |    0     |    0     |    23    |    14    |    17    |    0    
-    2025   |    8     |    0     |    61    |    43    |  12.20   |    61    |  100.00  |    0     |    0     |    2     |    4     |    7     |    0    
-    2024   |    2     |    0     |    9     |    8     |   4.50   |    16    |  56.25   |    0     |    0     |    1     |    0     |    2     |    0    
-    2023   |    9     |    0     |   114    |    42    |  19.00   |    83    |  137.35  |    0     |    0     |    6     |    7     |    4     |    0    
-    2022   |    8     |    1     |   108    |    43    |  18.00   |    75    |  144.00  |    0     |    0     |    14    |    3     |    4     |    0    
+   Career  |    78    |    18    |   1233   |   69*    |  26.23   |   950    |  129.79  |    0     |    7     |    88    |    48    |    32    |    0    
+    2025   |    6     |    2     |   118    |   69*    |  39.33   |    91    |  129.67  |    0     |    1     |    8     |    3     |    2     |    0    
+    2024   |    7     |    2     |    83    |    17    |  16.60   |    72    |  115.28  |    0     |    0     |    7     |    2     |    4     |    0    
+    2023   |    14    |    2     |   301    |   63*    |  37.63   |   188    |  160.11  |    0     |    3     |    27    |    15    |    2     |    0    
+    2022   |    4     |    0     |    19    |    13    |   4.75   |    35    |  54.29   |    0     |    0     |    1     |    0     |    3     |    0    
+    2021   |    7     |    0     |    58    |    28    |  11.60   |    52    |  111.53  |    0     |    0     |    1     |    3     |    3     |    0    
+    2020   |    7     |    1     |    97    |   52*    |  24.25   |    96    |  101.04  |    0     |    1     |    10    |    1     |    1     |    0    
+    2019   |    15    |    2     |   244    |   40*    |  20.33   |   193    |  126.42  |    0     |    0     |    11    |    12    |    10    |    0    
+    2018   |    13    |    7     |   212    |   54*    |  53.00   |   148    |  143.24  |    0     |    1     |    11    |    11    |    6     |    0    
+    2017   |    4     |    2     |   101    |   63*    |  50.50   |    75    |  134.66  |    0     |    1     |    12    |    1     |    1     |    0    
+    2014   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -33,12 +48,51 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    27    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    78    |   238    |   344    |    9     |   2/19   |  38.22   |   8.67   |  26.44   |    0     |    0    
+    2025   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    4     |    9     |    15    |    0     |   0/1    |    -     |  10.00   |    -     |    0     |    0    
+    2021   |    7     |    66    |   100    |    3     |   2/19   |  33.33   |   9.09   |  22.00   |    0     |    0    
+    2020   |    7     |    79    |    82    |    4     |   1/11   |  20.50   |   6.22   |  19.75   |    0     |    0    
+    2019   |    15    |    48    |    70    |    1     |   1/11   |  70.00   |   8.75   |  48.00   |    0     |    0    
+    2018   |    13    |    30    |    58    |    1     |   1/22   |  58.00   |  11.60   |  30.00   |    0     |    0    
+    2017   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    1     |    6     |    19    |    0     |   0/19   |    -     |  19.00   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/abhinav-manohar/20589
+Source: https://www.iplt20.com/players/vijay-shankar/1083
 ================================================================================
+**Vijay Shankar** (born 26 January 1991) is an Indian cricketer who plays for the Tripura state cricket team. He is an all-rounder who bats right-handed and bowls right-arm medium pace. He played for India in 2019 Cricket World Cup, where he became the first Indian to pick up a wicket on the first ball of his World Cup debut. He played for Gujarat Titans team in Indian Premier League (IPL) from 2022 to 2024 and played for Chennai Super Kings team in 2025 in the same competition.... ## Domestic career
+Playing for Tamil Nadu, he won two Man of the Match awards in the knockout stage of 2014–15 Ranji Trophy. In the quarterfinal against Vidarbha, he scored 111 and 82 for which he was named man of the match. The match was drawn but Tamil Nadu progressed to the next round on first-innings lead.... Against Maharashtra in the semifinal, he scored 91 and picked 2/47 to win his second man of the match award. This game was also drawn and Tamil Nadu progressed to the final on first-innings lead. In the final against Karnataka, he scored 5 & 103 and picked 1/92. However, Karnataka registered an innings victory to take the title.... He led the Tamil Nadu team to title triumphs in 2016-17 Vijay hazare trophy and Deodhar trophy.... In October 2018, he was named in India C's squad for the 2018–19 Deodhar Trophy. He was the leading wicket-taker in the tournament, with seven dismissals in three matches. The following month, he was named as one of eight players to watch ahead of the 2018–19 Ranji Trophy. In October 2019, he was named in India B's squad for the 2019–20 Deodhar Trophy. He captained the Tamil Nadu side in their title winning Syed Mushtaq Ali Trophy campaign (2021–2022)... ## Indian Premier League
+
+In the Indian Premier League, he played one match for the Chennai Super Kings in 2014 and four for Sunrisers Hyderabad in 2017. His highest batting score was 63 not out against Gujarat Lions on 13 May 2017.
+
+In January 2018, he was bought by the Delhi Daredevils in the 2018 IPL auction.... He was traded back to the Sunrisers Hyderabad for the 2019 IPL season. In March 2019, he was named as one of eight players to watch by the International Cricket Council (ICC) ahead of the 2019 Indian Premier League tournament. In February 2022, he was bought by the Gujarat Titans in the auction for the 2022 Indian Premier League tournament.... ## International career
+### 2017 Sri Lanka and 2018 Nidahas Trophy
+On 20 November 2017, he was named as Bhuvneshwar Kumar's replacement in India's Test squad for their series against Sri Lanka, but he did not play. In February 2018, he was named in India's Twenty20 International (T20I) squad for the 2018 Nidahas Trophy.... He made his T20I debut for India against Sri Lanka in the 2018 Nidahas Trophy on 6 March 2018. He took his first wicket in T20Is in his second match, dismissing Mushfiqur Rahim via the Umpire Decision Review System. In the second match of the 2018 Nidahas Trophy, he took two wickets for 32 runs, with India winning by 6 wickets, and he was named the player of the match.... ### 2019 Australia and New Zealand
+
+In January 2019, Shankar was named the replacement for Hardik Pandya, who was banned for his controversial remarks on a TV show, for the remaining two One Day Internationals (ODI) of the Australian tour and the whole limited-overs series in New Zealand.
+
+On 18 January 2019 he made his ODI debut against Australia at Melbourne Cricket Ground.... ### 2019 Cricket World Cup
+
+In April 2019, he was named in India's squad for the 2019 Cricket World Cup ahead of experienced players like Ambati Rayudu and Suresh Raina which created a media buzz around the time. The International Cricket Council (ICC) named him as one of the five surprise picks for the tournament. In the match against Pakistan, He took a wicket with his first ball, becoming the third player to do so at a World Cup. Then, Shankar was ruled out of India's final two matches due to an injury, with Mayank Agarwal named as his replacement.... ## Personal life
+
+On 20 August 2020, Shankar announced engagement with Vaishali Visweswaran and married her on 27 January 2021. The couple welcomed their first child on 30 October 2021.
+
+## References... ## External links
+- Vijay Shankar at ESPNcricinfo
+
+Categories: - 1991 births... - Living people
+- Indian cricketers
+- India One Day International cricketers
+- India Twenty20 International cricketers
+- 21st-century Indian sportsmen
+- India Blue cricketers
+- Tamil Nadu cricketers
+- Chennai Super Kings cricketers
+- Sunrisers Hyderabad cricketers... - People from Tirunelveli
+- Indian A cricketers
+- Cricketers at the 2019 Cricket World Cup
+- Delhi Capitals cricketers
+- Gujarat Titans cricketers

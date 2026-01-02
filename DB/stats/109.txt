@@ -1,27 +1,22 @@
 ================================================================================
-IPL PLAYER PROFILE: BHUVNESHWAR KUMAR
+IPL PLAYER PROFILE: ASHWANI KUMAR
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Bhuvneshwar Kumar
-  IPL Debut                : 2011
-  Date of Birth            : 05 February 1990
-  Total IPL Matches        : 190
+  Player Name              : Ashwani Kumar
+  IPL Debut                : 2025
+  Date of Birth            : 29 August 2001
+  Total IPL Matches        : 7
   Role                     : WK-Batter
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  Twice a winner of the prestigious Purple Cap, Bhuvneshwar Kumar is a TATA
-  IPL great. One of the tournament’s leading wicket-takers, Kumar is famous
-  for being equally effective in the slog overs as he is with the swinging new
-  ball in hand. With close to 300 international wickets to his name, the
-  experienced campaigner brings great expertise to any team he plays for. RCB
-  acquired Kumar's services for a whopping price of INR 10.75 Crore in the
-  2025 auction. As a leader of the bowling attack, Kumar, who is among India’s
-  top wicket-takers in T20Is, can bring great stability to the RCB bowling
-  line-up.
+    Ashwani Kumar is a young left-arm fast bowler from Punjab. He garnered
+  attention with his ability to bowl brilliantly in the slog overs. He has
+  plenty of variations in his kitty which makes him a promising asset. MI
+  roped him in for INR 30 Lakh at the 2025 TATA IPL Auction.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -31,22 +26,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   190    |    35    |   320    |    27    |   8.21   |   351    |  91.17   |    0     |    0     |    31    |    3     |    38    |    0    
-    2025   |    14    |    3     |    14    |    8     |   4.67   |    25    |  56.00   |    0     |    0     |    1     |    0     |    5     |    0    
-    2024   |    16    |    2     |    23    |    13    |   7.67   |    29    |  79.31   |    0     |    0     |    3     |    0     |    1     |    0    
-    2023   |    14    |    3     |    42    |    27    |  14.00   |    47    |  89.36   |    0     |    0     |    4     |    0     |    3     |    0    
-    2022   |    14    |    3     |    24    |    8     |   8.00   |    26    |  92.31   |    0     |    0     |    3     |    0     |    2     |    0    
-    2021   |    11    |    6     |    34    |   14*    |  34.00   |    30    |  113.33  |    0     |    0     |    3     |    0     |    0     |    0    
-    2020   |    4     |    0     |    0     |    0*    |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2019   |    15    |    2     |    12    |    7*    |   4.00   |    19    |  63.15   |    0     |    0     |    1     |    0     |    4     |    0    
-    2018   |    12    |    2     |    13    |    7     |   6.50   |    16    |  81.25   |    0     |    0     |    1     |    0     |    2     |    0    
-    2017   |    14    |    1     |    4     |    4*    |   4.00   |    4     |  100.00  |    0     |    0     |    0     |    0     |    4     |    0    
-    2016   |    17    |    2     |    43    |    21    |   7.16   |    27    |  159.25  |    0     |    0     |    6     |    1     |    6     |    0    
-    2015   |    14    |    2     |    17    |   11*    |  17.00   |    10    |  170.00  |    0     |    0     |    2     |    1     |    5     |    0    
-    2014   |    14    |    1     |    1     |    1     |   1.00   |    4     |  25.00   |    0     |    0     |    0     |    0     |    2     |    0    
-    2013   |    16    |    2     |    52    |   24*    |   7.42   |    71    |  73.23   |    0     |    0     |    3     |    1     |    2     |    0    
-    2012   |    11    |    6     |    40    |   11*    |  13.33   |    40    |  100.00  |    0     |    0     |    4     |    0     |    0     |    0    
-    2011   |    4     |    0     |    1     |    1     |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+   Career  |    7     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
+    2025   |    7     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    2     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -56,23 +37,25 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   190    |   4222   |   5412   |   198    |   5/19   |  27.33   |   7.69   |  21.32   |    2     |    2    
-    2025   |    14    |   312    |   483    |    17    |   3/33   |  28.41   |   9.29   |  18.35   |    0     |    0    
-    2024   |    16    |   342    |   533    |    11    |   3/41   |  48.45   |   9.35   |  31.09   |    0     |    0    
-    2023   |    14    |   306    |   425    |    16    |   5/30   |  26.56   |   8.33   |  19.13   |    0     |    1    
-    2022   |    14    |   313    |   383    |    12    |   3/22   |  31.92   |   7.34   |  26.08   |    0     |    0    
-    2021   |    11    |   252    |   335    |    6     |   1/16   |  55.83   |   7.97   |  42.00   |    0     |    0    
-    2020   |    4     |    85    |    99    |    3     |   2/25   |  33.00   |   6.98   |  28.33   |    0     |    0    
-    2019   |    15    |   354    |   461    |    13    |   2/24   |  35.46   |   7.81   |  27.23   |    0     |    0    
-    2018   |    12    |   277    |   354    |    9     |   3/26   |  39.33   |   7.66   |  30.77   |    0     |    0    
-    2017   |    14    |   314    |   369    |    26    |   5/19   |  14.19   |   7.05   |  12.07   |    0     |    1    
-    2016   |    17    |   396    |   490    |    23    |   4/29   |  21.30   |   7.42   |  17.21   |    1     |    0    
-    2015   |    14    |   310    |   407    |    18    |   3/26   |  22.61   |   7.87   |  17.22   |    0     |    0    
-    2014   |    14    |   319    |   354    |    20    |   4/14   |  17.70   |   6.65   |  15.95   |    1     |    0    
-    2013   |    16    |   342    |   371    |    13    |   3/18   |  28.53   |   6.50   |  26.30   |    0     |    0    
-    2012   |    11    |   234    |   281    |    8     |   2/9    |  35.12   |   7.20   |  29.25   |    0     |    0    
-    2011   |    4     |    66    |    67    |    3     |   2/14   |  22.33   |   6.09   |  22.00   |    0     |    0    
+   Career  |    7     |   123    |   232    |    11    |   4/24   |  21.09   |  11.32   |  11.18   |    1     |    0    
+    2025   |    7     |   123    |   232    |    11    |   4/24   |  21.09   |  11.32   |  11.18   |    1     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/bhuvneshwar-kumar/116
+Source: https://www.iplt20.com/players/ashwani-kumar/22030
 ================================================================================
+**Ankit Kumar** (born 1 November 1997) is an Indian cricketer. He plays for Haryana as a top order batter.
+
+He made his first-class debut for Haryana in the 2018–19 Ranji Trophy on 14 December 2018. He made his Twenty20 debut for Haryana in the 2018–19 Syed Mushtaq Ali Trophy on 2 March 2019. He made his List A debut on 4 October 2019, for Haryana in the 2019–20 Vijay Hazare Trophy.... ## References
+
+## External links
+- Ankit Kumar at ESPNcricinfo
+
+| |This biographical article related to an Indian cricket person born in 1997 is a stub. You can help Wikipedia by expanding it.|
+|--|--|
+
+Categories: - 1997 births
+- Living people
+- Indian cricketers
+- Haryana cricketers
+- 21st-century Indian people
+- Indian cricket biography, 1997 birth stubs

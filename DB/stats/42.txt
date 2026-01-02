@@ -1,25 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: WANINDU HASARANGA
+IPL PLAYER PROFILE: RAJVARDHAN HANGARGEKAR
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Wanindu Hasaranga
-  IPL Debut                : 2021
-  Date of Birth            : 29 July 1997
-  Total IPL Matches        : 37
-  Role                     : Bowler
-  Nationality              : Sri Lankan
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Sri Lankan all-rounder, Wanindu Hasaranga comes in as a replacement for
-  Adam Zampa in the remainder of IPL 2021. Wanindu was drafted straight into
-  the senior men’s side from Sri Lanka’s U-19 team. An explosive middle-order
-  batsman, Wanindu is also useful with his leggies. He had a dream start to
-  his international career when he claimed a hat-trick in his very first
-  outing in an ODI in June 2017. Wanindu is all set to don the RCB colours and
-  will add the right balance to the squad.
+  Player Name              : Rajvardhan Hangargekar
+  IPL Debut                : 2023
+  Date of Birth            : 10 November 2002
+  Total IPL Matches        : 2
+  Nationality              : Indian
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -29,11 +18,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    37    |    4     |    81    |    18    |   5.40   |    88    |  92.05   |    0     |    0     |    7     |    1     |    5     |    0    
-    2025   |    11    |    0     |    9     |    4     |   1.80   |    15    |  60.00   |    0     |    0     |    0     |    0     |    2     |    0    
-    2023   |    8     |    3     |    33    |   12*    |  16.50   |    28    |  117.86  |    0     |    0     |    3     |    0     |    0     |    0    
-    2022   |    16    |    0     |    38    |    18    |   5.43   |    43    |  88.37   |    0     |    0     |    4     |    1     |    3     |    0    
-    2021   |    2     |    1     |    1     |    1*    |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+   Career  |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2023   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -43,12 +29,156 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    37    |   798    |   1119   |    46    |   5/18   |  24.33   |   8.41   |  17.35   |    2     |    1    
-    2025   |    11    |   246    |   371    |    11    |   4/35   |  33.73   |   9.05   |  22.36   |    1     |    0    
-    2023   |    8     |   174    |   258    |    9     |   2/24   |  28.67   |   8.90   |  19.33   |    0     |    0    
-    2022   |    16    |   342    |   430    |    26    |   5/18   |  16.54   |   7.54   |  13.15   |    1     |    1    
-    2021   |    2     |    36    |    60    |    0     |   0/20   |    -     |  10.00   |    -     |    0     |    0    
+   Career  |    2     |    36    |    60    |    3     |   3/36   |  20.00   |  10.00   |  12.00   |    0     |    0    
+    2023   |    2     |    36    |    60    |    3     |   3/36   |  20.00   |  10.00   |  12.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/wanindu-hasaranga/3082
+Source: https://www.iplt20.com/players/rajvardhan-hangargekar/20571
 ================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Mumbai|1|2|0|5|5|0|0|1|0|2.50|33.33|-|-|MUM|1198|1|0|4|-|-|-|
+|Delhi|1|1|0|2|2|0|0|0|0|2.00|11.76|-|-|DEL|1199|0|0|4|-|-|-|... |Tamil Nadu|1|1|0|4|4|0|0|1|0|4.00|133.33|-|-|TN|1203|0|0|4|-|-|-|
+|Saurashtra|1|1|0|4|4|0|0|1|0|4.00|57.14|-|-|SAU|1204|0|0|4|-|-|-|... |Hyderabad|1|1|0|3|3|0|0|0|0|3.00|23.07|1|0|HYD|1213|0|0|4|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Delhi|2|35|5|133|6|3/58|2|0|22.16|3.80|35.00|DEL|1199|5|4|-|-|-|... |Hyderabad|2|29|6|90|3|3/66|1|0|30.00|3.10|58.00|HYD|1213|5|4|-|-|-|
+|Mumbai|1|17|0|116|0|0/116|0|0|-|6.82|-|MUM|1198|5|4|-|-|-|... |Saurashtra|1|26|5|98|1|1/98|0|0|98.00|3.76|156.00|SAU|1204|5|4|-|-|-|
+|Tamil Nadu|1|29.5|0|115|3|3/115|1|0|38.33|3.85|59.66|TN|1203|5|4|-|-|-|... |Bangladesh A|1|1|0|15|15|0|0|1|1|15.00|125.00|-|-|BN-A|92|0|0|5|-|-|-|
+|Central Zone|1|1|0|24|24|0|0|1|2|24.00|200.00|-|-|CZ|218|0|0|5|-|-|-|... |East Zone|1|1|0|0|0|0|0|0|0|0.00|0.00|-|-|EZ|290|1|0|5|-|-|-|
+|Nepal|1|0|0|-|-|0|0|0|0|-|0.00|1|0|NEP|637|0|0|5|-|-|-|... |South Zone|1|1|0|13|13|0|0|0|2|13.00|325.00|-|-|SZ|955|0|0|5|-|-|-|
+|Mumbai|2|0|0|-|-|0|0|0|0|-|0.00|-|-|MUM|1198|0|0|5|-|-|-|... |Delhi|1|1|1|7|7*|0|0|0|1|-|350.00|-|-|DEL|1199|0|0|5|-|-|-|
+|Assam|1|1|0|0|0|0|0|0|0|0.00|0.00|-|-|ASM|1200|1|0|5|-|-|-|... |Bengal|1|1|1|9|9*|0|0|0|1|-|150.00|-|-|BEN|1201|0|0|5|-|-|-|
+|Saurashtra|1|1|0|0|0|0|0|0|0|0.00|0.00|-|-|SAU|1204|1|0|5|-|-|-|... |Rajasthan|1|0|0|-|-|0|0|0|0|-|0.00|-|-|RJS|1217|0|0|5|-|-|-|
+|Services|1|1|0|17|17|0|0|1|1|17.00|113.33|1|0|SER|1223|0|0|5|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Assam|1|10|0|65|4|4/65|1|0|16.25|6.50|15.00|ASM|1200|24|5|-|-|-|
+|Bangladesh A|1|3|0|19|0|0/19|0|0|-|6.33|-|BN-A|92|24|5|-|-|-|... |Bengal|1|7|0|43|2|2/43|0|0|21.50|6.14|21.00|BEN|1201|24|5|-|-|-|
+|Central Zone|1|6|1|29|1|1/29|0|0|29.00|4.83|36.00|CZ|218|24|5|-|-|-|... |Delhi|1|8.2|0|59|0|0/59|0|0|-|7.08|-|DEL|1199|24|5|-|-|-|... |East Zone|1|5|0|43|0|0/43|0|0|-|8.60|-|EZ|290|24|5|-|-|-|
+|Himachal Pradesh|1|10|0|42|4|4/42|1|0|10.50|4.20|15.00|HIM|1205|24|5|-|-|-|... |Jharkhand|1|6|0|58|0|0/58|0|0|-|9.66|-|JHA|1214|24|5|-|-|-|
+|Meghalaya|1|6|0|27|1|1/27|0|0|27.00|4.50|36.00|MEG|1664|24|5|-|-|-|... |Mizoram|1|7|1|25|1|1/25|0|0|25.00|3.57|42.00|MIZ|1667|24|5|-|-|-|
+|Mumbai|2|14|0|89|1|1/44|0|0|89.00|6.35|84.00|MUM|1198|24|5|-|-|-|... |Nepal|1|6|1|25|3|3/25|1|0|8.33|4.16|12.00|NEP|637|24|5|-|-|-|
+|North Zone|1|6|1|43|1|1/43|0|0|43.00|7.16|36.00|NZ|692|24|5|-|-|-|... |Pakistan A|2|14|1|90|7|5/42|0|1|12.85|6.42|12.00|PK-A|713|24|5|-|-|-|
+|Puducherry|1|8.2|0|45|4|4/45|1|0|11.25|5.40|12.50|PUD|1670|24|5|-|-|-|... |Railways|1|6|1|34|0|0/34|0|0|-|5.66|-|RAI|1206|24|5|-|-|-|
+|Rajasthan|1|9.1|0|33|2|2/33|0|0|16.50|3.60|27.50|RJS|1217|24|5|-|-|-|... |Saurashtra|1|9|0|70|0|0/70|0|0|-|7.77|-|SAU|1204|24|5|-|-|-|
+|Services|1|9|0|40|2|2/40|0|0|20.00|4.44|27.00|SER|1223|24|5|-|-|-|... |Sikkim|1|7|0|33|1|1/33|0|0|33.00|4.71|42.00|SIK|1663|24|5|-|-|-|
+|South Zone|1|7.4|0|47|2|2/47|0|0|23.50|6.13|23.00|SZ|955|24|5|-|-|-|... |Uttar Pradesh|1|10|0|53|5|5/53|0|1|10.60|5.30|12.00|UP|1209|24|5|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Gujarat Titans|1|0|0|-|-|0|0|0|0|-|0.00|-|-|GT|2955|0|0|6|CSK|Chennai Super Kings|CSK|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Lucknow Super Giants|1|2|0|24|0|0/24|0|0|-|12.00|-|LSG|2954|2|6|CSK|Chennai Super Kings|CSK|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |South Africa Under-19|2|13|0|46|1|1/24|0|0|46.00|3.53|78.00|SA-U19|1172|1|21|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Ireland Under-19|1|1|1|39|39*|0|0|1|5|-|229.41|-|-|IRE-U19|1149|0|0|22|-|-|-|
+|Uganda Under-19|1|0|0|-|-|0|0|0|0|-|0.00|0|0|UGA-U19|1151|0|0|22|-|-|-|... |Pakistan Under-19|1|1|0|33|33|0|0|5|1|33.00|165.00|1|0|PAK-U19|1170|0|0|22|-|-|-|
+|South Africa Under-19|1|1|0|0|0|0|0|0|0|0.00|0.00|1|0|SA-U19|1172|1|0|22|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Afghanistan Under-19|1|10|0|74|1|1/74|0|0|74.00|7.40|60.00|AFG-U19|1143|10|22|-|-|-|
+|Australia Under-19|1|7|1|26|0|0/26|0|0|-|3.71|-|AUS-U19|1154|10|22|-|-|-|... |Bangladesh Under-19|2|15.1|0|55|3|2/36|0|0|18.33|3.62|30.33|BAN-U19|1155|10|22|-|-|-|
+|England Under-19|1|7|1|36|0|0/36|0|0|-|5.14|-|ENG-U19|1159|10|22|-|-|-|... |Ireland Under-19|1|7|2|17|1|1/17|0|0|17.00|2.42|42.00|IRE-U19|1149|10|22|-|-|-|
+|Pakistan Under-19|1|10|2|49|1|1/49|0|0|49.00|4.90|60.00|PAK-U19|1170|10|22|-|-|-|... |South Africa Under-19|1|8|2|38|1|1/38|0|0|38.00|4.75|48.00|SA-U19|1172|10|22|-|-|-|
+|Sri Lanka Under-19|1|8|1|26|1|1/26|0|0|26.00|3.25|48.00|SL-U19|1165|10|22|-|-|-|... |Uganda Under-19|1|3|0|8|2|2/8|0|0|4.00|2.66|9.00|UGA-U19|1151|10|22|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Raigad Royals|2|1|1|9|9*|0|0|0|1|-|150.00|-|-|RRO|3847|0|0|73|CSK|-|-|
+|Ratnagiri Jets|3|2|0|34|21|0|0|0|5|17.00|309.09|2|0|RJ|3848|0|1|73|CSK|-|-|... |Eagle Nashik Titans|3|3|1|51|23|0|0|1|6|25.50|231.81|-|-|ENT|3850|0|0|73|CSK|-|-|
+|Kolhapur Tuskers|4|4|2|20|9*|0|0|2|1|10.00|105.26|-|-|KT|3851|1|0|73|CSK|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Eagle Nashik Titans|3|10|0|103|3|3/18|1|0|34.33|10.30|20.00|ENT|3850|14|73|CSK|
+|Kolhapur Tuskers|4|10.2|0|104|5|4/29|1|0|20.80|10.06|12.40|KT|3851|14|73|CSK|... |Puneri Bappa|2|5|0|54|1|1/18|0|0|54.00|10.80|30.00|PB|3846|14|73|CSK|
+|Raigad Royals|2|8|0|65|2|1/23|0|0|32.50|8.12|24.00|RRO|3847|14|73|CSK|... |Ratnagiri Jets|3|12|0|98|2|2/49|0|0|49.00|8.16|36.00|RJ|3848|14|73|CSK|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |United Arab Emirates Under-19|1|1|1|48|48*|0|0|6|2|-|208.69|-|-|UAE-U19|1448|0|0|-|-|-|-|
+|India B Under-19|1|0|0|-|-|0|0|0|0|-|0.00|1|0|INDB-U19|1891|0|0|-|-|-|-|... |Hyderabad U-19|1|1|1|93|93*|0|1|6|7|-|150.00|-|-|HYD-U19|2826|0|0|-|-|-|-|
+|Karnataka U-19|1|1|0|4|4|0|0|0|0|4.00|36.36|-|-|KAR U-19|2837|0|0|-|-|-|-|... |Haryana U-19|1|1|0|70|70|0|1|5|5|70.00|107.69|-|-|HAR-U19|2843|0|0|-|-|-|-|
+|India D Under-19|1|1|0|19|19|0|0|3|1|19.00|271.42|-|-|INDD-U19|2844|0|0|-|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Bangladesh Under-19|1|10|0|47|3|3/47|1|0|15.66|4.70|20.00|BAN-U19|1155|9|-|-|-|-|
+|Haryana U-19|1|10|1|37|2|2/37|0|0|18.50|3.70|30.00|HAR-U19|2843|9|-|-|-|-|... |Hyderabad U-19|1|9|0|35|3|3/35|1|0|11.66|3.88|18.00|HYD-U19|2826|9|-|-|-|-|... |India B Under-19|1|10|0|67|0|0/67|0|0|-|6.70|-|INDB-U19|1891|9|-|-|-|-|
+|India D Under-19|1|9|1|38|1|1/38|0|0|38.00|4.22|54.00|INDD-U19|2844|9|-|-|-|-|... |India E Under-19|1|9|0|45|3|3/45|1|0|15.00|5.00|18.00|INDE-U19|2845|9|-|-|-|-|
+|India F Under-19|1|9|0|55|0|0/55|0|0|-|6.11|-|INDF-U19|2846|9|-|-|-|-|... |Karnataka U-19|1|5.1|0|19|3|3/19|1|0|6.33|3.67|10.33|KAR U-19|2837|9|-|-|-|-|
+|United Arab Emirates Under-19|1|9|0|24|3|3/24|1|0|8.00|2.66|18.00|UAE-U19|1448|9|-|-|-|-|... |Neutral|5|6|0|18|5 v MUM|0|0|3|0|3.00|32.72|1|0|MUM|1198|1|0|4|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Neutral|7|136.5|16|552|13|3/58 v DEL|4|0|42.46|4.03|63.15|DEL|1199|5|4|-|-|-|... |Neutral|24|10|2|96|24 v CZ|0|0|5|8|12.00|139.13|2|0|CZ|218|3|0|5|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Neutral|24|174.3|6|1012|41|5/42 v PK-A|4|2|24.68|5.79|25.53|PK-A|713|24|5|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Away|1|4|0|36|3|3/36 v GT|1|0|12.00|9.00|8.00|GT|2955|2|6|CSK|Chennai Super Kings|CSK|
+|Home|1|2|0|24|0|0/24 v LSG|0|0|-|12.00|-|LSG|2954|2|6|CSK|Chennai Super Kings|CSK|... |Home|1|1|0|41|41 v SA-U19|0|0|8|0|41.00|157.69|-|-|SA-U19|1172|0|0|21|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Neutral|10|5|1|101|39* v IRE-U19|0|0|8|9|25.25|183.63|2|0|IRE-U19|1149|1|0|22|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Neutral|10|75.1|9|329|10|2/8 v UGA-U19|0|0|32.90|4.37|45.10|UGA-U19|1151|10|22|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Neutral|14|12|4|122|23 v ENT|0|0|4|13|15.25|179.41|4|0|ENT|3850|1|1|73|CSK|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Neutral|14|45.2|0|424|13|4/29 v KT|2|0|32.61|9.35|20.92|KT|3851|14|73|CSK|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Neutral|9|8|2|243|93* v HYD-U19|0|2|20|16|40.50|136.51|2|0|HYD-U19|2826|1|0|-|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Neutral|9|80.1|2|367|18|3/19 v KAR U-19|5|0|20.38|4.57|26.72|KAR U-19|2837|9|-|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2022|2|2|0|6|4 v SAU|0|0|1|0|3.00|25.00|-|-|SAU|1204|0|0|4|-|-|-|... |2023|2|2|0|7|4 v TN|0|0|1|0|3.50|43.75|1|0|TN|1203|0|0|4|-|-|-|
+|2024|1|2|0|5|5 v MUM|0|0|1|0|2.50|33.33|-|-|MUM|1198|1|0|4|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |2022|3|61|10|231|7|3/58 v DEL|2|0|33.00|3.78|52.28|DEL|1199|5|4|-|-|-|
+|2023|3|58.5|6|205|6|3/66 v HYD|2|0|34.16|3.48|58.83|HYD|1213|5|4|-|-|-|... |2024|1|17|0|116|0|0/116 v MUM|0|0|-|6.82|-|MUM|1198|5|4|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2021|5|1|1|7|7* v DEL|0|0|0|1|-|350.00|-|-|DEL|1199|0|0|5|-|-|-|... |2022|8|4|1|26|17 v SER|0|0|1|2|8.66|108.33|1|0|SER|1223|2|0|5|-|-|-|
+|2023|9|5|0|63|24 v CZ|0|0|4|5|12.60|146.51|1|0|CZ|218|1|0|5|-|-|-|... |2024|2|0|0|-|-|0|0|0|0|-|0.00|0|0|MEG|1664|0|0|5|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2021|5|43.5|0|224|10|4/42 v HIM|2|0|22.40|5.11|26.30|HIM|1205|24|5|-|-|-|... |2022|8|64|2|374|15|5/53 v UP|1|1|24.93|5.84|25.60|UP|1209|24|5|-|-|-|
+|2023|9|53.4|4|354|14|5/42 v PK-A|1|1|25.28|6.59|23.00|PK-A|713|24|5|-|-|-|... |2024|2|13|0|60|2|1/27 v MEG|0|0|30.00|4.61|39.00|MEG|1664|24|5|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2023|2|0|0|-|-|0|0|0|0|-|0.00|-|-|GT|2955|0|0|6|CSK|Chennai Super Kings|CSK|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |2023|2|6|0|60|3|3/36 v GT|1|0|20.00|10.00|12.00|GT|2955|2|6|CSK|Chennai Super Kings|CSK|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2019|1|1|0|41|41 v SA-U19|0|0|8|0|41.00|157.69|-|-|SA-U19|1172|0|0|21|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |2019|2|13|0|46|1|1/24 v SA-U19|0|0|46.00|3.53|78.00|SA-U19|1172|1|21|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2021|4|2|0|49|33 v PAK-U19|0|0|6|3|24.50|181.48|1|0|PAK-U19|1170|0|0|22|-|-|-|
+|2022|6|3|1|52|39* v IRE-U19|0|0|2|6|26.00|185.71|1|0|IRE-U19|1149|1|0|22|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2021|4|36|3|185|5|2/36 v BAN-U19|0|0|37.00|5.13|43.20|BAN-U19|1155|10|22|-|-|-|
+|2022|6|39.1|6|144|5|2/8 v UGA-U19|0|0|28.80|3.67|47.00|UGA-U19|1151|10|22|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2023|5|4|0|50|21 v ENT|0|0|1|6|12.50|200.00|3|0|ENT|3850|0|0|73|CSK|-|-|
+|2024|9|8|4|72|23 v ENT|0|0|3|7|18.00|167.44|1|0|ENT|3850|1|1|73|CSK|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2023|5|17|0|151|1|1/23 v RRO|0|0|151.00|8.88|102.00|RRO|3847|14|73|CSK|
+|2024|9|28.2|0|273|12|4/29 v KT|2|0|22.75|9.63|14.16|KT|3851|14|73|CSK|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2021|9|8|2|243|93* v HYD-U19|0|2|20|16|40.50|136.51|2|0|HYD-U19|2826|1|0|-|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2021|9|80.1|2|367|18|3/19 v KAR U-19|5|0|20.38|4.57|26.72|KAR U-19|2837|9|-|-|-|-|
+|Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|0(5) & 5(10)|0/116|Mumbai|Oct 18, 2024|
+|3(13) & DNB|0/24 & 3/66|Hyderabad|Jan 17, 2023|
+|4(3) & DNB|3/115|Tamil Nadu|Jan 10, 2023|
+|4(7)|1/98|Saurashtra|Dec 20, 2022|
+|2(17) & DNB|3/58 & 3/75|Delhi|Dec 13, 2022|
+|Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|DNB|1/33|Sikkim|Dec 31, 2024|
+|DNB|1/27|Meghalaya|Dec 26, 2024|
+|DNB|0/58|Jharkhand|Nov 23, 2023|
+|0(1)|0/43|East Zone|Aug 01, 2023|
+|DNB|1/43|North Zone|Jul 30, 2023|
+|Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|DNB|0/24|Lucknow Super Giants|Apr 03, 2023|
+|DNB|3/36|Gujarat Titans|Mar 31, 2023|
+|Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|41(26) & DNB|0/22 & 1/24|South Africa Under-19|Feb 20, 2019|
+|Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|DNB|0/36|England Under-19|Feb 05, 2022|
+|13(10)|0/26|Australia Under-19|Feb 02, 2022|
+|DNB|1/19|Bangladesh Under-19|Jan 29, 2022|
+|DNB|2/8|Uganda Under-19|Jan 22, 2022|
+|39*(17)|1/17|Ireland Under-19|Jan 19, 2022|
+|Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|9*(10)|4/29|Kolhapur Tuskers|Jun 20, 2024|
+|7(7)|1/18|Puneri Bappa|Jun 17, 2024|
+|0(1)|1/26|Kolhapur Tuskers|Jun 16, 2024|
+|7*(3)|0/47|Eagle Nashik Titans|Jun 14, 2024|
+|DNB|0/22|Ratnagiri Jets|Jun 13, 2024|
+|Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|
+|48*(23)|3/24|United Arab Emirates Under-19|Dec 23, 2021|
+|8(6)|3/47|Bangladesh Under-19|Nov 29, 2021|
+|DNB|0/67|India B Under-19|Nov 28, 2021|
+|0(2)|3/45|India E Under-19|Nov 10, 2021|
+|1(2)|0/55|India F Under-19|Nov 04, 2021|

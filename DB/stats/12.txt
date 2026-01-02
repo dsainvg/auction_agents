@@ -1,26 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: MOHAMMED SIRAJ
+IPL PLAYER PROFILE: WIAAN MULDER
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Mohammed Siraj
-  IPL Debut                : 2017
-  Date of Birth            : 13 March 1994
-  Total IPL Matches        : 108
-  Role                     : WK-Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  One of India’s premier fast bowlers, Mohammed Siraj has built a
-  reputation for swinging the new ball and striking early in the powerplay.
-  The Hyderabad-born pacer made his IPL debut for Sunrisers Hyderabad in 2017
-  before moving to Royal Challengers Bengaluru in 2018, where he became a
-  mainstay in their bowling attack. Siraj remains a high-impact player with
-  close to 200 international wickets and being a part of India’s T20 World Cup
-  2024-winning campaign. Gujarat Titans invested heavily in him, securing his
-  services for a staggering INR 12.25 Crore at the 2025 TATA IPL Auction.
+  Player Name              : Wiaan Mulder
+  IPL Debut                : 2025
+  Date of Birth            : 19 February 1998
+  Total IPL Matches        : 1
+  Nationality              : South African
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -30,16 +18,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   108    |    16    |   112    |    14    |  11.20   |   123    |  91.06   |    0     |    0     |    10    |    4     |    34    |    0    
-    2025   |    15    |    1     |    3     |    3*    |    -     |    4     |  75.00   |    0     |    0     |    0     |    0     |    5     |    0    
-    2024   |    14    |    1     |    12    |    12    |   6.00   |    8     |  150.00  |    0     |    0     |    0     |    2     |    3     |    0    
-    2023   |    14    |    1     |    1     |    1*    |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    4     |    0    
-    2022   |    15    |    3     |    30    |   14*    |  15.00   |    33    |  90.91   |    0     |    0     |    5     |    0     |    6     |    0    
-    2021   |    15    |    3     |    20    |   12*    |  20.00   |    26    |  76.92   |    0     |    0     |    1     |    1     |    4     |    0    
-    2020   |    9     |    2     |    17    |   10*    |  17.00   |    14    |  121.42  |    0     |    0     |    2     |    0     |    4     |    0    
-    2019   |    9     |    3     |    4     |    3*    |   4.00   |    14    |  28.57   |    0     |    0     |    0     |    0     |    2     |    0    
-    2018   |    11    |    2     |    25    |    14    |  12.50   |    22    |  113.63  |    0     |    0     |    2     |    1     |    5     |    0    
-    2017   |    6     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
+   Career  |    1     |    0     |    9     |    9     |   9.00   |    11    |  81.82   |    0     |    0     |    1     |    0     |    1     |    0    
+    2025   |    1     |    0     |    9     |    9     |   9.00   |    11    |  81.82   |    0     |    0     |    1     |    0     |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -49,17 +29,146 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   108    |   2300   |   3350   |   109    |   4/17   |  30.73   |   8.74   |  21.10   |    3     |    0    
-    2025   |    15    |   342    |   527    |    16    |   4/17   |  32.94   |   9.25   |  21.38   |    1     |    0    
-    2024   |    14    |   324    |   496    |    15    |   3/43   |  33.07   |   9.19   |  21.60   |    0     |    0    
-    2023   |    14    |   300    |   376    |    19    |   4/21   |  19.79   |   7.52   |  15.79   |    1     |    0    
-    2022   |    15    |   306    |   514    |    9     |   2/30   |  57.11   |  10.08   |  34.00   |    0     |    0    
-    2021   |    15    |   312    |   353    |    11    |   3/27   |  32.09   |   6.78   |  28.36   |    0     |    0    
-    2020   |    9     |   163    |   236    |    11    |   3/8    |  21.45   |   8.68   |  14.81   |    0     |    0    
-    2019   |    9     |   169    |   269    |    7     |   2/38   |  38.42   |   9.55   |  24.14   |    0     |    0    
-    2018   |    11    |   246    |   367    |    11    |   3/25   |  33.36   |   8.95   |  22.36   |    0     |    0    
-    2017   |    6     |   138    |   212    |    10    |   4/32   |  21.20   |   9.21   |  13.80   |    1     |    0    
+   Career  |    1     |    6     |    16    |    0     |   0/16   |    -     |  16.00   |    -     |    0     |    0    
+    2025   |    1     |    6     |    16    |    0     |   0/16   |    -     |  16.00   |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/mohammed-siraj/3840
+Source: https://www.iplt20.com/players/wiaan-mulder/22376
 ================================================================================
+# Wiaan Mulder
+
+South Africa
+
+T20 Stats
+
+Dream11 PPG
+
+21.65
+
+Innings
+
+106
+
+Runs
+
+2181
+
+Average
+
+26.92
+
+Strike Rate
+
+132.58
+
+ODI Stats
+
+Dream11 PPG
+
+36.29
+
+Innings
+
+24
+
+Runs... 338
+
+Average
+
+18.77
+
+Strike Rate
+
+84.92
+
+Unbeaten 35 in second innings
+
+**All Rounder**South Africa
+
+Mulder scored 35 not out off 69 balls with the help of five fours for South Africa during their second innings in the second Test against India in Guwahati on Tuesday.... **ANALYSIS**
+
+Mulder had a decent outing with the bat in hand. The right-hander scored crucial 35 runs for the visiting side. It was Mulder's first score of 30 or more in the series.
+
+Batting Stats - Format
+
+By Format
+
+By Competition
+
+Batting Stats - Format... Loading Batting Stats...
+
+Bowling Stats - Format
+
+Loading Bowling Stats...
+
+Batting Stats - Competition
+
+Loading Batting Stats...
+
+Bowling Stats - Competition
+
+Loading Bowling Stats...
+
+Cricket Game Log - Bowling
+
+Calculate Stats Over Time
+
+Just click on any two dates.
+
+Scoring
+
+Dream11
+
+Loading Bowling Game Log...... Cricket Game Log - Batting
+
+Calculate Stats Over Time
+
+Just click on any two dates.
+
+Scoring
+
+Dream11
+
+Loading Batting Game Log...
+
+Cricket Game Log - Fielding
+
+Calculate Stats Over Time
+
+Just click on any two dates.
+
+Scoring
+
+Dream11
+
+Loading Fielding Game Log...... More Fantasy News
+
+Four wickets in first innings
+
+**All Rounder**South Africa
+
+Mulder registered figures of four for 50 for South Africa during Zimbabwe's first innings in Bulawayo on Sunday.
+
+Two wickets defending 315
+
+**All Rounder**South Africa
+
+Mulder registered figures of two for 36 for South Africa during a 107-run win against Afghanistan in the ICC Champions Trophy 2025 in Karachi on Friday.... Returns from injury
+
+**All Rounder**South Africa
+
+Mulder (finger) returns to playing XI after recovering from the injury.
+
+Out with finger injury
+
+**All Rounder**South Africa
+
+Finger
+
+Mulder has been excluded from the remaining Sri Lanka Tests due to a fractured right middle finger, Cricbuzz reports.... Ruled out of West Indies ODIs
+
+**All Rounder**South Africa
+
+Back
+
+Mulder has been ruled out of the upcoming three-match ODI series against West Indies due to a side strain, Reuters reports.

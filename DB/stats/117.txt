@@ -1,40 +1,291 @@
-================================================================================
-IPL PLAYER PROFILE: RICKY BHUI
-================================================================================
-
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Ricky Bhui
-  IPL Debut                : 2018
-  Date of Birth            : 29 September 1996
-  Total IPL Matches        : 4
-  Role                     : Wicketkeeper Batter
-  Nationality              : Indian
-
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    4     |    0     |    10    |    7     |   2.50   |    26    |  38.46   |    0     |    0     |    0     |    0     |    0     |    0    
-    2024   |    2     |    0     |    3     |    3     |   1.50   |    9     |  33.33   |    0     |    0     |    0     |    0     |    0     |    0    
-    2019   |    1     |    0     |    7     |    7     |   7.00   |    12    |  58.33   |    0     |    0     |    0     |    0     |    0     |    0    
-    2018   |    1     |    0     |    0     |    0*    |   0.00   |    5     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-
-================================================================================
-Source: https://www.iplt20.com/players/ricky-bhui/1555
-================================================================================
+|## Yuvraj Chaudhary Introduction|
+|--|
+|Role|Bowler|
+|Batting|Left Handed|
+|Bowling|spin Left-arm orthodox|
+|Country|
+|--|
+|Birth|6-Oct-2001 (23 yr), Haridwar|
+|Height|--|
+|Teams|India U19 A (Mostly)|
+|Social Accounts|
+|Last Updated|Last updated 14 hours ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Yuvraj Chaudhary Upcoming Matches|
+|--|
+|LSG vs BLR (70th Match) Stats|
+|## Yuvraj Chaudhary Stats|
+|--|
+|Competition|SMAT|DT20|VHT|
+|Matches|6|7|4|
+|Highest Score|78|103|17|
+|Runs|164|269|35|
+|50s|1|2|0|
+|100s|0|1|0|
+|Run Per Inn|41.0|44.8|8.7|
+|Run Per Match|27.3|38.4|8.7|
+|Boundary (In Ball)|4.5|4.0|9.0|
+|4s (In Ball)|7.3|9.1|11.2|
+|6s (In Ball)|12.2|7.3|45.0|
+|Wickets|1|5|6|
+|Over Per Match|0.4|3.5|8.3|
+|Wicket Per Inn|1.0|0.7|1.5|
+|Wicket Per Match|0.1|0.7|1.5|
+|Wicket (In Ball)|24.0|32.4|34.0|
+|Wicket (In Runs)|26.0|40.2|33.1|
+|Field In Match %|50 %|171 %|50 %|
+|Catch In Match %|50 %|42 %|50 %|
+|Check More Stats On Advance Cricket App|
+|## Yuvraj Chaudhary Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|22 Sep 24|T20|152|50|6|212|
+|20 Sep 24|T20|106|-6|0|104|
+|19 Sep 24|T20|92|0|0|96|
+|17 Sep 24|T20|3|39|36|82|
+|25 Oct 23|T20|28|0|8|40|
+|23 Oct 23|T20|50|0|16|70|
+|19 Oct 23|T20|0|0|0|4|
+|17 Oct 23|T20|106|0|0|110|
+|16 Oct 23|T20|35|0|0|39|
+|29 Jun 23|T20|14|37|8|63|
+|27 Jun 23|T20|9|0|8|21|
+|12 Oct 22|T20|0|31|26|61|
+|14 Dec 21|ODI|5|60|0|69|
+|12 Dec 21|T20|5|4|18|31|
+|11 Dec 21|ODI|20|0|8|32|
+|09 Dec 21|ODI|-3|83|8|92|
+|08 Dec 21|ODI|14|33|0|51|
+|09 Nov 21|T20|0|27|0|31|
+|## Yuvraj Chaudhary Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|22 Sep 24|UI vs NAN|1|103(49)|210.2|catch|
+|20 Sep 24|UI vs DHD|1|78(47)|165.9|catch|
+|19 Sep 24|UI vs NAN|1|64(32)|200|catch|
+|17 Sep 24|UI vs PIC|1|3(6)|50|catch|
+|25 Oct 23|UT vs RJS|1|22(15)|146.6|catch|
+|23 Oct 23|UT vs BEN|1|37(27)|137|catch|
+|19 Oct 23|JHA vs UT|DNB|
+|17 Oct 23|UT vs MAH|1|78(50)|156|catch|
+|16 Oct 23|UT vs VID|1|27(18)|150|lbw|
+|29 Jun 23|DHD vs TET|7|13(13)|100|catch|
+|27 Jun 23|DHD vs PIC|8|8(8)|100|catch|
+|12 Oct 22|CHN vs SIK|DNB|
+|14 Dec 21|CDG vs MAH|9|4(1)|400|not out|
+|11 Dec 21|CDG vs CG|8|17(14)|121.4|catch|
+|09 Dec 21|CDG vs UTK|9|0(2)|0|catch|
+|08 Dec 21|CDG vs KER|7|14(28)|50|catch|
+|Yuvraj Chaudhary Recent Batting|
+|## Yuvraj Chaudhary Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|22 Sep 24|UI vs NAN|4.0|34|2|0|8.50|
+|20 Sep 24|UI vs DHD|4.0|53|0|0|13.25|
+|19 Sep 24|UI vs NAN|4.0|31|0|0|7.75|
+|17 Sep 24|UI vs PIC|4.0|15|1|0|3.75|
+|25 Oct 23|UT vs RJS|DNB|
+|23 Oct 23|UT vs BEN|DNB|
+|19 Oct 23|JHA vs UT|DNB|
+|17 Oct 23|UT vs MAH|DNB|
+|16 Oct 23|UT vs VID|DNB|
+|29 Jun 23|DHD vs TET|4.0|23|1|0|5.75|
+|27 Jun 23|DHD vs PIC|4.0|33|0|0|8.25|
+|12 Oct 22|CHN vs SIK|3.0|12|1|0|4.00|
+|14 Dec 21|CDG vs MAH|8.0|62|2|1|7.75|
+|11 Dec 21|CDG vs CG|10.0|58|0|0|5.80|
+|09 Dec 21|CDG vs UTK|10.0|48|3|2|4.80|
+|08 Dec 21|CDG vs KER|6.0|31|1|0|5.16|
+|Yuvraj Chaudhary Recent Bowling All Recent Bowling Details|
+|Competition|SMAT|DT20|VHT|
+|--|--|--|--|
+|Matches|6|7|4|
+|Innings|4|6|4|
+|Not Out|0|0|1|
+|Runs|164|269|35|
+|Highest Score|78|103|17|
+|Average|41.00|44.83|11.66|
+|Balls Faced|110|155|45|
+|Strike Rate|149|173.5|77.7|
+|20s|2|0|0|
+|30s|1|0|0|
+|50s|1|2|0|
+|100s|0|1|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|15|17|4|
+|6s|9|21|1|
+|Outtype|
+|LBW|1|0|0|
+|Bowled|0|0|0|
+|Stumped|0|0|0|
+|Catch|3|6|3|
+|Run Out|0|0|0|
+|Wicket Taker|
+|Left Arm|3|1|2|
+|1- Fast|0|0|0|
+|2- Fast-Medium|1|0|0|
+|3- Medium|0|0|1|
+|4- Slow|2|1|1|
+|1- Bowled|0|0|0|
+|2- Catch|2|1|2|
+|3- Stumped|0|0|0|
+|4- Lbw|1|0|0|
+|Right Arm|1|4|1|
+|1- Fast|0|0|0|
+|2- Fast-Medium|0|4|0|
+|3- Medium|1|0|1|
+|4- Slow|0|0|0|
+|1- Bowled|0|0|0|
+|2- Catch|1|4|1|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Competition|SMAT|DT20|VHT|
+|--|--|--|--|
+|Matches|6|7|4|
+|Innings|1|7|4|... |Balls|24|162|204|
+|Runs|26|201|199|
+|BBI|
+|Average|26.00|40.20|33.16|
+|Strike Rate|24.00|32.40|34.00|
+|Maiden|0|0|3|
+|2w|0|1|1|... |3w|0|0|1|
+|5w|0|0|0|
+|8w|0|0|0|
+|10w|0|0|0|
+|Wickets|1|5|6|
+|LBW|0|1|0|
+|Bowled|0|1|2|... |Stumped|1|0|1|
+|Catch|0|2|3|
+|Batsman Type|
+|Right Handed|1|3|5|
+|1- LBW|0|0|0|
+|2- Bowled|0|1|2|
+|3- Stumped|1|0|1|... |4- Catch|0|2|2|
+|Left Handed|0|0|1|
+|1- LBW|0|0|0|
+|2- Bowled|0|0|0|
+|3- Stumped|0|0|0|
+|4- Catch|0|0|1|... Yuvraj Chaudhary played 6 SMAT matches and scored 164 runs in 4 Innings. Yuvraj Chaudhary's Highest Score in SMAT is 78. Y Chaudhary has 0 SMAT centuries, 1 SMAT half centuries and 1 times 30+ and 2 times 20+ SMAT runs.... Y Chaudhary has a strike rate of 149 with run per match of 27.33 in 110 SMAT balls. Yuvraj Chaudhary made total 24 boundaries with 15 fours and 9 sixes in SMAT. Y Chaudhary's SMAT outtype analysis are lbw 1 times, bowled 0, stumped 0 times, catch 3 times, Run Out 0 times.... Yuvraj Chaudhary's SMAT wicket takers are 3 left arm and 1 right arm. Y Chaudhary's Left Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 1 wickets, Medium bowler 0 wickets, Slow bowler 2 wickets.... Yuvraj Chaudhary's Right Arm SMAT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 1 wickets, Slow bowler 0 wickets. Y Chaudhary's wicket taken by Left Arm Bowlers in SMAT analysis are lbw 1 wickets, bowled 0 wickets, stumped 0 wickets, catch 2 wickets.... Yuvraj Chaudhary's wicket taken by Right Arm Bowlers in SMAT analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets.... Yuvraj Chaudhary Took 1 Wickets (In 1 SMAT innings) with Strike Rate of 24.00 and average of 26.00. Y Chaudhary's delivered 24 balls (with 0 Maiden over) and took 2 wickets 0 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 1 Right Handed and 0 Left Handed batsman out by Yuvraj Chaudhary in SMAT. Right Handed Batsman SMAT outtype analysis (wicket taken by Y Chaudhary) are LBW 0 times, Bowled 0 times, Stumped 1 times, Catch 0 times. Left Handed Batsman SMAT outtype analysis (wicket taken by Y Chaudhary) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Yuvraj Chaudhary Fielding analysis are Catch 3 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Yuvraj Chaudhary played 7 DT20 matches and scored 269 runs in 6 Innings. Yuvraj Chaudhary's Highest Score in DT20 is 103. Y Chaudhary has 1 DT20 centuries, 2 DT20 half centuries and 0 times 30+ and 0 times 20+ DT20 runs.... Y Chaudhary has a strike rate of 173.5 with run per match of 38.42 in 155 DT20 balls. Yuvraj Chaudhary made total 38 boundaries with 17 fours and 21 sixes in DT20. Y Chaudhary's DT20 outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 6 times, Run Out 0 times.... Yuvraj Chaudhary's DT20 wicket takers are 1 left arm and 4 right arm. Y Chaudhary's Left Arm DT20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets.... Yuvraj Chaudhary's Right Arm DT20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 4 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Y Chaudhary's wicket taken by Left Arm Bowlers in DT20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets.... Yuvraj Chaudhary's wicket taken by Right Arm Bowlers in DT20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 4 wickets.... Yuvraj Chaudhary Took 5 Wickets (In 7 DT20 innings) with Strike Rate of 32.40 and average of 40.20. Y Chaudhary's delivered 162 balls (with 0 Maiden over) and took 2 wickets 1 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 3 Right Handed and 0 Left Handed batsman out by Yuvraj Chaudhary in DT20. Right Handed Batsman DT20 outtype analysis (wicket taken by Y Chaudhary) are LBW 0 times, Bowled 1 times, Stumped 0 times, Catch 2 times. Left Handed Batsman DT20 outtype analysis (wicket taken by Y Chaudhary) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 0 times.... Yuvraj Chaudhary Fielding analysis are Catch 3 times, Stumping 0 times, Direct Throw(Run Out) 4 times, Throw(Run Out) 1 times.... Yuvraj Chaudhary played 4 VHT matches and scored 35 runs in 4 Innings. Yuvraj Chaudhary's Highest Score in VHT is 17. Y Chaudhary has 0 VHT centuries, 0 VHT half centuries and 0 times 30+ and 0 times 20+ VHT runs.... Y Chaudhary has a strike rate of 77.7 with run per match of 8.75 in 45 VHT balls. Yuvraj Chaudhary made total 5 boundaries with 4 fours and 1 sixes in VHT. Y Chaudhary's VHT outtype analysis are lbw 0 times, bowled 0, stumped 0 times, catch 3 times, Run Out 0 times.... Yuvraj Chaudhary's VHT wicket takers are 2 left arm and 1 right arm. Y Chaudhary's Left Arm VHT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 1 wickets, Slow bowler 1 wickets.... Yuvraj Chaudhary's Right Arm VHT Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 1 wickets, Slow bowler 0 wickets. Y Chaudhary's wicket taken by Left Arm Bowlers in VHT analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 2 wickets.... Yuvraj Chaudhary's wicket taken by Right Arm Bowlers in VHT analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets.... Yuvraj Chaudhary Took 6 Wickets (In 4 VHT innings) with Strike Rate of 34.00 and average of 33.16. Y Chaudhary's delivered 204 balls (with 3 Maiden over) and took 2 wickets 1 times 3 wickets 1 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 5 Right Handed and 1 Left Handed batsman out by Yuvraj Chaudhary in VHT. Right Handed Batsman VHT outtype analysis (wicket taken by Y Chaudhary) are LBW 0 times, Bowled 2 times, Stumped 1 times, Catch 2 times. Left Handed Batsman VHT outtype analysis (wicket taken by Y Chaudhary) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 1 times.... Yuvraj Chaudhary Fielding analysis are Catch 2 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Yuvraj Chaudhary plays cricket as Bowler. Y Chaudhary wicket per match stats are 0.1 in SMAT, 0.7 in DT20, 1.5 in VHT. Yuvraj Chaudhary wicket in every 24.0 balls in SMAT, 32.4 balls in DT20, 34.0 balls in VHT.... Y Chaudhary catch chances in match are 50 % in SMAT, 42.8 % in DT20, 50 % in VHT. Yuvraj Chaudhary field chances are 50 % in SMAT, 171.4 % in DT20, 50 % in VHT.... |## Yuvraj Chaudhary stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|CDG|all|SMAT|0|0|Stats|
+|UT|all|SMAT|4|78|41.00|Stats|
+|JHA|all|SMAT|0|0|Stats|
+|CDG|all|VHT|4|17|11.66|Stats|
+|CHN|all|DT20|0|0|Stats|
+|DHD|all|DT20|2|13|10.50|Stats|
+|UI|all|DT20|4|103|62.00|Stats|
+|## Yuvraj Chaudhary stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Gurgaon Cricket Ground|all|SMAT|0|0|Stats|
+|Maharaja Yadavindra Singh Inte|all|SMAT|2|78|52.50|Stats|
+|Punjab Cricket Association IS|all|SMAT|2|37|29.50|Stats|
+|Madhavrao Scindia Cricket Grou|all|VHT|2|14|7.00|Stats|
+|Saurashtra Cricket Association|all|VHT|1|17|17.00|Stats|
+|Saurashtra Cricket Association|all|VHT|1|4|4.00|Stats|
+|Bharat Ratna Shri Atal Bihari|all|DT20|0|0|Stats|
+|Rajiv Gandhi International Cri|all|DT20|6|103|44.83|Stats|
+|## Yuvraj Chaudhary stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Gurgaon Cricket Ground|all|SMAT|1|1|6.50|Stats|
+|Madhavrao Scindia Cricket Grou|all|VHT|2|4|4.93|Stats|
+|Saurashtra Cricket Association|all|VHT|1|0|5.80|Stats|
+|Saurashtra Cricket Association|all|VHT|1|2|7.75|Stats|
+|Bharat Ratna Shri Atal Bihari|all|DT20|1|1|4.00|Stats|
+|Rajiv Gandhi International Cri|all|DT20|6|4|7.87|Stats|
+|## Yuvraj Chaudhary stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|SMAT 2021-22|all|SMAT|0|0|Stats|
+|SMAT 2023|all|SMAT|4|78|41.00|Stats|
+|VHT 2021-22|all|VHT|4|17|11.66|Stats|
+|Syed Mushtaq Ali Trophy 2022|all|DT20|0|0|Stats|
+|Uttarakhand Premier League 202|all|DT20|2|13|10.50|Stats|
+|UPL 2024|all|DT20|4|103|62.00|Stats|
+|## Yuvraj Chaudhary stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|SMAT 2021-22|all|SMAT|1|1|6.50|Stats|
+|VHT 2021-22|all|VHT|4|6|5.85|Stats|
+|Syed Mushtaq Ali Trophy 2022|all|DT20|1|1|4.00|Stats|
+|Uttarakhand Premier League 202|all|DT20|2|1|7.00|Stats|
+|UPL 2024|all|DT20|4|3|8.31|Stats|
+|## Yuvraj Chaudhary stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|India|all|SMAT|4|78|41.00|Stats|
+|India|all|VHT|4|17|11.66|Stats|
+|India|all|DT20|6|103|44.83|Stats|
+|## Yuvraj Chaudhary stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|UTK|all|SMAT|0|0|Stats|
+|VID|all|SMAT|1|27|27.00|Stats|
+|MAH|all|SMAT|1|78|78.00|Stats|
+|BEN|all|SMAT|1|37|37.00|Stats|
+|RJS|all|SMAT|1|22|22.00|Stats|
+|KER|all|VHT|1|14|14.00|Stats|
+|UTK|all|VHT|1|0|0.00|Stats|
+|CG|all|VHT|1|17|17.00|Stats|
+|MAH|all|VHT|1|4|4.00|Stats|
+|SIK|all|DT20|0|0|Stats|
+|## Yuvraj Chaudhary stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|
+|## Yuvraj Chaudhary stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|## Yuvraj Chaudhary stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|SMAT 2021-22|UTK|SMAT|0|0|Stats|
+|SMAT 2023|UT|SMAT|0|0|Stats|
+|SMAT 2023|RJS|SMAT|1|22|22.00|Stats|
+|SMAT 2023|BEN|SMAT|1|37|37.00|Stats|
+|SMAT 2023|JHA|SMAT|0|0|Stats|
+|SMAT 2023|MAH|SMAT|1|78|78.00|Stats|
+|SMAT 2023|VID|SMAT|1|27|27.00|Stats|
+|VHT 2021-22|KER|VHT|1|14|14.00|Stats|
+|VHT 2021-22|MAH|VHT|1|4|4.00|Stats|
+|VHT 2021-22|CG|VHT|1|17|17.00|Stats|
+|## Yuvraj Chaudhary stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|SMAT 2021-22|UTK|SMAT|1|1|6.50|Stats|
+|VHT 2021-22|KER|VHT|1|1|5.16|Stats|
+|VHT 2021-22|UTK|VHT|1|3|4.80|Stats|
+|VHT 2021-22|CG|VHT|1|0|5.80|Stats|
+|VHT 2021-22|MAH|VHT|1|2|7.75|Stats|
+|Syed Mushtaq Ali Trophy 2022|SIK|DT20|1|1|4.00|Stats|
+|Uttarakhand Premier League 202|PIC|DT20|1|0|8.25|Stats|
+|Uttarakhand Premier League 202|TET|DT20|1|1|5.75|Stats|
+|UPL 2024|DHD|DT20|1|0|13.25|Stats|
+|UPL 2024|NAN|DT20|2|2|8.12|Stats|
+|## Yuvraj Chaudhary stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|India|all|UTK|SMAT|0|0|Stats|
+|India|all|VID|SMAT|1|27|27.00|Stats|
+|India|all|MAH|SMAT|1|78|78.00|Stats|
+|India|all|JHA|SMAT|0|0|Stats|
+|India|all|BEN|SMAT|1|37|37.00|Stats|
+|India|all|RJS|SMAT|1|22|22.00|Stats|
+|India|all|KER|VHT|1|14|14.00|Stats|
+|India|all|UTK|VHT|1|0|0.00|Stats|
+|India|all|MP|VHT|0|0|Stats|
+|India|all|CG|VHT|1|17|17.00|Stats|
+|## Yuvraj Chaudhary stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|... |India|all|UTK|SMAT|1|1|6.50|Stats|
+|India|all|KER|VHT|1|1|5.16|Stats|
+|India|all|UTK|VHT|1|3|4.80|Stats|
+|India|all|CG|VHT|1|0|5.80|Stats|... |India|all|MAH|VHT|1|2|7.75|Stats|
+|India|all|SIK|DT20|1|1|4.00|Stats|
+|India|all|PIC|DT20|1|0|8.25|Stats|
+|India|all|TET|DT20|1|1|5.75|Stats|... |India|all|DHD|DT20|1|0|13.25|Stats|
+|India|all|NAN|DT20|2|2|8.12|Stats|

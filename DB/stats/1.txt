@@ -1,30 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: JOS BUTTLER
+IPL PLAYER PROFILE: DEVON CONWAY
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Jos Buttler
-  IPL Debut                : 2016
-  Date of Birth            : 08 September 1990
-  Total IPL Matches        : 121
-  Role                     : Wicketkeeper Batter
-  Nationality              : English
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  The swashbuckling wicketkeeper-batsman will be out to make an impact as
-  RR hope to utilise his international experience to guide them and end their
-  long run for a second title. The right-hander had scored 328 runs in the IPL
-  2020. While he had to leave IPL 2019 midway to join the England team for the
-  World Cup 2019 preparations, he made an impact during his eight-game stint,
-  scoring 311 runs, following his 548-run season in IPL 2018. Buttler has
-  since then added a World Cup glory to his feather but didn’t quite have the
-  best of seasons with RR as he scored 254 runs in 7 matches, including a
-  sterling century in 2021. Being a senior member of the squad and someone who
-  was retained before the auction, Buttler will have a crucial role to play in
-  the leadership group first and then set the stage on fire with his
-  attractive stroke play.
+  Player Name              : Devon Conway
+  IPL Debut                : 2022
+  Date of Birth            : 08 July 1991
+  Total IPL Matches        : 29
+  Role                     : Batter
+  Nationality              : South African
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -34,17 +19,10 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   121    |    16    |   4120   |   124    |  40.00   |   2758   |  149.38  |    7     |    24    |   407    |   185    |    63    |    3    
-    2025   |    14    |    4     |   538    |   97*    |  59.78   |   330    |  163.03  |    0     |    5     |    52    |    24    |    8     |    2    
-    2024   |    11    |    2     |   359    |   107*   |  39.89   |   255    |  140.78  |    2     |    0     |    36    |    12    |    3     |    0    
-    2023   |    14    |    0     |   392    |    95    |  28.00   |   282    |  139.01  |    0     |    4     |    42    |    14    |    9     |    0    
-    2022   |    17    |    2     |   863    |   116    |  57.53   |   579    |  149.05  |    4     |    4     |    83    |    45    |    9     |    0    
-    2021   |    7     |    0     |   254    |   124    |  36.28   |   166    |  153.01  |    1     |    0     |    27    |    13    |    3     |    0    
-    2020   |    13    |    2     |   328    |   70*    |  32.80   |   227    |  144.49  |    0     |    2     |    27    |    16    |    6     |    0    
-    2019   |    8     |    0     |   311    |    89    |  38.87   |   205    |  151.70  |    0     |    3     |    38    |    14    |    8     |    0    
-    2018   |    13    |    3     |   548    |   95*    |  54.80   |   353    |  155.24  |    0     |    5     |    52    |    21    |    9     |    1    
-    2017   |    10    |    0     |   272    |    77    |  27.20   |   177    |  153.67  |    0     |    1     |    27    |    15    |    1     |    0    
-    2016   |    14    |    3     |   255    |    41    |  23.18   |   184    |  138.58  |    0     |    0     |    23    |    11    |    7     |    0    
+   Career  |    29    |    3     |   1080   |   92*    |  43.20   |   773    |  139.72  |    0     |    11    |   116    |    34    |    10    |    0    
+    2025   |    6     |    0     |   156    |    69    |  26.00   |   119    |  131.09  |    0     |    2     |    17    |    4     |    2     |    0    
+    2023   |    16    |    2     |   672    |   92*    |  51.69   |   481    |  139.71  |    0     |    6     |    77    |    18    |    6     |    0    
+    2022   |    7     |    1     |   252    |    87    |  42.00   |   173    |  145.66  |    0     |    3     |    22    |    12    |    2     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -54,18 +32,52 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   121    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    17    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2021   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2019   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2017   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    29    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/jos-buttler/509
+Source: https://www.iplt20.com/players/devon-conway/20572
 ================================================================================
+**Devon Philip Conway** (born 8 July 1991) is a New Zealand cricketer who plays for the New Zealand cricket team in all formats. In March 2020, the International Cricket Council (ICC) confirmed that Conway, who was born in South Africa, would be eligible to play for New Zealand from 28 August 2020. In May 2020, New Zealand Cricket awarded him a central contract, ahead of the 2020–21 season.... Conway made his international debut for New Zealand in November 2020. In June 2021, in his first Test match, Conway became the second batter for New Zealand after Mathew Sinclair, and seventh overall, to score a double century on his Test debut. During the same month, Conway was also a member of the New Zealand team that won the 2021 ICC World Test Championship final, and had a key contribution scoring 54 runs in the first innings.... He was named the ICC Men's Player of the Month for June 2021 and in April 2022, Conway was named as one of the five *Wisden* Cricketers of the Year.... ## Domestic and T20 franchise career
+
+Conway started playing in South African domestic cricket. In August 2015, he was included in Gauteng's squad for the 2015 Africa T20 Cup. He played in all three matches for Gauteng, scoring 53 runs. In August 2017, at the age of 26, he moved to New Zealand to pursue a cricket career.... In June 2018, he was awarded a contract with Wellington for the 2018–19 season in New Zealand. In the second round of the 2018–19 Plunket Shield season, Conway scored an unbeaten double century against Otago at the Basin Reserve. He was the leading run-scorer in the 2018–19 Super Smash, with 363 runs in nine matches. He was also the leading run-scorer in the 2018–19 Plunket Shield season, with 659 runs in seven matches.... In March 2019, he was named as the Men's Domestic Player of the Year at the annual New Zealand Cricket Awards. In October 2019, in the 2019–20 Plunket Shield season, Conway scored an unbeaten 327 for Wellington against Canterbury. It was the ninth triple century in first-class cricket in New Zealand.... He went on to score 393 runs in the match, the most number of runs scored in a single first-class match in New Zealand. On 6 January 2020, in the 2019–20 Super Smash tournament, Conway scored an unbeaten century, from 49 balls. He was the leading run-scorer in the tournament, with 543 runs in eleven matches.... He was also the leading run-scorer in the 2019–20 Ford Trophy, with 553 runs in ten matches, and the leading run-scorer in the 2019–20 Plunket Shield season, with 701 runs in six matches.
+
+In April 2020, Conway was named the men's domestic player of the year by New Zealand Cricket at their annual award ceremony. The following month, he was signed by Somerset County Cricket Club to play in the 2021 T20 Blast in England.... In February 2022, he was bought by Chennai Super Kings in the auction for the 2022 Indian Premier League tournament. He made seven appearances in 2022 and scoring 252 runs at an average of 42 and was part of an opening wicket stand of 182 runs with Ruturaj Gaikwad against Sunrisers Hyderabad, setting a new Chennai record.... In the 2023 IPL season, CSK would go on to win the title, beating the Gujarat Titans in the final, where Conway played a pivotal knock of 47(25) in the chase and was declared the player of the match. He ended the 2023 IPL season with the third most runs at 672, with a strike rate of 139.7.
+
+In June 2023, Texas Super Kings added Conway to the roster for the inaugural season of Major League Cricket. He played in seven matches, scoring 221 runs, the fourth most of the league.... ## International career
+
+In November 2020, Conway was named in the New Zealand A cricket team for practice matches against the touring West Indies team. Later the same month, he was named in New Zealand's Twenty20 International (T20I) squad for the series against the West Indies. He made his T20I debut for New Zealand on 27 November 2020, against the West Indies. In December 2020, Conway was added to New Zealand's Test squad, covering for BJ Watling who suffered a hamstring injury.... In March 2021, Conway was named in New Zealand's One Day International (ODI) squad for their series against Bangladesh. He made his ODI debut for New Zealand on 20 March 2021, against Bangladesh. On 26 March 2021, Conway scored his first century in ODI cricket, in the third match of the series against Bangladesh.... In April 2021, Conway was named in New Zealand's Test squad for their series against England, and for the final of the 2019–21 ICC World Test Championship. Conway made his Test debut on 2 June 2021, for New Zealand against England. In the match Conway became the 12th batsman for New Zealand to score a century on his Test debut, and the first visiting batsman after Sourav Ganguly to hit a century at Lord's on Test debut.... Conway's score of 200 was the highest score by a men's Test debutant in England. At the age of 29 years and 329 days, Conway also became the oldest batsman to score a double century on his Test debut.
+
+In August 2021, Conway was named in New Zealand's squad for the 2021 ICC Men's T20 World Cup. However, Conway was ruled out of New Zealand's squad for the final of the tournament after breaking his hand during the semi-final match against England.... In December 2022, during the 1st Test against Pakistan, Conway scored 92 runs, and became the fastest New Zealand batter to complete 1000 runs in Tests in 19 innings.
+
+In May 2024, he was named in New Zealand’s squad for the 2024 ICC Men's T20 World Cup tournament.... ## Personal life
+
+Devon Conway born on 8 July 1991. His father's name is Denton Conway. In April 2022, Conway married his long time girlfriend Kim Watson in South Africa. His father died in April 2025.
+
+## References... ## External links
+- Devon Conway at ESPNcricinfo
+
+Categories: - 1991 births
+
+- Living people
+- White South African people
+- South African cricketers
+- Gauteng cricketers
+- Dolphins (South African cricket team) players
+- Lions cricketers
+- Wellington cricketers
+- Somerset cricketers
+- Cricketers from Johannesburg
+- South African emigrants to New Zealand... - New Zealand cricketers
+- New Zealand Test cricketers
+- New Zealand One Day International cricketers
+- New Zealand Twenty20 International cricketers
+- Cricketers who made a century on Test debut
+- Southern Brave cricketers
+- Wisden Cricketers of the Year
+- Chennai Super Kings cricketers... - New Zealand expatriate cricketers in India
+- New Zealand expatriate cricketers in England
+- Cricketers at the 2023 Cricket World Cup
+- Joburg Super Kings cricketers

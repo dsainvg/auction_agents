@@ -1,30 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: K.S BHARAT
+IPL PLAYER PROFILE: ADAM MILNE
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : K.S Bharat
-  IPL Debut                : 2021
-  Date of Birth            : 03 October 1993
+  Player Name              : Adam Milne
+  Date of Birth            : 13 April 1992
   Total IPL Matches        : 10
-  Role                     : Wicketkeeper Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  27-year old wicket-keeper batsman from Andhra’s claim to fame is his
-  triple century against Goa in the 2014-15 Ranji Trophy that included 38
-  boundaries and six sixes. In the process he became only the fifth player in
-  the history of India’s first-Class cricket to score a triple century as a
-  wicketkeeper and the first to do so in Ranji Trophy. Bharat has the
-  reputation of playing a wide array of strokes and is known for his
-  aggressive nature of batting. Kona Srikar Bharat, better known as K.S.
-  Bharat was one of the substitutes for Team India during the historic India’s
-  first-ever Pink ball Test match in 2019 against Bangladesh. He was also a
-  part of the Indian Test dressing room for England’s recently concluded tour
-  to India. At the IPL 2021 Player Auction, KS Bharat was bought by the RCB
-  for his base price of INR 20 lakhs.
+  Role                     : Bowler
+  Nationality              : New Zealander
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -34,9 +18,11 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    10    |    2     |   199    |   78*    |  28.43   |   163    |  122.09  |    0     |    1     |    12    |    8     |    4     |    1    
-    2022   |    2     |    0     |    8     |    8     |   4.00   |    7     |  114.29  |    0     |    0     |    2     |    0     |    0     |    0    
-    2021   |    8     |    2     |   191    |   78*    |  38.20   |   156    |  122.43  |    0     |    1     |    10    |    8     |    4     |    1    
+   Career  |    10    |    2     |    23    |    15    |   5.75   |    29    |  79.31   |    0     |    0     |    0     |    1     |    7     |    0    
+    2022   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2021   |    4     |    1     |    16    |    15    |   8.00   |    17    |  94.11   |    0     |    0     |    0     |    1     |    2     |    0    
+    2017   |    4     |    1     |    7     |    5     |   3.50   |    12    |  58.33   |    0     |    0     |    0     |    0     |    4     |    0    
+    2016   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -46,9 +32,379 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2021   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    10    |   207    |   327    |    7     |   2/21   |  46.71   |   9.48   |  29.57   |    0     |    0    
+    2022   |    1     |    15    |    19    |    0     |   0/19   |    -     |   7.60   |    -     |    0     |    0    
+    2021   |    4     |    84    |   131    |    3     |   2/21   |  43.66   |   9.35   |  28.00   |    0     |    0    
+    2017   |    4     |    84    |   134    |    3     |   2/27   |  44.66   |   9.57   |  28.00   |    0     |    0    
+    2016   |    1     |    24    |    43    |    1     |    -     |  43.00   |  10.75   |  24.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/k-s-bharat/2734
+Source: https://www.iplt20.com/players/adam-milne/434
 ================================================================================
+|## Adam Milne Introduction|
+|--|
+|Role|Bowler|
+|Batting|Right Handed|
+|Bowling|fast Right-arm|
+|Country|New Zealand|
+|--|--|
+|Birth|13-Apr-1992 (33 yr), Palmerston North|
+|Height|6 ft 0 in|
+|Teams|New Zealand, Central Stags, New Zealand A, Royal Challengers Bangalore, Central Districts, New Zealand XI, Kent, Mumbai Indians, Sydney Thunder (Mostly) New Zealand,|
+|Social Accounts|Instagram Twitter Wikipedia|
+|Last Updated|Last updated 1 days ago By Puspendra Singh|
+|Our Telegram|## Advance Cricket|
+|Our App|## Advance Cricket|
+|## Adam Milne Upcoming Matches|
+|--|
+|STA vs SIX (Match 28) Stats|
+|REN vs STA (Match 32) Stats|
+|STA vs HUR (Match 40) Stats|
+|## Adam Milne Stats|
+|--|
+|Competition|ODI|T20|IPL|
+|Matches|45|52|10|
+|Highest Score|36|16|15|
+|Runs|169|77|23|
+|50s|0|0|0|
+|100s|0|0|0|
+|Run Per Inn|8.0|4.0|3.8|
+|Run Per Match|3.7|1.4|2.3|
+|Boundary (In Ball)|15.2|11.0|29.0|
+|4s (In Ball)|22.0|77.0|-|
+|6s (In Ball)|49.5|12.8|29.0|
+|Wickets|54|60|7|
+|Over Per Match|7.5|3.2|3.2|
+|Wicket Per Inn|1.2|1.2|0.7|
+|Wicket Per Match|1.2|1.1|0.7|
+|Wicket (In Ball)|39.6|17.6|29.5|
+|Wicket (In Runs)|35.7|24.3|46.7|
+|Field In Match %|42 %|32 %|70 %|
+|Catch In Match %|42 %|19 %|70 %|
+|Check More Stats On Advance Cricket App|
+|## Adam Milne Dream11 Points|
+|--|
+|DateTime|Mode|Bat|Bowl|Field|Total|
+|20 Dec 24|T20|3|66|0|73|
+|18 Dec 24|T20|0|0|0|4|
+|15 Dec 24|T20|2|31|0|37|
+|29 Nov 24|T20|0|62|0|66|
+|27 Nov 24|T20|0|31|0|35|
+|26 Nov 24|T20|0|50|0|54|
+|25 Nov 24|T20|0|2|0|6|
+|23 Nov 24|T20|0|35|0|39|
+|22 Nov 24|T20|0|6|0|10|
+|28 Sep 24|T10|0|0|0|4|
+|27 Sep 24|T10|0|-6|0|-2|
+|25 Sep 24|T10|0|23|0|27|
+|24 Sep 24|T10|0|0|0|4|
+|21 Sep 24|T10|0|31|0|35|
+|17 Aug 24|Hundred|1|0|0|5|
+|15 Aug 24|Hundred|0|53|0|57|
+|12 Aug 24|Hundred|0|25|0|29|
+|10 Aug 24|Hundred|0|25|0|29|
+|06 Aug 24|Hundred|0|80|0|84|
+|## Adam Milne Recent Batting|
+|--|
+|Date|Match|BO|R(B)|SR|OUT|
+|20 Dec 24|STA vs STR|9|3(4)|75|catch|
+|18 Dec 24|STA vs HEA|DNB|
+|15 Dec 24|STA vs SCO|9|2(3)|66.6|catch|
+|29 Nov 24|TAD vs MSA|DNB|
+|27 Nov 24|TAD vs CB|DNB|
+|26 Nov 24|TAD vs NW|DNB|
+|25 Nov 24|TAD vs NYS|DNB|
+|23 Nov 24|TAD vs DG|DNB|
+|22 Nov 24|TAD vs UPN|DNB|
+|19 Nov 24|NZ vs SL|DNB|
+|28 Sep 24|JBT vs HB|DNB|
+|27 Sep 24|JBT vs HB|DNB|
+|25 Sep 24|JBT vs BBJ|DNB|
+|21 Sep 24|JBT vs DW|DNB|
+|17 Aug 24|SOB vs BPH|9|1(2)|50.0|not out|
+|15 Aug 24|BPH vs MNR|DNB|
+|Adam Milne Recent Batting|
+|## Adam Milne Recent Bowling|
+|--|
+|Date|Match|O|R|m|W|Eco|
+|20 Dec 24|STA vs STR|4.0|32|2|0|8.00|
+|18 Dec 24|STA vs HEA|3.0|25|0|0|8.33|
+|15 Dec 24|STA vs SCO|3.0|30|1|0|10.00|
+|29 Nov 24|TAD vs MSA|2.0|24|2|0|12.00|
+|27 Nov 24|TAD vs CB|2.0|20|1|0|10.00|
+|26 Nov 24|TAD vs NW|2.0|16|2|0|8.00|
+|25 Nov 24|TAD vs NYS|2.0|14|0|0|7.00|
+|23 Nov 24|TAD vs DG|2.0|13|1|0|6.50|
+|22 Nov 24|TAD vs UPN|2.0|9|0|0|4.50|
+|19 Nov 24|NZ vs SL|DNB|
+|28 Sep 24|JBT vs HB|2.0|27|0|0|13.50|
+|27 Sep 24|JBT vs HB|2.0|33|0|0|16.50|
+|25 Sep 24|JBT vs BBJ|2.0|30|1|0|15.00|
+|21 Sep 24|JBT vs DW|2.0|9|1|0|4.50|
+|17 Aug 24|SOB vs BPH|DNB|
+|15 Aug 24|BPH vs MNR|2.0|8|2|0|4.00|
+|Adam Milne Recent Bowling All Recent Bowling Details|
+|Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|45|52|10|
+|Innings|21|19|6|
+|Not Out|8|11|2|
+|Runs|169|77|23|
+|Highest Score|36|16|15|
+|Average|13.00|9.62|5.75|
+|Balls Faced|198|77|29|
+|Strike Rate|85.3|100|79.3|
+|20s|0|0|0|
+|30s|1|0|0|
+|50s|0|0|0|
+|100s|0|0|0|
+|200s|0|0|0|
+|90s|0|0|0|
+|150s|0|0|0|
+|4s|9|1|0|
+|6s|4|6|1|
+|Outtype|
+|LBW|2|0|0|
+|Bowled|5|2|2|
+|Stumped|1|0|0|
+|Catch|5|5|2|
+|Run Out|0|1|0|
+|Wicket Taker|
+|Left Arm|5|1|0|
+|1- Fast|1|0|0|
+|2- Fast-Medium|4|1|0|
+|3- Medium|0|0|0|
+|4- Slow|0|0|0|
+|1- Bowled|3|0|0|
+|2- Catch|2|1|0|
+|3- Stumped|0|0|0|
+|4- Lbw|0|0|0|
+|Right Arm|8|6|4|
+|1- Fast|3|2|0|
+|2- Fast-Medium|2|0|3|
+|3- Medium|1|1|0|
+|4- Slow|2|3|1|
+|1- Bowled|2|2|2|
+|2- Catch|3|4|2|
+|3- Stumped|1|0|0|
+|4- Lbw|2|0|0|
+|Competition|ODI|T20|IPL|
+|--|--|--|--|
+|Matches|45|52|10|
+|Innings|44|50|10|... |Balls|2140|1061|207|
+|Runs|1933|1458|327|
+|BBI|
+|Average|35.79|24.30|46.71|
+|Strike Rate|39.62|17.68|29.57|
+|Maiden|8|3|0|... |2w|11|12|2|
+|3w|4|4|0|
+|5w|0|1|0|
+|8w|0|0|0|
+|10w|0|0|0|
+|Wickets|54|60|7|
+|LBW|2|0|0|... |Bowled|13|11|1|
+|Stumped|0|0|0|
+|Catch|39|49|6|
+|Batsman Type|
+|Right Handed|31|43|4|
+|1- LBW|1|0|0|
+|2- Bowled|8|5|0|... |3- Stumped|0|0|0|
+|4- Catch|22|38|4|
+|Left Handed|23|17|3|
+|1- LBW|1|0|0|
+|2- Bowled|5|6|1|
+|3- Stumped|0|0|0|... |4- Catch|17|11|2|
+Adam Milne played 45 ODI matches and scored 169 runs in 21 Innings. Adam Milne's Highest Score in ODI is 36. A Milne has 0 ODI centuries, 0 ODI half centuries and 1 times 30+ and 0 times 20+ ODI runs.... A Milne has a strike rate of 85.3 with run per match of 3.75 in 198 ODI balls. Adam Milne made total 13 boundaries with 9 fours and 4 sixes in ODI. A Milne's ODI outtype analysis are lbw 2 times, bowled 5, stumped 1 times, catch 5 times, Run Out 0 times.... Adam Milne's ODI wicket takers are 5 left arm and 8 right arm. A Milne's Left Arm ODI Wicket Taker analysis are Fast bowler 1 wickets, Fast-Medium bowler 4 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Adam Milne's Right Arm ODI Wicket Taker analysis are Fast bowler 3 wickets, Fast-Medium bowler 2 wickets, Medium bowler 1 wickets, Slow bowler 2 wickets.... A Milne's wicket taken by Left Arm Bowlers in ODI analysis are lbw 0 wickets, bowled 3 wickets, stumped 0 wickets, catch 2 wickets. Adam Milne's wicket taken by Right Arm Bowlers in ODI analysis are lbw 2 wickets, bowled 2 wickets, stumped 1 wickets, catch 3 wickets.... Adam Milne Took 54 Wickets (In 44 ODI innings) with Strike Rate of 39.62 and average of 35.79. A Milne's delivered 2140 balls (with 8 Maiden over) and took 2 wickets 11 times 3 wickets 4 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 31 Right Handed and 23 Left Handed batsman out by Adam Milne in ODI. Right Handed Batsman ODI outtype analysis (wicket taken by A Milne) are LBW 1 times, Bowled 8 times, Stumped 0 times, Catch 22 times. Left Handed Batsman ODI outtype analysis (wicket taken by A Milne) are LBW 1 times, Bowled 5 times, Stumped 0 times, Catch 17 times.... Adam Milne Fielding analysis are Catch 19 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Adam Milne played 52 T20 matches and scored 77 runs in 19 Innings. Adam Milne's Highest Score in T20 is 16. A Milne has 0 T20 centuries, 0 T20 half centuries and 0 times 30+ and 0 times 20+ T20 runs.... A Milne has a strike rate of 100 with run per match of 1.48 in 77 T20 balls. Adam Milne made total 7 boundaries with 1 fours and 6 sixes in T20. A Milne's T20 outtype analysis are lbw 0 times, bowled 2, stumped 0 times, catch 5 times, Run Out 1 times.... Adam Milne's T20 wicket takers are 1 left arm and 6 right arm. A Milne's Left Arm T20 Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 1 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets.... Adam Milne's Right Arm T20 Wicket Taker analysis are Fast bowler 2 wickets, Fast-Medium bowler 0 wickets, Medium bowler 1 wickets, Slow bowler 3 wickets. A Milne's wicket taken by Left Arm Bowlers in T20 analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 1 wickets. Adam Milne's wicket taken by Right Arm Bowlers in T20 analysis are lbw 0 wickets, bowled 2 wickets, stumped 0 wickets, catch 4 wickets.... Adam Milne Took 60 Wickets (In 50 T20 innings) with Strike Rate of 17.68 and average of 24.30. A Milne's delivered 1061 balls (with 3 Maiden over) and took 2 wickets 12 times 3 wickets 4 times, 5 wickets 1 times, 8 wickets 0 times, 10 wickets 0 times.... 43 Right Handed and 17 Left Handed batsman out by Adam Milne in T20. Right Handed Batsman T20 outtype analysis (wicket taken by A Milne) are LBW 0 times, Bowled 5 times, Stumped 0 times, Catch 38 times. Left Handed Batsman T20 outtype analysis (wicket taken by A Milne) are LBW 0 times, Bowled 6 times, Stumped 0 times, Catch 11 times.... Adam Milne Fielding analysis are Catch 10 times, Stumping 0 times, Direct Throw(Run Out) 2 times, Throw(Run Out) 2 times.... Adam Milne played 10 IPL matches and scored 23 runs in 6 Innings. Adam Milne's Highest Score in IPL is 15. A Milne has 0 IPL centuries, 0 IPL half centuries and 0 times 30+ and 0 times 20+ IPL runs. A Milne has a strike rate of 79.3 with run per match of 2.30 in 29 IPL balls.... Adam Milne made total 1 boundaries with 0 fours and 1 sixes in IPL. A Milne's IPL outtype analysis are lbw 0 times, bowled 2, stumped 0 times, catch 2 times, Run Out 0 times. Adam Milne's IPL wicket takers are 0 left arm and 4 right arm.... A Milne's Left Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 0 wickets, Medium bowler 0 wickets, Slow bowler 0 wickets. Adam Milne's Right Arm IPL Wicket Taker analysis are Fast bowler 0 wickets, Fast-Medium bowler 3 wickets, Medium bowler 0 wickets, Slow bowler 1 wickets.... A Milne's wicket taken by Left Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 0 wickets, stumped 0 wickets, catch 0 wickets. Adam Milne's wicket taken by Right Arm Bowlers in IPL analysis are lbw 0 wickets, bowled 2 wickets, stumped 0 wickets, catch 2 wickets.... Adam Milne Took 7 Wickets (In 10 IPL innings) with Strike Rate of 29.57 and average of 46.71. A Milne's delivered 207 balls (with 0 Maiden over) and took 2 wickets 2 times 3 wickets 0 times, 5 wickets 0 times, 8 wickets 0 times, 10 wickets 0 times.... 4 Right Handed and 3 Left Handed batsman out by Adam Milne in IPL. Right Handed Batsman IPL outtype analysis (wicket taken by A Milne) are LBW 0 times, Bowled 0 times, Stumped 0 times, Catch 4 times. Left Handed Batsman IPL outtype analysis (wicket taken by A Milne) are LBW 0 times, Bowled 1 times, Stumped 0 times, Catch 2 times.... Adam Milne Fielding analysis are Catch 7 times, Stumping 0 times, Direct Throw(Run Out) 0 times, Throw(Run Out) 0 times.... Adam Milne plays cricket as Bowler. A Milne wicket per match stats are 1.1 in ODI, 1.1 in T20, 0.7 in IPL, 0.5 in BBL, 1.2 in Hundred, 0.8 in T10, 1.1 in BLAST, 1.1 in SMASH, 1.1 in DODI.... Adam Milne wicket in every 38.5 balls in ODI, 17.6 balls in T20, 29.5 balls in IPL, 40.5 balls in BBL, 12.2 balls in Hundred, 15.0 balls in T10, 19.5 balls in BLAST, 19.8 balls in SMASH, 34.4 balls in DODI.... A Milne catch chances in match are 40.4 % in ODI, 19.2 % in T20, 70 % in IPL, 33.3 % in BBL, 37.5 % in Hundred, 0 % in T10, 11.7 % in BLAST, 26.3 % in SMASH, 38.4 % in DODI.... Adam Milne field chances are 40.4 % in ODI, 32.6 % in T20, 70 % in IPL, 46.6 % in BBL, 54.1 % in Hundred, 20 % in T10, 23.5 % in BLAST, 36.8 % in SMASH, 38.4 % in DODI.... |## Adam Milne stats Batting For Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|SOB|all|Hundred|1|1|1.00|Stats|
+|BPH|all|Hundred|9|13|11.33|Stats|
+|JBT|all|T10|0|0|Stats|
+|TAD|all|T10|0|0|Stats|
+|NZ|all|ODI|21|36|13.00|Stats|
+|SYT|all|BBL|5|3|4.00|Stats|
+|STA|all|BBL|2|3|2.50|Stats|
+|MI|all|IPL|3|15|8.00|Stats|
+|RCB|all|IPL|3|5|3.50|Stats|
+|CSK|all|IPL|0|0|Stats|
+|## Adam Milne stats Batting On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|HS|AVG|Stats|
+|Trent Bridge|all|Hundred|1|1|1.00|Stats|
+|Kennington Oval|all|Hundred|2|1|1.00|Stats|
+|Sophia Garden|all|Hundred|0|0|Stats|
+|Headingley|all|Hundred|0|0|Stats|
+|Edgbaston|all|Hundred|4|6|3.00|Stats|
+|Emirates Old Trafford|all|Hundred|2|13|18.00|Stats|
+|Lords|all|Hundred|0|0|Stats|
+|The Rose Bowl|all|Hundred|1|3|3.00|Stats|
+|Harare Sports Club|all|T10|0|0|Stats|
+|Sheikh Zayed Stadium|all|T10|0|0|Stats|
+|## Adam Milne stats Bowling On Stadiums|
+|--|
+|Stadium|Year|Mode|Inn|Wkts|Eco|Stats|
+|Trent Bridge|all|Hundred|2|4|6.60|Stats|
+|Kennington Oval|all|Hundred|1|0|11.60|Stats|
+|Sophia Garden|all|Hundred|1|1|8.10|Stats|
+|Headingley|all|Hundred|2|2|10.35|Stats|
+|Edgbaston|all|Hundred|11|17|6.56|Stats|
+|Emirates Old Trafford|all|Hundred|2|2|9.12|Stats|
+|Lords|all|Hundred|1|2|2.40|Stats|
+|The Rose Bowl|all|Hundred|2|3|6.60|Stats|
+|Harare Sports Club|all|T10|4|2|12.37|Stats|
+|Sheikh Zayed Stadium|all|T10|6|6|8.00|Stats|
+|## Adam Milne stats Batting On Series|
+|--|
+|Series|Year|Mode|Inn|HS|AVG|Stats|
+|The Hundred 2023|all|Hundred|5|13|11.50|Stats|
+|HUNDRED 2021|all|Hundred|2|5|4.50|Stats|
+|The Hundred 2024|all|Hundred|3|2|3.00|Stats|
+|Zim Afro T10 2024|all|T10|0|0|Stats|
+|Abu Dhabi T10 League 2024|all|T10|0|0|Stats|
+|ICCCT 2017|all|ODI|2|10|8.50|Stats|
+|ITONZ 2014|all|ODI|0|0|Stats|
+|PVNZIUAE 2014|all|ODI|0|0|Stats|
+|ICCWCWUM 2015|all|ODI|0|0|Stats|
+|NZTOI 2017|all|ODI|1|0|0.00|Stats|
+|## Adam Milne stats Bowling On Series|
+|--|
+|Series|Year|Mode|Inn|Wkts|Eco|Stats|
+|The Hundred 2024|all|Hundred|8|9|7.90|Stats|
+|The Hundred 2023|all|Hundred|6|10|8.16|Stats|
+|HUNDRED 2021|all|Hundred|8|12|5.73|Stats|
+|Abu Dhabi T10 League 2024|all|T10|6|6|8.00|Stats|
+|Zim Afro T10 2024|all|T10|4|2|12.37|Stats|
+|ICWC 2015|all|ODI|6|5|5.05|Stats|
+|ITONZ 2014|all|ODI|1|1|5.33|Stats|
+|PVNZIUAE 2014|all|ODI|4|4|4.49|Stats|
+|PTONZ 2015|all|ODI|2|3|5.27|Stats|
+|NZTOI 2017|all|ODI|3|3|5.44|Stats|
+|## Adam Milne stats Batting On Countries|
+|--|
+|Country|Year|Mode|Inn|HS|AVG|Stats|
+|Wales|all|Hundred|0|0|Stats|
+|England|all|Hundred|10|13|11.66|Stats|
+|Zimbabwe|all|T10|0|0|Stats|
+|United Arab Emirates|all|T10|0|0|Stats|
+|Ireland|all|ODI|1|10|10.00|Stats|
+|Sri Lanka|all|ODI|1|12|12.00|Stats|
+|Wales|all|ODI|2|10|8.50|Stats|
+|South Africa|all|ODI|2|15|19.00|Stats|
+|United Arab Emirates|all|ODI|0|0|Stats|
+|New Zealand|all|ODI|11|36|17.33|Stats|
+|## Adam Milne stats Bowling On Countries|
+|--|
+|Country|Year|Mode|Inn|Wkts|Eco|Stats|
+|Wales|all|Hundred|1|1|8.10|Stats|
+|England|all|Hundred|21|30|7.15|Stats|
+|Zimbabwe|all|T10|4|2|12.37|Stats|
+|United Arab Emirates|all|T10|6|6|8.00|Stats|
+|Ireland|all|ODI|1|1|3.62|Stats|
+|Sri Lanka|all|ODI|2|0|5.59|Stats|
+|Wales|all|ODI|2|4|7.08|Stats|
+|South Africa|all|ODI|3|5|4.46|Stats|
+|United Arab Emirates|all|ODI|4|4|4.49|Stats|
+|New Zealand|all|ODI|24|28|5.59|Stats|
+|## Adam Milne stats Batting Against Teams|
+|--|
+|Team|Year|Mode|Inn|HS|AVG|Stats|
+|LNS|all|Hundred|1|4|4.00|Stats|
+|BPH|all|Hundred|1|1|1.00|Stats|
+|NOS|all|Hundred|0|0|Stats|
+|WEF|all|Hundred|1|0|0.00|Stats|
+|MNR|all|Hundred|2|13|18.00|Stats|
+|SOB|all|Hundred|2|3|2.50|Stats|
+|TRT|all|Hundred|1|1|1.00|Stats|
+|OVI|all|Hundred|2|6|6.00|Stats|
+|MSA|all|T10|0|0|Stats|
+|CB|all|T10|0|0|Stats|
+|## Adam Milne stats Bowling Against Teams|
+|--|
+|Team|Year|Mode|Inn|Wkts|Eco|Stats|
+|LNS|all|Hundred|3|6|8.30|Stats|
+|NOS|all|Hundred|2|5|6.60|Stats|
+|WEF|all|Hundred|3|2|9.00|Stats|
+|MNR|all|Hundred|3|4|7.88|Stats|
+|SOB|all|Hundred|4|5|5.65|Stats|
+|TRT|all|Hundred|4|7|5.55|Stats|
+|OVI|all|Hundred|3|2|9.05|Stats|
+|MSA|all|T10|1|2|12.00|Stats|
+|DW|all|T10|1|1|4.50|Stats|
+|CB|all|T10|1|1|10.00|Stats|
+|## Adam Milne stats Batting Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|HS|AVG|Stats|... |Wankhede Stadium|all|IND|ODI|0|0|Stats|
+|Maharashtra Cricket Associatio|all|IND|ODI|1|0|0.00|Stats|
+|Green Park|all|IND|ODI|0|0|Stats|
+|Kennington Oval|all|IND|ODI|1|9|9.00|Stats|
+|Sydney Showground Stadium|all|HBH|BBL|0|0|Stats|
+|Sydney Showground Stadium|all|ADS|BBL|0|0|Stats|
+|Perth Stadium|all|PRS|BBL|2|2|1.50|Stats|
+|Perth Stadium|all|HBH|BBL|0|0|Stats|
+|Manuka Oval|all|MLS|BBL|1|3|3.00|Stats|
+|Manuka Oval|all|PRS|BBL|0|0|Stats|
+|## Adam Milne stats Bowling Against Teams On Stadiums|
+|--|
+|Stadium|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|Wankhede Stadium|all|IND|ODI|1|0|6.88|Stats|
+|Maharashtra Cricket Associatio|all|IND|ODI|1|1|2.62|Stats|
+|Green Park|all|IND|ODI|1|2|6.40|Stats|
+|Kennington Oval|all|IND|ODI|1|0|5.00|Stats|
+|Sydney Showground Stadium|all|HBH|BBL|1|1|9.00|Stats|
+|Sydney Showground Stadium|all|ADS|BBL|1|1|1.50|Stats|
+|Perth Stadium|all|PRS|BBL|2|1|9.42|Stats|
+|Perth Stadium|all|HBH|BBL|1|1|6.25|Stats|
+|Manuka Oval|all|MLS|BBL|1|0|8.50|Stats|
+|Manuka Oval|all|PRS|BBL|1|0|4.25|Stats|
+|## Adam Milne stats Batting Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|HS|AVG|Stats|
+|HUNDRED 2021|WEF|Hundred|0|0|Stats|
+|HUNDRED 2021|NOS|Hundred|0|0|Stats|
+|The Hundred 2024|OVI|Hundred|1|0|0.00|Stats|
+|HUNDRED 2021|OVI|Hundred|0|0|Stats|
+|The Hundred 2023|WEF|Hundred|1|0|0.00|Stats|
+|HUNDRED 2021|SOB|Hundred|0|0|Stats|
+|HUNDRED 2021|LNS|Hundred|1|4|4.00|Stats|
+|HUNDRED 2021|TRT|Hundred|0|0|Stats|
+|The Hundred 2023|OVI|Hundred|1|6|6.00|Stats|
+|The Hundred 2023|NOS|Hundred|0|0|Stats|
+|## Adam Milne stats Bowling Against Teams On Series|
+|--|
+|Series|VS|Mode|Inn|Wkts|Eco|Stats|
+|HUNDRED 2021|NOS|Hundred|1|2|7.20|Stats|
+|The Hundred 2023|WEF|Hundred|1|0|13.80|Stats|
+|The Hundred 2024|OVI|Hundred|1|0|11.60|Stats|
+|HUNDRED 2021|WEF|Hundred|1|1|6.00|Stats|
+|The Hundred 2023|OVI|Hundred|1|2|5.40|Stats|
+|HUNDRED 2021|TRT|Hundred|1|2|3.90|Stats|
+|HUNDRED 2021|MNR|Hundred|1|0|6.00|Stats|
+|HUNDRED 2021|OVI|Hundred|1|0|10.80|Stats|
+|The Hundred 2023|MNR|Hundred|1|2|9.90|Stats|
+|HUNDRED 2021|LNS|Hundred|1|2|5.40|Stats|
+|## Adam Milne stats Batting Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|HS|AVG|Stats|
+|England|all|NOS|Hundred|0|0|Stats|
+|Wales|all|WEF|Hundred|0|0|Stats|
+|England|all|OVI|Hundred|2|6|6.00|Stats|
+|England|all|BPH|Hundred|1|1|1.00|Stats|
+|England|all|TRT|Hundred|1|1|1.00|Stats|
+|England|all|WEF|Hundred|1|0|0.00|Stats|
+|England|all|LNS|Hundred|1|4|4.00|Stats|
+|England|all|MNR|Hundred|2|13|18.00|Stats|
+|England|all|SOB|Hundred|2|3|2.50|Stats|
+|United Arab Emirates|all|NW|T10|0|0|Stats|
+|## Adam Milne stats Bowling Against Teams On Countries|
+|--|
+|Country|Year|VS|Mode|Inn|Wkts|Eco|Stats|
+|England|all|NOS|Hundred|2|5|6.60|Stats|
+|Wales|all|WEF|Hundred|1|1|8.10|Stats|
+|England|all|OVI|Hundred|3|2|9.05|Stats|
+|England|all|WEF|Hundred|2|1|9.90|Stats|
+|England|all|LNS|Hundred|3|6|8.30|Stats|
+|England|all|MNR|Hundred|3|4|7.88|Stats|
+|England|all|SOB|Hundred|4|5|5.65|Stats|
+|England|all|TRT|Hundred|4|7|5.55|Stats|
+|United Arab Emirates|all|NW|T10|1|2|8.00|Stats|
+|United Arab Emirates|all|MSA|T10|1|2|12.00|Stats|

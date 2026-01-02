@@ -1,15 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: RICHARD GLEESON
+IPL PLAYER PROFILE: KULWANT KHEJROLIYA
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Richard Gleeson
-  IPL Debut                : 2024
-  Date of Birth            : 02 December 1987
-  Total IPL Matches        : 3
+  Player Name              : Kulwant Khejroliya
+  IPL Debut                : 2018
+  Date of Birth            : 13 March 1992
+  Total IPL Matches        : 8
   Role                     : Bowler
-  Nationality              : English
+  Nationality              : Indian
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -19,9 +19,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    1     |    2     |    2*    |    -     |    2     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
-    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2024   |    2     |    1     |    2     |    2*    |    -     |    2     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
+   Career  |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2023   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -31,10 +31,30 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    3     |    68    |   110    |    2     |   1/30   |  55.00   |   9.71   |  34.00   |    0     |    0    
-    2025   |    1     |    21    |    39    |    1     |   1/39   |  39.00   |  11.14   |  21.00   |    0     |    0    
-    2024   |    2     |    47    |    71    |    1     |   1/30   |  71.00   |   9.06   |  47.00   |    0     |    0    
+   Career  |    8     |   139    |   247    |    6     |   2/33   |  41.17   |  10.66   |  23.17   |    0     |    0    
+    2025   |    1     |    18    |    29    |    1     |   1/29   |  29.00   |   9.67   |  18.00   |    0     |    0    
+    2023   |    2     |    26    |    64    |    2     |   2/44   |  32.00   |  14.77   |  13.00   |    0     |    0    
+    2019   |    2     |    30    |    47    |    1     |   1/29   |  47.00   |   9.40   |  30.00   |    0     |    0    
+    2018   |    3     |    65    |   107    |    2     |   2/33   |  53.50   |   9.87   |  32.50   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/richard-gleeson/20730
+Source: https://www.iplt20.com/players/kulwant-khejroliya/3835
 ================================================================================
+**Kulwant Khejroliya** (born 13 March 1992) is an Indian cricketer. He made his List A debut for Delhi in the 2016–17 Vijay Hazare Trophy on 26 February 2017. Prior to his debut, he was bought by the Mumbai Indians team for the 2017 Indian Premier League for 10 lakhs.... He made his first-class debut for Delhi in the 2017–18 Ranji Trophy on 6 October 2017. He made his Twenty20 debut for Delhi in the 2017–18 Zonal T20 League on 9 January 2018. Later the same month, he was bought by the Royal Challengers Bangalore in the 2018 IPL auction.... In October 2018, in the quarter-finals of the 2018–19 Vijay Hazare Trophy, he took a hat-trick for Delhi against Haryana, finishing with figures of six wickets for 31 runs from his ten overs. He was released by the Royal Challengers Bangalore ahead of the 2020 IPL auction.... ## Early life and background
+
+Khejroliya was born on March 13, 1992, in Jhunjhunu, Rajasthan. Khejroliya is a branch of Shekhawat clan. His father Shankar Singh Khejroliya runs a grocery store and mother Saroj Kanwar is a homemaker. He belongs to Ravana Rajputs community.... ## References
+
+## External links
+- Kulwant Khejroliya at ESPNcricinfo
+
+Categories: - 1992 births
+- Living people
+- Indian cricketers
+- Delhi cricketers
+- Madhya Pradesh cricketers
+- Royal Challengers Bengaluru cricketers
+- Kolkata Knight Riders cricketers
+- 21st-century Indian sportsmen
+- People from Jhunjhunu district
+- Gujarat Titans cricketers
+- Indian cricket biography, 1992 birth stubs

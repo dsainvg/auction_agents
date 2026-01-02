@@ -1,56 +1,71 @@
-================================================================================
-IPL PLAYER PROFILE: MURUGAN ASHWIN
-================================================================================
+Dunith Wellalage
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Murugan Ashwin
-  IPL Debut                : 2016
-  Date of Birth            : 08 September 1990
-  Total IPL Matches        : 44
-  Role                     : Bowler
-  Nationality              : Indian
+Batting Stats
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-    M Ashwin, who spent several years as a net bowler for Chennai Super
-  Kings, rose to prominence after attracting a huge bid from Rising Pune
-  Supergiants in 2015. After being snapped up by Delhi, the leg-spinner was
-  picked up by Punjab Kings for INR 20 lakhs ahead of IPL 2019. While he
-  played 10 games, he struggled to find wickets as he could manage only 5
-  dismissals to his name but made a decent comeback scalping 10 wickets in the
-  9 matches he played for PBKS in 2020.
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|1|2|29|61.70|14.50|--|3/0|... |ODI|31|24|386|79.92|20.32|1/0|30/10|
+|T20I|6|3|12|75.00|12.00|--|1/1|
+Bowling Stats... |Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|1|2|78|0|2.69|-|-|0|
+|ODI|31|30|1319|39|5.16|33.82|29.10|2|... |T20I|6|6|141|7|7.49|20.14|25.14|0|
+All Matches... |Opposition|Batting|Bowling|Format|Date|
+|--|--|--|--|--|
+|Colts Cricket Club vs Police Sports Club|99(153)|0/35(13)|First-class|12-Dec-2025|
+|Chilaw Marians Cricket Club vs Colts Cricket Club|28(28)|0/31(8)|First-class|06-Dec-2025|... |Pakistan Shaheens vs Sri Lanka A|2(5)|1/19(4)|T20s|21-Nov-2025|
+Test Matches
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    34    |    2     |    23    |    9     |   3.83   |    36    |  63.89   |    0     |    0     |    1     |    0     |    7     |    0    
-    2021   |    3     |    0     |    15    |    9     |   7.50   |    24    |  62.50   |    0     |    0     |    1     |    0     |    0     |    0    
-    2020   |    9     |    0     |    4     |    4     |   4.00   |    4     |  100.00  |    0     |    0     |    0     |    0     |    4     |    0    
-    2019   |    10    |    2     |    3     |    1*    |   3.00   |    5     |  60.00   |    0     |    0     |    0     |    0     |    3     |    0    
-    2018   |    2     |    0     |    1     |    1     |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2016   |    10    |    0     |    0     |    0*    |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+|Opposition|Batting|Bowling|Date|
+|--|--|--|--|
+|Sri Lanka vs Pakistan|11(20) & 18(27)|0/18(6) & 0/17(7)|24-Jul-2022|
+ODI Matches... |Opposition|Batting|Bowling|Date|
+|--|--|--|--|
+|Sri Lanka vs Bangladesh|6(6)|2/33(8)|08-Jul-2025|
+|Sri Lanka vs Bangladesh|1(10)|0/32(8)|05-Jul-2025|... |Sri Lanka vs Australia|DNB|4/35(7.2)|14-Feb-2025|
+T20I Matches
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    34    |   672    |   881    |    26    |   3/21   |  33.88   |   7.87   |  25.85   |    0     |    0    
-    2021   |    3     |    66    |    97    |    1     |   1/32   |  97.00   |   8.81   |  66.00   |    0     |    0    
-    2020   |    9     |   189    |   235    |    10    |   3/21   |  23.50   |   7.46   |  18.90   |    0     |    0    
-    2019   |    10    |   204    |   255    |    5     |   2/25   |  51.00   |   7.50   |  40.80   |    0     |    0    
-    2018   |    2     |    42    |    53    |    3     |   2/36   |  17.66   |   7.57   |  14.00   |    0     |    0    
-    2016   |    10    |   171    |   241    |    7     |   3/36   |  34.42   |   8.45   |  24.42   |    0     |    0    
+|Opposition|Batting|Bowling|Date|
+|--|--|--|--|
+|Sri Lanka vs Bangladesh|0*(0)|0/36(4)|20-Sep-2025|
+|Sri Lanka vs Afghanistan|DNB|1/49(4)|18-Sep-2025|
+|Sri Lanka vs New Zealand|1(9)|0/26(4)|10-Nov-2024|
+T20s Matches... |Opposition|Batting|Bowling|Date|
+|--|--|--|--|
+|Pakistan Shaheens vs Sri Lanka A|2(5)|1/19(4)|21-Nov-2025|
+|Sri Lanka A vs Bangladesh A|23(14)|3/19(4)|19-Nov-2025|... |Sri Lanka A vs Hong Kong, China|DNB|2/24(3)|17-Nov-2025|
+All Matches
 
-================================================================================
-Source: https://www.iplt20.com/players/murugan-ashwin/3187
-================================================================================
+|Opposition|Batting|Bowling|Points|DTA|
+|--|--|--|--|--|
+|Sri Lanka vs Australia|DNB|4/35(7.2)|132.0|
+|Sri Lanka vs Australia|30(34)|2/33(7)|104.0|
+|Paarl Royals vs Sunrisers Eastern Cape|DNB|1/26(3)|29.0|
+ODI Matches... |Opposition|Batting|Bowling|Points|DTA|
+|--|--|--|--|--|
+|Sri Lanka vs Australia|DNB|4/35(7.2)|132.0|
+|Sri Lanka vs Australia|30(34)|2/33(7)|104.0|... |Sri Lanka vs New Zealand|18(17)|1/46(8)|58.0|
+T20I Matches
+
+|Opposition|Batting|Bowling|Points|DTA|
+|--|--|--|--|--|
+|Sri Lanka vs New Zealand|1(9)|0/26(4)|15.0|
+|Sri Lanka vs New Zealand|11*(7)|3/20(3.3)|109.0|
+|Sri Lanka vs West Indies|DNB|0/36(4)|4.0|
+T20s Matches... |Opposition|Batting|Bowling|Points|DTA|
+|--|--|--|--|--|
+|Paarl Royals vs Sunrisers Eastern Cape|DNB|1/26(3)|29.0|
+|Paarl Royals vs MI Cape Town|15(13)|2/23(4)|76.0|... |Sunrisers Eastern Cape vs Paarl Royals|8(4)|1/24(3)|39.0|
+22-Year-Old Who Tormented Kohli, Rohit Added To Sri Lanka Squad As Mathews Replacement
+
+cricket.com23 Jun 2025
+
+22-Year-Old Who Tormented Kohli, Rohit Added To Sri Lanka Squad As Mathews Replacement... cricket.com23 Jun 2025
+
+Paarl Royals become the first team to bowl 20 overs of spin in T20 franchise cricket
+
+cricket.com25 Jan 2025
+
+Paarl Royals become the first team to bowl 20 overs of spin in T20 franchise cricket
+
+cricket.com25 Jan 2025

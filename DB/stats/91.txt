@@ -1,32 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: SAM CURRAN
+IPL PLAYER PROFILE: JOSH INGLIS
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Sam Curran
-  IPL Debut                : 2019
-  Date of Birth            : 03 June 1998
-  Total IPL Matches        : 64
-  Role                     : WK-Batter
-  Nationality              : English
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Punjab Kings created history at the 2023 auctions, breaking the bank for
-  England’s versatile all-rounder Sam Curran. The 24-year-old emerged as the
-  costliest buy after PBKS bought him for a gobsmacking amount of Rs. 18.5
-  crore. Curran broke the record which was previously held by South Africa
-  all-rounder Chris Morris – the Royals had spent Rs. 16.5 crore at the IPL
-  2021 auction. The Northampton-born wily cricketer, who made his IPL debut
-  three years ago, immediately stood out, picking 13 wickets and 95 runs, with
-  a highest score of an unbeaten 55. He also played a vital role for England
-  in their T20 World Cup campaign, with 13 scalps and was adjudged the Player
-  of the Tournament. In 2020, after being promoted to the top, Curran proved
-  his credentials with the bat, scoring 186 runs with a half-century for
-  Chennai Super Kings. IPL 2021 was a difficult year for Curran as he bagged
-  just nine wickets and didn't impress either with 56 runs. He opted out of
-  the IPL 2022 mega auction to focus on rehab.
+  Player Name              : Josh Inglis
+  IPL Debut                : 2025
+  Date of Birth            : 04 March 1995
+  Total IPL Matches        : 11
+  Role                     : Wicketkeeper Batter
+  Nationality              : Australian
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -36,13 +19,8 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    64    |    13    |   997    |    88    |  24.93   |   731    |  136.39  |    0     |    6     |    85    |    41    |    25    |    0    
-    2025   |    5     |    0     |   114    |    88    |  22.80   |    84    |  135.71  |    0     |    1     |    11    |    4     |    3     |    0    
-    2024   |    13    |    2     |   270    |    63    |  27.00   |   219    |  123.29  |    0     |    2     |    24    |    6     |    7     |    0    
-    2023   |    14    |    3     |   276    |    55    |  27.60   |   203    |  135.96  |    0     |    1     |    20    |    13    |    5     |    0    
-    2021   |    9     |    1     |    56    |    34    |  18.66   |    29    |  193.10  |    0     |    0     |    5     |    3     |    1     |    0    
-    2020   |    14    |    3     |   186    |    52    |  23.25   |   141    |  131.91  |    0     |    1     |    12    |    12    |    7     |    0    
-    2019   |    9     |    4     |    95    |   55*    |  23.75   |    55    |  172.72  |    0     |    1     |    13    |    3     |    2     |    0    
+   Career  |    11    |    2     |   278    |    73    |  30.89   |   171    |  162.57  |    0     |    1     |    26    |    16    |    9     |    1    
+    2025   |    11    |    2     |   278    |    73    |  30.89   |   171    |  162.57  |    0     |    1     |    26    |    16    |    9     |    1    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -52,14 +30,87 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    64    |   1253   |   2033   |    59    |   4/11   |  34.46   |   9.74   |  21.24   |    1     |    0    
-    2025   |    5     |    72    |   133    |    1     |   1/34   |  133.00  |  11.08   |  72.00   |    0     |    0    
-    2024   |    13    |   246    |   416    |    16    |   3/28   |  26.00   |  10.15   |  15.38   |    0     |    0    
-    2023   |    14    |   287    |   489    |    10    |   3/31   |  48.90   |  10.22   |  28.70   |    0     |    0    
-    2021   |    9     |   198    |   328    |    9     |   3/34   |  36.44   |   9.93   |  22.00   |    0     |    0    
-    2020   |    14    |   252    |   344    |    13    |   3/19   |  26.46   |   8.19   |  19.38   |    0     |    0    
-    2019   |    9     |   198    |   323    |    10    |   4/11   |  32.30   |   9.78   |  19.80   |    1     |    0    
+   Career  |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/sam-curran/2939
+Source: https://www.iplt20.com/players/josh-inglis/22372
 ================================================================================
+**Joshua Patrick Inglis** (born 4 March 1995) is an Australian cricketer who represents the Australia national team as a wicket-keeper-batter in all three formats of the game. Inglis has captained Australia in ODI and T20Is. He plays for Western Australia in domestic cricket, Perth Scorchers in the Big Bash League and Lucknow Super Giants in the Indian Premier League.
+
+Inglis was a member of the Australian squad that won the 2023 ICC Cricket World Cup. Inglis was a member of the Australian team that won the 2021 T20 World Cup, but did not play in the tournament. Inglis was also a member of the Australian team that won the 2023 ICC World Test Championship final but did not make his Test debut until January 2025 as a middle-order batsman against Sri Lanka, where he scored a century on debut, and became the fourth Australian to score centuries in all three formats.
+
+## Background
+
+Inglis was born in Leeds, England, and moved to Australia with his family when he was 14.
+
+## Career
+
+Inglis made his first-class debut for Cricket Australia XI against the West Indians during their tour of Australia in December 2015. He made his List A debut for Cricket Australia XI against Pakistanis during their tour of Australia in January 2017. He made his Twenty20 debut for Perth Scorchers in the 2017–18 Big Bash League season on 23 December 2017.
+
+In October 2020, in the opening round of the 2020–21 Sheffield Shield season, Inglis scored his maiden first-class century, with 153 not out against South Australia. In March 2021, Inglis was signed by Leicestershire County Cricket Club to play in the 2021 T20 Blast tournament in England. In June 2021, Inglis scored his first century in a T20 match, with 103 not out for Leicestershire. He scored his second T20 century, against Worcestershire, with an unbeaten 118 from 61 balls.
+
+In August 2021, Inglis was named in Australia's squad for the 2021 ICC Men's T20 World Cup, in his maiden call-up to the national team. In January 2022, Inglis was named in Australia's Twenty20 International (T20I) squad for their series against Sri Lanka. Inglis made his T20I debut on 11 February 2022, for Australia against Sri Lanka. Later the same month, Inglis was named in Australia's One Day International (ODI) squad for their tour of Pakistan. In April 2022, Inglis was also named in Australia's ODI squad for their tour of Sri Lanka. He made his ODI debut on 24 June 2022, for Australia against Sri Lanka. In 2023, he was selected in Australia's squad for the ODI Cricket World Cup. He scored 58 runs off 59 balls while chasing a target of 210 against Sri Lanka in their third match. In November 2023, he scored his maiden T20 hundred in the first T20i against India in Vishakhapatnam.
+
+In May 2024, he was named in Australia’s squad for the 2024 ICC Men's T20 World Cup tournament.
+
+In July 2024 Inglis was named in Australia’s white ball squad to tour Scotland and England. On 6 September 2024 in the 2nd T20I against Scotland, Inglis scored his 2nd T20I century. Inglis reached 100 in 43 balls making it the fastest century ever hit by an Australian batter in T20Is.
+
+Inglis filled in for Pat Cummins as captain of the Australian team in the third ODI against Pakistan on 10 November 2024.
+
+Before the first Test in Australia's tour of Sri Lanka in January 2025, Inglis received his 'Baggy Green' Test Cap from Geoff Marsh and became the 470th Australian to play tests for Australia. He scored a century on debut.
+
+## Statistics
+
+**T20 Franchise Statistics**
+|Team|Season|League|League|Batting|Batting|Batting|Batting|Fielding|Fielding|
+|--|--|--|--|--|--|--|--|--|--|
+|Team|Season|Competition|Matches|Runs|Average|High score|100s / 50s|Catches|Stumpings|
+|Perth Scorchers|2017/18|BBL|6|11|5.50|7|0 / 0|4|1|
+|Perth Scorchers|2018/19|BBL|4|112|28.00|55|0 / 1|2|0|
+|Perth Scorchers|2019/20|BBL|14|405|28.92|73|0 / 4|9|4|
+|Perth Scorchers|2020/21|BBL|17|413|34.41|72*|0 / 3|11|2|
+|Perth Scorchers|2021/22|BBL|8|137|17.12|79|0 / 1|9|4|
+|Perth Scorchers|2022/23|BBL|16|431|35.91|74|0 / 4|16|2|
+|Perth Scorchers|2023/24|BBL|11|238|34.00|64|0 / 1|13|3|
+|Perth Scorchers|2024/25|BBL|2|53|26.50|49|0 / 0|1|0|
+|Perth Scorchers|Total|Total|78|1800|29.50|79|0 / 14|65|16|
+|London Spirit|2021|The Hundred|8|173|24.71|72|0 / 2|3|0|
+|London Spirit|2022|The Hundred|1|3|3.00|3|0 / 0|1|0|
+|London Spirit|Total|Total|9|176|22.00|72|0 / 2|4|0|
+|Leicestershire|2021|T20 Blast|14|531|48.27|118*|2 / 1|6|2|
+|Leicestershire|Total|Total|14|531|48.27|118*|2 / 1|6|2|
+|San Francisco Unicorns|2024|Major League Cricket|9|157|19.62|45|0 / 0|7|0|
+|San Francisco Unicorns|Total|Total|9|157|19.62|45|0 / 0|7|0|
+|Punjab Kings|2025|Indian Premier League|10|239|29.87|73|0 / 1|9|1|
+|Punjab Kings|Total|Total|10|239|28.71|73|0 / 1|9|1|
+|Career Total|Career Total|Career Total|120|2903|25.58|118*|2 / 18|91|19|
+  Statistics are correct to June 1, 2025
+
+## References
+
+## External links
+- Josh Inglis at ESPNcricinfo
+- Josh Inglis at CricketArchive (subscription required)
+
+Categories: - 1995 births
+- Living people
+- Australian cricketers
+- Australia Test cricketers
+- Australia One Day International cricketers
+- Australia Twenty20 International cricketers
+- Cricket Australia XI cricketers
+- Cricketers from Leeds
+- Western Australia cricketers
+- Perth Scorchers cricketers
+- English emigrants to Australia
+- Sportspeople of English descent
+- London Spirit cricketers
+- Australian expatriate cricketers
+- Leicestershire cricketers
+- Australian cricket captains
+- 21st-century Australian sportsmen
+- Cricketers at the 2023 Cricket World Cup
+- Cricketers who made a century on Test debut
+- Australian people of English descent
+- Punjab Kings cricketers

@@ -1,24 +1,30 @@
 ================================================================================
-IPL PLAYER PROFILE: AIDEN MARKRAM
+IPL PLAYER PROFILE: K.S BHARAT
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Aiden Markram
+  Player Name              : K.S Bharat
   IPL Debut                : 2021
-  Date of Birth            : 04 October 1994
-  Total IPL Matches        : 57
-  Role                     : WK-Batter
-  Nationality              : South African
+  Date of Birth            : 03 October 1993
+  Total IPL Matches        : 10
+  Role                     : Wicketkeeper Batter
+  Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    A technically sound top-order batsman, Aiden Markram made way into the
-  IPL during the 2021 season having been picked up by Punjab Kings. In the
-  subsequent year he moved to Sunrisers Hyderabad where he spent three
-  seasons, including captaining them for a season. The player will now turn
-  out for the Lucknow based franchise after being picked for his base price of
-  INR 2 Crore.
+  27-year old wicket-keeper batsman from Andhra’s claim to fame is his
+  triple century against Goa in the 2014-15 Ranji Trophy that included 38
+  boundaries and six sixes. In the process he became only the fifth player in
+  the history of India’s first-Class cricket to score a triple century as a
+  wicketkeeper and the first to do so in Ranji Trophy. Bharat has the
+  reputation of playing a wide array of strokes and is known for his
+  aggressive nature of batting. Kona Srikar Bharat, better known as K.S.
+  Bharat was one of the substitutes for Team India during the historic India’s
+  first-ever Pink ball Test match in 2019 against Bangladesh. He was also a
+  part of the Indian Test dressing room for England’s recently concluded tour
+  to India. At the IPL 2021 Player Auction, KS Bharat was bought by the RCB
+  for his base price of INR 20 lakhs.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -28,12 +34,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    57    |    9     |   1440   |   68*    |  31.30   |   1066   |  135.08  |    0     |    10    |   111    |    57    |    32    |    0    
-    2025   |    13    |    0     |   445    |    66    |  34.23   |   299    |  148.83  |    0     |    5     |    38    |    22    |    7     |    0    
-    2024   |    11    |    2     |   220    |    50    |  24.44   |   177    |  124.29  |    0     |    1     |    18    |    4     |    5     |    0    
-    2023   |    13    |    2     |   248    |    50    |  22.55   |   197    |  125.89  |    0     |    1     |    18    |    8     |    11    |    0    
-    2022   |    14    |    4     |   381    |   68*    |  47.63   |   274    |  139.05  |    0     |    3     |    25    |    19    |    6     |    0    
-    2021   |    6     |    1     |   146    |    42    |  29.20   |   119    |  122.68  |    0     |    0     |    12    |    4     |    3     |    0    
+   Career  |    10    |    2     |   199    |   78*    |  28.43   |   163    |  122.09  |    0     |    1     |    12    |    8     |    4     |    1    
+    2022   |    2     |    0     |    8     |    8     |   4.00   |    7     |  114.29  |    0     |    0     |    2     |    0     |    0     |    0    
+    2021   |    8     |    2     |   191    |   78*    |  38.20   |   156    |  122.43  |    0     |    1     |    10    |    8     |    4     |    1    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -43,13 +46,47 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    57    |   187    |   274    |    6     |   2/30   |  45.67   |   8.79   |  31.17   |    0     |    0    
-    2025   |    13    |    66    |   102    |    4     |   2/30   |  25.50   |   9.27   |  16.50   |    0     |    0    
-    2024   |    11    |    12    |    15    |    0     |   0/5    |    -     |   7.50   |    -     |    0     |    0    
-    2023   |    13    |    49    |    70    |    1     |   1/24   |  70.00   |   8.57   |  49.00   |    0     |    0    
-    2022   |    14    |    36    |    64    |    1     |   1/8    |  64.00   |  10.67   |  36.00   |    0     |    0    
-    2021   |    6     |    24    |    23    |    0     |   0/5    |    -     |   5.75   |    -     |    0     |    0    
+   Career  |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/aiden-markram/1667
+Source: https://www.iplt20.com/players/k-s-bharat/2734
 ================================================================================
+**Kona Srikar Bharat** (born 3 October 1993) is an Indian international cricketer who plays as a wicket-keeper batsman for the Indian cricket team and Andhra in domestic cricket. In February 2023, he made his Test debut for India against Australia. In February 2015, he became the first wicket-keeper batsman to score a triple hundred in the Ranji Trophy. In seven Test matches he averages 20.09 with a highest score of 44.... ## Early life
+
+K. S. Bharat was born in Visakhapatnam on 3 October 1993 to Kona Srinivas Rao, a master craftsman at the city's naval dockyard, and Manga Devi, a housewife. He studied at the St. Aloysius High School and graduated from Dr. Lankapalli Bullayya College with a BCom degree.... Bharat began training with the Andhra Ranji Trophy squad at the age of 11. He was one of the ball boys for the India-Pakistan ODI match at Visakhapatnam in 2005. He started keeping wickets at the age of 19.... ## Domestic and T20 franchise career
+
+In February 2015, he became the first wicket-keeper batsman to score a triple hundred in the Ranji Trophy.
+
+In 2015, he was signed up for ₹10 lakh by the Indian Premier League franchise Delhi Daredevils. He did not get a game and was released ahead of the next season. In July 2018, he was named in the squad for India Blue for the 2018–19 Duleep Trophy.... In February 2021, Bharat was bought by the Royal Challengers Bangalore in the IPL auction ahead of the 2021 Indian Premier League. He played several matches and gained popularity after his last-ball six against Delhi Capitals.
+
+In February 2022, he was bought by the Delhi Capitals in the auction for the 2022 Indian Premier League for ₹2 crore. Like 2015, he did not get a game and was released for the next season.... In December 2022, he was bought by the Gujarat Titans in the auction for the 2023 Indian Premier League for ₹1.2 crore.
+
+In December 2023, he was brought by the Kolkata Knight Riders for the 2024 Indian Premier League for the base price of ₹ 50 lakh.
+
+He signed for Dulwich in the Premier Division of the Surrey_Championship for the 2025 season.... ## International career
+
+In November 2019, Bharat was added to India's Test squad for the second Test against Bangladesh, as cover for Wriddhiman Saha. In January 2020, he was added to Indian's squad for the One Day International (ODI) series against Australia, after Rishabh Pant suffered a concussion.... In January 2021, he was named as one of five standby players in India's Test squad for their series against England. In May 2021, Bharat was added to India's Test squad for their series against England as cover for Wriddhiman Saha.... In November 2021, Bharat took the field in the first Test for India against defending world test champions New Zealand during the New Zealand tour of India in 2021 as a replacement for the injured Wriddhiman Saha. In the match he kept wicket and took 2 catches behind the stumps, also dismissing Tom Latham for 95 by stumping him off of Axar Patel's bowling.... In February 2022, Bharat was named in India's Test squad for their series against Sri Lanka. In May 2022, he was again named in India's Test squad, this time for the rescheduled fifth Test against England.
+
+On 9 February 2023, Bharat made his Test debut against Australia at Vidarbha Cricket Association Stadium, Nagpur. In January 2024, he was selected in India's squad for the test series against England. In the first test, he scored 41 runs in the first innings and 28 runs in the second innings. He also effected 4 dismissals during the course of the match.... ## Personal life
+
+Bharat married his longtime girlfriend, Anjali Nedunuri, in 2020.
+
+## References... ## External links
+- K. S. Bharat at ESPNcricinfo
+
+Categories: - Living people
+- 1993 births
+- Indian cricketers
+- India Test cricketers
+- Andhra cricketers
+- Delhi Capitals cricketers
+- Cricketers from Visakhapatnam
+- India Red cricketers
+- India Blue cricketers
+- Indian A cricketers
+- People from East Godavari district
+- Royal Challengers Bengaluru cricketers
+- 21st-century Indian sportsmen
+- Wicket-keepers
+- Telugu cricketers

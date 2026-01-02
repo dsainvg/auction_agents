@@ -1,14 +1,26 @@
 ================================================================================
-IPL PLAYER PROFILE: APPORV WANKHADE
+IPL PLAYER PROFILE: SUMIT KUMAR
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Apporv Wankhade
-  Date of Birth            : 14 March 1992
-  Total IPL Matches        : 0
+  Player Name              : Sumit Kumar
+  IPL Debut                : 2024
+  Date of Birth            : 12 December 1995
+  Total IPL Matches        : 4
   Nationality              : Indian
 
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    4     |    1     |    18    |    9*    |   9.00   |    24    |  75.00   |    0     |    0     |    2     |    1     |    1     |    0    
+    2024   |    4     |    1     |    18    |    9*    |   9.00   |    24    |  75.00   |    0     |    0     |    2     |    1     |    1     |    0    
+
 ================================================================================
-Source: https://www.iplt20.com/players/apporv-wankhade/264
+Source: https://www.iplt20.com/players/sumit-kumar/20706
 ================================================================================

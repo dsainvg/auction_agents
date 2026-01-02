@@ -1,31 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: MAYANK AGARWAL
+IPL PLAYER PROFILE: DARYL MITCHELL
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Mayank Agarwal
-  IPL Debut                : 2011
-  Date of Birth            : 18 February 1991
-  Total IPL Matches        : 131
-  Role                     : Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  After skipper KL Rahul, Mayank Agarwal remains the most-important Indian
-  batsman in the PBKS line-up. Mayank has enjoyed a fine run with the Indian
-  Test team. Mayank can strike the ball hard and long and will be responsible
-  for helping PBKS get big totals. He scored 2 half-centuries in 2019 and
-  aggregated 332 runs at an average of 25.53. He had an eventful 2020 season
-  where he scored a spectacular ton against the Rajasthan Royals and made an
-  impactful performance count in the iconic double super-over game against the
-  Mumbai Indians. Mayank is an experienced contender to play a vital role for
-  the Punjab Kings’ success in 2021.
-
-CAREER HIGHLIGHTS
---------------------------------------------------------------------------------
-  1. Career best average: 25.53.
+  Player Name              : Daryl Mitchell
+  IPL Debut                : 2022
+  Date of Birth            : 20 May 1991
+  Total IPL Matches        : 15
+  Nationality              : New Zealander
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -35,48 +18,53 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   131    |    5     |   2756   |   106    |  22.97   |   2064   |  133.53  |    1     |    13    |   273    |   100    |    58    |    0    
-    2025   |    4     |    1     |    95    |   41*    |  31.67   |    64    |  148.44  |    0     |    0     |    10    |    2     |    0     |    0    
-    2024   |    4     |    0     |    64    |    32    |  16.00   |    57    |  112.28  |    0     |    0     |    8     |    1     |    2     |    0    
-    2023   |    10    |    0     |   270    |    83    |  27.00   |   210    |  128.57  |    0     |    1     |    29    |    6     |    6     |    0    
-    2022   |    13    |    0     |   196    |    52    |  16.33   |   160    |  122.50  |    0     |    1     |    23    |    6     |    10    |    0    
-    2021   |    12    |    1     |   441    |   99*    |  40.09   |   314    |  140.44  |    0     |    4     |    42    |    18    |    5     |    0    
-    2020   |    11    |    0     |   424    |   106    |  38.54   |   271    |  156.45  |    1     |    2     |    44    |    15    |    6     |    0    
-    2019   |    13    |    0     |   332    |    58    |  25.53   |   234    |  141.88  |    0     |    2     |    26    |    14    |    7     |    0    
-    2018   |    11    |    1     |   120    |    30    |  12.00   |    94    |  127.65  |    0     |    0     |    9     |    5     |    2     |    0    
-    2017   |    3     |    0     |    26    |    20    |   8.66   |    27    |  96.29   |    0     |    0     |    3     |    0     |    1     |    0    
-    2016   |    3     |    0     |    27    |    10    |   9.00   |    25    |  108.00  |    0     |    0     |    3     |    1     |    0     |    0    
-    2015   |    10    |    1     |   213    |    68    |  23.66   |   177    |  120.33  |    0     |    2     |    23    |    7     |    3     |    0    
-    2014   |    8     |    0     |   115    |    31    |  14.37   |    91    |  126.37  |    0     |    0     |    12    |    3     |    1     |    0    
-    2013   |    5     |    0     |    67    |    29    |  13.40   |    62    |  108.06  |    0     |    0     |    6     |    3     |    3     |    0    
-    2012   |    16    |    1     |   225    |   64*    |  20.45   |   158    |  142.40  |    0     |    1     |    19    |    15    |    9     |    0    
-    2011   |    8     |    0     |   141    |    41    |  20.14   |   120    |  117.50  |    0     |    0     |    16    |    4     |    3     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |   131    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2024   |    4     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2021   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2019   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2017   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2015   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2014   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2013   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2012   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2011   |    8     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    15    |    2     |   351    |    63    |  27.00   |   267    |  131.46  |    0     |    2     |    28    |    10    |    11    |    0    
+    2024   |    13    |    2     |   318    |    63    |  28.91   |   223    |  142.60  |    0     |    2     |    27    |    10    |    9     |    0    
+    2022   |    2     |    0     |    33    |    17    |  16.50   |    44    |  75.00   |    0     |    0     |    1     |    0     |    2     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/mayank-agarwal/158
+Source: https://www.iplt20.com/players/daryl-mitchell/20617
 ================================================================================
+### Daryl Mitchell
+
+### New Zealand
+
+### ICC Ranking
+
+#1 Batter in ODI
+
+#8 Batter in TEST
+
+#46 Batter in T20
+
+### Popular PlayersVirat KohliRohit SharmaSachin TendulkarSourav GangulyHardik PandyaOverviewNewsStats
+
+### ICC Ranking
+
+#1 Batter in ODI
+
+#8 Batter in TEST
+
+#46 Batter in T20... ### Batting Performance
+
+|Format|M|Inns|No|R|H.S|Avg|BF|SR|100s|50s|
+|--|--|--|--|--|--|--|--|--|--|--|
+|test|33|53|5|2139|190|44.56|3976|53.79|5|15|... |odi|56|51|7|2338|134|53.13|2491|93.85|7|11|
+|t20i|90|80|18|1674|72|27|1206|138.8|--|8|
+|t20|254|228|51|5464|88|30.87|4014|136.12|--|27|... |fc|114|186|21|6525|190|39.54|13064|49.94|15|38|
+|list a|142|130|15|4875|134|42.39|5539|88.01|10|29|
+|t10|--|--|--|--|--|--|--|--|--|--|... ### Bowling Performance
+
+|Format|M|Inns|Ovs|R|Wkts|BBI|Avg|ECN|SR|4W|5W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|test|33|22|121.10|385|3|1/7|128.33|3.17|242.3|--|--|... |odi|56|16|54.30|318|14|3/25|22.71|5.83|23.3|--|--|
+|t20i|90|13|17.50|189|9|2/27|21|10.59|11.8|--|--|... |t20|254|100|224.00|2119|83|4/32|25.53|9.45|16.1|2|--|
+|fc|114|129|972.10|3117|100|5/44|31.17|3.2|58.3|3|1|... |list a|142|70|322.40|1959|65|3/25|30.13|6.07|29.7|--|--|
+|t10|--|--|0.00|--|--|--|--|--|--|--|--|... ### Recent Form (Last 5 Matches)AllTestODIT20
+
+|Match|Bat|Bowl|Date|Venue|Format|
+|--|--|--|--|--|--|
+|NZ vs WI|119|16 Nov 2025|Christchurch|odi|
+|NZ vs WI|41|09 Nov 2025|Nelson|t20i|... |NZ vs WI|28*|06 Nov 2025|Auckland|t20i|
+|NZ vs WI|13|05 Nov 2025|Auckland|t20i|
+|NZ vs ENG|44|01 Nov 2025|Wellington|odi|

@@ -1,58 +1,101 @@
-================================================================================
-IPL PLAYER PROFILE: MUJEEB-UR-RAHMAN
-================================================================================
+# Aman Rao Perala
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Mujeeb-ur-Rahman
-  IPL Debut                : 2018
-  Date of Birth            : 28 March 2001
-  Total IPL Matches        : 20
-  Role                     : Bowler
-  Nationality              : Afghan
+India
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Afghanistan’s Mujeeb-ur Rahman had taken IPL 2018 by storm on his way to
-  picking 14 wickets in 11 matches at under 7 runs an over. Mujeeb also became
-  a part of Afghanistan’s first-ever Test match against India in 2018,
-  following a superb season with the ball. He didn’t have a memorable 2019 and
-  2020 season as he picked up only three wickets from a total of seven games
-  in two years. After being part of Kings XI Punjab (now Punjab Kings) and
-  having toured around the globe in other T20 Leagues, Mujeeb would have
-  gained some much-needed experience and will be looking to make the most of
-  his outing in 2021 with Sunrisers Hyderabad.
+### More India Players
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    20    |    4     |    12    |   10*    |   4.00   |    15    |  80.00   |    0     |    0     |    2     |    0     |    2     |    0    
-    2025   |    1     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2021   |    1     |    1     |    1     |    1*    |   0.00   |    1     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
-    2020   |    2     |    0     |    1     |    1     |   1.00   |    3     |  33.33   |    0     |    0     |    0     |    0     |    0     |    0    
-    2019   |    5     |    2     |    0     |    0*    |   0.00   |    4     |   0.00   |    0     |    0     |    0     |    0     |    1     |    0    
-    2018   |    11    |    1     |    10    |   10*    |  10.00   |    7     |  142.85  |    0     |    0     |    2     |    0     |    1     |    0    
+Shabbir Bashir Khan
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    20    |   446    |   620    |    20    |   3/27   |  31.00   |   8.34   |  22.30   |    0     |    0    
-    2025   |    1     |    12    |    28    |    1     |   1/28   |  28.00   |  14.00   |  12.00   |    0     |    0    
-    2021   |    1     |    24    |    29    |    2     |   2/29   |  14.50   |   7.25   |  12.00   |    0     |    0    
-    2020   |    2     |    48    |    83    |    0     |   0/39   |    -     |  10.37   |    -     |    0     |    0    
-    2019   |    5     |   114    |   191    |    3     |   2/31   |  63.66   |  10.05   |  38.00   |    0     |    0    
-    2018   |    11    |   248    |   289    |    14    |   3/27   |  20.64   |   6.99   |  17.71   |    0     |    0    
+Saima Zakirhussain Thakor
 
-================================================================================
-Source: https://www.iplt20.com/players/mujeeb-ur-rahman/4572
-================================================================================
+Bowler
+
+Arjit Pannu
+
+Ashwini Minna
+
+Aditya Anand Sarwate
+
+Allrounder
+
+Rahul Radesh
+
+Lakshit Mohanlal Toksiya
+
+N Sarangarajan Chaturved
+
+Top-Order Batter
+
+R Divakar
+
+Bowler
+
+Shubham Mishra... ### Personal Information
+
+- Full Name
+
+- Aman Rao Perala
+
+- Age
+
+- 21 years
+
+- Batting Style
+
+- Right Hand Bat
+
+### Teams
+
+Hyderabad (India)
+
+India... ## Career Stats
+
+### Batting
+
+|Format|Mat|Inns|NO|Runs|HS|Ave|BF|SR|100|50|4s|6s|Ct|St|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|T20s|1|1|1|67|67*|-|42|159.52|-|1|7|3|2|-|... ### Bowling
+
+|Format|Mat|Inns|Balls|Runs|Wkts|BBI|Ave|Econ|SR|5W|10W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|T20s|1|-|-|-|-|-|-|-|-|-|-|... ## Recent Matches
+
+|Match|Date|Venue|Format|Toss|Bat|Bowl|Field|Result|Series|
+|--|--|--|--|--|--|--|--|--|--|
+|HYD vs MIZO|2024-12-05|Saurashtra Rajkot|T20|Lost (Bat)|67*|-|-|Won Hyderabad won by 10 wickets (with 50 balls remaining)|Syed Mushtaq Ali Trophy 2024/25|... ## Debut/Last Matches
+
+## About
+
+In the realm of cricket, few names resonate with promise and talent like that of
+
+**Aman Rao**, also known as **Aman Rao Perala**. This young cricketer has been making waves in the cricketing world, captivating fans with his exceptional skills and unwavering determination. In this article, we dive deep into Aman Rao's journey, his achievements, and what sets him apart as a future star in the cricketing arena.... ## Early Life and Cricketing Beginnings
+
+Aman Rao was born and raised in a cricket-loving family, where the sport was more than just a pastime; it was a way of life. Growing up in a small town, Aman found solace and passion in the game. His early fascination with cricket transformed into a serious pursuit when he joined the local cricket academy at a tender age.... From the very beginning, Aman's talent was evident. His coaches recognized his potential, noting his remarkable ability to read the game and his natural flair as a batsman. With an unwavering commitment to honing his skills, Aman dedicated countless hours to practice, consistently pushing the boundaries of his capabilities.... ## Breakthrough Moments in His Career
+
+Aman's journey to prominence began when he played for his school team, leading them to victory in several inter-school tournaments. His performances were nothing short of spectacular, catching the attention of selectors and scouts alike. It wasn't long before he made his debut in the professional circuit.... ### Performance in Domestic Cricket
+
+The turning point in Aman's career came when he was selected to play for a regional team in the domestic league. His initial matches were a test of character, but Aman rose to the occasion, delivering performances that left audiences in awe. Some of his notable achievements include:
+
+- Scoring a remarkable century in his debut match, establishing himself as a formidable batsman.
+
+- Consistently being among the top scorers in the league, showcasing his ability to perform under pressure.
+
+- Receiving several player-of-the-match awards, further solidifying his status as a rising star.... ### International Recognition
+
+Aman's exceptional performances soon attracted the attention of national selectors. His inclusion in the national team was a dream come true, not just for him but also for his supporters who had witnessed his journey from a young aspirant to an international cricketer. Making his international debut, Aman showcased his prowess, contributing significantly to his team's success.... ## Playing Style and Strengths
+
+What sets Aman Rao apart from his contemporaries is his unique playing style. He combines classical technique with a modern approach, making him a versatile player capable of adapting to different formats of the game. His strengths include:
+
+**Technical Proficiency:**Aman's solid technique allows him to tackle various bowling styles, making him a reliable batsman. **Strategic Mindset:**His ability to read the game and make strategic decisions on the field has earned him praise from coaches and analysts alike. **Resilience:**Aman demonstrates remarkable mental toughness, often bouncing back from setbacks and maintaining composure in high-pressure situations.... ## Challenges and Triumphs
+
+Like any athlete, Aman Rao has faced his share of challenges. Injuries and the pressure of expectations can weigh heavily on even the most talented players. However, Aman's resilience has been a defining trait in overcoming these obstacles. His journey is a testament to the power of perseverance and determination.
+
+One of the most significant challenges he faced was during a crucial series where he struggled with form. Rather than succumbing to pressure, Aman took it as an opportunity for growth. He worked closely with his coaches, analyzed his performances, and emerged stronger, ultimately delivering a match-winning performance that silenced critics.... ## The Future of Aman Rao: What Lies Ahead?
+
+As Aman Rao continues to evolve as a cricketer, the cricketing community watches with bated breath. His potential is limitless, and the sky seems to be the only limit. Fans and experts alike speculate about his future contributions to the national team and the impact he will have on the sport.
+
+With his sights set on becoming one of the leading figures in international cricket, Aman is determined to keep honing his skills. He aims to inspire the next generation of cricketers, emphasizing the importance of hard work, dedication, and a love for the game.... ## Conclusion
+
+Aman Rao's journey is a compelling narrative of talent, hard work, and resilience. As he continues to make strides in his cricketing career, he embodies the aspirations of countless young players around the world. With every match, Aman Rao proves that dreams can be realized through determination and passion. Cricket enthusiasts eagerly anticipate the next chapters in his story, confident that this remarkable player is destined for greatness.
+
+In the ever-evolving world of cricket, Aman Rao stands as a beacon of hope for aspiring athletes. His legacy is just beginning, and one can only imagine the heights he will reach in the years to come.

@@ -1,31 +1,32 @@
 ================================================================================
-IPL PLAYER PROFILE: ISHAN KISHAN
+IPL PLAYER PROFILE: RAVI BISHNOI
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Ishan Kishan
-  IPL Debut                : 2016
-  Date of Birth            : 18 July 1998
-  Total IPL Matches        : 119
-  Role                     : Wicketkeeper Batter
+  Player Name              : Ravi Bishnoi
+  IPL Debut                : 2020
+  Date of Birth            : 05 September 2000
+  Total IPL Matches        : 77
+  Role                     : Bowler
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  Ishan Kishan, a left-handed wicketkeeper-batter, has earned a reputation
-  as one of India's cleanest hitters. Having led the India U19 team to a
-  runners-up finish in the 2016 World Cup, Kishan debuted for Gujarat Lions in
-  2016 and then moved to MI in 2018. With MI, Kishan helped them win the IPL
-  2019 and 2020 titles, scoring 516 runs in IPL 2020. His stellar performance
-  in 2022 saw him become the most expensive buy of the auction for INR 15.25
-  Crore. Kishan, known for his big-hitting, even has a double century in ODIs
-  to his name. For TATA IPL 2025, Sunrisers Hyderabad secured him for a
-  massive INR 11.25 Crore, making him their most expensive player.
-
-CAREER HIGHLIGHTS
---------------------------------------------------------------------------------
-  1. Most expensive player in IPL history
+  Leg spinners are a huge attraction in the T20 format and the young Ravi
+  Bishnoi has it in him to be the next star spinner. The 19-year-old was
+  picked up for a whopping INR 2 crore at the auction and the amount is enough
+  to estimate the interest he generated among various franchises. It is not
+  only the money, but Bishnoi will have everything going for him in this IPL
+  as he will be under the tutelage of Anil Kumble, who is the Head Coach of
+  PBKS. It is an ideal setting for a prodigy to learn from the master of the
+  craft and also pick his astute cricket brains. In the U19 World Cup, Bishnoi
+  picked up 17 wickets from just six games and finished as the top
+  wicket-taker in the tournament. All eyes were on him when he made his IPL
+  debut and the right-arm spinner lived up to the expectations, bowling tight
+  overs for PBKS throughout the 2020 season as he managed to pick 12 wickets.
+  Bishnoi will be looking to capitalize on his past performance and make full
+  use of the Indian conditions for the 2021 season.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -35,17 +36,13 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |   119    |    9     |   2998   |   106*   |  29.11   |   2178   |  137.65  |    1     |    17    |   288    |   134    |    59    |    5    
-    2025   |    14    |    3     |   354    |   106*   |  35.40   |   232    |  152.59  |    1     |    1     |    33    |    15    |    8     |    0    
-    2024   |    14    |    0     |   320    |    69    |  22.86   |   215    |  148.84  |    0     |    1     |    35    |    16    |    9     |    0    
-    2023   |    16    |    0     |   454    |    75    |  30.27   |   318    |  142.77  |    0     |    3     |    54    |    18    |    10    |    3    
-    2022   |    14    |    1     |   418    |   81*    |  32.15   |   348    |  120.11  |    0     |    3     |    45    |    11    |    13    |    0    
-    2021   |    10    |    1     |   241    |    84    |  26.77   |   180    |  133.88  |    0     |    2     |    21    |    10    |    3     |    0    
-    2020   |    14    |    4     |   516    |    99    |  57.33   |   354    |  145.76  |    0     |    4     |    36    |    30    |    1     |    0    
-    2019   |    7     |    0     |   101    |    28    |  16.83   |   100    |  101.00  |    0     |    0     |    8     |    4     |    2     |    0    
-    2018   |    14    |    0     |   275    |    62    |  22.91   |   184    |  149.45  |    0     |    2     |    22    |    17    |    9     |    2    
-    2017   |    11    |    0     |   277    |    61    |  27.70   |   206    |  134.46  |    0     |    1     |    29    |    13    |    3     |    0    
-    2016   |    5     |    0     |    42    |    27    |   8.40   |    41    |  102.43  |    0     |    0     |    5     |    0     |    1     |    0    
+   Career  |    77    |    8     |    45    |    13    |   4.50   |    66    |  68.18   |    0     |    0     |    2     |    2     |    26    |    0    
+    2025   |    11    |    1     |    13    |    13    |   6.50   |    16    |  81.25   |    0     |    0     |    0     |    2     |    6     |    0    
+    2024   |    14    |    0     |    4     |    2     |   1.33   |    6     |  66.67   |    0     |    0     |    0     |    0     |    4     |    0    
+    2023   |    15    |    4     |    20    |    5     |   6.67   |    27    |  74.07   |    0     |    0     |    1     |    0     |    9     |    0    
+    2022   |    14    |    1     |    0     |    0*    |    -     |    1     |   0.00   |    0     |    0     |    0     |    0     |    3     |    0    
+    2021   |    9     |    0     |    1     |    1     |   1.00   |    4     |  25.00   |    0     |    0     |    0     |    0     |    2     |    0    
+    2020   |    14    |    2     |    7     |    6*    |   7.00   |    12    |  58.33   |    0     |    0     |    1     |    0     |    2     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -55,18 +52,116 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |   119    |    1     |    4     |    0     |   0/4    |    -     |  24.00   |    -     |    0     |    0    
-    2025   |    14    |    1     |    4     |    0     |   0/4    |    -     |  24.00   |    -     |    0     |    0    
-    2024   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2023   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2021   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2020   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2019   |    7     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2018   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2017   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2016   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    77    |   1627   |   2229   |    72    |   3/24   |  30.96   |   8.22   |  22.60   |    0     |    0    
+    2025   |    11    |   222    |   401    |    9     |   2/18   |  44.56   |  10.84   |  24.67   |    0     |    0    
+    2024   |    14    |   262    |   383    |    10    |   2/25   |  38.30   |   8.77   |  26.20   |    0     |    0    
+    2023   |    15    |   303    |   391    |    16    |   3/28   |  24.44   |   7.74   |  18.94   |    0     |    0    
+    2022   |    14    |   324    |   456    |    13    |   2/22   |  35.08   |   8.44   |  24.92   |    0     |    0    
+    2021   |    9     |   210    |   222    |    12    |   3/24   |  18.50   |   6.34   |  17.50   |    0     |    0    
+    2020   |    14    |   306    |   376    |    12    |   3/29   |  31.33   |   7.37   |  25.50   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/ishan-kishan/2975
+Source: https://www.iplt20.com/players/ravi-bishnoi/19351
 ================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Tamil Nadu|1|2|0|5|4|0|0|1|0|2.50|41.66|-|-|TN|1203|0|0|4|-|-|-|
+|Saurashtra|1|1|0|45|45|0|0|5|2|45.00|90.00|-|-|SAU|1204|0|0|4|-|-|-|... |Railways|1|2|0|26|22|0|0|5|0|13.00|130.00|3|0|RAI|1206|0|0|4|-|-|-|
+|Goa|1|2|0|48|30|0|0|4|2|24.00|77.41|-|-|GOA|1215|0|0|4|-|-|-|... |Rajasthan|1|2|0|7|6|0|0|0|0|3.50|26.92|-|-|RJS|1217|0|0|4|-|-|-|
+|Andhra|1|2|0|3|3|0|0|0|0|1.50|60.00|-|-|AND|1218|1|1|4|-|-|-|... |Andhra|2|26.3|2|123|4|3/92|1|0|30.75|4.64|39.75|AND|1218|8|4|-|-|-|
+|Goa|2|13.4|0|66|2|1/10|0|0|33.00|4.82|41.00|GOA|1215|8|4|-|-|-|... |Kerala|1|30|7|74|1|1/74|0|0|74.00|2.46|180.00|KER|1220|8|4|-|-|-|
+|Puducherry|2|16|3|59|2|2/33|0|0|29.50|3.68|48.00|PUD|1670|8|4|-|-|-|... |Railways|2|32.5|2|159|7|5/76|0|1|22.71|4.84|28.14|RAI|1206|8|4|-|-|-|
+|Rajasthan|1|15|2|48|1|1/48|0|0|48.00|3.20|90.00|RJS|1217|8|4|-|-|-|... |Saurashtra|2|14.1|3|34|3|2/30|0|0|11.33|2.40|28.33|SAU|1204|8|4|-|-|-|
+|Tamil Nadu|2|31.2|0|130|5|4/73|1|0|26.00|4.14|37.60|TN|1203|8|4|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Mumbai|1|1|1|18|18*|0|0|2|1|-|200.00|-|-|MUM|1198|0|0|5|-|-|-|
+|Delhi|2|2|0|2|1|0|0|0|0|1.00|18.18|1|0|DEL|1199|0|1|5|-|-|-|... |Assam|3|1|0|3|3|0|0|0|0|3.00|42.85|-|-|ASM|1200|0|0|5|-|-|-|
+|Bengal|1|0|0|-|-|0|0|0|0|-|0.00|-|-|BEN|1201|0|0|5|-|-|-|... |Odisha|1|1|0|40|40|0|0|4|1|40.00|71.42|-|-|ODS|1207|0|0|5|-|-|-|
+|Punjab|1|0|0|-|-|0|0|0|0|-|0.00|-|-|PUN|1208|0|0|5|-|-|-|... |Haryana|2|1|0|12|12|0|0|0|1|12.00|54.54|-|-|HAR|1210|0|0|5|-|-|-|
+|Karnataka|2|2|0|21|17|0|0|3|1|10.50|70.00|-|-|KAR|1211|0|0|5|-|-|-|... |Madhya Pradesh|1|1|1|1|1*|0|0|0|0|-|100.00|-|-|MP|1212|0|0|5|-|-|-|
+|Jharkhand|2|1|0|3|3|0|0|0|0|3.00|42.85|1|0|JHA|1214|0|0|5|-|-|-|... |Goa|2|1|1|20|20*|0|0|0|2|-|200.00|-|-|GOA|1215|0|0|5|-|-|-|
+|Jammu And Kashmir|1|1|1|8|8*|0|0|1|0|-|88.88|-|-|JAM|1216|0|0|5|-|-|-|... |Tripura|1|1|0|15|15|0|0|1|1|15.00|115.38|-|-|TRP|1219|0|0|5|-|-|-|
+|Vidarbha|1|0|0|-|-|0|0|0|0|-|0.00|-|-|VID|1221|0|0|5|-|-|-|... |Maharashtra|1|1|0|7|7|0|0|0|1|7.00|175.00|-|-|MAH|1222|0|0|5|-|-|-|
+|Services|1|1|0|2|2|0|0|0|0|2.00|28.57|1|0|SER|1223|0|0|5|-|-|-|... |Puducherry|1|0|0|-|-|0|0|0|0|-|0.00|-|-|PUD|1670|0|0|5|-|-|-|
+|India C|1|1|0|13|13|0|0|0|1|13.00|92.85|-|-|IND-C|1673|0|0|5|-|-|-|... |Assam|2|19|0|106|6|4/45|1|0|17.66|5.57|19.00|ASM|1200|31|5|-|-|-|
+|Bengal|1|10|0|49|3|3/49|1|0|16.33|4.90|20.00|BEN|1201|31|5|-|-|-|... |Delhi|2|12.4|1|86|1|1/27|0|0|86.00|6.78|76.00|DEL|1199|31|5|-|-|-|
+|Goa|2|14|2|55|4|2/8|0|0|13.75|3.92|21.00|GOA|1215|31|5|-|-|-|... |Haryana|2|20|0|87|5|4/46|1|0|17.40|4.35|24.00|HAR|1210|31|5|-|-|-|
+|Himachal Pradesh|1|10|0|60|2|2/60|0|0|30.00|6.00|30.00|HIM|1205|31|5|-|-|-|... |India C|1|8|0|63|1|1/63|0|0|63.00|7.87|48.00|IND-C|1673|31|5|-|-|-|
+|Jammu And Kashmir|1|9|0|64|0|0/64|0|0|-|7.11|-|JAM|1216|31|5|-|-|-|... |Jharkhand|2|12|0|67|0|0/29|0|0|-|5.58|-|JHA|1214|31|5|-|-|-|
+|Karnataka|2|19.4|0|106|1|1/43|0|0|106.00|5.38|118.00|KAR|1211|31|5|-|-|-|... |Madhya Pradesh|1|10|0|34|1|1/34|0|0|34.00|3.40|60.00|MP|1212|31|5|-|-|-|
+|Maharashtra|1|10|0|55|3|3/55|1|0|18.33|5.50|20.00|MAH|1222|31|5|-|-|-|... |Manipur|1|4.4|2|4|2|2/4|0|0|2.00|0.85|14.00|MAN|1662|31|5|-|-|-|
+|Meghalaya|1|7.1|2|26|3|3/26|1|0|8.66|3.62|14.33|MEG|1664|31|5|-|-|-|... |Mumbai|1|10|0|45|1|1/45|0|0|45.00|4.50|60.00|MUM|1198|31|5|-|-|-|
+|Odisha|1|8|2|17|4|4/17|1|0|4.25|2.12|12.00|ODS|1207|31|5|-|-|-|... |Puducherry|1|10|0|47|2|2/47|0|0|23.50|4.70|30.00|PUD|1670|31|5|-|-|-|
+|Punjab|1|10|0|47|1|1/47|0|0|47.00|4.70|60.00|PUN|1208|31|5|-|-|-|... |Railways|2|18|1|101|2|1/48|0|0|50.50|5.61|54.00|RAI|1206|31|5|-|-|-|
+|Services|1|8|1|44|0|0/44|0|0|-|5.50|-|SER|1223|31|5|-|-|-|... |Sikkim|1|10|0|34|4|4/34|1|0|8.50|3.40|15.00|SIK|1663|31|5|-|-|-|
+|Tripura|1|8|0|47|2|2/47|0|0|23.50|5.87|24.00|TRP|1219|31|5|-|-|-|... |Uttarakhand|1|10|0|47|1|1/47|0|0|47.00|4.70|60.00|UT|1668|31|5|-|-|-|
+|Vidarbha|1|9|0|47|0|0/47|0|0|-|5.22|-|VID|1221|31|5|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Royal Challengers Bengaluru|9|3|2|8|5|0|0|0|0|8.00|61.53|3|0|RCB|1105|1|1|6|LSG|Lucknow Super Giants|LSG|
+|Kolkata Knight Riders|10|3|0|5|2|0|0|0|0|1.66|55.55|3|0|KKR|1106|0|0|6|LSG|Lucknow Super Giants|LSG|... |Punjab Kings|5|2|1|3|3*|0|0|0|0|3.00|150.00|3|0|PBKS|1107|1|0|6|LSG|Lucknow Super Giants|LSG|
+|Chennai Super Kings|9|0|0|-|-|0|0|0|0|-|0.00|3|0|CSK|1108|0|0|6|PBKS|Punjab Kings|PBKS|... |Delhi Capitals|10|2|0|2|2|0|0|0|0|1.00|50.00|-|-|DC|1109|1|1|6|LSG|Lucknow Super Giants|LSG|
+|Rajasthan Royals|8|0|0|-|-|0|0|0|0|-|0.00|2|0|RR|1110|0|0|6|PBKS|Punjab Kings|PBKS|... |Mumbai Indians|12|3|0|17|13|0|0|0|2|5.66|68.00|6|0|MI|1111|0|0|6|LSG|Lucknow Super Giants|LSG|
+|Sunrisers Hyderabad|8|2|2|6|6*|0|0|1|0|-|85.71|1|0|SRH|1379|1|0|6|PBKS|Punjab Kings|PBKS|... |Gujarat Titans|5|2|2|4|4*|0|0|1|0|-|66.66|3|0|GT|2955|1|0|6|LSG|Lucknow Super Giants|LSG|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Chennai Super Kings|8|29|0|230|9|3/28|1|0|25.55|7.93|19.33|CSK|1108|23|6|PBKS|Punjab Kings|PBKS|... |Delhi Capitals|10|38|0|309|11|2/22|0|0|28.09|8.13|20.72|DC|1109|23|6|PBKS|Punjab Kings|PBKS|
+|Gujarat Titans|5|16|0|148|3|2/36|0|0|49.33|9.25|32.00|GT|2955|23|6|PBKS|Punjab Kings|PBKS|... |Kolkata Knight Riders|10|37.4|1|270|11|2/20|0|0|24.54|7.16|20.54|KKR|1106|23|6|PBKS|Punjab Kings|PBKS|
+|Mumbai Indians|12|45|0|359|13|2/21|0|0|27.61|7.97|20.76|MI|1111|23|6|PBKS|Punjab Kings|PBKS|... |Punjab Kings|5|16.3|0|168|5|2/18|0|0|33.60|10.18|19.80|PBKS|1107|23|6|PBKS|Punjab Kings|PBKS|
+|Rajasthan Royals|8|28|0|219|3|2/31|0|0|73.00|7.82|56.00|RR|1110|23|6|PBKS|Punjab Kings|PBKS|... |Royal Challengers Bengaluru|9|34|0|298|8|3/32|1|0|37.25|8.76|25.50|RCB|1105|23|6|PBKS|Punjab Kings|PBKS|
+|Sunrisers Hyderabad|8|27|0|210|9|3/24|2|0|23.33|7.77|18.00|SRH|1379|23|6|PBKS|Punjab Kings|PBKS|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Derbyshire|1|0|0|-|-|0|0|0|0|-|0.00|-|-|DER|225|0|0|6|-|-|-|
+|Royal Challengers Bengaluru|9|3|2|8|5|0|0|0|0|8.00|61.53|3|0|RCB|1105|1|1|6|-|-|-|... |Kolkata Knight Riders|10|3|0|5|2|0|0|0|0|1.66|55.55|3|0|KKR|1106|0|0|6|-|-|-|
+|Punjab Kings|5|2|1|3|3*|0|0|0|0|3.00|150.00|3|0|PBKS|1107|1|0|6|-|-|-|... |Chennai Super Kings|9|0|0|-|-|0|0|0|0|-|0.00|3|0|CSK|1108|0|0|6|-|-|-|
+|Delhi Capitals|10|2|0|2|2|0|0|0|0|1.00|50.00|-|-|DC|1109|1|1|6|-|-|-|... |Rajasthan Royals|8|0|0|-|-|0|0|0|0|-|0.00|2|0|RR|1110|0|0|6|-|-|-|
+|Mumbai Indians|12|3|0|17|13|0|0|0|2|5.66|68.00|6|0|MI|1111|0|0|6|-|-|-|... |Gujarat|1|0|0|-|-|0|0|0|0|-|0.00|1|0|GUJ|1202|0|0|6|-|-|-|
+|Tamil Nadu|4|3|1|24|22*|0|0|2|0|12.00|66.66|1|0|TN|1203|1|0|6|-|-|-|... |Jharkhand|1|0|0|-|-|0|0|0|0|-|0.00|-|-|JHA|1214|0|0|6|-|-|-|
+|Goa|2|1|0|7|7|0|0|1|0|7.00|77.77|2|0|GOA|1215|0|0|6|-|-|-|... |Jammu And Kashmir|1|0|0|-|-|0|0|0|0|-|0.00|1|0|JAM|1216|0|0|6|-|-|-|
+|Andhra|2|2|1|6|4*|0|0|0|0|6.00|66.66|-|-|AND|1218|0|0|6|-|-|-|... |Tripura|1|0|0|-|-|0|0|0|0|-|0.00|-|-|TRP|1219|0|0|6|-|-|-|
+|Vidarbha|4|3|0|20|15|0|0|3|1|6.66|100.00|3|0|VID|1221|1|0|6|-|-|-|... |Sunrisers Hyderabad|9|3|3|6|6*|0|0|1|0|-|85.71|1|0|SRH|1379|2|0|6|-|-|-|
+|Manipur|2|0|0|-|-|0|0|0|0|-|0.00|1|0|MAN|1662|0|0|6|-|-|-|... |Uttarakhand|2|0|0|-|-|0|0|0|0|-|0.00|-|-|UT|1668|0|0|6|-|-|-|
+|Bihar|1|0|0|-|-|0|0|0|0|-|0.00|0|0|BIH|1669|0|0|6|-|-|-|... |Gujarat Titans|5|2|2|4|4*|0|0|1|0|-|66.66|3|0|GT|2955|1|0|6|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Arunachal Pradesh|1|4|0|15|2|2/15|0|0|7.50|3.75|12.00|AP|1665|116|6|-|-|-|
+|Assam|1|2.5|0|19|1|1/19|0|0|19.00|6.70|17.00|ASM|1200|116|6|-|-|-|... |Baroda|1|4|0|23|2|2/23|0|0|11.50|5.75|12.00|BRD|1224|116|6|-|-|-|
+|Bihar|1|4|0|34|1|1/34|0|0|34.00|8.50|24.00|BIH|1669|116|6|-|-|-|... |Chennai Super Kings|8|29|0|230|9|3/28|1|0|25.55|7.93|19.33|CSK|1108|116|6|-|-|-|
+|Delhi Capitals|10|38|0|309|11|2/22|0|0|28.09|8.13|20.72|DC|1109|116|6|-|-|-|... |Derbyshire|1|4|0|34|0|0/34|0|0|-|8.50|-|DER|225|116|6|-|-|-|
+|Goa|2|8|0|50|4|3/26|1|0|12.50|6.25|12.00|GOA|1215|116|6|-|-|-|... |Gujarat|1|3|0|19|0|0/19|0|0|-|6.33|-|GUJ|1202|116|6|-|-|-|
+|Gujarat Titans|5|16|0|148|3|2/36|0|0|49.33|9.25|32.00|GT|2955|116|6|-|-|-|... |Haryana|1|4|0|30|1|1/30|0|0|30.00|7.50|24.00|HAR|1210|116|6|-|-|-|
+|Himachal Pradesh|2|8|0|51|2|1/24|0|0|25.50|6.37|24.00|HIM|1205|116|6|-|-|-|... |Jammu And Kashmir|1|4|0|25|2|2/25|0|0|12.50|6.25|12.00|JAM|1216|116|6|-|-|-|
+|Jharkhand|1|4|0|28|1|1/28|0|0|28.00|7.00|24.00|JHA|1214|116|6|-|-|-|... |Karnataka|1|4|0|28|3|3/28|1|0|9.33|7.00|8.00|KAR|1211|116|6|-|-|-|
+|Kolkata Knight Riders|10|37.4|1|270|11|2/20|0|0|24.54|7.16|20.54|KKR|1106|116|6|-|-|-|... |Madhya Pradesh|1|4|0|17|0|0/17|0|0|-|4.25|-|MP|1212|116|6|-|-|-|
+|Manipur|2|8|0|54|3|2/23|0|0|18.00|6.75|16.00|MAN|1662|116|6|-|-|-|... |Mumbai|1|4|0|29|2|2/29|0|0|14.50|7.25|12.00|MUM|1198|116|6|-|-|-|
+|Mumbai Indians|12|45|0|359|13|2/21|0|0|27.61|7.97|20.76|MI|1111|116|6|-|-|-|... |Punjab|1|4|0|44|1|1/44|0|0|44.00|11.00|24.00|PUN|1208|116|6|-|-|-|
+|Punjab Kings|5|16.3|0|168|5|2/18|0|0|33.60|10.18|19.80|PBKS|1107|116|6|-|-|-|... |Railways|2|8|0|41|3|2/13|0|0|13.66|5.12|16.00|RAI|1206|116|6|-|-|-|
+|Rajasthan Royals|8|28|0|219|3|2/31|0|0|73.00|7.82|56.00|RR|1110|116|6|-|-|-|... |Royal Challengers Bengaluru|9|34|0|298|8|3/32|1|0|37.25|8.76|25.50|RCB|1105|116|6|-|-|-|
+|Saurashtra|3|11|0|43|3|2/6|0|0|14.33|3.90|22.00|SAU|1204|116|6|-|-|-|... |Services|1|4|0|15|4|4/15|1|0|3.75|3.75|6.00|SER|1223|116|6|-|-|-|
+|Sikkim|1|4|1|16|1|1/16|0|0|16.00|4.00|24.00|SIK|1663|116|6|-|-|-|... |Sunrisers Hyderabad|9|28|0|236|9|3/24|2|0|26.22|8.42|18.66|SRH|1379|116|6|-|-|-|
+|Tamil Nadu|4|16|0|114|4|2/20|0|0|28.50|7.12|24.00|TN|1203|116|6|-|-|-|... |Tripura|1|4|0|38|0|0/38|0|0|-|9.50|-|TRP|1219|116|6|-|-|-|
+|Uttar Pradesh|1|4|0|29|2|2/29|0|0|14.50|7.25|12.00|UP|1209|116|6|-|-|-|... |Uttarakhand|2|8|0|59|3|3/24|1|0|19.66|7.37|16.00|UT|1668|116|6|-|-|-|
+|Vidarbha|4|14|0|83|2|1/16|0|0|41.50|5.92|42.00|VID|1221|116|6|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Bangladesh Under-19|4|1|0|2|2|0|0|0|0|2.00|33.33|1|0|BAN-U19|1155|0|1|22|-|-|-|
+|England Under-19|3|2|0|2|2|0|0|0|0|1.00|16.66|-|-|ENG-U19|1159|1|0|22|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Australia Under-19|1|9|0|26|1|1/26|0|0|26.00|2.88|54.00|AUS-U19|1154|18|22|-|-|-|
+|Bangladesh Under-19|4|37|3|158|9|4/30|1|0|17.55|4.27|24.66|BAN-U19|1155|18|22|-|-|-|... |England Under-19|3|27.3|0|118|4|3/40|1|0|29.50|4.29|41.25|ENG-U19|1159|18|22|-|-|-|
+|Japan Under-19|1|8|3|5|4|4/5|1|0|1.25|0.62|12.00|JPN-U19|2004|18|22|-|-|-|... |New Zealand Under-19|1|5|0|30|4|4/30|1|0|7.50|6.00|7.50|NZ-U19|1169|18|22|-|-|-|
+|Pakistan Under-19|1|10|0|46|2|2/46|0|0|23.00|4.60|30.00|PAK-U19|1170|18|22|-|-|-|... |South Africa Under-19|4|32.1|3|114|9|3/36|1|0|12.66|3.54|21.44|SA-U19|1172|18|22|-|-|-|
+|Sri Lanka Under-19|1|10|0|44|2|2/44|0|0|22.00|4.40|30.00|SL-U19|1165|18|22|-|-|-|... |Zimbabwe Under-19|1|8|0|22|1|1/22|0|0|22.00|2.75|48.00|ZIM-U19|1177|18|22|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |India A Under-19|2|1|0|9|9|0|0|0|1|9.00|128.57|-|-|INDA-U19|1890|0|0|-|-|-|-|
+|India B Under-19|1|1|0|2|2|0|0|0|0|2.00|28.57|-|-|INDB-U19|1891|0|0|-|-|-|-|... |Afghanistan Under-19|1|10|0|30|1|1/30|0|0|30.00|3.00|60.00|AFG-U19|1143|6|-|-|-|-|
+|India A Under-19|2|18|0|109|1|1/53|0|0|109.00|6.05|108.00|INDA-U19|1890|6|-|-|-|-|... |India B Under-19|1|10|0|65|2|2/65|0|0|32.50|6.50|30.00|INDB-U19|1891|6|-|-|-|-|
+|Nepal Under-19|1|10|1|32|1|1/32|0|0|32.00|3.20|60.00|NEP-U19|1168|6|-|-|-|-|... |South Africa Under-19|1|6|0|27|3|3/27|1|0|9.00|4.50|12.00|SA-U19|1172|6|-|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Home|1|8|0|69|1|1/69 v SA|0|0|69.00|8.62|48.00|SA|7|1|2|IND|India|IND|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|19|5|2|28|9* v ENG|0|0|3|1|9.33|112.00|10|0|ENG|3|0|1|3|IND|India|IND|... |Home|14|7|3|19|9* v ENG|0|0|3|0|4.75|126.66|2|0|ENG|3|3|3|3|IND|India|IND|
+|Neutral|9|1|1|8|8* v PAK|0|0|2|0|-|400.00|3|0|PAK|6|0|0|3|IND|India|IND|... |Away|19|72.4|2|507|31|4/13 v ZIM|4|0|16.35|6.97|14.06|ZIM|10|42|3|IND|India|IND|
+|Home|14|52|1|438|19|3/24 v NEP|3|0|23.05|8.42|16.42|NEP|637|42|3|IND|India|IND|... |Neutral|9|36|0|237|11|3/24 v NEP|1|0|21.54|6.58|19.63|NEP|637|42|3|IND|India|IND|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Neutral|9|12|0|138|45 v SAU|0|0|16|4|11.50|77.52|3|0|SAU|1204|1|1|4|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Neutral|14|179.3|19|693|25|5/76 v RAI|2|1|27.72|3.86|43.08|RAI|1206|8|4|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Neutral|32|19|4|177|40 v ODS|0|0|13|9|11.80|83.88|4|0|ODS|1207|2|1|5|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Neutral|31|267.1|11|1338|49|4/17 v ODS|7|0|27.30|5.00|32.71|ODS|1207|31|5|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Away|26|6|2|24|13 v MI|0|0|1|2|6.00|88.88|9|0|MI|1111|1|1|6|LSG|Lucknow Super Giants|LSG|
+|Home|29|7|3|11|5 v RCB|0|0|0|0|2.75|52.38|12|0|RCB|1105|3|1|6|LSG|Lucknow Super Giants|LSG|... |Neutral|21|4|2|10|6* v SRH|0|0|1|0|5.00|55.55|3|0|SRH|1379|1|0|6|PBKS|Punjab Kings|PBKS|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Away|26|92.4|0|835|20|3/24 v SRH|1|0|41.75|9.01|27.80|SRH|1379|23|6|PBKS|Punjab Kings|PBKS|... |Home|28|99.3|0|794|31|2/17 v RCB|0|0|25.61|7.97|19.25|RCB|1105|23|6|PBKS|Punjab Kings|PBKS|
+|Neutral|21|79|1|582|21|3/24 v SRH|3|0|27.71|7.36|22.57|SRH|1379|23|6|PBKS|Punjab Kings|PBKS|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Away|26|6|2|24|13 v MI|0|0|1|2|6.00|88.88|9|0|MI|1111|1|1|6|-|-|-|
+|Home|29|7|3|11|5 v VID|0|0|0|0|2.75|52.38|12|0|VID|1221|3|1|6|-|-|-|... |Neutral|62|16|6|73|22* v TN|0|0|7|2|7.30|76.84|20|0|TN|1203|5|0|6|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Home|28|99.3|0|794|31|2/6 v SAU|0|0|25.61|7.97|19.25|SAU|1204|116|6|-|-|-|
+|Neutral|62|234.5|2|1593|73|4/15 v SER|8|0|21.82|6.78|19.30|SER|1223|116|6|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|

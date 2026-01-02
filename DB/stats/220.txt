@@ -1,22 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: AKASH SINGH
+IPL PLAYER PROFILE: KYLE MAYERS
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Akash Singh
-  IPL Debut                : 2021
-  Date of Birth            : 26 April 2002
-  Total IPL Matches        : 10
-  Role                     : WK-Batter
+  Player Name              : Kyle Mayers
+  IPL Debut                : 2023
+  Date of Birth            : 08 September 1992
+  Total IPL Matches        : 13
   Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  Nagaland left-arm seamer Akash Singh was part of Rajasthan Royals,
-  Chennai Super Kings and Sunrisers Hyderabad in the previous editions and was
-  also a part of India’s Under-19 World Cup team in 2020. He will now play for
-  Lucknow in IPL 2025 after being picked for INR 30 Lakh.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -26,24 +18,9 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    10    |    0     |    0     |    0     |    -     |    0     |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2025   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
-    2023   |    6     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
-    2021   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    10    |   205    |   326    |    9     |   2/30   |  36.22   |   9.54   |  22.78   |    0     |    0    
-    2025   |    3     |    67    |    99    |    4     |   2/30   |  24.75   |   8.87   |  16.75   |    0     |    0    
-    2023   |    6     |   114    |   188    |    5     |   2/40   |  37.60   |   9.89   |  22.80   |    0     |    0    
-    2021   |    1     |    24    |    39    |    0     |   0/39   |    -     |   9.75   |    -     |    0     |    0    
+   Career  |    13    |    0     |   379    |    73    |  29.15   |   263    |  144.11  |    0     |    4     |    38    |    22    |    2     |    0    
+    2023   |    13    |    0     |   379    |    73    |  29.15   |   263    |  144.11  |    0     |    4     |    38    |    22    |    2     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/akash-singh/12585
+Source: https://www.iplt20.com/players/kyle-mayers/20587
 ================================================================================

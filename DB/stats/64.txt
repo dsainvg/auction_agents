@@ -1,46 +1,674 @@
-================================================================================
-IPL PLAYER PROFILE: ROBIN MINZ
-================================================================================
+Back to home
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Robin Minz
-  IPL Debut                : 2025
-  Date of Birth            : 13 September 2002
-  Total IPL Matches        : 2
-  Role                     : Wicketkeeper Batter
-  Nationality              : Indian
+Tuesday, October 07, 2025
 
-BIOGRAPHY
---------------------------------------------------------------------------------
-    An explosive wicketkeeper batter from Jharkhand, Robin Minz impressed
-  everyone with his power-hitting abilities in local tournaments. The
-  left-hander was picked by Gujarat Titans at the IPL 2024 Auction. This time
-  at the 2025 TATA IPL Auction, the southpaw was roped in by Mumbai Indians at
-  INR 65 Lakh.
+Sign in
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    2     |    0     |    6     |    3     |   3.00   |    15    |  40.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2025   |    2     |    0     |    6     |    3     |   3.00   |    15    |  40.00   |    0     |    0     |    0     |    0     |    0     |    0    
+Advertisement
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    2     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+Key Series
 
-================================================================================
-Source: https://www.iplt20.com/players/robin-minz/20707
-================================================================================
+ICC Women's World Cup
+
+Player Profile
+
+Yash Raj Punja
+
+IN
+
+all
+
+Personal Information
+
+Full Name
+
+Yash Raj Punja
+
+Born
+
+Age
+
+Batting Style
+
+Left hand Bat
+
+Bowling Style... Yash Raj Punja Overall Stats
+
+Batting
+
+M
+
+IN
+
+NT
+
+R
+
+B
+
+HS
+
+100
+
+50
+
+4
+
+6
+
+AVG
+
+SR
+
+CT
+
+Tb10
+
+
+
+Bowling
+
+M
+
+IN
+
+B
+
+O
+
+R
+
+W
+
+BI
+
+BM
+
+ECO
+
+AVG
+
+SR... 4W
+
+5W
+
+10W
+
+Tb10
+
+
+
+Advertisement
+
+ICC Ranking
+
+
+
+WTC Rankings
+
+Test Ranking
+
+ODI Ranking
+
+T20 Ranking
+
+Rank
+
+Team
+
+Rating
+
+Point
+
+1
+
+Australia
+
+124
+
+3732
+
+2
+
+South Africa
+
+115
+
+2873
+
+3
+
+England
+
+112... 4469
+
+4
+
+India
+
+107
+
+3515
+
+5
+
+New Zealand
+
+96
+
+2409
+
+Rank
+
+Player
+
+Team
+
+Rating
+
+1
+
+Joe Root
+
+ENG
+
+908
+
+2
+
+Harry Brook
+
+ENG
+
+868
+
+3
+
+Kane Williamson
+
+NZ
+
+850
+
+4
+
+Steve Smith
+
+AUS... 816
+
+5
+
+Yashasvi Jaiswal
+
+IND
+
+792
+
+Rank
+
+Player
+
+Team
+
+Rating
+
+1
+
+Jasprit Bumrah
+
+IND
+
+889
+
+2
+
+Kagiso Rabada
+
+SA
+
+851
+
+3
+
+Matt Henry
+
+NZ
+
+846
+
+4
+
+Pat Cummins
+
+AUS... 838
+
+5
+
+Josh Hazlewood
+
+AUS
+
+815
+
+Rank
+
+Player
+
+Team
+
+Rating
+
+1
+
+Ravindra Jadeja
+
+IND
+
+405
+
+2
+
+Mehidy Hasan Miraz
+
+BAN
+
+305
+
+3
+
+Ben Stokes
+
+ENG
+
+295
+
+4
+
+Wiaan Mulder
+
+SA... 284
+
+5
+
+Pat Cummins
+
+AUS
+
+270
+
+Rank
+
+Team
+
+Rating
+
+Point
+
+1
+
+India
+
+124
+
+4471
+
+2
+
+New Zealand
+
+109
+
+4160
+
+3
+
+Australia
+
+106
+
+3717
+
+4
+
+Sri Lanka
+
+103
+
+4235
+
+5
+
+Pakistan
+
+100... 3493
+
+Rank
+
+Player
+
+Team
+
+Rating
+
+1
+
+Shubman Gill
+
+IND
+
+784
+
+2
+
+Rohit Sharma
+
+IND
+
+756
+
+3
+
+Babar Azam
+
+PAK
+
+739
+
+4
+
+Virat Kohli
+
+IND
+
+736
+
+5
+
+Daryl Mitchell
+
+NZ
+
+720... Rank
+
+Player
+
+Team
+
+Rating
+
+1
+
+Keshav Maharaj
+
+SA
+
+680
+
+2
+
+Maheesh Theekshana
+
+SL
+
+659
+
+3
+
+Jofra Archer
+
+ENG
+
+654
+
+4
+
+Kuldeep Yadav
+
+IND
+
+650
+
+5
+
+Bernard Scholtz
+
+NAM... 645
+
+Rank
+
+Player
+
+Team
+
+Rating
+
+1
+
+Sikandar Raza
+
+ZIM
+
+302
+
+2
+
+Azmatullah Omarzai
+
+AFG
+
+296
+
+3
+
+Mohammad Nabi
+
+AFG
+
+292
+
+4
+
+Mehidy Hasan Miraz
+
+BAN
+
+249
+
+5
+
+Michael Bracewell... NZ
+
+246
+
+Rank
+
+Team
+
+Rating
+
+Point
+
+1
+
+India
+
+272
+
+17396
+
+2
+
+Australia
+
+268
+
+10434
+
+3
+
+England
+
+257
+
+11308
+
+4
+
+New Zealand
+
+251
+
+12061
+
+5
+
+South Africa
+
+243
+
+10950
+
+Rank
+
+Player
+
+Team... Rating
+
+1
+
+Abhishek Sharma
+
+IND
+
+926
+
+2
+
+Phil Salt
+
+ENG
+
+844
+
+3
+
+Tilak Varma
+
+IND
+
+819
+
+4
+
+Jos Buttler
+
+ENG
+
+785
+
+5
+
+Pathum Nissanka
+
+SL
+
+779
+
+Rank
+
+Player
+
+Team
+
+Rating
+
+1... Varun Chakaravarthy
+
+IND
+
+803
+
+2
+
+Jacob Duffy
+
+NZ
+
+717
+
+3
+
+Adam Zampa
+
+AUS
+
+700
+
+4
+
+Akeal Hosein
+
+WI
+
+699
+
+5
+
+Adil Rashid
+
+ENG
+
+689
+
+Rank
+
+Player
+
+Team
+
+Rating
+
+1... Saim Ayub
+
+PAK
+
+241
+
+2
+
+Hardik Pandya
+
+IND
+
+233
+
+3
+
+Mohammad Nabi
+
+AFG
+
+231
+
+4
+
+Dipendra Singh Airee
+
+NEP
+
+214
+
+5
+
+Sikandar Raza
+
+ZIM
+
+209
+
+View Full
+
+Last updated on 07 Oct 2025
+Advertisement
+
+Advertisement

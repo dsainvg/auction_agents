@@ -1,30 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: ROMARIO SHEPHERD
+IPL PLAYER PROFILE: NAVEEN UL HAQ
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Romario Shepherd
-  IPL Debut                : 2022
-  Date of Birth            : 26 November 1994
+  Player Name              : Naveen Ul Haq
+  Date of Birth            : 23 September 1999
   Total IPL Matches        : 18
-  Role                     : WK-Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    The right-arm fast-medium bowling all-rounder from Guyana broke onto the
-  scene known more for his exploits with the ball in hand, but his batting
-  prowess as a finisher in the lower middle-order has earned him great praise
-  over the years. A case in point is the TATA IPL 2024 season, during which he
-  lit up the Wankhede Stadium while playing for Mumbai Indians against Delhi
-  Capitals, smashing 32 runs including four sixes and two fours in a single
-  over off Anrich Nortje. After more than 40 T20Is for the West Indies,
-  Shepherd has a bowling average of below 28 and a batting strike rate of
-  almost 140, thus showing what he brings to the table. A highly effective
-  utility player who can win matches on his own, Shepherd was acquired by
-  Royal Challengers Bengaluru (RCB) for his base price of INR 1.5 Crore ahead
-  of TATA IPL 2025.
+  Role                     : Bowler
+  Nationality              : Afghan
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -34,26 +18,110 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    18    |    5     |   185    |   53*    |  26.43   |    87    |  212.64  |    0     |    1     |    12    |    17    |    4     |    0    
-    2025   |    8     |    1     |    70    |   53*    |  35.00   |    24    |  291.67  |    0     |    1     |    5     |    7     |    4     |    0    
-    2024   |    6     |    3     |    57    |   39*    |  28.50   |    21    |  271.43  |    0     |    0     |    5     |    5     |    0     |    0    
-    2023   |    1     |    0     |    0     |    0     |   0.00   |    1     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2022   |    3     |    1     |    58    |   26*    |  29.00   |    41    |  141.46  |    0     |    0     |    2     |    5     |    0     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    18    |   210    |   408    |    10    |   2/14   |  40.80   |  11.66   |  21.00   |    0     |    0    
-    2025   |    8     |    84    |   151    |    6     |   2/14   |  25.17   |  10.79   |  14.00   |    0     |    0    
-    2024   |    6     |    72    |   159    |    1     |   1/54   |  159.00  |  13.25   |  72.00   |    0     |    0    
-    2023   |    1     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    3     |    54    |    98    |    3     |   2/42   |  32.67   |  10.89   |  18.00   |    0     |    0    
+   Career  |    18    |    5     |    18    |    13    |  18.00   |    25    |  72.00   |    0     |    0     |    2     |    0     |    6     |    0    
+    2024   |    10    |    3     |    2     |    2*    |    -     |    4     |  50.00   |    0     |    0     |    0     |    0     |    4     |    0    
+    2023   |    8     |    2     |    16    |    13    |  16.00   |    21    |  76.19   |    0     |    0     |    2     |    0     |    2     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/romario-shepherd/20609
+Source: https://www.iplt20.com/players/naveen-ul-haq/5681
 ================================================================================
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |England|1|1|0|5|5|0|0|1|0|5.00|83.33|-|-|ENG|3|0|1|2|AFG|Afghanistan|AFG|
+|India|1|1|1|9|9*|0|0|1|0|-|112.50|-|-|IND|4|0|0|2|AFG|Afghanistan|AFG|... |South Africa|1|1|0|2|2|0|0|0|0|2.00|50.00|1|0|SA|7|0|1|2|AFG|Afghanistan|AFG|
+|Sri Lanka|1|0|0|-|-|0|0|0|0|-|0.00|-|-|SL|8|0|0|2|AFG|Afghanistan|AFG|... |West Indies|2|2|1|9|8*|0|0|1|0|9.00|45.00|-|-|WI|9|0|0|2|AFG|Afghanistan|AFG|
+|Ireland|3|2|2|12|10*|0|0|2|0|-|150.00|-|-|IRE|13|0|0|2|AFG|Afghanistan|AFG|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Australia|1|9|0|47|2|2/47|0|0|23.50|5.22|27.00|AUS|1|15|2|AFG|Afghanistan|AFG|
+|Bangladesh|3|24|0|142|3|1/31|0|0|47.33|5.91|48.00|BAN|2|15|2|AFG|Afghanistan|AFG|... |England|1|6|1|44|1|1/44|0|0|44.00|7.33|36.00|ENG|3|15|2|AFG|Afghanistan|AFG|
+|India|1|5|0|31|0|0/31|0|0|-|6.20|-|IND|4|15|2|AFG|Afghanistan|AFG|... |Ireland|3|26.1|0|155|8|4/42|2|0|19.37|5.92|19.62|IRE|13|15|2|AFG|Afghanistan|AFG|
+|New Zealand|1|8|0|48|2|2/48|0|0|24.00|6.00|24.00|NZ|5|15|2|AFG|Afghanistan|AFG|... |Pakistan|1|7|0|52|2|2/52|0|0|26.00|7.42|21.00|PAK|6|15|2|AFG|Afghanistan|AFG|
+|South Africa|1|6.3|0|52|0|0/52|0|0|-|8.00|-|SA|7|15|2|AFG|Afghanistan|AFG|... |Sri Lanka|1|6.3|0|47|0|0/47|0|0|-|7.23|-|SL|8|15|2|AFG|Afghanistan|AFG|
+|West Indies|2|17|1|90|4|3/60|1|0|22.50|5.29|25.50|WI|9|15|2|AFG|Afghanistan|AFG|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |England|1|1|0|5|5|0|0|1|0|5.00|83.33|-|-|ENG|3|0|1|2|AFG|Afghanistan|AFG|
+|India|1|1|1|9|9*|0|0|1|0|-|112.50|-|-|IND|4|0|0|2|AFG|Afghanistan|AFG|... |South Africa|1|1|0|2|2|0|0|0|0|2.00|50.00|1|0|SA|7|0|1|2|AFG|Afghanistan|AFG|
+|Sri Lanka|1|0|0|-|-|0|0|0|0|-|0.00|-|-|SL|8|0|0|2|AFG|Afghanistan|AFG|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Australia|1|9|0|47|2|2/47|0|0|23.50|5.22|27.00|AUS|1|8|2|AFG|Afghanistan|AFG|
+|Bangladesh|1|5.4|0|31|1|1/31|0|0|31.00|5.47|34.00|BAN|2|8|2|AFG|Afghanistan|AFG|... |England|1|6|1|44|1|1/44|0|0|44.00|7.33|36.00|ENG|3|8|2|AFG|Afghanistan|AFG|
+|India|1|5|0|31|0|0/31|0|0|-|6.20|-|IND|4|8|2|AFG|Afghanistan|AFG|... |New Zealand|1|8|0|48|2|2/48|0|0|24.00|6.00|24.00|NZ|5|8|2|AFG|Afghanistan|AFG|... |Pakistan|1|7|0|52|2|2/52|0|0|26.00|7.42|21.00|PAK|6|8|2|AFG|Afghanistan|AFG|
+|South Africa|1|6.3|0|52|0|0/52|0|0|-|8.00|-|SA|7|8|2|AFG|Afghanistan|AFG|... |Sri Lanka|1|6.3|0|47|0|0/47|0|0|-|7.23|-|SL|8|8|2|AFG|Afghanistan|AFG|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Bangladesh|3|0|0|-|-|0|0|0|0|-|0.00|1|0|BAN|2|0|0|3|AFG|Afghanistan|AFG|
+|India|4|2|1|1|1*|0|0|0|0|1.00|50.00|-|-|IND|4|1|0|3|AFG|Afghanistan|AFG|... |South Africa|1|1|0|2|2|0|0|0|0|2.00|25.00|-|-|SA|7|0|0|3|AFG|Afghanistan|AFG|
+|Sri Lanka|4|2|0|6|5|0|0|1|0|3.00|54.54|1|0|SL|8|0|0|3|AFG|Afghanistan|AFG|... |West Indies|4|3|1|11|5|0|0|2|0|5.50|84.61|-|-|WI|9|0|0|3|AFG|Afghanistan|AFG|
+|Zimbabwe|6|0|0|-|-|0|0|0|0|-|0.00|3|0|ZIM|10|0|0|3|AFG|Afghanistan|AFG|... |Ireland|9|4|2|24|13|0|0|2|1|12.00|80.00|4|0|IRE|13|1|0|3|AFG|Afghanistan|AFG|
+|Scotland|1|0|0|-|-|0|0|0|0|-|0.00|-|-|SCO|16|0|0|3|AFG|Afghanistan|AFG|... |Australia|2|8|0|41|6|3/20|2|0|6.83|5.12|8.00|AUS|1|48|3|AFG|Afghanistan|AFG|
+|Bangladesh|3|11.5|0|77|6|4/26|1|0|12.83|6.50|11.83|BAN|2|48|3|AFG|Afghanistan|AFG|... |India|4|14.3|0|175|2|1/33|0|0|87.50|12.06|43.50|IND|4|48|3|AFG|Afghanistan|AFG|
+|Ireland|9|28.1|1|227|13|3/10|3|0|17.46|8.05|13.00|IRE|13|48|3|AFG|Afghanistan|AFG|... |Namibia|1|4|0|26|3|3/26|1|0|8.66|6.50|8.00|NAM|20|48|3|AFG|Afghanistan|AFG|
+|New Zealand|2|5|0|26|0|0/10|0|0|-|5.20|-|NZ|5|48|3|AFG|Afghanistan|AFG|... |Pakistan|3|9|0|67|3|1/19|0|0|22.33|7.44|18.00|PAK|6|48|3|AFG|Afghanistan|AFG|
+|Papua New Guinea|1|2.5|0|4|2|2/4|0|0|2.00|1.41|8.50|PNG|750|48|3|AFG|Afghanistan|AFG|... |Scotland|1|2|0|12|1|1/12|0|0|12.00|6.00|12.00|SCO|16|48|3|AFG|Afghanistan|AFG|
+|South Africa|1|3|0|15|0|0/15|0|0|-|5.00|-|SA|7|48|3|AFG|Afghanistan|AFG|... |Sri Lanka|4|14|0|134|6|2/25|0|0|22.33|9.57|14.00|SL|8|48|3|AFG|Afghanistan|AFG|
+|Uganda|1|2|0|4|2|2/4|0|0|2.00|2.00|6.00|UGA|29|48|3|AFG|Afghanistan|AFG|... |United Arab Emirates|6|21|0|173|6|4/20|1|0|28.83|8.23|21.00|UAE|21|48|3|AFG|Afghanistan|AFG|
+|West Indies|4|15|0|123|6|3/24|1|0|20.50|8.20|15.00|WI|9|48|3|AFG|Afghanistan|AFG|... |Zimbabwe|6|20.5|1|151|11|3/19|2|0|13.72|7.24|11.36|ZIM|10|48|3|AFG|Afghanistan|AFG|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Bangladesh A|2|1|0|1|1|0|0|0|0|1.00|7.69|-|-|BN-A|92|0|0|4|-|-|-|... |Band-E-Amir Region|1|2|1|12|12*|0|0|1|1|12.00|63.15|3|0|BEA|1602|1|0|4|-|-|-|... |Speen Ghar Region|2|3|0|32|32|0|0|4|1|10.66|48.48|1|0|SG|1603|2|0|4|-|-|-|
+|Mis-E-Ainak Region|2|3|0|43|34|0|0|1|5|14.33|81.13|1|0|MA|1604|0|0|4|-|-|-|... |Amo Region|2|3|0|1|1|0|0|0|0|0.33|4.34|-|-|AMO|1605|2|1|4|-|-|-|
+|Boost Region|1|1|0|4|4|0|0|1|0|4.00|36.36|-|-|BOS|1606|0|0|4|-|-|-|... |Amo Region|3|25|3|129|5|3/29|1|0|25.80|5.16|30.00|AMO|1605|10|4|-|-|-|
+|Band-E-Amir Region|2|32|4|154|4|4/127|1|0|38.50|4.81|48.00|BEA|1602|10|4|-|-|-|... |Bangladesh A|3|41.3|9|117|4|2/60|0|0|29.25|2.81|62.25|BN-A|92|10|4|-|-|-|
+|Boost Region|2|41.5|10|135|4|3/84|1|0|33.75|3.22|62.75|BOS|1606|10|4|-|-|-|... |Mis-E-Ainak Region|4|45|11|140|11|8/35|0|1|12.72|3.11|24.54|MA|1604|10|4|-|-|-|
+|Speen Ghar Region|4|32|4|107|3|3/24|1|0|35.66|3.34|64.00|SG|1603|10|4|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Bangladesh A|4|1|1|4|4*|0|0|0|0|-|22.22|1|0|BN-A|92|0|0|5|-|-|-|
+|Sri Lanka Under-23|1|1|0|5|5|0|0|1|0|5.00|166.66|-|-|SL|1418|0|0|5|-|-|-|... |Band-E-Amir Region|1|1|0|30|30|0|0|1|2|30.00|125.00|1|0|BEA|1602|0|0|5|-|-|-|
+|Speen Ghar Region|2|1|0|15|15|0|0|0|1|15.00|75.00|-|-|SG|1603|0|0|5|-|-|-|... |Mis-E-Ainak Region|2|2|0|0|0|0|0|0|0|0.00|0.00|-|-|MA|1604|2|1|5|-|-|-|
+|Amo Region|2|1|0|3|3|0|0|0|0|3.00|33.33|-|-|AMO|1605|0|0|5|-|-|-|... |Boost Region|2|1|0|14|14|0|0|0|1|14.00|175.00|1|0|BOS|1606|0|0|5|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Amo Region|2|15|0|97|0|0/28|0|0|-|6.46|-|AMO|1605|16|5|-|-|-|... |Band-E-Amir Region|1|9|0|69|0|0/69|0|0|-|7.66|-|BEA|1602|16|5|-|-|-|
+|Bangladesh A|4|33|2|180|7|5/40|0|1|25.71|5.45|28.28|BN-A|92|16|5|-|-|-|... |Boost Region|2|14|1|75|0|0/20|0|0|-|5.35|-|BOS|1606|16|5|-|-|-|
+|India Under-23|1|10|1|54|4|4/54|1|0|13.50|5.40|15.00|IND|1421|16|5|-|-|-|... |Mis-E-Ainak Region|2|14.4|0|69|3|3/49|1|0|23.00|4.70|29.33|MA|1604|16|5|-|-|-|
+|Pakistan Under-23|1|10|0|78|1|1/78|0|0|78.00|7.80|60.00|PAK|1420|16|5|-|-|-|... |Speen Ghar Region|2|20|0|128|3|2/50|0|0|42.66|6.40|40.00|SG|1603|16|5|-|-|-|
+|Sri Lanka Under-23|1|10|1|66|2|2/66|0|0|33.00|6.60|30.00|SL|1418|16|5|-|-|-|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Guyana Amazon Warriors|3|2|1|1|1*|0|0|0|0|1.00|20.00|1|0|GUY|1407|1|0|6|-|-|-|
+|Trinbago Knight Riders|7|3|3|15|13*|0|0|1|1|-|166.66|1|0|TKR|1408|0|0|6|-|-|-|... |Jamaica Tallawahs|4|2|1|34|20*|0|0|1|1|34.00|91.89|2|0|JAM|1410|0|0|6|-|-|-|
+|St Kitts And Nevis Patriots|7|3|1|14|10|0|0|1|0|7.00|82.35|1|0|SKN|1480|1|0|6|-|-|-|... |Antigua & Barbuda Falcons|2|7|0|81|3|2/34|0|0|27.00|11.57|14.00|ABF|4497|29|6|-|-|-|
+|Barbados Royals|2|8|0|29|4|4/14|1|0|7.25|3.62|12.00|BR|1405|29|6|-|-|-|... |Guyana Amazon Warriors|3|10|0|108|0|0/26|0|0|-|10.80|-|GUY|1407|29|6|-|-|-|
+|Jamaica Tallawahs|4|15.1|0|100|6|2/8|0|0|16.66|6.59|15.16|JAM|1410|29|6|-|-|-|... |Saint Lucia Kings|4|12|1|97|3|2/24|0|0|32.33|8.08|24.00|SLK|1406|29|6|-|-|-|
+|St Kitts And Nevis Patriots|7|22|0|191|5|3/21|1|0|38.20|8.68|26.40|SKN|1480|29|6|-|-|-|... |Trinbago Knight Riders|7|25.4|0|197|9|3/35|1|0|21.88|7.67|17.11|TKR|1408|29|6|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Royal Challengers Bengaluru|2|1|0|13|13|0|0|2|0|13.00|100.00|-|-|RCB|1105|0|0|6|LSG|Lucknow Super Giants|LSG|... |Kolkata Knight Riders|2|2|2|2|2*|0|0|0|0|-|66.66|0|0|KKR|1106|1|0|6|LSG|Lucknow Super Giants|LSG|
+|Punjab Kings|2|1|1|0|0|0|0|0|0|-|0.00|2|0|PBKS|1107|1|0|6|LSG|Lucknow Super Giants|LSG|... |Chennai Super Kings|1|0|0|-|-|0|0|0|0|-|0.00|-|-|CSK|1108|0|0|6|LSG|Lucknow Super Giants|LSG|
+|Delhi Capitals|2|1|1|2|2*|0|0|0|0|-|50.00|1|0|DC|1109|0|0|6|LSG|Lucknow Super Giants|LSG|... |Rajasthan Royals|2|0|0|-|-|0|0|0|0|-|0.00|-|-|RR|1110|0|0|6|LSG|Lucknow Super Giants|LSG|
+|Mumbai Indians|4|1|1|1|1*|0|0|0|0|-|20.00|2|0|MI|1111|0|0|6|LSG|Lucknow Super Giants|LSG|... |Sunrisers Hyderabad|1|0|0|-|-|0|0|0|0|-|0.00|-|-|SRH|1379|0|0|6|LSG|Lucknow Super Giants|LSG|
+|Gujarat Titans|2|0|0|-|-|0|0|0|0|-|0.00|1|0|GT|2955|0|0|6|LSG|Lucknow Super Giants|LSG|... |Delhi Capitals|2|7|0|75|3|2/51|0|0|25.00|10.71|14.00|DC|1109|17|6|LSG|Lucknow Super Giants|LSG|
+|Gujarat Titans|2|8|0|56|2|1/19|0|0|28.00|7.00|24.00|GT|2955|17|6|LSG|Lucknow Super Giants|LSG|... |Kolkata Knight Riders|2|8|0|95|3|3/49|1|0|31.66|11.87|16.00|KKR|1106|17|6|LSG|Lucknow Super Giants|LSG|
+|Mumbai Indians|4|15.5|0|140|7|4/38|1|0|20.00|8.84|13.57|MI|1111|17|6|LSG|Lucknow Super Giants|LSG|... |Punjab Kings|2|8|0|73|3|3/30|1|0|24.33|9.12|16.00|PBKS|1107|17|6|LSG|Lucknow Super Giants|LSG|
+|Rajasthan Royals|2|8|0|60|2|2/41|0|0|30.00|7.50|24.00|RR|1110|17|6|LSG|Lucknow Super Giants|LSG|... |Royal Challengers Bengaluru|2|7.4|0|55|5|3/30|1|0|11.00|7.17|9.20|RCB|1105|17|6|LSG|Lucknow Super Giants|LSG|
+|Sunrisers Hyderabad|1|2|0|37|0|0/37|0|0|-|18.50|-|SRH|1379|17|6|LSG|Lucknow Super Giants|LSG|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Pretoria Capitals|1|1|1|10|10*|0|0|1|1|-|333.33|-|-|PC|3281|0|0|6|DSG|-|-|
+|Sunrisers Eastern Cape|3|2|1|5|3*|0|0|0|0|5.00|50.00|1|0|SEC|3282|0|0|6|DSG|-|-|... |Paarl Royals|2|0|0|-|-|0|0|0|0|-|0.00|1|0|PR|3283|0|0|6|DSG|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |Joburg Super Kings|2|8|0|71|2|2/27|0|0|35.50|8.87|24.00|JSK|3279|9|6|DSG|
+|MI Cape Town|1|4|0|23|2|2/23|0|0|11.50|5.75|12.00|MICT|3280|9|6|DSG|... |Paarl Royals|2|4.3|0|30|2|1/6|0|0|15.00|6.66|13.50|PR|3283|9|6|DSG|
+|Pretoria Capitals|1|3|0|20|1|1/20|0|0|20.00|6.66|18.00|PC|3281|9|6|DSG|... |Sunrisers Eastern Cape|3|11|0|112|1|1/31|0|0|112.00|10.18|66.00|SEC|3282|9|6|DSG|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Maratha Arabians|1|0|0|-|-|0|0|0|0|-|0.00|1|0|MA|1622|0|0|7|-|-|-|
+|Northern Warriors|6|1|1|14|14*|0|0|1|1|-|155.55|4|0|NW|1688|0|0|7|-|-|-|... |Delhi Bulls|3|1|1|2|2*|0|0|0|0|-|100.00|1|0|DB|1976|0|0|7|-|-|-|
+|Qalandars|2|0|0|-|-|0|0|0|0|-|0.00|-|-|QAL|1977|0|0|7|-|-|-|... |Deccan Gladiators|6|2|1|6|4|0|0|0|0|6.00|85.71|1|0|DG|1978|0|0|7|-|-|-|
+|Team Abu Dhabi|1|0|0|-|-|0|0|0|0|-|0.00|-|-|TAD|1989|0|0|7|-|-|-|... |Ajman Bolts|1|2|0|19|0|0/19|0|0|-|9.50|-|AB|4821|35|7|-|-|-|
+|Bangla Tigers|7|14|0|126|6|2/12|0|0|21.00|9.00|14.00|BT|1620|35|7|-|-|-|... |Chennai Brave Jaguars|3|6|0|60|6|3/7|1|0|10.00|10.00|6.00|CBJ|2874|35|7|-|-|-|
+|Deccan Gladiators|6|12|0|140|7|2/10|0|0|20.00|11.66|10.28|DG|1978|35|7|-|-|-|... |Delhi Bulls|3|6|0|94|1|1/38|0|0|94.00|15.66|36.00|DB|1976|35|7|-|-|-|
+|Maratha Arabians|1|2|0|21|1|1/21|0|0|21.00|10.50|12.00|MA|1622|35|7|-|-|-|... |Morrisville Samp Army|3|6|0|53|2|1/4|0|0|26.50|8.83|18.00|MSA|3277|35|7|-|-|-|
+|New York Strikers|2|4|0|33|2|1/12|0|0|16.50|8.25|12.00|NYS|3276|35|7|-|-|-|... |Northern Warriors|6|12|0|115|7|2/19|0|0|16.42|9.58|10.28|NW|1688|35|7|-|-|-|
+|Qalandars|2|4|0|25|3|2/6|0|0|8.33|6.25|8.00|QAL|1977|35|7|-|-|-|... |Team Abu Dhabi|1|2|0|22|0|0/22|0|0|-|11.00|-|TAD|1989|35|7|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |Maratha Arabians|1|0|0|-|-|0|0|0|0|-|0.00|1|0|MA|1622|0|0|7|TAD|-|-|
+|Northern Warriors|6|1|1|14|14*|0|0|1|1|-|155.55|4|0|NW|1688|0|0|7|DB|-|-|... |Delhi Bulls|3|1|1|2|2*|0|0|0|0|-|100.00|1|0|DB|1976|0|0|7|TAD|-|-|
+|Qalandars|2|0|0|-|-|0|0|0|0|-|0.00|-|-|QAL|1977|0|0|7|TAD|-|-|... |Deccan Gladiators|6|2|1|6|4|0|0|0|0|6.00|85.71|1|0|DG|1978|0|0|7|TAD|-|-|
+|Team Abu Dhabi|1|0|0|-|-|0|0|0|0|-|0.00|-|-|TAD|1989|0|0|7|DB|-|-|... |Morrisville Samp Army|3|1|0|6|6|0|0|1|0|6.00|150.00|1|0|MSA|3277|0|0|7|DB|-|-|... |Ajman Bolts|1|2|0|19|0|0/19|0|0|-|9.50|-|AB|4821|24|7|TAD|
+|Bangla Tigers|7|14|0|126|6|2/12|0|0|21.00|9.00|14.00|BT|1620|24|7|TAD|... |Chennai Brave Jaguars|3|6|0|60|6|3/7|1|0|10.00|10.00|6.00|CBJ|2874|24|7|TAD|
+|Deccan Gladiators|6|12|0|140|7|2/10|0|0|20.00|11.66|10.28|DG|1978|24|7|TAD|... |Delhi Bulls|3|6|0|94|1|1/38|0|0|94.00|15.66|36.00|DB|1976|24|7|TAD|
+|Maratha Arabians|1|2|0|21|1|1/21|0|0|21.00|10.50|12.00|MA|1622|24|7|TAD|... |Morrisville Samp Army|3|6|0|53|2|1/4|0|0|26.50|8.83|18.00|MSA|3277|24|7|TAD|
+|New York Strikers|2|4|0|33|2|1/12|0|0|16.50|8.25|12.00|NYS|3276|24|7|TAD|... |Northern Warriors|6|12|0|115|7|2/19|0|0|16.42|9.58|10.28|NW|1688|24|7|TAD|
+|Qalandars|2|4|0|25|3|2/6|0|0|8.33|6.25|8.00|QAL|1977|24|7|TAD|... |Team Abu Dhabi|1|2|0|22|0|0/22|0|0|-|11.00|-|TAD|1989|24|7|TAD|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Ireland Under-19|1|1|0|25|25|0|0|2|0|25.00|71.42|1|0|IRE-U19|1149|0|0|22|-|-|-|... |Australia Under-19|1|1|0|8|8|0|0|0|0|8.00|42.10|-|-|AUS-U19|1154|0|0|22|-|-|-|
+|Bangladesh Under-19|5|2|0|24|16|0|0|3|0|12.00|21.81|2|0|BAN-U19|1155|0|0|22|-|-|-|... |Sri Lanka Under-19|2|2|1|2|1*|0|0|0|0|2.00|33.33|3|0|SL-U19|1165|0|1|22|-|-|-|
+|New Zealand Under-19|1|1|1|0|0*|0|0|0|0|-|0.00|-|-|NZ-U19|1169|1|0|22|-|-|-|... |Pakistan Under-19|2|0|0|-|-|0|0|0|0|-|0.00|1|0|PAK-U19|1170|0|0|22|-|-|-|
+||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Australia Under-19|1|10|0|46|1|1/46|0|0|46.00|4.60|60.00|AUS-U19|1154|12|22|-|-|-|... |Bangladesh Under-19|5|40.4|6|147|5|3/24|1|0|29.40|3.61|48.80|BAN-U19|1155|12|22|-|-|-|
+|Ireland Under-19|1|10|0|63|0|0/63|0|0|-|6.30|-|IRE-U19|1149|12|22|-|-|-|... |New Zealand Under-19|1|6|0|20|1|1/20|0|0|20.00|3.33|36.00|NZ-U19|1169|12|22|-|-|-|
+|Pakistan Under-19|2|15|1|51|4|2/21|0|0|12.75|3.40|22.50|PAK-U19|1170|12|22|-|-|-|... |Sri Lanka Under-19|2|17|1|92|6|4/35|1|0|15.33|5.41|17.00|SL-U19|1165|12|22|-|-|-|
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|... |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Desert Vipers|2|1|1|7|7*|0|0|1|0|-|100.00|1|0|DV|3380|0|0|73|SW|-|-|... |Abu Dhabi Knight Riders|2|1|0|7|7|0|0|1|0|7.00|140.00|2|0|ADKR|3381|0|1|73|SW|-|-|
+|Dubai Capitals|2|0|0|-|-|0|0|0|0|-|0.00|-|-|DC|3382|0|0|73|SW|-|-|... |Abu Dhabi Knight Riders|2|7.4|0|66|2|1/31|0|0|33.00|8.60|23.00|ADKR|3381|9|73|SW|
+|Desert Vipers|2|7|0|46|0|0/19|0|0|-|6.57|-|DV|3380|9|73|SW|... |Dubai Capitals|2|7|0|50|4|2/9|0|0|12.50|7.14|10.50|DC|3382|9|73|SW|... |Gulf Giants|1|3.4|0|38|5|5/38|0|1|7.60|10.36|4.40|GG|3383|9|73|SW|
+|MI Emirates|2|7|0|68|0|0/34|0|0|-|9.71|-|MIE|3384|9|73|SW|... ||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|

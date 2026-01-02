@@ -1,26 +1,15 @@
 ================================================================================
-IPL PLAYER PROFILE: RYAN RICKELTON
+IPL PLAYER PROFILE: KULDEEP SEN
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Ryan Rickelton
-  IPL Debut                : 2025
-  Date of Birth            : 11 July 1996
-  Total IPL Matches        : 14
-  Role                     : Wicketkeeper Batter
+  Player Name              : Kuldeep Sen
+  IPL Debut                : 2022
+  Date of Birth            : 22 October 1996
+  Total IPL Matches        : 12
+  Role                     : Bowler
   Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-  A power-packed hitter also known for his wicket-keeping skills, Ryan
-  Rickelton is a South African international who has gained the spotlight,
-  having displayed scintillating form across various formats in recent times.
-  The player was a part of South Africa’s 2024 T20 World Cup squad, where they
-  finished runners-up, and most recently scored a 103-run knock for his team
-  during their Champions Trophy 2025 opener against Afghanistan. The left
-  hander attracted attention due to his ability to score quickly and was
-  picked by MI for INR 1 Crore at the 2025 TATA IPL Auction.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -30,8 +19,10 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    14    |    1     |   388    |   62*    |  29.85   |   257    |  150.97  |    0     |    3     |    47    |    17    |    11    |    5    
-    2025   |    14    |    1     |   388    |   62*    |  29.85   |   257    |  150.97  |    0     |    3     |    47    |    17    |    11    |    5    
+   Career  |    12    |    1     |    0     |    0*    |    -     |    3     |   0.00   |    0     |    0     |    0     |    0     |    4     |    0    
+    2024   |    3     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    1     |    0    
+    2023   |    2     |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    0     |    0    
+    2022   |    7     |    1     |    0     |    0*    |    -     |    3     |   0.00   |    0     |    0     |    0     |    0     |    3     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -41,9 +32,27 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2025   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+   Career  |    12    |   241    |   387    |    14    |   4/20   |  27.64   |   9.63   |  17.21   |    1     |    0    
+    2024   |    3     |    72    |   122    |    6     |   3/41   |  20.33   |  10.17   |  12.00   |    0     |    0    
+    2023   |    2     |    18    |    28    |    0     |   0/8    |    -     |   9.33   |    -     |    0     |    0    
+    2022   |    7     |   151    |   237    |    8     |   4/20   |  29.63   |   9.42   |  18.88   |    1     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/ryan-rickelton/22003
+Source: https://www.iplt20.com/players/kuldeep-sen/20616
 ================================================================================
+Career-Stats
+
+Batting Stats
+
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|--|--|--|-|--|--|--|
+|ODI|1|1|2|50.00|--|--|0/0|... |T20I|--|--|--|-|--|--|--|
+|FC|26|28|112|51.61|6.59|--|10/8|
+|listA|14|7|3|23.08|1.00|--|0/0|... |T20s|40|6|2|15.38|1.00|--|0/0|
+Bowling Stats... |Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|--|--|--|--|--|--|--|--|
+|ODI|1|1|30|2|7.40|15.00|18.50|0|... |T20I|--|--|--|--|--|--|--|--|
+|FC|26|45|3672|65|3.52|-|33.12|2|
+|listA|14|14|647|27|5.79|19.84|22.96|1|... |T20s|40|38|741|32|8.96|-|34.50|0|

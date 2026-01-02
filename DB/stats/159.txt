@@ -1,26 +1,14 @@
 ================================================================================
-IPL PLAYER PROFILE: SHERFANE RUTHERFORD
+IPL PLAYER PROFILE: GULBADIN NAIB
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Sherfane Rutherford
-  IPL Debut                : 2019
-  Date of Birth            : 15 August 1998
-  Total IPL Matches        : 23
-  Role                     : WK-Batter
-  Nationality              : Indian
-
-BIOGRAPHY
---------------------------------------------------------------------------------
-    West Indies all-rounder Sherfane Rutherford is a left-handed middle-order
-  batter and right-arm medium-fast bowler. Known for his quick-fire cameos and
-  aggressive batting, Rutherford has been a key figure in various domestic
-  competitions and has featured in 40 international white-ball matches,
-  including T20Is, where he strikes at over 140. Having previously represented
-  DC, MI, SRH, KKR, and RCB, Rutherford was acquired by Gujarat Titans for INR
-  2.6 Crore at the 2025 TATA IPL Auction. His explosive batting and
-  versatility will further strengthen the Titans' middle order.
+  Player Name              : Gulbadin Naib
+  IPL Debut                : 2024
+  Date of Birth            : 04 June 1991
+  Total IPL Matches        : 0
+  Nationality              : Afghan
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -30,24 +18,24 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    23    |    4     |   397    |    46    |  24.81   |   289    |  137.37  |    0     |    0     |    25    |    26    |    6     |    0    
-    2025   |    13    |    2     |   291    |    46    |  32.33   |   185    |  157.30  |    0     |    0     |    22    |    18    |    1     |    0    
-    2022   |    3     |    0     |    33    |    28    |  16.50   |    50    |  66.00   |    0     |    0     |    1     |    1     |    0     |    0    
-    2019   |    7     |    2     |    73    |   28*    |  14.60   |    54    |  135.18  |    0     |    0     |    2     |    7     |    5     |    0    
-
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    23    |    41    |    59    |    1     |   1/6    |  59.00   |   8.63   |  41.00   |    0     |    0    
-    2025   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2022   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
-    2019   |    7     |    41    |    59    |    1     |   1/6    |  59.00   |   8.63   |  41.00   |    0     |    0    
+   Career  |    2     |    0     |    19    |    19    |  19.00   |    15    |  126.67  |    0     |    0     |    1     |    1     |    1     |    0    
+    2024   |    2     |    0     |    19    |    19    |  19.00   |    15    |  126.67  |    0     |    0     |    1     |    1     |    1     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/sherfane-rutherford/5396
+Source: https://www.iplt20.com/players/gulbadin-naib/20731
 ================================================================================
+Career-Stats
+
+Batting Stats
+|Format|Matches|Innings|Runs|S/R|Average|50s/100s|4s/6s|
+|--|--|--|--|--|--|--|--|
+|Test|--|--|--|-|--|--|--|
+|ODI|89|78|1332|75.38|19.88|5/0|115/33|... |T20I|78|67|986|121.58|20.54|3/0|74/44|
+|FC|5|7|313|82.59|52.17|3/0|39/6|
+|listA|136|118|2389|83.47|23.89|10/1|197/72|... |T20s|169|149|2517|133.74|22.88|12/0|186/118|
+Bowling Stats... |Format|Matches|Innings|Balls|Wickets|Economy|S/R|Average|5w|
+|--|--|--|--|--|--|--|--|--|
+|Test|--|--|--|--|--|--|--|--|
+|ODI|89|80|2883|74|5.57|38.96|36.16|1|... |T20I|78|46|673|35|7.89|19.23|25.29|0|
+|FC|5|7|460|14|4.28|-|23.29|2|
+|listA|136|120|4496|129|5.53|34.14|32.05|1|... |T20s|169|122|1930|101|8.41|19.14|26.75|0|

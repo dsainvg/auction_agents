@@ -1,0 +1,66 @@
+================================================================================
+IPL PLAYER PROFILE: GEORGE GARTON
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+  Player Name              : George Garton
+  Date of Birth            : 15 April 1997
+  Total IPL Matches        : 5
+  Role                     : Bowler
+  Nationality              : English
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    The 24-year old left-arm pacer hails from Sussex and has been named as a
+  replacement for Kane Richardson in the remainder of IPL 2021 season. Garton
+  has had an impressive run with Sussex and was also a part of the England
+  Under-19 World Cup squad in Bangladesh in 2016.
+
+BATTING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
+     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
+     CT=Catches, ST=Stumpings
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    2     |    2     |    2*    |   2.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2021   |    5     |    2     |    2     |    2*    |   2.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    1     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |    5     |    90    |   135    |    3     |   1/27   |  45.00   |   9.00   |  30.00   |    0     |    0    
+    2021   |    5     |    90    |   135    |    3     |   1/27   |  45.00   |   9.00   |  30.00   |    0     |    0    
+
+================================================================================
+Source: https://www.iplt20.com/players/george-garton/2942
+================================================================================
+### George Garton
+
+### England
+
+### Popular PlayersVirat KohliRohit SharmaSachin TendulkarSourav GangulyHardik PandyaOverviewNewsStats... ### Batting Performance
+|Format|M|Inns|No|R|H.S|Avg|BF|SR|100s|50s|
+|--|--|--|--|--|--|--|--|--|--|--|
+|t20i|1|1|--|2|2|2.00|4|50.00|--|--|... |t20|115|76|22|827|46|15.31|604|136.92|--|--|
+|fc|26|36|6|650|97|21.66|1132|57.42|--|5|
+|list a|24|11|2|103|38|11.44|119|86.55|--|--|
+|t10|15|6|3|36|14|12.00|32|112.50|--|--|... ### Bowling Performance
+|Format|M|Inns|Ovs|R|Wkts|BBI|Avg|ECN|SR|4W|5W|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|t20i|1|1|4.00|57|1|1/57|57.00|14.25|24.0|--|--|... |t20|115|107|284.50|2561|97|4/16|26.40|8.99|17.6|4|--|
+|fc|26|40|498.20|2049|55|5/26|37.25|4.11|54.3|2|1|... |list a|24|23|157.00|993|29|4/43|34.24|6.32|32.4|1|--|
+|t10|15|15|25.00|315|5|0/21|63.00|12.60|30.00|--|--|... ### Recent Form (Last 5 Matches)AllTestODIT20
+|Match|Bat|Bowl|Date|Venue|Format|
+|--|--|--|--|--|--|
+|DER vs WAR|0*|2/23|18 Jul 2025|Derby|t20|
+|WAR vs NOR|6|0/24|13 Jul 2025|Birmingham|t20|... |WOR vs WAR|36*|0/16|11 Jul 2025|Worcester|t20|
+|WAR vs LAN|16|4/28|09 Jul 2025|Birmingham|t20|
+|DUR vs WAR|1|1/25|06 Jul 2025|Chester-le-Street|t20|

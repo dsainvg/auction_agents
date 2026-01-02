@@ -1,40 +1,26 @@
 ================================================================================
-IPL PLAYER PROFILE: ARSHDEEP SINGH
+IPL PLAYER PROFILE: DAVID MILLER
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Arshdeep Singh
-  IPL Debut                : 2019
-  Date of Birth            : 05 February 1999
-  Total IPL Matches        : 82
-  Role                     : WK-Batter
-  Nationality              : Indian
+  Player Name              : David Miller
+  IPL Debut                : 2012
+  Date of Birth            : 10 June 1989
+  Total IPL Matches        : 141
+  Role                     : Batter
+  Nationality              : South African
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-  An astute and skillful left-arm pacer, Arshdeep Singh first burst onto
-  the IPL scene when Kings XI Punjab (now Punjab Kings) signed him for INR 20
-  lakh at the 2019 auction. Hailing from Guna, Madhya Pradesh, Arshdeep honed
-  his skills in Chandigarh. The left-arm pacer had already shone in Punjab’s
-  age-group cricket, while also playing a key role in India’s 2018 U19 World
-  Cup triumph with 7 wickets, including a frugal 1/7 in the final against
-  Australia. He made his first-class debut for Punjab in the 2018-19 Ranji
-  Trophy and debuted in T20s during the 2018 Syed Mushtaq Ali Trophy,
-  impressing with his swing and pace. His IPL breakthrough came in 2021,
-  taking 18 wickets in 12 matches, and he solidified his reputation in 2022
-  with 10 wickets, including a nerveless Super Over against Mumbai Indians.
-  Retained by PBKS for 2023 and 2024, he peaked in 2024 with 19 wickets in 14
-  matches, finishing as the joint third-highest wicket-taker with a standout
-  4/29 against Sunrisers Hyderabad. The year 2024 was a career-defining one
-  for the 26-year-old. Beyond his IPL heroics, Arshdeep starred in India’s T20
-  World Cup triumph, claiming 15 wickets, including a match-sealing 3/20 in
-  the final against South Africa and also won the ICC T20I Cricketer of the
-  Year. Ahead of IPL 2025, Punjab Kings bagged the left-armer for a whopping
-  INR 18 Crore, exhibiting the trust the franchise has on his abilities. As
-  Punjab chase their maiden IPL title in 2025 under Ricky Ponting’s guidance,
-  Arshdeep’s pinpoint yorkers, new-ball swing, and big-match temperament will
-  be pivotal to their campaign.
+  After playing for Kings XI Punjab over number of years, David Miller was
+  bought by Rajasthan Royals bought the South African for INR 75 lakh during
+  the IPL Players Auction ahead of IPL 2020 and despite playing just one game
+  in the IPL 2020, retained him for the IPL 2021, keeping in mind his ability
+  to single-handedly change the course of the match. His 38-ball hundred
+  against RCB in his in 2013 is still remembered by the IPL fans. The
+  left-handed batsman has grown to become South Africaâ€™s middle order mainstay
+  and will be an important member for RR.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -44,14 +30,21 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    82    |    8     |    31    |   10*    |   5.17   |    46    |  67.39   |    0     |    0     |    4     |    0     |    16    |    0    
-    2025   |    17    |    1     |    2     |    1     |   2.00   |    6     |  33.33   |    0     |    0     |    0     |    0     |    4     |    0    
-    2024   |    14    |    0     |    4     |    4     |   4.00   |    3     |  133.33  |    0     |    0     |    1     |    0     |    1     |    0    
-    2023   |    14    |    2     |    2     |    2*    |    -     |    2     |  100.00  |    0     |    0     |    0     |    0     |    1     |    0    
-    2022   |    14    |    3     |    21    |   10*    |   7.00   |    29    |  72.41   |    0     |    0     |    3     |    0     |    4     |    0    
-    2021   |    12    |    2     |    2     |    1*    |   0.00   |    3     |  66.66   |    0     |    0     |    0     |    0     |    4     |    0    
-    2020   |    8     |    0     |    0     |    0*    |   0.00   |    3     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
-    2019   |    3     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+   Career  |   141    |    49    |   3077   |   101*   |  36.20   |   2220   |  138.60  |    1     |    13    |   220    |   138    |    80    |    0    
+    2025   |    11    |    6     |   153    |   27*    |  30.60   |   120    |  127.50  |    0     |    0     |    13    |    4     |    5     |    0    
+    2024   |    9     |    3     |   210    |    55    |  35.00   |   139    |  151.08  |    0     |    1     |    20    |    8     |    5     |    0    
+    2023   |    16    |    5     |   259    |    46    |  32.38   |   178    |  145.51  |    0     |    0     |    18    |    13    |    11    |    0    
+    2022   |    16    |    9     |   481    |   94*    |  68.71   |   337    |  142.73  |    0     |    2     |    32    |    23    |    6     |    0    
+    2021   |    9     |    3     |   124    |    62    |  24.80   |   113    |  109.73  |    0     |    1     |    11    |    3     |    4     |    0    
+    2020   |    1     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    0     |    0    
+    2019   |    10    |    2     |   213    |   59*    |  26.62   |   164    |  129.87  |    0     |    1     |    19    |    7     |    7     |    0    
+    2018   |    3     |    1     |    74    |    26    |  37.00   |    64    |  115.62  |    0     |    0     |    3     |    2     |    0     |    0    
+    2017   |    5     |    1     |    83    |   30*    |  27.66   |    80    |  103.75  |    0     |    0     |    4     |    4     |    2     |    0    
+    2016   |    14    |    3     |   161    |    31    |  16.10   |   131    |  122.90  |    0     |    0     |    11    |    4     |    10    |    0    
+    2015   |    13    |    2     |   357    |   89*    |  32.45   |   266    |  134.21  |    0     |    2     |    21    |    21    |    7     |    0    
+    2014   |    16    |    6     |   446    |    66    |  44.60   |   299    |  149.16  |    0     |    3     |    34    |    21    |    14    |    0    
+    2013   |    12    |    5     |   418    |   101*   |  59.71   |   254    |  164.56  |    1     |    3     |    28    |    24    |    8     |    0    
+    2012   |    6     |    3     |    98    |   34*    |  32.66   |    75    |  130.66  |    0     |    0     |    6     |    4     |    1     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -61,15 +54,108 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    82    |   1714   |   2570   |    97    |   5/32   |  26.49   |   9.00   |  17.67   |    2     |    1    
-    2025   |    17    |   350    |   518    |    21    |   3/16   |  24.67   |   8.88   |  16.67   |    0     |    0    
-    2024   |    14    |   302    |   505    |    19    |   4/29   |  26.58   |  10.03   |  15.89   |    1     |    0    
-    2023   |    14    |   305    |   493    |    17    |   4/29   |  29.00   |   9.70   |  17.94   |    1     |    0    
-    2022   |    14    |   300    |   385    |    10    |   3/37   |  38.50   |   7.70   |  30.00   |    0     |    0    
-    2021   |    12    |   248    |   342    |    18    |   5/32   |  19.00   |   8.27   |  13.77   |    0     |    1    
-    2020   |    8     |   149    |   218    |    9     |   3/23   |  24.22   |   8.77   |  16.55   |    0     |    0    
-    2019   |    3     |    60    |   109    |    3     |   2/43   |  36.33   |  10.90   |  20.00   |    0     |    0    
+   Career  |   141    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2025   |    11    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2024   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2023   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2022   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2021   |    9     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2020   |    1     |    0     |    0     |    0     |    0     |    -     |    -     |    -     |    0     |    0    
+    2019   |    10    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2018   |    3     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2017   |    5     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2016   |    14    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2015   |    13    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2014   |    16    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2013   |    12    |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
+    2012   |    6     |    0     |    0     |    0     |    -     |    -     |    -     |    -     |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/arshdeep-singh/4698
+Source: https://www.iplt20.com/players/david-miller/187
 ================================================================================
+**David Andrew Miller** (born 10 June 1989) is a South African professional cricketer. He currently plays for South African national team in limited overs cricket. He is an aggressive left-handed middle order batsman and an occasional wicket-keeper. He holds the record for the second fastest T20I century among full member ICC nations, and the fastest against full member opposition, achieving the milestone in 35 deliveries.... He plays domestic cricket for the Dolphins and for Multan Sultans in Pakistan super League and for the Lucknow Super Giants in the Indian Premier League. He also represents the South Africa national cricket team in both One Day International (ODI) and Twenty20 International cricket. In September 2018, Miller announced that he would no longer be available to play first-class cricket.... ## Domestic career
+
+Miller made his first-class debut in the Dolphins' final game of the 2007–08 domestic SuperSport Series, scoring a half-century in the first innings in which he batted.
+
+Miller made eight appearances in the one-day MTN Domestic Championship competition of the same season, though his final match was abandoned after just three overs. Miller scored an average of 13 runs throughout the competition, which saw the Dolphins finish in fifth place in the league.... Miller played two matches in the Pro20 Series Twenty20 competition for the Dolphins, who finished as defeated finalists in the competition.
+
+In May 2018, Miller was named as one of the ten marquee players for the first edition of the Global T20 Canada cricket tournament. On 3 June 2018, he was selected to play for the Winnipeg Hawks in the players' draft for the inaugural edition of the tournament.... In October 2018, Miller was named in Durban Heat's squad for the first edition of the Mzansi Super League T20 tournament. In September 2019, he was named in the squad for the Durban Heat team for the 2019 Mzansi Super League tournament. In April 2021, he was named in KwaZulu-Natal's squad, ahead of the 2021–22 cricket season in South Africa.... ## T20 franchise cricket
+
+### Indian Premier League
+
+In the 2013 IPL auction, Kings XI Punjab bought Miller for ₨ 6 crore. He went on to play all the matches for his team that season. On 6 May 2013, Miller hit the third fastest hundred in IPL history, scoring 101 not out off 38 balls in a chase against Royal Challengers Bangalore, at Mohali.... The opposing captain Virat Kohli, who dropped a catch when Miller was on 41, said of the innings that it was one of the best innings he had ever seen in the Indian Premier League history. He was retained by Kings XI Punjab for 2014 IPL where he played all matches and help his team to reach the finals. It was announced that he will be the captain of the Kings XI Punjab for 2016 IPL. After Kings XI Punjab lost five of their first six games, he was dropped as the captain and was replaced with Murali Vijay.... During IPL 2015, during the match between Kolkata Knight Riders and Kings XI Punjab at Eden Gardens on 9 May 2015, a policeman was left with his left eye blind after the ball hit for a six by struck his eye.... Miller was released by the Kings XI Punjab ahead of the 2020 IPL auction. In the 2020 IPL auction, he was bought by the Rajasthan Royals ahead of the 2020 Indian Premier League. In February 2022, he was bought by the Gujarat Titans in the auction for the 2022 Indian Premier League tournament. He scored 481 runs at average of 68.71 in IPL 2022 for Gujarat Titans which helped them to win their first title. In the IPL 2025 auction Miller was bought for ₹ 7.5 crores by Lucknow Super Giants.... ### Other leagues
+
+In October 2020, Miller was drafted by the Dambulla Hawks for the inaugural edition of the Lanka Premier League. In June 2021, it was announced that Miller will be playing for Peshawar Zalmi in PSL 6. In April 2022, he was bought by the Welsh Fire for the 2022 season of The Hundred in England. In July 2022 Miller was named as captain of Barbados Royals for the 2022 edition of the CPL. In June 2023 Miller was added to the Texas Super Kings roster for the inaugural season of Major League Cricket.... ## International career
+
+Miller earned his national call up in May 2010 after a series for South Africa A against Bangladesh A, where he ended as the second-highest run-scorer. Miller made his Twenty20 International debut for South Africa on 20 May 2010 against the West Indies in Antigua. Miller, called up to replace the injured Jacques Kallis, dispatched the sixth ball of his innings for six and went on to top score as South Africa won by just 1 run.... Two days later, Miller made his ODI debut, also against the West Indies. He put in another good performance, scoring 23 not out and helping South Africa to win. Miller was selected to play in Zimbabwe's tour of South Africa, during which he contributed in both ODI and T20 formats towards a resounding victory by the South Africans. He was then selected for the South African squad to play Pakistan in the U.A.E. during October and November 2010. He played in two ODI series, against West Indies and Pakistan, before being named in South Africa preliminary 2011 World Cup squad.... On 15 October 2010, Miller made his maiden ODI fifty against Zimbabwe and South Africa went on to put a massive total of 351.
+
+In the semi-finals of the 2013 ICC Champions Trophy, Miller along with Rory Kleinveldt set the record for the highest 9th wicket partnership in ICC Champions Trophy history, with 95.... Miller made his Maiden One Day International century in the 4th ODI against the West Indies on 25 January 2015.
+
+In August 2017, Miller was named in a World XI side to play three Twenty20 International matches against Pakistan in the 2017 Independence Cup in Lahore.... ### 2015 Cricket World Cup
+
+Miller was one of South Africa's top performers at the 2015 Cricket World Cup scoring 324 runs at an average of 65 and strike rate of 139 during the tournament.
+
+Miller scored 49 off 18 balls in the semi-final, although his effort was in vain as New Zealand won the match.
+
+During that World Cup, Miller along with JP Duminy set the record for the highest 5th wicket partnership in ODI history as well as World Cup history (256*).... ### 2017–Onwards
+
+On 15 October 2017, Miller played in his 100th ODI and became the third player after Rohit Sharma and Kieron Pollard to play 100 ODIs without featuring in a Test match. In the 2nd T20I of the same tour, he scored his first century in a T20I and made the fastest century in a T20I (35 balls). He was also the first player to score a T20I century batting at number five or lower. During the match, he became fifth player from South Africa to score 1,000 runs in T20Is.... During the Pakistan series in February 2019, regular captain Faf du Plessis was rested for the last two T20Is of the series, with Miller named as captain of South Africa in his place.... In April 2019, Miller was named in South Africa's squad for the 2019 Cricket World Cup. On 19 June 2019, in the match against New Zealand, Miller scored his 3,000th run in ODIs. In September 2021, Miller was named in South Africa's squad for the 2021 ICC Men's T20 World Cup.... On the South Africa Tour of India in 2022, he was dominating the game against New Team India. For South Africa's tour of England in 2022, David Miller has been selected as New Captain for T20 series. In October 2022, He scored his 2nd T20I Century again India at the Dr. Bhupen Hazarika Cricket Stadium, Barsapara, Assam .
+
+Miller was named in the ICC Men's T20I Team of the Year in 2021. He was selected in South Africa's squad for 2023 Cricket World Cup.... ### 2023 Cricket World Cup
+
+Miller was one of South Africa's top performers at the 2023 Cricket World Cup scoring 356 runs at an average of 45 and strike rate of 108 during the tournament.
+
+Miller scored 101 in the semi-final against Australia in iconic Eden Gardens.
+
+### 2024 T20 World Cup
+
+In May 2024, he was named in South Africa’s squad for the 2024 Men's T20 World Cup tournament. Miller was one of the key players in getting South Africa to their first World Cup Final, before losing to India in the final.... ### Champions Trophy 2025
+
+In the second semi-final against New Zealand in Lahore, he scored his first century in the Champions Trophy with a 100*(67) albeit in a losing cause as New Zealand won by 50 runs. This century was also the fastest century in the Champions Trophy in terms of balls needed, surpassing a record set by Virender Sehwag and Josh Inglis (77 balls each).... ### 2025-Onwards
+
+In August 2025, he was named in the South Africa T20I team that would tour England for 3 T20 Internationals.
+
+In September 2025, he was named captain of the Proteas T20I squad to tour Pakistan, in the absence of regular skipper Aiden Markram. However, he was forced to withdraw from the squad due to injury.... ## Personal life
+
+Outside cricket, Miller also plays golf, and considers himself a devout Christian.
+
+## Notes
+
+## References... ## External links
+- David Miller at ESPNcricinfo
+
+Categories: - 1989 births
+
+- Living people
+- Cricketers from Pietermaritzburg
+- South African cricketers
+- South Africa One Day International cricketers
+- South Africa Twenty20 International cricketers
+- 21st-century South African sportsmen
+- Dolphins (South African cricket team) players
+- KwaZulu-Natal cricketers... - Durham cricketers
+- Punjab Kings cricketers
+- South African people of British descent
+- Yorkshire cricketers
+- South African expatriate cricketers in England
+- Alumni of Maritzburg College
+- Cricketers at the 2015 Cricket World Cup
+- Cricketers at the 2019 Cricket World Cup... - Chattogram Challengers cricketers
+- South African expatriate cricketers in Bangladesh
+- Saint Lucia Kings cricketers
+- Knights cricketers
+- Glamorgan cricketers
+- World XI Twenty20 International cricketers
+- Jamaica Tallawahs cricketers
+- Durban Heat cricketers... - Hobart Hurricanes cricketers
+- South African expatriate cricketers in Australia
+- Rajasthan Royals cricketers
+- Peshawar Zalmi cricketers
+- South African expatriate cricketers in Pakistan
+- Gujarat Titans cricketers
+- South African expatriate cricketers in India... - Welsh Fire cricketers
+- Paarl Royals cricketers
+- Multan Sultans cricketers
+- Lucknow Super Giants cricketers
+- Sunrisers Leeds cricketers
+- South African Christians

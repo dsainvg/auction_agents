@@ -1,24 +1,31 @@
 ================================================================================
-IPL PLAYER PROFILE: MANAV SUTHAR
+IPL PLAYER PROFILE: JASON HOLDER
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Manav Suthar
-  IPL Debut                : 2024
-  Date of Birth            : 03 August 2002
-  Total IPL Matches        : 1
-  Role                     : WK-Batter
+  Player Name              : Jason Holder
+  IPL Debut                : 2013
+  Date of Birth            : 05 November 1991
+  Total IPL Matches        : 46
   Nationality              : Indian
 
 BIOGRAPHY
 --------------------------------------------------------------------------------
-    A traditional slow left-arm orthodox spinner, Manav Suthar is known for
-  his variations and ability to deceive batters with flight and turn. The
-  Rajasthan-based spinner gained recognition after bagging 39 wickets in just
-  six matches in the Ranji Trophy 2022/23. He was part of Gujarat Titans in
-  IPL 2024, and the franchise showed continued faith in his abilities by
-  re-signing him for INR 30 Lakh at the TATA IPL 2025 Auction.
+  As a batsman it is hard not to get intimidated when a strapping,
+  broad-shouldered fast bowler from the Caribbean looks down on you from six
+  feet seven inches. That’s probably one reason why sides in the shortest
+  format decide to include Jason Holder in their squads. The young pacer from
+  Barbados rose to prominence when he topped the West Indies bowling charts in
+  the 2010 Under-19 World Cup in New Zealand. With a first-class bowling
+  average of under 22 and a sub-50 strike-rate, Holder played his first match
+  for the West Indies in the 2013 ODI series against Australia. After
+  representing the Chennai Super Kings in 2013, the Sunrisers Hyderabad in
+  2015, Kolkata Knight Riders in 2016, Holder was back in the 2020 season with
+  the Sunrisers Hyderabad. He was a replacement player for all-rounder
+  Mitchell Marsh and made his presence felt featuring in 7 games and picking
+  14 wickets that included a match-winning 3-wicket haul against Royal
+  Challengers Bangalore.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -28,8 +35,12 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    1     |    0     |    1     |    1     |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
-    2024   |    1     |    0     |    1     |    1     |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+   Career  |    26    |    3     |   189    |   47*    |  14.54   |   156    |  121.15  |    0     |    0     |    11    |    11    |    7     |    0    
+    2021   |    8     |    1     |    85    |   47*    |  14.16   |    72    |  118.05  |    0     |    0     |    2     |    6     |    2     |    0    
+    2020   |    7     |    2     |    66    |   26*    |  33.00   |    53    |  124.52  |    0     |    0     |    5     |    3     |    0     |    0    
+    2016   |    4     |    0     |    22    |    13    |   5.50   |    19    |  115.78  |    0     |    0     |    2     |    1     |    0     |    0    
+    2014   |    1     |    0     |    16    |    16    |  16.00   |    12    |  133.33  |    0     |    0     |    2     |    1     |    2     |    0    
+    2013   |    6     |    0     |    0     |    0     |   0.00   |    0     |   0.00   |    0     |    0     |    0     |    0     |    3     |    0    
 
 BOWLING STATISTICS
 --------------------------------------------------------------------------------
@@ -39,9 +50,69 @@ Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
   ----------------------------------------------------------------------------------------------------------------------
-   Career  |    1     |    12    |    26    |    0     |   0/26   |    -     |  13.00   |    -     |    0     |    0    
-    2024   |    1     |    12    |    26    |    0     |   0/26   |    -     |  13.00   |    -     |    0     |    0    
+   Career  |    26    |   575    |   786    |    35    |   4/52   |  22.46   |   8.20   |  16.43   |    1     |    0    
+    2021   |    8     |   191    |   247    |    16    |   4/52   |  15.43   |   7.75   |  11.93   |    1     |    0    
+    2020   |    7     |   168    |   233    |    14    |   3/25   |  16.64   |   8.32   |  12.00   |    0     |    0    
+    2016   |    4     |    78    |   103    |    2     |   2/33   |  51.50   |   7.92   |  39.00   |    0     |    0    
+    2014   |    1     |    18    |    35    |    1     |   1/35   |  35.00   |  11.66   |  18.00   |    0     |    0    
+    2013   |    6     |   120    |   168    |    2     |   2/20   |  84.00   |   8.40   |  60.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/manav-suthar/20692
+Source: https://www.iplt20.com/players/jason-holder/1075
 ================================================================================
+**Jason Omar Holder** (born 5 November 1991) is a Barbadian cricketer and the former captain of the West Indies cricket team. He is a right arm medium-fast bowling all-rounder who features in all three cricketing formats. In January 2019, he was ranked as the no. 1 all rounder in the ICC Test rankings.... In August 2019, Cricket West Indies named him as the Test Player of the Year and on 14 April 2021, he was named one of Wisden's Five Cricketers of the Year. Holder is the first West Indian male cricketer to take a hat-trick in a T20I, and the 5th, to achieve both 2000 runs and 100 wickets in ODIs.... He is also the second West Indian, after Sir Garfield Sobers, to attain both 2500 runs and 150 wickets in Tests. Holder was a member of the West Indies team that won the 2016 T20 World Cup.... ## Domestic career
+
+A couple of days after making his international debut in 2013, Holder was signed up by the Chennai Super Kings in the IPL auction, at his base price of $20,000. In 2014, Sunrisers bought him. He was also given a batting promotion by the Sunrisers Hyderabad, who sent him to bat ahead of all-rounders Karn Sharma and Parvez Rasool.... In 2016 year auction, Kolkata Knight Riders bought him. Holder scored 22 runs at 5.50 and took 2 wickets at 51.50 in all those four matches he played. In 2020, he joined Sunrisers Hyderabad for IPL 2020 as a replacement for injured Mitchell Marsh. Northamptonshire County Cricket Club signed Holder for the 2019 County Season.... The 29-year-old was relieved of his white-ball captaincy in 2019 and this year, Kraigg Brathwaite replaced him as the Test captain.
+
+In July 2020, he was named in the Barbados Royals formerly known as Barbados Tridents squad for the 2020 Caribbean Premier League.
+
+In the 2022 IPL Auction, Holder was bought by the Lucknow Super Giants for ₹8.75 crores.... He was bought by Rajasthan Royals to play in the IPL 2023 season for INR. 5.75 Crore in the IPL auction held on 23 December 2022.He was named captain for Los Angeles Knight Riders in the 2025 Major League Cricket.... ## International career
+
+### Early career
+
+Holder made his ODI debut on 1 February 2013 against Australia. His first notable performance in the ODI format was in the first match against Pakistan in July 2013 where he picked up 4 for 13, although the performance was overshadowed by a seven wicket haul by Pakistan's Shahid Afridi, as West Indies were bowled out for 98.... Holder delivered a strong all-round performance in the third ODI of the same series, when he, along with Kemar Roach, helped his team to a tie, scoring 19 not out off 9 deliveries. He made his T20I debut against New Zealand in January 2014, returning figures of 2–34 in 3 overs.... After good performances in ODIs, Holder was selected for the Test squad in June 2014. He made his Test debut on 26 June 2014 against New Zealand. He did not take any wickets in the first innings, but bowled economically with four maidens. In the second innings, Holder took his maiden Test wicket by dismissing Ross Taylor for 16 runs. He completed the match with 2 for 50. Holder also scored 90 runs in the match, including his maiden Test fifty. However, West Indies lost the match by 53 runs.... ### Captaincy
+
+He was made the captain of the national team in ODI format by the West Indies Cricket Board selectors, after they sacked previous captain Dwayne Bravo. At 23 years, 72 days, he became the youngest ever West Indian captain. On 4 September 2015 he was named as the captain of the Test side for the tour to Sri Lanka. He became the second youngest test captain of all time for the West Indies and 15th youngest of all time for any Test Nation.... He led his team to quarter finals of the 2015 World Cup where they lost to New Zealand. In the tournament, Holder scored two consecutive fifties, both in losing causes, against South Africa and then India. In the match against South Africa, Holder conceded 104 runs, which is second worst set of bowling figures in World Cups. He also scored a 26-ball 42 in their last match against New Zealand in the quarter final.... In April 2015, he scored a maiden Test century against England to help secure a draw in the first Test at the Sir Vivian Richards Stadium in North Sound, Antigua. In September 2015 Holder was appointed as the Windies' new captain. At first under his captaincy, the Caribbean side regularly lacked experienced players such as Chris Gayle and Marlon Samuels. Their absence was due to an ongoing dispute between both the players and the West Indies Cricket Board.... On 2 July 2017, Holder took his maiden ODI five-wicket haul (5/27), in a low scoring game against India. West Indies batted first and only scored 189 runs. To stay alive in the series, West Indies had to win the match. Holder handled his bowlers and himself very well in the match, and the West Indies won the match by 11 runs. For his good captaincy and impressive bowling performance, Holder was awarded the man of the match award.... On 15 March 2018, Holder became the fastest player for the West Indies, in terms of matches, to score 1,000 runs and take 100 wickets in ODIs (74). In October 2018, Cricket West Indies (CWI) awarded him a contract across all formats of cricket for the 2018–19 season.... In the six Tests that Holder played that year, he made 336 runs at an average of 37.33 while also claiming 33 wickets at an average of 12.30, the best average by a fast bowler in more than 100 years. He made the Test Team announced at the ICC Awards for the year as the only West Indies player in the team.... In January 2019, Holder scored his first double century in first-class cricket in his team's second innings of the First Test at home against England at the Kensington Oval, his home ground. He struck a 295-run partnership with Shane Dowrich for the eight wicket helping his team secure a lead of 627 runs over England.... His 202 not out was the third-highest individual score by a number eight batsman in Tests. The West Indies went on to win the match by 381 runs, their greatest victory at home in terms of runs, and Holder was named man of the match. He occupied the top spot in the all-rounders rankings announced following the match, the first West Indies player since Garfield Sobers in 1974.... In April 2019, he was named as the captain of the West Indies' squad for the 2019 Cricket World Cup. On 17 June 2019, in the match against Bangladesh, Holder played in his 100th ODI match. On 27 June 2019, in the match against India, Holder played in his 150th international match for the West Indies.... On 1 July 2019, in the match against Sri Lanka, Holder became the first captain of the West Indies to take 100 wickets in ODIs. On 31 August 2019, in the second Test against India, Holder took his 100th wicket in Test cricket.
+
+In June 2020, Holder was named as the captain of the West Indies' Test squad, for their series against England. The Test series was originally scheduled to start in May 2020, but was moved back to July 2020 due to the COVID-19 pandemic.... **International captaincy record**
+|Format|Span|Matches|Won|Lost|Tied|Drawn/No result|WL Ratio|
+|--|--|--|--|--|--|--|--|
+|Test|2015-19|32|10|17|0|5|0.58|
+|ODI|2015-19|86|24|54|2|6|0.44|
+|T20I|2019|3|0|3|0|0|0.00|... ### Post-captaincy
+
+On 21 March 2021, Holder claimed 5 for 27 against Sri Lanka upon the opening day of the first test at the Sir Vivian Richards Stadium. He later scored 71 not out in the second and final test, held at the said stadium, of Sri Lanka's 2021 tour of the Caribbean.... On 14 April 2021, Holder was named one of Wisden's Five Cricketers of the Year. He later scored 52, on 24 July 2021, to help the Windies win the second ODI of a three match series against Australia held at the Kensington Oval, Barbados. In August 2021, Holder scored 58, in the second and final test against Pakistan.... He was also the third highest run scorer, after Babar Azam and Fawad Alam respectively, with a sum of 147 runs in that test series. In September 2021, Holder was named as one of four reserve players in the West Indies cricket squad for the 2021 ICC Men's T20 World Cup.... In January 2022, Holder was named in the West Indies' squad for their T20I home series against England. In the fifth and final match to decide the series, Holder took five wickets for 27 runs, to take his first five-wicket haul in T20Is. Holder also became the first bowler for West Indies to take a hat-trick in T20Is.... He also became the fourth bowler to take four wickets in four balls in T20Is. For his performance, he was awarded both Player of the Match and Player of the Series awards. On 6 February 2022 Holder notched 57 in the first game of a three match ODI series against India held at Ahmedabad's Narendra Modi Stadium.... He thus became only the fifth West Indian to achieve both 2,000 runs and 100 wickets in one day internationals. He later claimed 4 for 34 in the third and final ODI of that said series. On 1 March 2023 Holder picked up his 150th test wicket, trapping Keegan Petersen lbw, in the first test match of the Windies 2023 tour of South Africa.... With this he became only the second West Indian, after Garfield Sobers, to attain both 2500 runs and 150 wickets in test match cricket. He later scored 81 not out in the second test against the Proteas at the Wanderers Stadium in Johannesburg.
+
+In May 2024, he was named in the West Indies squad for the 2024 ICC Men's T20 World Cup tournament.... ## Personal life
+
+Holder is a fan of Premier League football club Tottenham Hotspur and in February 2022 became the brand ambassador for BookBarbados.com.... ## References
+
+Categories: - 1991 births
+
+- Living people
+- Barbadian cricketers
+- 21st-century Barbadian sportsmen
+- West Indies Test cricketers
+- West Indies One Day International cricketers
+- West Indies Twenty20 International cricketers
+- Twenty20 International hat-trick takers
+- West Indies Test cricket captains... - Cricketers at the 2015 Cricket World Cup
+- Cricketers at the 2019 Cricket World Cup
+- Barbados cricketers
+- Barbados Royals cricketers
+- Chennai Super Kings cricketers
+- Barbadian expatriate cricketers in India
+- Combined Campuses and Colleges cricketers... - Durban's Super Giants cricketers
+- Expatriate cricketers in South Africa
+- Kolkata Knight Riders cricketers
+- Lucknow Super Giants cricketers
+- Northamptonshire cricketers
+- Otago cricketers
+- Quetta Gladiators cricketers
+- Expatriate cricketers in Pakistan... - Rajasthan Royals cricketers
+- Sunrisers Hyderabad cricketers
+- Sydney Sixers cricketers
+- Barbadian expatriate cricketers in Australia
+- Wisden Cricketers of the Year
+- Worcestershire cricketers
+- Barbadian expatriate cricketers in England

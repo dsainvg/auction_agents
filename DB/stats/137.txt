@@ -1,13 +1,28 @@
 ================================================================================
-IPL PLAYER PROFILE: TOM KOHLER-CADMORE
+IPL PLAYER PROFILE: MOHAMMAD SHAMI
 ================================================================================
 
 BASIC INFORMATION
 --------------------------------------------------------------------------------
-  Player Name              : Tom Kohler-Cadmore
-  Date of Birth            : 19 August 1994
-  Total IPL Matches        : 4
-  Role                     : Batter
+  Player Name              : Mohammad Shami
+  IPL Debut                : 2013
+  Date of Birth            : 03 September 1990
+  Total IPL Matches        : 119
+  Role                     : WK-Batter
+  Nationality              : Indian
+
+BIOGRAPHY
+--------------------------------------------------------------------------------
+    Mohammad Shami, one of India's most prolific pace bowlers, has made a
+  name for himself with his remarkable ability to move the ball both ways and
+  his immaculate seam position. With over 450 international wickets and 100+
+  IPL wickets, Shami has been a mainstay in the league since his debut in
+  2013, playing for KKR, DC, PBKS, and GT. In the IPL 2022, Shami played a
+  pivotal role in Gujarat Titans' title-winning campaign, finishing with 20
+  wickets. He followed that up with an even more impressive performance in IPL
+  2023, claiming 28 wickets and winning the coveted Purple Cap. Sunrisers
+  Hyderabad secured him for a significant INR 10 Crore at the 2025 TATA IPL
+  Auction, making him their second-highest buy.
 
 BATTING STATISTICS
 --------------------------------------------------------------------------------
@@ -17,9 +32,71 @@ Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
 --------------------------------------------------------------------------------
     YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    4     |    0     |    48    |    20    |  16.00   |    54    |  88.89   |    0     |    0     |    7     |    1     |    1     |    0    
-    2024   |    4     |    0     |    48    |    20    |  16.00   |    54    |  88.89   |    0     |    0     |    7     |    1     |    1     |    0    
+   Career  |   119    |    15    |    84    |    21    |   6.00   |    89    |  94.38   |    0     |    0     |    7     |    2     |    21    |    0    
+    2025   |    9     |    3     |    10    |    6*    |  10.00   |    10    |  100.00  |    0     |    0     |    1     |    0     |    2     |    0    
+    2023   |    17    |    0     |    5     |    5     |   2.50   |    6     |  83.33   |    0     |    0     |    1     |    0     |    5     |    0    
+    2022   |    16    |    0     |    0     |    0     |    -     |          |    -     |    0     |    0     |    0     |    0     |    3     |    0    
+    2021   |    14    |    3     |    13    |    9*    |  13.00   |    17    |  76.47   |    0     |    0     |    0     |    0     |    1     |    0    
+    2020   |    14    |    2     |    2     |    2*    |   2.00   |    3     |  66.66   |    0     |    0     |    0     |    0     |    2     |    0    
+    2019   |    14    |    1     |    1     |    1*    |   1.00   |    2     |  50.00   |    0     |    0     |    0     |    0     |    5     |    0    
+    2018   |    4     |    0     |    7     |    7     |   7.00   |    6     |  116.66  |    0     |    0     |    1     |    0     |    2     |    0    
+    2017   |    8     |    2     |    36    |    21    |   9.00   |    24    |  150.00  |    0     |    0     |    4     |    2     |    0     |    0    
+    2016   |    8     |    2     |    2     |    2*    |   0.00   |    4     |  50.00   |    0     |    0     |    0     |    0     |    1     |    0    
+    2014   |    12    |    2     |    3     |    1*    |   1.50   |    7     |  42.85   |    0     |    0     |    0     |    0     |    0     |    0    
+    2013   |    3     |    0     |    5     |    5     |   5.00   |    10    |  50.00   |    0     |    0     |    0     |    0     |    0     |    0    
+
+BOWLING STATISTICS
+--------------------------------------------------------------------------------
+Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
+     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
+     4W=4 Wickets, 5W=5 Wickets
+--------------------------------------------------------------------------------
+    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
+  ----------------------------------------------------------------------------------------------------------------------
+   Career  |   119    |   2606   |   3749   |   133    |   4/11   |  28.19   |   8.63   |  19.59   |    2     |    0    
+    2025   |    9     |   180    |   337    |    6     |   2/28   |  56.17   |  11.23   |  30.00   |    0     |    0    
+    2023   |    17    |   390    |   522    |    28    |   4/11   |  18.64   |   8.03   |  13.93   |    2     |    0    
+    2022   |    16    |   366    |   488    |    20    |   3/25   |  24.40   |   8.00   |  18.30   |    0     |    0    
+    2021   |    14    |   316    |   395    |    19    |   3/21   |  20.78   |   7.50   |  16.63   |    0     |    0    
+    2020   |    14    |   322    |   460    |    20    |   3/15   |  23.00   |   8.57   |  16.10   |    0     |    0    
+    2019   |    14    |   324    |   469    |    19    |   3/21   |  24.68   |   8.68   |  17.05   |    0     |    0    
+    2018   |    4     |    83    |   144    |    3     |   1/29   |  48.00   |  10.40   |  27.66   |    0     |    0    
+    2017   |    8     |   156    |   243    |    5     |   2/36   |  48.60   |   9.34   |  31.20   |    0     |    0    
+    2016   |    8     |   151    |   244    |    5     |   2/34   |  48.80   |   9.69   |  30.20   |    0     |    0    
+    2014   |    12    |   264    |   369    |    7     |   1/22   |  52.71   |   8.38   |  37.71   |    0     |    0    
+    2013   |    3     |    54    |    78    |    1     |   1/32   |  78.00   |   8.66   |  54.00   |    0     |    0    
 
 ================================================================================
-Source: https://www.iplt20.com/players/tom-kohler-cadmore/20697
+Source: https://www.iplt20.com/players/mohammad-shami/94
 ================================================================================
+## Mohammad Izhar
+
+Mumbai Indians
+
+NationalityIND
+
+Position
+
+Batter
+
+Batting
+
+Right
+
+Bowling
+
+Right-arm medium
+
+### Mohammad Izhar
+
+Mohd Izhar statistics are available during live games and after every game played.
+
+Mohd Izhar statistics may be available on Sofascore for some of the games.
+
+## Mohammad IzharMumbai IndiansIndiaBatterRightRight-arm mediumMatches
+
+### Mohammad Izhar
+
+Mohd Izhar statistics are available during live games and after every game played.
+
+Mohd Izhar statistics may be available on Sofascore for some of the games.Advertisement

@@ -1,44 +1,34 @@
-================================================================================
-IPL PLAYER PROFILE: AKASH DEEP
-================================================================================
+## Rishad Hossain Recent Form
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Akash Deep
-  IPL Debut                : 2022
-  Date of Birth            : 15 December 1996
-  Total IPL Matches        : 14
-  Role                     : Bowler
-  Nationality              : Indian
+Batting
 
-BATTING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, NO=Not Out, HS=Highest Score, AVG=Average, BF=Balls Faced
-     SR=Strike Rate, 100=Centuries, 50=Half-centuries, 4S=Fours, 6S=Sixes
-     CT=Catches, ST=Stumpings
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |    NO    |   RUNS   |    HS    |   AVG    |    BF    |    SR    |   100    |    50    |    4S    |    6S    |    CT    |    ST   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-   Career  |    14    |    2     |    25    |    17    |   8.33   |    14    |  178.57  |    0     |    0     |    2     |    2     |    3     |    0    
-    2025   |    6     |    1     |    6     |    6*    |   6.00   |    2     |  300.00  |    0     |    0     |    0     |    1     |    0     |    0    
-    2024   |    1     |    1     |    2     |    2*    |    -     |    2     |  100.00  |    0     |    0     |    0     |    0     |    0     |    0    
-    2023   |    2     |    0     |    17    |    17    |  17.00   |    8     |  212.50  |    0     |    0     |    2     |    1     |    1     |    0    
-    2022   |    5     |    0     |    0     |    0     |   0.00   |    2     |   0.00   |    0     |    0     |    0     |    0     |    2     |    0    
+Bowling
 
-BOWLING STATISTICS
---------------------------------------------------------------------------------
-Key: MAT=Matches, BALLS=Balls Bowled, RUNS=Runs Conceded, WKTS=Wickets
-     BBM=Best Bowling Match, AVE=Average, ECON=Economy Rate, SR=Strike Rate
-     4W=4 Wickets, 5W=5 Wickets
---------------------------------------------------------------------------------
-    YEAR   |   MAT    |  BALLS   |   RUNS   |   WKTS   |   BBM    |   AVE    |   ECON   |    SR    |    4W    |    5W   
-  ----------------------------------------------------------------------------------------------------------------------
-   Career  |    14    |   278    |   548    |    10    |   3/45   |  54.80   |  11.83   |  27.80   |    0     |    0    
-    2025   |    6     |   114    |   229    |    3     |   2/55   |  76.33   |  12.05   |  38.00   |    0     |    0    
-    2024   |    1     |    21    |    55    |    1     |   1/55   |  55.00   |  15.71   |  21.00   |    0     |    0    
-    2023   |    2     |    30    |    59    |    1     |   1/29   |  59.00   |  11.80   |  30.00   |    0     |    0    
-    2022   |    5     |   113    |   205    |    5     |   3/45   |  41.00   |  10.88   |  22.60   |    0     |    0    
+## Rishad Hossain Career Stats... |Format|Mat|Inn|R|100s|50s|HS|SR|Avg|Fours|Sixes|Duck|Rank|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|ODI|14|12|176|0|0|48|140.80|19.56|12|13|--|--|... |T20I|55|33|213|0|1|53|127.54|8.52|15|15|--|--|
+|BBL|5|1|5|0|0|5|166.67|5.00|1|0|--|--|... |BPL|15|3|68|0|0|39|194.29|34.00|5|4|--|--|
+|PSL|7|6|23|0|0|13|95.83|5.75|2|1|--|--|... |Format|Mat|Inn|W|Econ|Avg|Best|3W|5W|SR|Maiden|Rank|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|ODI|14|14|22|5.25|29.14|6/35|2|1|33.32|--|--|... |T20I|55|53|71|8.12|20.97|3/18|8|0|15.49|--|--|
+|BBL|5|5|8|7.72|17.38|3/33|1|0|13.50|--|--|... |BPL|15|13|13|8.40|22.62|4/22|2|0|16.15|--|--|
+|PSL|7|7|13|9.33|17.23|3/26|3|0|11.08|--|--|... ## Career Debut Information
 
-================================================================================
-Source: https://www.iplt20.com/players/akash-deep/14800
-================================================================================
+|ODI Debut|New Zealand v Bangladesh Saxton Oval, Nelson, 20-12-2023|
+|--|--|
+|T20I Debut|Bangladesh v Ireland Zahur Ahmed Chowdhury Stadium, Chattogram Bangladesh, 31-3-2023|
+|BBL Debut|Hobart Hurricanes v Sydney Thunder Bellerive Oval, Hobart, 16-12-2025|... |BPL Debut|Comilla Victorians v Chattogram Challengers Zahur Ahmed Chowdhury Stadium, Chattogram Bangladesh, 13-2-2024|
+|PSL Debut|Quetta Gladiators v Lahore Qalandars Rawalpindi Cricket Stadium, Rawalpindi, 13-4-2025|... ## Teams played for
+
+Bangladesh A Bangladesh U19 Bangladesh Cricket Board XI Rangpur Rangers
+
+## About Rishad Hossain... |Name|Rishad Hossain|
+|--|--|
+|Gender|Male|
+|Birth|15 Jul 2002|
+|Birth Place|Rangpur|
+|Height|6 ft 1 in|
+|Nationality|Bangladeshi|
+|Role|Bowler|
+|Bats|right handed . lower order|... |Bowls|legbreak googly . Spinner|
+Rishad Hossain has steadily grown into one of Bangladesh’s most impactful white-ball cricketers, particularly in the T20 format, where his leg-spin and clean striking have made him a genuine match-winner. Rishad emerged through Bangladesh’s domestic structure with early appearances in the Bangladesh Cricket League and the Dhaka Premier Division T20 League, before earning wider recognition through consistent performances as a bowling all-rounder.... continue reading

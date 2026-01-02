@@ -1,0 +1,8 @@
+||M|I|N/O|R|HS|100s|50s|4s|6s|Avg|S/R|Ct|St|Sn|Tid|Ducks|R/O|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |Australia Under-19|2|3|0|97|76|0|1|15|1|32.33|48.25|1|0|AUS-U19|1154|0|0|21|-|-|-|
+|England Under-19|1|2|0|130|67|0|2|19|1|65.00|70.65|-|-|ENG-U19|1159|0|0|21|-|-|-|... ||I|O|M|R|W|Best|3w|5w|Avg|E/R|S/R|Sn|Tid|Matches|ID|team_short_name|team_display_name|team_short_display_name|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|... |England Under-19|2|14|0|49|2|1/17|0|0|24.50|3.50|42.00|ENG-U19|1159|1|21|-|-|-|
+|Batting|Bowling|Opposition|Match Date|
+|--|--|--|--|... |67(99) & 63(85)|1/17 & 1/32|England Under-19|Jul 12 2025|
+|10(75)|-|Australia Under-19|Oct 7 2024|
+|76(108) & 11(18)|-|Australia Under-19|Sep 30 2024|

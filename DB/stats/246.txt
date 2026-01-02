@@ -1,15 +1,44 @@
-================================================================================
-IPL PLAYER PROFILE: JOHNSON CHARLES
-================================================================================
+|Full Name|Utkarsh Singh|
+|--|--|
+|Date of Birth|May 7, 1998|
+|Age|27 Years|
+|Nationality|Indian|
+|Role|All-Rounder, Left-Handed Batsman, Right-Arm Off-Spin|
+|Match|R|BF|4s|6s|S/R|O|R|W|E/R|
+|--|--|--|--|--|--|--|--|--|--|
+|JHR vs TN|10 & 35|9 & 55|2 & 2|0 & 2|111.11 & 63.63|7.5 & 16|30 & 65|6 & 1|3.82 & 4.06|
+|CHT vs JHR|62 & 32|83 & 79|9 & 4|0 & 0|74.69 & 40.50|19.3 & 23|50 & 51|5 & 3|2.56 & 2.21|
+|JHR vs GA|102|120|7|2|85.00|6|37|0|6.16|
+|JHR vs UT|10|14|1|0|71.42|9|38|2|4.22|
+|ODI vs JHR|91|60|11|3|151.66|0|0|0|0|
+|Game Type|Mat|Inn|R|BF|NO|Avg|S/R|100s|50s|H|4s|6s|Ct|St|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|T20s|32|24|511|399|4|25.55|128.07|0|1|54|63|11|11|0|
+|LISTAs|44|41|1496|1881|5|41.55|79.53|3|12|128|152|28|13|0|
+|FIRSTCLASS|34|56|1517|3371|1|27.58|45.00|2|9|116|192|2|14|0|
+|Game Type|Mat|Inn|O|R|W|Avg|E/R|Best|5w|10w|
+|--|--|--|--|--|--|--|--|--|--|--|
+|T20s|32|27|79.1|493|25|19.72|6.22|3/7|0|0|
+|LISTAs|44|40|218.0|1046|39|26.82|4.79|4/34|0|0|
+|FIRSTCLASS|34|51|645.1|2084|57|36.56|3.23|8/101|2|0|
+Utkarsh Rajiv Singh, popularly known as Utkarsh Singh is an Indian Cricketer born on 7th May 1998 in the city of Ranchi. He is an ambidextrous all-rounder who bats left-handed and bowls right-arm off-spin.
 
-BASIC INFORMATION
---------------------------------------------------------------------------------
-  Player Name              : Johnson Charles
-  Date of Birth            : 14 January 1989
-  Total IPL Matches        : 0
-  Role                     : Wicketkeeper Batter
-  Nationality              : Indian
+## Career
 
-================================================================================
-Source: https://www.iplt20.com/players/johnson-charles/20682
-================================================================================
+### Domestic Career
+
+Utkarsh Singh has been one of the most impressive performers in domestic cricket. He has represented the Indian team at the U-19 level, while he plays domestic cricket for his home state Jharkhand.
+
+Utkarsh made his first-class debut against the Jammu and Kashmir cricket team on November 9, 2017. He scored 50 runs and picked up a three-wicket haul in that game. So far, Utkarsh has amassed 737 runs in 29 first-class innings, with his highest score being 114. His wicket tally is at 25 and his best figures are 5/130.
+
+The 22-year-old played his first List-A match against Saurashtra at Secunderabad on February 11, 2018. He scored six runs and bowled a fine spell of 1/26. Utkarsh Singh has 360 runs and 18 wickets to his name in 19 List-A matches. The all-rounder has taken a couple of four-wicket hauls in the 50-over format.
+
+Utkarsh received his maiden T20 cap against Manipur. He opened the bowling for his team and bowled a magnificent spell of 3-0-7-3. His economy rate in his T20 career of 21 matches is just 6.27, highlighting that he can build pressure on the opposition with his miserly economy rate. Also, Utkarsh’s highest score in the game’s shortest format is 49*. His batting strike rate is 127.27, whereas his bowling strike rate is 17.10.
+
+### IPL Career
+
+Utkarsh Singh has not made his IPL debut thus far. The Ranchi-based all-rounder entered the IPL Auction 2021 with a base of INR 20 lakh. The Punjab Kings Team secured his services at his base price. With players like Ravi Bishnoi, Murugan Ashwin, Jalaj Saxena, Fabian Allen and Deepak Hooda present in Punjab’s spin attack, it will be interesting to see if Utkarsh gets his maiden IPL cap during the IPL 2021 season.
+
+## Background
+
+Hailing from Ranchi, Utkarsh Singh started playing cricket at the U-16 and U-19 level for Delhi. Soon, he moved to his home team and performed consistently in both departments. After the Punjab Kings signed him at IPL Auction 2021, Utkarsh stated in an interview that he was looking forward to sharing the dressing room with the likes of KL Rahul and Anil Kumble. MS Dhoni gave him some valuable tips during the Jharkhand cricket team’s camp in 2017.
