@@ -74,11 +74,23 @@ def agent_pool(state: AgentState) -> AgentState:
         else:
             eligible_teams.append(team_id)
     
-    # Process teams one by one in random order
-    # Shuffle eligible teams to randomize order
-    random.shuffle(eligible_teams)
-    
-    for team_id in eligible_teams:
+    # Order eligible teams by number of prior bids on this player (desc), shuffle ties
+    bid_counts = {
+        team_id: sum(1 for entry in current_player.team_bid_history.get(team_id, []) if entry.get("decision") == "raise")
+        for team_id in eligible_teams
+    }
+    buckets = {}
+    for team_id, count in bid_counts.items():
+        buckets.setdefault(count, []).append(team_id)
+    ordered_teams = []
+    for count in sorted(buckets.keys(), reverse=True):
+        bucket = buckets[count]
+        random.shuffle(bucket)
+        ordered_teams.extend(bucket)
+    if ordered_teams:
+        message_lines.append("Processing order (by prior bids, ties random): " + ", ".join(ordered_teams))
+
+    for team_id in ordered_teams:
         message_lines.append(f"\n  Checking {team_id}...")
         
         try:
