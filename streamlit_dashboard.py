@@ -27,7 +27,7 @@ def init_session_state():
     if 'teams' not in st.session_state:
         st.session_state.teams = {'CSK': [], 'DC': [], 'GT': [], 'KKR': [], 'LSG': [], 'MI': [], 'PBKS': [], 'RR': [], 'RCB': [], 'SRH': []}
     if 'budgets' not in st.session_state:
-        st.session_state.budgets = {'CSK': 120.0, 'DC': 120.0, 'GT': 120.0, 'KKR': 120.0, 'LSG': 120.0, 'MI': 120.0, 'PBKS': 120.0, 'RR': 120.0, 'RCB': 120.0, 'SRH': 120.0}
+        st.session_state.budgets = {'CSK': 125.0, 'DC': 125.0, 'GT': 125.0, 'KKR': 125.0, 'LSG': 125.0, 'MI': 125.0, 'PBKS': 125.0, 'RR': 125.0, 'RCB': 125.0, 'SRH': 125.0}
     if 'host_active' not in st.session_state:
         st.session_state.host_active = False
     if 'current_state' not in st.session_state:
@@ -97,7 +97,7 @@ def process_state_update(state, node_name=None):
     # Update team info and budgets
     for team in ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']:
         st.session_state.teams[team] = state.get(team, [])
-        budget = state.get(f"{team}_Budget", 120.0)
+        budget = state.get(f"{team}_Budget", 125.0)
         st.session_state.budgets[team] = budget
     
     # Update unsold players
@@ -198,7 +198,7 @@ def render_ui():
     st.divider()
     
     # Budget bars with plotly
-    if any(b < 120.0 for b in st.session_state.budgets.values()):
+    if any(b < 125.0 for b in st.session_state.budgets.values()):
         st.subheader("💰 Team Budgets")
         
         teams = ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']
@@ -262,7 +262,7 @@ def render_ui():
         
         fig.update_layout(
             barmode='stack',
-            xaxis=dict(range=[0, 120], title='Budget (Crores)', fixedrange=True),
+            xaxis=dict(range=[0, 125], title='Budget (Crores)', fixedrange=True),
             yaxis=dict(title='', fixedrange=True, categoryorder='array', categoryarray=list(reversed(teams))),
             height=600,
             margin=dict(l=80, r=20, t=20, b=40),
@@ -281,7 +281,7 @@ def render_ui():
         with col:
             players = st.session_state.teams[team]
             budget = st.session_state.budgets[team]
-            spent = 120.0 - budget
+            spent = 125.0 - budget
             
             team_colors = {'CSK': '🟡', 'DC': '🔵', 'GT': '🔷', 'KKR': '🟣', 'LSG': '🔹', 'MI': '🔵', 'PBKS': '🟠', 'RR': '🔴', 'RCB': '❤️', 'SRH': '🟠'}
             team_circle = team_colors.get(team, '⚪')
@@ -311,7 +311,7 @@ def render_ui():
         with col:
             players = st.session_state.teams[team]
             budget = st.session_state.budgets[team]
-            spent = 120.0 - budget
+            spent = 125.0 - budget
             
             team_colors = {'CSK': '🟡', 'DC': '🔵', 'GT': '🔷', 'KKR': '🟣', 'LSG': '🔹', 'MI': '🔵', 'PBKS': '🟠', 'RR': '🔴', 'RCB': '❤️', 'SRH': '🟠'}
             team_circle = team_colors.get(team, '⚪')
@@ -451,16 +451,16 @@ def start_auction():
         'RCB': [],
         'SRH': [],
         'UnsoldPlayers': [],
-        'CSK_Budget': 120.0,
-        'DC_Budget': 120.0,
-        'GT_Budget': 120.0,
-        'KKR_Budget': 120.0,
-        'LSG_Budget': 120.0,
-        'MI_Budget': 120.0,
-        'PBKS_Budget': 120.0,
-        'RR_Budget': 120.0,
-        'RCB_Budget': 120.0,
-        'SRH_Budget': 120.0,
+        'CSK_Budget': 0.0,
+        'DC_Budget': 0.0,
+        'GT_Budget': 0.0,
+        'KKR_Budget': 0.0,
+        'LSG_Budget': 0.0,
+        'MI_Budget': 0.0,
+        'PBKS_Budget': 0.0,
+        'RR_Budget': 0.0,
+        'RCB_Budget': 0.0,
+        'SRH_Budget': 0.0,
         'Messages': []
     }
     
@@ -520,7 +520,7 @@ def main():
         if st.button("🚀 Start Mock Auction", key="start_btn", disabled=st.session_state.auction_running):
             st.session_state.bid_history = []
             st.session_state.teams = {'CSK': [], 'DC': [], 'GT': [], 'KKR': [], 'LSG': [], 'MI': [], 'PBKS': [], 'RR': [], 'RCB': [], 'SRH': []}
-            st.session_state.budgets = {'CSK': 120.0, 'DC': 120.0, 'GT': 120.0, 'KKR': 120.0, 'LSG': 120.0, 'MI': 120.0, 'PBKS': 120.0, 'RR': 120.0, 'RCB': 120.0, 'SRH': 120.0}
+            st.session_state.budgets = {'CSK': 125.0, 'DC': 125.0, 'GT': 125.0, 'KKR': 125.0, 'LSG': 125.0, 'MI': 125.0, 'PBKS': 125.0, 'RR': 125.0, 'RCB': 125.0, 'SRH': 125.0}
             st.session_state.unsold_players = []
             start_auction()
     

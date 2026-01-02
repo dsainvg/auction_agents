@@ -1,575 +1,370 @@
 Serial_No,Name,Set,Specialism,Batting_Style,Bowling_Style,Test_Caps,ODI_Caps,T20_Caps,IPL_Matches,Player_Status,Reserve_Price_Lakh
-1,Jos Buttler,M1,WICKETKEEPER,RHB,RIGHT ARM Off Spin,57.0,181.0,124.0,107.0,Capped,200.0
-2,Shreyas Iyer,M1,BATTER,RHB,RIGHT ARM Off Spin,14.0,62.0,51.0,116.0,Capped,200.0
-3,Rishabh Pant,M1,BATTER,LHB,RIGHT ARM Off Spin,37.0,31.0,76.0,111.0,Capped,200.0
-4,Kagiso Rabada,M1,BOWLER,RHB,RIGHT ARM Fast,66.0,101.0,65.0,80.0,Capped,200.0
-5,Arshdeep Singh,M1,BOWLER,LHB,LEFT ARM Fast Medium,,8.0,56.0,65.0,Capped,200.0
-6,Mitchell Starc,M1,BOWLER,LHB,LEFT ARM Fast,89.0,125.0,65.0,41.0,Capped,200.0
-7,Yuzvendra Chahal,M2,BOWLER,RHB,RIGHT ARM Leg Spin,,72.0,80.0,160.0,Capped,200.0
-8,Liam Livingstone,M2,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,1.0,31.0,50.0,39.0,Capped,200.0
-9,David Miller,M2,BATTER,LHB,,,173.0,125.0,130.0,Capped,150.0
-10,KL Rahul,M2,WICKETKEEPER,RHB,,53.0,77.0,72.0,132.0,Capped,200.0
-11,Mohammad Shami,M2,BOWLER,RHB,RIGHT ARM Fast,64.0,101.0,23.0,110.0,Capped,200.0
-12,Mohammad Siraj,M2,BOWLER,RHB,RIGHT ARM Fast,30.0,44.0,16.0,93.0,Capped,200.0
-13,Harry Brook,BA1,BATTER,RHB,RIGHT ARM Medium,21.0,20.0,39.0,11.0,Capped,200.0
-14,Devon Conway,BA1,BATTER,LHB,,24.0,32.0,50.0,23.0,Capped,200.0
-15,Jake Fraser-Mcgurk,BA1,BATTER,RHB,,,2.0,4.0,9.0,Capped,200.0
-16,Aiden Markram,BA1,BATTER,RHB,RIGHT ARM Off Spin,41.0,71.0,53.0,44.0,Capped,200.0
-17,Devdutt Padikkal,BA1,BATTER,LHB,,1.0,,2.0,64.0,Capped,200.0
-18,Rahul Tripathi,BA1,BATTER,RHB,RIGHT ARM Medium,,,5.0,95.0,Capped,75.0
-19,David Warner,BA1,BATTER,LHB,,112.0,161.0,110.0,184.0,Capped,200.0
-20,Ravichandaran Ashwin,AL1,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,104.0,116.0,65.0,212.0,Capped,200.0
-21,Venkatesh Iyer,AL1,ALL-ROUNDER,LHB,RIGHT ARM Medium,,2.0,9.0,51.0,Capped,200.0
-22,Mitchell Marsh,AL1,ALL-ROUNDER,RHB,RIGHT ARM Fast,42.0,93.0,65.0,42.0,Capped,200.0
-23,Glenn Maxwell,AL1,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,7.0,142.0,113.0,134.0,Capped,200.0
-24,Harshal Patel,AL1,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,25.0,106.0,Capped,200.0
-25,Rachin Ravindra,AL1,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,11.0,25.0,23.0,10.0,Capped,150.0
-26,Marcus Stoinis,AL1,ALL-ROUNDER,RHB,RIGHT ARM Fast,,70.0,71.0,96.0,Capped,200.0
-27,Jonny Bairstow,WK1,WICKETKEEPER,RHB,RIGHT ARM Medium,100.0,107.0,80.0,50.0,Capped,200.0
-28,Quinton De Kock,WK1,WICKETKEEPER,LHB,,54.0,155.0,92.0,107.0,Capped,200.0
-29,Rahmanullah Gurbaz,WK1,WICKETKEEPER,RHB,,1.0,43.0,63.0,14.0,Capped,200.0
-30,Ishan Kishan,WK1,WICKETKEEPER,LHB,,2.0,27.0,32.0,104.0,Capped,200.0
-31,Phil Salt,WK1,WICKETKEEPER,RHB,,,25.0,33.0,21.0,Capped,200.0
-32,Jitesh Sharma,WK1,WICKETKEEPER,RHB,,,,9.0,40.0,Capped,100.0
-33,Syed Khaleel Ahmed,FA1,BOWLER,RHB,LEFT ARM Fast Medium,,11.0,18.0,57.0,Capped,200.0
-34,Trent Boult,FA1,BOWLER,RHB,LEFT ARM Fast Medium,78.0,114.0,61.0,104.0,Capped,200.0
-35,Josh Hazlewood,FA1,BOWLER,LHB,RIGHT ARM Fast Medium,70.0,90.0,52.0,27.0,Capped,200.0
-36,Avesh Khan,FA1,BOWLER,RHB,RIGHT ARM Fast,,8.0,23.0,63.0,Capped,200.0
-37,Prasidh Krishna,FA1,BOWLER,RHB,RIGHT ARM Fast,2.0,17.0,5.0,51.0,Capped,200.0
-38,T. Natarajan,FA1,BOWLER,LHB,LEFT ARM Fast Medium,1.0,2.0,4.0,61.0,Capped,200.0
-39,Anrich Nortje,FA1,BOWLER,RHB,RIGHT ARM Fast,19.0,22.0,42.0,46.0,Capped,200.0
-40,Noor Ahmad,SP1,BOWLER,RHB,LEFT ARM Slow Unorthodox,,10.0,14.0,23.0,Capped,200.0
-41,Rahul Chahar,SP1,BOWLER,RHB,RIGHT ARM Leg Spin,,1.0,6.0,78.0,Capped,100.0
-42,Wanindu Hasaranga,SP1,BOWLER,RHB,RIGHT ARM Leg Spin,4.0,58.0,74.0,26.0,Capped,200.0
-43,Waqar Salamkheil,SP1,BOWLER,RHB,LEFT ARM Slow Unorthodox,1.0,,,,Capped,75.0
-44,Maheesh Theekshana,SP1,BOWLER,RHB,RIGHT ARM Off Spin,2.0,43.0,55.0,27.0,Capped,200.0
-45,Adam Zampa,SP1,BOWLER,RHB,RIGHT ARM Leg Spin,103.0,,92.0,20.0,Capped,200.0
-46,Yash Dhull,UBA1,BATTER,RHB,,,,,4.0,Uncapped,30.0
-47,Abhinav Manohar,UBA1,BATTER,RHB,RIGHT ARM Leg Spin,,,,18.0,Uncapped,30.0
-48,Karun Nair,UBA1,BATTER,RHB,RIGHT ARM Off Spin,,,,76.0,Uncapped,30.0
-49,Angkrish Raghuvanshi,UBA1,BATTER,RHB,RIGHT ARM Off Spin,,,,10.0,Uncapped,30.0
-50,Anmolpreet Singh,UBA1,BATTER,RHB,RIGHT ARM Off Spin,,,,9.0,Uncapped,30.0
-51,Atharva Taide,UBA1,BATTER,LHB,LEFT ARM Slow Orthodox,,,,9.0,Uncapped,30.0
-52,Nehal Wadhera,UBA1,BATTER,LHB,RIGHT ARM Leg Spin,,,,20.0,Uncapped,30.0
-53,Harpreet Brar,UAL1,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,41.0,Uncapped,30.0
-54,Naman Dhir,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,7.0,Uncapped,30.0
-55,Mahipal Lomror,UAL1,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,40.0,Uncapped,50.0
-56,Sameer Rizvi,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,9.0,Uncapped,30.0
-57,Abdul Samad,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,50.0,Uncapped,30.0
-58,Vijay Shankar,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,72.0,Uncapped,30.0
-59,Ashutosh Sharma,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,11.0,Uncapped,30.0
-60,Nishant Sindhu,UAL1,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,0.0,Uncapped,30.0
-61,Utkarsh Singh,UAL1,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-62,Aryan Juyal,UWK1,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-63,Kumar Kushagra,UWK1,WICKETKEEPER,RHB,,,,,0.0,Uncapped,30.0
-64,Robin Minz,UWK1,WICKETKEEPER,LHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-65,Anuj Rawat,UWK1,WICKETKEEPER,LHB,RIGHT ARM Leg Spin,,,,24.0,Uncapped,30.0
-66,Luvnith Sisodia,UWK1,WICKETKEEPER,LHB,,,,,0.0,Uncapped,30.0
-67,Vishnu Vinod,UWK1,WICKETKEEPER,RHB,,,,,6.0,Uncapped,30.0
-68,Upendra Singh Yadav,UWK1,WICKETKEEPER,RHB,,,,,0.0,Uncapped,30.0
-69,Vaibhav Arora,UFA1,BOWLER,RHB,RIGHT ARM Fast Medium,,,,20.0,Uncapped,30.0
-70,Rasikh Dar,UFA1,BOWLER,RHB,RIGHT ARM Fast Medium,,,,11.0,Uncapped,30.0
-71,Akash Madhwal,UFA1,BOWLER,RHB,RIGHT ARM Fast,,,,12.0,Uncapped,30.0
-72,Mohit Sharma,UFA1,BOWLER,RHB,RIGHT ARM Fast,,,,111.0,Uncapped,50.0
-73,Simarjeet Singh,UFA1,BOWLER,RHB,RIGHT ARM Fast,,,,10.0,Uncapped,30.0
-74,Yash Thakur,UFA1,BOWLER,RHB,RIGHT ARM Fast Medium,,,,19.0,Uncapped,30.0
-75,Kartik Tyagi,UFA1,BOWLER,RHB,RIGHT ARM Fast,,,,20.0,Uncapped,40.0
-76,Vyshak Vijaykumar,UFA1,BOWLER,RHB,RIGHT ARM Fast Medium,,,,11.0,Uncapped,30.0
-77,Piyush Chawla,USP1,BOWLER,LHB,RIGHT ARM Leg Spin,,,,192.0,Uncapped,50.0
-78,Shreyas Gopal,USP1,BOWLER,RHB,RIGHT ARM Leg Spin,,,,52.0,Uncapped,30.0
-79,Mayank Markande,USP1,BOWLER,RHB,RIGHT ARM Leg Spin,,,,37.0,Uncapped,30.0
-80,Suyash Sharma,USP1,BOWLER,RHB,RIGHT ARM Leg Spin,,,,13.0,Uncapped,30.0
-81,Karn Sharma,USP1,BOWLER,LHB,RIGHT ARM Leg Spin,,,,84.0,Uncapped,50.0
-82,Kumar Kartikeya Singh,USP1,BOWLER,RHB,LEFT ARM Slow Orthodox,,,,12.0,Uncapped,30.0
-83,Manav Suthar,USP1,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,0.0,Uncapped,30.0
-84,Mayank Agarawal,BA2,BATTER,RHB,RIGHT ARM Off Spin,21.0,,5.0,127.0,Capped,100.0
-85,Faf Du Plessis,BA2,BATTER,RHB,,69.0,143.0,50.0,145.0,Capped,200.0
-86,Glenn Phillips,BA2,BATTER,RHB,RIGHT ARM Off Spin,11.0,30.0,78.0,8.0,Capped,200.0
-87,Rovman Powell,BA2,BATTER,RHB,RIGHT ARM Fast Medium,,51.0,83.0,27.0,Capped,150.0
-88,Ajinkya Rahane,BA2,BATTER,RHB,,85.0,90.0,20.0,185.0,Capped,150.0
-89,Prithvi Shaw,BA2,BATTER,RHB,,5.0,6.0,1.0,79.0,Capped,75.0
-90,Kane Williamson,BA2,BATTER,RHB,,102.0,165.0,93.0,79.0,Capped,200.0
-91,Sam Curran,AL2,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,24.0,33.0,53.0,59.0,Capped,200.0
-92,Marco Jansen,AL2,ALL-ROUNDER,RHB,LEFT ARM Fast,13.0,23.0,13.0,21.0,Capped,125.0
-93,Daryl Mitchell,AL2,ALL-ROUNDER,RHB,RIGHT ARM Medium,27.0,39.0,67.0,15.0,Capped,200.0
-94,Krunal Pandya,AL2,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,5.0,9.0,127.0,Capped,200.0
-95,Nitish Rana,AL2,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,1.0,2.0,107.0,Capped,150.0
-96,Washington Sundar,AL2,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,6.0,22.0,52.0,61.0,Capped,200.0
-97,Shardul Thakur,AL2,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,11.0,47.0,25.0,95.0,Capped,200.0
-98,K.S Bharat,WK2,WICKETKEEPER,RHB,,7.0,,,11.0,Capped,75.0
-99,Alex Carey,WK2,WICKETKEEPER,LHB,,32.0,76.0,38.0,3.0,Capped,100.0
-100,Donovan Ferreira,WK2,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,,4.0,2.0,Capped,75.0
-101,Shai Hope,WK2,WICKETKEEPER,RHB,,38.0,128.0,36.0,9.0,Capped,125.0
-102,Josh Inglis,WK2,WICKETKEEPER,RHB,,,23.0,26.0,,Capped,200.0
-103,Ryan Rickelton,WK2,WICKETKEEPER,LHB,,7.0,5.0,8.0,,Capped,100.0
-104,Deepak Chahar,FA2,BOWLER,RHB,RIGHT ARM Fast Medium,,13.0,25.0,81.0,Capped,200.0
-105,Gerald Coetzee,FA2,BOWLER,RHB,RIGHT ARM Fast,3.0,14.0,6.0,10.0,Capped,125.0
-106,Akash Deep,FA2,BOWLER,RHB,RIGHT ARM Fast,4.0,,,8.0,Capped,100.0
-107,Tushar Deshpande,FA2,BOWLER,LHB,RIGHT ARM Fast,,,2.0,36.0,Capped,100.0
-108,Lockie Ferguson,FA2,BOWLER,RHB,RIGHT ARM Fast,1.0,65.0,42.0,45.0,Capped,200.0
-109,Bhuvneshwar Kumar,FA2,BOWLER,RHB,RIGHT ARM Fast Medium,21.0,121.0,87.0,176.0,Capped,200.0
-110,Mukesh Kumar,FA2,BOWLER,RHB,RIGHT ARM Fast Medium,3.0,6.0,17.0,20.0,Capped,200.0
-111,Allah Ghazanfar,SP2,BOWLER,RHB,RIGHT ARM Off Spin,,5.0,0.0,0.0,Capped,75.0
-112,Akeal Hosein,SP2,BOWLER,LHB,LEFT ARM Slow Orthodox,,38.0,60.0,1.0,Capped,150.0
-113,Keshav Maharaj,SP2,BOWLER,RHB,LEFT ARM Slow Orthodox,54.0,44.0,35.0,2.0,Capped,75.0
-114,Mujeeb Ur Rahman,SP2,BOWLER,RHB,RIGHT ARM Off Spin,1.0,75.0,46.0,19.0,Capped,200.0
-115,Adil Rashid,SP2,BOWLER,RHB,RIGHT ARM Leg Spin,19.0,141.0,116.0,3.0,Capped,200.0
-116,Vijayakanth Viyaskanth,SP2,BOWLER,RHB,RIGHT ARM Leg Spin,,,1.0,3.0,Capped,75.0
-117,Ricky Bhui,UBA2,BATTER,RHB,,,,,4.0,Uncapped,30.0
-118,Swastik Chhikara,UBA2,BATTER,RHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-119,Aarya Desai,UBA2,BATTER,LHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-120,Shubham Dubey,UBA2,BATTER,LHB,RIGHT ARM Off Spin,,,,4.0,Uncapped,30.0
-121,Madhav Kaushik,UBA2,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-122,Pukhraj Mann,UBA2,BATTER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-123,Shaik Rasheed,UBA2,BATTER,RHB,RIGHT ARM Leg Spin,,,,0.0,Uncapped,30.0
-124,Himmat Singh,UBA2,BATTER,RHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-125,Mayank Dagar,UAL2,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,8.0,Uncapped,30.0
-126,Anshul Kamboj,UAL2,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,3.0,Uncapped,30.0
-127,Mohd. Arshad Khan,UAL2,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,,,,10.0,Uncapped,30.0
-128,Darshan Nalkande,UAL2,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,5.0,Uncapped,30.0
-129,Suyash Prabhudessai,UAL2,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,1.0,Uncapped,30.0
-130,Anukul Roy,UAL2,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,11.0,Uncapped,30.0
-131,Swapnil Singh,UAL2,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,14.0,Uncapped,30.0
-132,Sanvir Singh,UAL2,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,6.0,Uncapped,30.0
-133,Avanish Aravelly,UWK2,WICKETKEEPER,LHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-134,Vansh Bedi,UWK2,WICKETKEEPER,RHB,,,,,,Uncapped,30.0
-135,Saurav Chauhan,UWK2,WICKETKEEPER,LHB,RIGHT ARM Off Spin,,,,3.0,Uncapped,30.0
-136,Harvik Desai,UWK2,WICKETKEEPER,RHB,,,,,0.0,Uncapped,30.0
-137,Tom Kohler-Cadmore,UWK2,WICKETKEEPER,RHB,,,,,4.0,Uncapped,50.0
-138,Kunal Rathore,UWK2,WICKETKEEPER,LHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-139,B.R Sharath,UWK2,WICKETKEEPER,RHB,,,,,1.0,Uncapped,30.0
-140,Gurnoor Singh Brar,UFA2,BOWLER,LHB,RIGHT ARM Fast,,,,1.0,Uncapped,30.0
-141,Mukesh Choudhary,UFA2,BOWLER,LHB,LEFT ARM Fast,,,,14.0,Uncapped,30.0
-142,Sakib Hussain,UFA2,BOWLER,RHB,RIGHT ARM Fast Medium,,,,0.0,Uncapped,30.0
-143,Vidwath Kaverappa,UFA2,BOWLER,RHB,RIGHT ARM Fast Medium,,,,1.0,Uncapped,30.0
-144,Rajan Kumar,UFA2,BOWLER,LHB,LEFT ARM Fast,,,,0.0,Uncapped,30.0
-145,Sushant Mishra,UFA2,BOWLER,LHB,LEFT ARM Fast,,,,0.0,Uncapped,30.0
-146,Arjun Tendulkar,UFA2,BOWLER,LHB,LEFT ARM Fast Medium,,,,5.0,Uncapped,30.0
-147,Zeeshan Ansari,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-148,Prince Choudhary,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,,,,0.0,Uncapped,30.0
-149,Himanshu Sharma,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,,,,1.0,Uncapped,30.0
-150,M. Siddharth,USP2,BOWLER,RHB,LEFT ARM Slow Orthodox,,,,3.0,Uncapped,30.0
-151,Digvesh Singh,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-152,Prashant Solanki,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,,,,2.0,Uncapped,30.0
-153,Jhathavedh Subramanyan,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,,,,0.0,Uncapped,30.0
-154,Finn Allen,BA3,BATTER,RHB,,,22.0,47.0,0.0,Capped,200.0
-155,Dewald Brevis,BA3,BATTER,RHB,RIGHT ARM Leg Spin,,,2.0,10.0,Capped,75.0
-156,Ben Duckett,BA3,BATTER,LHB,,29.0,16.0,12.0,,Capped,200.0
-157,Manish Pandey,BA3,BATTER,RHB,,,29.0,39.0,171.0,Capped,75.0
-158,Rilee Rossouw,BA3,BATTER,LHB,,,36.0,29.0,22.0,Capped,200.0
-159,Sherfane Rutherford,BA3,BATTER,LHB,RIGHT ARM Fast Medium,,8.0,24.0,10.0,Capped,150.0
-160,Ashton Turner,BA3,BATTER,RHB,RIGHT ARM Off Spin,,9.0,19.0,6.0,Capped,100.0
-161,James Vince,BA3,BATTER,RHB,,13.0,25.0,17.0,,Capped,200.0
-162,Shahbaz Ahamad,AL3,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,3.0,2.0,55.0,Capped,100.0
-163,Moeen Ali,AL3,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,68.0,138.0,92.0,67.0,Capped,200.0
-164,Tim David,AL3,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,4.0,51.0,38.0,Capped,200.0
-165,Deepak Hooda,AL3,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,10.0,21.0,118.0,Capped,75.0
-166,Will Jacks,AL3,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,2.0,13.0,18.0,8.0,Capped,200.0
-167,Azmatullah Omarzai,AL3,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,30.0,44.0,7.0,Capped,150.0
-168,R. Sai Kishore,AL3,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,,,3.0,10.0,Capped,75.0
-169,Romario Shepherd,AL3,ALL-ROUNDER,RHB,RIGHT ARM Fast,,33.0,46.0,10.0,Capped,150.0
-170,Tom Banton,WK3,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,6.0,14.0,2.0,Capped,200.0
-171,Sam Billings,WK3,WICKETKEEPER,RHB,,3.0,28.0,37.0,30.0,Capped,150.0
-172,Jordan Cox,WK3,WICKETKEEPER,RHB,,,2.0,2.0,,Capped,125.0
-173,Ben McDermott,WK3,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,5.0,25.0,,Capped,75.0
-174,Kusal Mendis,WK3,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,67.0,134.0,73.0,,Capped,75.0
-175,Kusal Perera,WK3,WICKETKEEPER,LHB,,22.0,116.0,72.0,2.0,Capped,75.0
-176,Josh Philippe,WK3,WICKETKEEPER,RHB,,,3.0,12.0,5.0,Capped,75.0
-177,Tim Seifert,WK3,WICKETKEEPER,RHB,,,3.0,61.0,3.0,Capped,125.0
-178,Nandre Burger,FA3,BOWLER,LHB,LEFT ARM Fast,3.0,5.0,2.0,6.0,Capped,125.0
-179,Spencer Johnson,FA3,BOWLER,LHB,LEFT ARM Fast,,1.0,5.0,5.0,Capped,200.0
-180,Umran Malik,FA3,BOWLER,RHB,RIGHT ARM Fast,,10.0,8.0,26.0,Capped,75.0
-181,Mustafizur Rahman,FA3,BOWLER,LHB,LEFT ARM Fast,15.0,104.0,106.0,57.0,Capped,200.0
-182,Ishant Sharma,FA3,BOWLER,RHB,RIGHT ARM Fast,105.0,80.0,14.0,109.0,Capped,75.0
-183,Nuwan Thushara,FA3,BOWLER,RHB,RIGHT ARM Fast,,,13.0,7.0,Capped,75.0
-184,Naveen Ul Haq,FA3,BOWLER,RHB,RIGHT ARM Medium,,14.0,45.0,18.0,Capped,200.0
-185,Jaydev Unadkat,FA3,BOWLER,RHB,LEFT ARM Fast Medium,4.0,8.0,10.0,105.0,Capped,100.0
-186,Umesh Yadav,FA3,BOWLER,RHB,RIGHT ARM Fast Medium,57.0,75.0,9.0,148.0,Capped,200.0
-187,Rishad Hossain,SP3,BOWLER,RHB,RIGHT ARM Leg Spin,,3.0,27.0,,Capped,75.0
-188,Zahir Khan Pakten,SP3,BOWLER,LHB,LEFT ARM Slow Unorthodox,5.0,1.0,4.0,0.0,Capped,75.0
-189,Nqabayomzi Peter,SP3,BOWLER,RHB,RIGHT ARM Leg Spin,,2.0,6.0,,Capped,75.0
-190,Tanveer Sangha,SP3,BOWLER,RHB,RIGHT ARM Leg Spin,,2.0,7.0,,Capped,75.0
-191,Tabraiz Shamsi,SP3,BOWLER,RHB,LEFT ARM Slow Unorthodox,2.0,51.0,70.0,5.0,Capped,200.0
-192,Jeffery Vandersay,SP3,BOWLER,RHB,RIGHT ARM Leg Spin,1.0,25.0,14.0,,Capped,75.0
-193,Sachin Baby,UBA3,BATTER,LHB,RIGHT ARM Off Spin,,,,19.0,Uncapped,30.0
-194,Priyam Garg,UBA3,BATTER,RHB,,,,,23.0,Uncapped,30.0
-195,Harnoor Pannu,UBA3,BATTER,LHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-196,Smaran Ravichandran,UBA3,BATTER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-197,Shashwat Rawat,UBA3,BATTER,RHB,RIGHT ARM Medium,,,,,Uncapped,30.0
-198,Andre Siddarth,UBA3,BATTER,RHB,,,,,,Uncapped,30.0
-199,Avneesh Sudha,UBA3,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-200,Apoorv Wankhade,UBA3,BATTER,RHB,,,,,0.0,Uncapped,30.0
-201,Yudhvir Charak,UAL3,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,5.0,Uncapped,30.0
-202,Rishi Dhawan,UAL3,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,39.0,Uncapped,30.0
-203,Rajvardhan Hangargekar,UAL3,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,2.0,Uncapped,30.0
-204,Tanush Kotian,UAL3,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,1.0,Uncapped,30.0
-205,Arshin Kulkarni,UAL3,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,2.0,Uncapped,30.0
-206,Shams Mulani,UAL3,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,2.0,Uncapped,30.0
-207,Shivam Singh,UAL3,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,1.0,Uncapped,30.0
-208,Lalit Yadav,UAL3,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,27.0,Uncapped,30.0
-209,Mohammed Azharuddeen,UWK3,WICKETKEEPER,RHB,,,,,0.0,Uncapped,30.0
-210,L.R Chethan,UWK3,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-211,Aryaman Singh Dhaliwal,UWK3,WICKETKEEPER,RHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-212,Urvil Patel,UWK3,WICKETKEEPER,RHB,,,,,0.0,Uncapped,30.0
-213,Sanskar Rawat,UWK3,WICKETKEEPER,LHB,,,,,,Uncapped,30.0
-214,Bipin Saurabh,UWK3,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-215,Tanay Thyagarajann,UWK3,WICKETKEEPER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-216,Money Grewal,UFA3,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-217,Ashwani Kumar,UFA3,BOWLER,LHB,LEFT ARM Fast,,,,,Uncapped,30.0
-218,Ishan Porel,UFA3,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-219,Abhilash Shetty,UFA3,BOWLER,LHB,LEFT ARM Fast Medium,,,,,Uncapped,30.0
-220,Akash Singh,UFA3,BOWLER,RHB,LEFT ARM Fast,,,,,Uncapped,30.0
-221,Gurjapneet Singh,UFA3,BOWLER,RHB,LEFT ARM Fast Medium,,,,,Uncapped,30.0
-222,Basil Thampi,UFA3,BOWLER,RHB,RIGHT ARM Fast,,,,25.0,Uncapped,30.0
-223,Murugan Ashwin,USP3,BOWLER,RHB,RIGHT ARM Leg Spin,,,,44.0,Uncapped,30.0
-224,Shreyas Chavan,USP3,BOWLER,LHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-225,Chintal Gandhi,USP3,BOWLER,LHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-226,Raghav Goyal,USP3,BOWLER,LHB,LEFT ARM Slow Unorthodox,,,,1.0,Uncapped,30.0
-227,Jagadeesha Suchith,USP3,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,22.0,Uncapped,30.0
-228,Roshan Waghsare,USP3,BOWLER,RHB,LEFT ARM Slow Unorthodox,,,,,Uncapped,30.0
-229,Bailapudi Yeswanth,USP3,BOWLER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-230,Sediqullah Atal,BA4,BATTER,LHB,,,,6.0,,Uncapped,75.0
-231,Matthew Breetzke,BA4,BATTER,RHB,,,,8.0,,Uncapped,75.0
-232,Mark Chapman,BA4,BATTER,LHB,LEFT ARM Slow Orthodox,,23.0,76.0,,Uncapped,150.0
-233,Brandon King,BA4,BATTER,RHB,RIGHT ARM Off Spin,,37.0,58.0,,Uncapped,75.0
-234,Evin Lewis,BA4,BATTER,LHB,,,59.0,56.0,27.0,Uncapped,200.0
-235,Pathum Nissanka,BA4,BATTER,RHB,RIGHT ARM Off Spin,13.0,58.0,57.0,,Uncapped,75.0
-236,Bhanuka Rajapaksa,BA4,BATTER,LHB,,,5.0,40.0,13.0,Uncapped,75.0
-237,Steve Smith,BA4,BATTER,RHB,,109.0,163.0,67.0,103.0,Uncapped,200.0
-238,Gus Atkinson,AL4,ALL-ROUNDER,RHB,RIGHT ARM Fast,8.0,9.0,3.0,0.0,Capped,200.0
-239,Tom Curran,AL4,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,2.0,28.0,30.0,13.0,Capped,200.0
-240,Krishnappa Gowtham,AL4,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,1.0,,36.0,Capped,100.0
-241,Mohammad Nabi,AL4,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,3.0,164.0,129.0,24.0,Capped,150.0
-242,Gulbadin Naib,AL4,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,83.0,73.0,2.0,Capped,100.0
-243,Sikandar Raza,AL4,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,17.0,142.0,96.0,9.0,Capped,125.0
-244,Mitchell Santner,AL4,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,29.0,104.0,104.0,18.0,Capped,200.0
-245,Jayant Yadav,AL4,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,6.0,2.0,,20.0,Capped,75.0
-246,Johnson Charles,WK4,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,58.0,57.0,,Uncapped,75.0
-247,Litton Das,WK4,WICKETKEEPER,RHB,RIGHT ARM Off Spin,46.0,91.0,92.0,1.0,Uncapped,75.0
-248,Andre Fletcher,WK4,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,,25.0,58.0,,Uncapped,75.0
-249,Tom Latham,WK4,WICKETKEEPER,LHB,,84.0,147.0,26.0,,Uncapped,150.0
-250,Ollie Pope,WK4,WICKETKEEPER,RHB,,52.0,,,,Uncapped,75.0
-251,Kyle Verreynne,WK4,WICKETKEEPER,RHB,,20.0,17.0,,,Uncapped,75.0
-252,Fazalhaq Farooqi,FA4,BOWLER,RHB,LEFT ARM Fast Medium,,34.0,42.0,7.0,Capped,200.0
-253,Richard Gleeson,FA4,BOWLER,RHB,RIGHT ARM Fast,,,6.0,2.0,Capped,75.0
-254,Matt Henry,FA4,BOWLER,RHB,RIGHT ARM Fast Medium,26.0,82.0,18.0,6.0,Capped,200.0
-255,Alzarri Joseph,FA4,BOWLER,RHB,RIGHT ARM Fast,35.0,72.0,32.0,22.0,Capped,200.0
-256,Kwena Maphaka,FA4,BOWLER,LHB,LEFT ARM Fast,,,3.0,2.0,Capped,75.0
-257,Kuldeep Sen,FA4,BOWLER,RHB,RIGHT ARM Fast,,1.0,,12.0,Capped,75.0
-258,Reece Topley,FA4,BOWLER,RHB,LEFT ARM Fast,,29.0,34.0,5.0,Capped,75.0
-259,Lizaad Williams,FA4,BOWLER,LHB,RIGHT ARM Fast,2.0,7.0,15.0,2.0,Capped,75.0
-260,Luke Wood,FA4,BOWLER,LHB,LEFT ARM Fast,,2.0,5.0,2.0,Capped,75.0
-261,Sachin Dhas,UBA4,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-262,Leus Du Plooy,UBA4,BATTER,LHB,,,,,,Uncapped,50.0
-263,Ashwin Hebbar,UBA4,BATTER,RHB,RIGHT ARM Medium,,,,0.0,Uncapped,30.0
-264,Rohan Kunnummal,UBA4,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-265,Ayush Pandey,UBA4,BATTER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-266,Akshat Raghuwanshi,UBA4,BATTER,RHB,,,,,,Uncapped,30.0
-267,Shoun Roger,UBA4,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,40.0
-268,Virat Singh,UBA4,BATTER,LHB,RIGHT ARM Off Spin,,,,3.0,Uncapped,30.0
-269,Priyansh Arya,UAL4,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-270,Manoj Bhandage,UAL4,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,0.0,Uncapped,30.0
-271,Pravin Dubey,UAL4,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,4.0,Uncapped,30.0
-272,Ajay Mandal,UAL4,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,,,,0.0,Uncapped,30.0
-273,Prerak Mankad,UAL4,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,5.0,Uncapped,30.0
-274,Vipraj Nigam,UAL4,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-275,Vicky Ostwal,UAL4,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,0.0,Uncapped,30.0
-276,Shivalik Sharma,UAL4,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,,,,0.0,Uncapped,30.0
-277,Salil Arora,UWK4,WICKETKEEPER,RHB,,,,,,Uncapped,30.0
-278,Dinesh Bana,UWK4,WICKETKEEPER,RHB,,,,,,Uncapped,30.0
-279,Ajitesh Guruswamy,UWK4,WICKETKEEPER,RHB,,,,,,Uncapped,30.0
-280,Narayan Jagadeesan,UWK4,WICKETKEEPER,RHB,,,,,13.0,Uncapped,30.0
-281,Shrijith Krishnan,UWK4,WICKETKEEPER,LHB,,,,,,Uncapped,30.0
-282,Michael Pepper,UWK4,WICKETKEEPER,RHB,,,,,,Uncapped,50.0
-283,Vishnu Solanki,UWK4,WICKETKEEPER,RHB,,,,,,Uncapped,30.0
-284,K.M Asif,UFA4,BOWLER,RHB,RIGHT ARM Fast,,,,7.0,Uncapped,30.0
-285,Akhil Chaudhary,UFA4,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-286,Himanshu Chauhan,UFA4,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-287,Arpit Guleria,UFA4,BOWLER,RHB,RIGHT ARM Fast,,,,0.0,Uncapped,30.0
-288,Nishanth Saranu,UFA4,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-289,Kuldip Yadav,UFA4,BOWLER,LHB,LEFT ARM Fast,,,,3.0,Uncapped,30.0
-290,Prithviraj Yarra,UFA4,BOWLER,LHB,LEFT ARM Fast,,,,2.0,Uncapped,30.0
-291,Shubham Agrawal,USP4,BOWLER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-292,Jass Inder Baidwan,USP4,BOWLER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-293,Jasmer Dhankhar,USP4,BOWLER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-294,Pulkit Narang,USP4,BOWLER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-295,Saumy Pandey,USP4,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-296,Mohit Rathee,USP4,BOWLER,RHB,RIGHT ARM Leg Spin,,,,1.0,Uncapped,30.0
-297,Himanshu Singh,USP4,BOWLER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-298,Towhid Hridoy,BA5,BATTER,RHB,RIGHT ARM Off Spin,,30.0,32.0,,Uncapped,75.0
-299,Mikyle Louis,BA5,BATTER,RHB,,5.0,,,,Uncapped,75.0
-300,Harry Tector,BA5,BATTER,RHB,RIGHT ARM Off Spin,6.0,46.0,81.0,,Uncapped,75.0
-301,Rassie Van Der Dussen,BA5,BATTER,RHB,RIGHT ARM Off Spin,15.0,65.0,48.0,3.0,Uncapped,200.0
-302,Will Young,BA5,BATTER,RHB,,19.0,31.0,20.0,,Uncapped,125.0
-303,Najibullah Zadran,BA5,BATTER,LHB,,,92.0,107.0,,Uncapped,75.0
-304,Ibrahim Zadran,BA5,BATTER,RHB,RIGHT ARM Medium,7.0,33.0,44.0,,Uncapped,75.0
-305,Sean Abbott,AL5,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,24.0,20.0,3.0,Uncapped,200.0
-306,Jacob Bethell,AL5,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,6.0,2.0,,Uncapped,125.0
-307,Brydon Carse,AL5,ALL-ROUNDER,RHB,RIGHT ARM Fast,2.0,19.0,4.0,,Uncapped,100.0
-308,Aaron Hardie,AL5,ALL-ROUNDER,RHB,RIGHT ARM Medium,,8.0,10.0,,Uncapped,125.0
-309,Sarfaraz Khan,AL5,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,5.0,,,50.0,Uncapped,75.0
-310,Kyle Mayers,AL5,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,18.0,28.0,38.0,12.0,Capped,150.0
-311,Kamindu Mendis,AL5,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,8.0,10.0,19.0,,Uncapped,75.0
-312,Matthew Short,AL5,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,8.0,11.0,6.0,Uncapped,75.0
-313,Jason Behrendorff,FA5,BOWLER,RHB,LEFT ARM Fast,,12.0,17.0,17.0,Capped,150.0
-314,Dushmantha Chameera,FA5,BOWLER,RHB,RIGHT ARM Fast,12.0,52.0,55.0,13.0,Capped,75.0
-315,Nathan Ellis,FA5,BOWLER,RHB,RIGHT ARM Fast Medium,,8.0,17.0,16.0,Capped,125.0
-316,Shamar Joseph,FA5,BOWLER,LHB,RIGHT ARM Fast,6.0,,8.0,1.0,Capped,75.0
-317,Josh Little,FA5,BOWLER,RHB,LEFT ARM Fast Medium,,36.0,69.0,11.0,Capped,75.0
-318,Shivam Mavi,FA5,BOWLER,RHB,RIGHT ARM Fast Medium,,,6.0,32.0,Capped,75.0
-319,Jhye Richardson,FA5,BOWLER,RHB,RIGHT ARM Fast,3.0,15.0,18.0,4.0,Capped,150.0
-320,Navdeep Saini,FA5,BOWLER,RHB,RIGHT ARM Fast,2.0,8.0,11.0,32.0,Capped,75.0
-321,Tanmay Agarwal,UBA5,BATTER,RHB,RIGHT ARM Leg Spin,,,,0.0,Uncapped,30.0
-322,Amandeep Khare,UBA5,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-323,Ayush Mhatre,UBA5,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-324,Salman Nizar,UBA5,BATTER,LHB,,,,,,Uncapped,30.0
-325,Aniket Verma,UBA5,BATTER,RHB,,,,,,Uncapped,30.0
-326,Sumeet Verma,UBA5,BATTER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-327,Manan Vohra,UBA5,BATTER,RHB,,,,,56.0,Uncapped,30.0
-328,Samarth Vyas,UBA5,BATTER,RHB,RIGHT ARM Leg Spin,,,,0.0,Uncapped,30.0
-329,Raj Angad Bawa,UAL5,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,2.0,Uncapped,30.0
-330,Emanjot Chahal,UAL5,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-331,Musheer Khan,UAL5,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-332,Manvanth Kumar L,UAL5,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-333,Mayank Rawat,UAL5,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-334,Suryansh Shedge,UAL5,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-335,Hritik Shokeen,UAL5,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,13.0,Uncapped,30.0
-336,Sonu Yadav,UAL5,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,0.0,Uncapped,30.0
-337,S. Rithik Easwaran,UWK5,WICKETKEEPER,LHB,,,,,,Uncapped,30.0
-338,Anmol Malhotra,UWK5,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-339,Pradosh Paul,UWK5,WICKETKEEPER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-340,Karteek Sharma,UWK5,WICKETKEEPER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-341,Akash Singh,UWK5,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-342,Tejasvi Singh,UWK5,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-343,Siddharth Yadav,UWK5,WICKETKEEPER,LHB,RIGHT ARM Medium,,,,,Uncapped,30.0
-344,Saurabh Dubey,UFA5,BOWLER,RHB,LEFT ARM Fast Medium,,,,0.0,Uncapped,30.0
-345,Aaqib Khan,UFA5,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-346,Kulwant Khejroliya,UFA5,BOWLER,LHB,LEFT ARM Fast Medium,,,,7.0,Uncapped,30.0
-347,Ankit Singh Rajpoot,UFA5,BOWLER,RHB,RIGHT ARM Fast Medium,,,,29.0,Uncapped,30.0
-348,Divesh Sharma,UFA5,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-349,Naman Tiwari,UFA5,BOWLER,LHB,LEFT ARM Fast,,,,,Uncapped,30.0
-350,Prince Yadav,UFA5,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-351,Kunal Singh Chibb,USP5,BOWLER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-352,Yuvraj Chudasama,USP5,BOWLER,LHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-353,Deepak Devadiga,USP5,BOWLER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-354,Ramesh Prasad,USP5,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-355,Shivam Shukla,USP5,BOWLER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-356,Himanshu Singh,USP5,BOWLER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-357,Tejpreet Singh,USP5,BOWLER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-358,Qais Ahmad,AL6,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,2.0,3.0,11.0,,Uncapped,75.0
-359,Charith Asalanka,AL6,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,3.0,63.0,53.0,,Uncapped,75.0
-360,Michael Bracewell,AL6,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,5.0,19.0,22.0,5.0,Uncapped,150.0
-361,Gudakesh Motie,AL6,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,9.0,14.0,21.0,,Uncapped,75.0
-362,Daniel Mousley,AL6,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,1.0,,,Uncapped,75.0
-363,Jamie Overton,AL6,ALL-ROUNDER,RHB,RIGHT ARM Fast,1.0,1.0,2.0,,Uncapped,150.0
-364,Dunith Wellalage,AL6,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,1.0,25.0,2.0,,Uncapped,75.0
-365,Ottneil Baartman,FA6,BOWLER,RHB,RIGHT ARM Fast Medium,,3.0,10.0,,Uncapped,75.0
-366,Xavier Bartlett,FA6,BOWLER,RHB,RIGHT ARM Fast Medium,,2.0,4.0,,Uncapped,75.0
-367,Dilshan Madushanka,FA6,BOWLER,RHB,LEFT ARM Fast,1.0,23.0,15.0,0.0,Capped,75.0
-368,Adam Milne,FA6,BOWLER,RHB,RIGHT ARM Fast,,49.0,53.0,10.0,Uncapped,200.0
-369,Lungisani Ngidi,FA6,BOWLER,RHB,RIGHT ARM Fast Medium,19.0,62.0,43.0,14.0,Capped,100.0
-370,William O'Rourke,FA6,BOWLER,RHB,RIGHT ARM Fast,6.0,3.0,3.0,,Uncapped,150.0
-371,Chetan Sakariya,FA6,BOWLER,LHB,LEFT ARM Medium,,1.0,2.0,19.0,Capped,75.0
-372,Sandeep Warrier,FA6,BOWLER,RHB,RIGHT ARM Fast Medium,,,1.0,10.0,Uncapped,75.0
-373,Musaif Ajaz,UBA6,BATTER,RHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-374,Agni Chopra,UBA6,BATTER,LHB,,,,,,Uncapped,30.0
-375,Abhimanyu Easwaran,UBA6,BATTER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-376,Sudip Gharami,UBA6,BATTER,RHB,,,,,,Uncapped,30.0
-377,Shubham Khajuria,UBA6,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-378,Akhil Rawat,UBA6,BATTER,RHB,,,,,,Uncapped,30.0
-379,Prateek Yadav,UBA6,BATTER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-380,Abdul Bazith,UAL6,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,1.0,Uncapped,30.0
-381,K.C Cariappa,UAL6,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,11.0,Uncapped,30.0
-382,Yuvraj Chaudhary,UAL6,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-383,Aman Khan,UAL6,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,12.0,Uncapped,30.0
-384,Sumit Kumar,UAL6,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-385,Kamlesh Nagarkoti,UAL6,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,12.0,Uncapped,30.0
-386,Hardik Raj,UAL6,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-387,Harsh Tyagi,UAL6,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-388,M. Ajnas,UWK6,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-389,Unmukt Chand,UWK6,WICKETKEEPER,RHB,,,,,21.0,Uncapped,30.0
-390,Tejasvi Dahiya,UWK6,WICKETKEEPER,RHB,,,,,,Uncapped,30.0
-391,Sumit Ghadigaonkar,UWK6,WICKETKEEPER,RHB,,,,,,Uncapped,30.0
-392,Baba Indrajith,UWK6,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,,,3.0,Uncapped,30.0
-393,Muhammed Khan,UWK6,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-394,Bhagmender Lather,UWK6,WICKETKEEPER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-395,Baltej Dhanda,UFA6,BOWLER,RHB,RIGHT ARM Fast Medium,,,,0.0,Uncapped,30.0
-396,Ali Khan,UFA6,BOWLER,RHB,RIGHT ARM Fast,,,,0.0,Uncapped,30.0
-397,Ravi Kumar,UFA6,BOWLER,LHB,LEFT ARM Fast Medium,,,,,Uncapped,30.0
-398,Vineet Panwar,UFA6,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-399,Vidyadhar Patil,UFA6,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-400,Aradhya Shukla,UFA6,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-401,Abhinandan Singh,UFA6,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-402,Cooper Connolly,AL7,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,1.0,2.0,,Capped,75.0
-403,Dushan Hemantha,AL7,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,5.0,,,Capped,75.0
-404,Jason Holder,AL7,ALL-ROUNDER,RHB,RIGHT ARM Fast,69.0,138.0,63.0,46.0,Capped,200.0
-405,Karim Janat,AL7,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,2.0,3.0,66.0,,Capped,75.0
-406,Jimmy Neesham,AL7,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,12.0,76.0,79.0,14.0,Capped,150.0
-407,Daniel Sams,AL7,ALL-ROUNDER,RHB,LEFT ARM Fast,,,10.0,16.0,Capped,150.0
-408,William Sutherland,AL7,ALL-ROUNDER,RHB,RIGHT ARM Fast,,2.0,,,Capped,75.0
-409,Taskin Ahmed,FA7,BOWLER,LHB,RIGHT ARM Fast,15.0,73.0,70.0,,Capped,100.0
-410,Ben Dwarshuis,FA7,BOWLER,LHB,LEFT ARM Fast,,1.0,3.0,0.0,Capped,75.0
-411,Obed McCoy,FA7,BOWLER,RHB,LEFT ARM Fast,,2.0,38.0,8.0,Capped,125.0
-412,Riley Meredith,FA7,BOWLER,RHB,RIGHT ARM Fast,,1.0,6.0,,Capped,150.0
-413,Lance Morris,FA7,BOWLER,RHB,RIGHT ARM Fast,,2.0,22.0,,Capped,125.0
-414,Olly Stone,FA7,BOWLER,RHB,RIGHT ARM Fast,5.0,10.0,1.0,,Capped,75.0
-415,Daniel Worrall,FA7,BOWLER,RHB,RIGHT ARM Fast Medium,,3.0,,,Capped,150.0
-416,Pyla Avinash,UBA7,BATTER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-417,Kiran Chormale,UBA7,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-418,Ashish Dahariya,UBA7,BATTER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-419,Tushar Raheja,UBA7,BATTER,LHB,,,,,,Uncapped,30.0
-420,Sarthak Ranjan,UBA7,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-421,Abhijeet Tomar,UBA7,BATTER,RHB,RIGHT ARM Off Spin,,,,1.0,Uncapped,30.0
-422,Krish Bhagat,UAL7,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-423,Sohraab Dhaliwal,UAL7,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-424,Harsh Dubey,UAL7,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-425,Ramakrishna Ghosh,UAL7,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-426,Raj Limbani,UAL7,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-427,Ninad Rathva,UAL7,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-428,Vivrant Sharma,UAL7,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,,,,2.0,Uncapped,30.0
-429,Shiva Singh,UAL7,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-430,Sayed Irfan Aftab,UFA7,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-431,Anirudh Chowdhary,UFA7,BOWLER,LHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-432,Anshuman Hooda,UFA7,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-433,Siddharth Kaul,UFA7,BOWLER,RHB,RIGHT ARM Fast Medium,,,,55.0,Uncapped,40.0
-434,Prashant Sai Painkra,UFA7,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-435,Venkata Satyanarayana Penmetsa,UFA7,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-436,Yeddala Reddy,UFA7,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-437,Zak Foulkes,AL8,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,2.0,,Capped,75.0
-438,Chris Green,AL8,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,1.0,1.0,Capped,100.0
-439,Shakib Al Hasan,AL8,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,71.0,247.0,129.0,71.0,Capped,100.0
-440,Mehidy Hasan Miraz,AL8,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,49.0,97.0,27.0,,Capped,100.0
-441,Wiaan Mulder,AL8,ALL-ROUNDER,RHB,RIGHT ARM Medium,15.0,20.0,11.0,,Capped,75.0
-442,Dwaine Pretorius,AL8,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,3.0,27.0,30.0,7.0,Capped,75.0
-443,Dasun Shanaka,AL8,ALL-ROUNDER,RHB,RIGHT ARM Fast,6.0,71.0,102.0,3.0,Capped,75.0
-444,Shoriful Islam,FA8,BOWLER,LHB,LEFT ARM Fast Medium,11.0,36.0,42.0,,Capped,75.0
-445,Blessing Muzarabani,FA8,BOWLER,RHB,RIGHT ARM Fast,7.0,48.0,61.0,,Capped,75.0
-446,Matthew Potts,FA8,BOWLER,RHB,RIGHT ARM Fast Medium,9.0,9.0,,,Capped,150.0
-447,Tanzim Hasan Sakib,FA8,BOWLER,RHB,RIGHT ARM Fast,,7.0,15.0,,Capped,75.0
-448,Benjamin Sears,FA8,BOWLER,RHB,RIGHT ARM Fast,1.0,,17.0,,Capped,100.0
-449,Tim Southee,FA8,BOWLER,RHB,RIGHT ARM Fast Medium,104.0,161.0,126.0,54.0,Capped,150.0
-450,John Turner,FA8,BOWLER,RHB,RIGHT ARM Fast,,1.0,,,Capped,150.0
-451,Joshua Brown,UBA8,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-452,Oliver Davies,UBA8,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-453,Bevan John Jacobs,UBA8,BATTER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-454,Atharva Kale,UBA8,BATTER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-455,Abhishek Nair,UBA8,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-456,Vishwanath Pratap Singh,UBA8,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-457,Nasir Lone,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-458,Brandon McMullen,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,,Uncapped,30.0
-459,S. Midhun,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,1.0,Uncapped,30.0
-460,Abid Mushtaq,UAL8,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-461,Mahesh Pithiya,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-462,Maramreddy Reddy,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-463,Atit Sheth,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-464,Jonty Sidhu,UAL8,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-465,Mohit Avasthi,UFA8,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-466,Faridoon Dawoodzai,UFA8,BOWLER,LHB,LEFT ARM Fast Medium,,,,,Uncapped,30.0
-467,Praful Hinge,UFA8,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-468,Pankaj Jaswal,UFA8,BOWLER,RHB,RIGHT ARM Fast,,,,0.0,Uncapped,30.0
-469,Vijay Kumar,UFA8,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-470,Ashok Sharma,UFA8,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-471,Mujtaba Yousuf,UFA8,BOWLER,LHB,LEFT ARM Fast Medium,,,,,Uncapped,30.0
-472,Ashton Agar,AL9,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,5.0,22.0,49.0,,Capped,125.0
-473,Roston Chase,AL9,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,49.0,49.0,25.0,,Capped,75.0
-474,Junior Dala,AL9,ALL-ROUNDER,RHB,RIGHT ARM Fast,,2.0,10.0,1.0,Capped,75.0
-475,Mahedi Hasan,AL9,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,11.0,51.0,,Capped,75.0
-476,Nangeyalia Kharote,AL9,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,4.0,6.0,,Capped,75.0
-477,Dan Lawrence,AL9,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,14.0,,,,Capped,100.0
-478,Nathan Smith,AL9,ALL-ROUNDER,RHB,RIGHT ARM Fast,0.0,0.0,0.0,,Capped,100.0
-479,James Anderson,FA9,BOWLER,LHB,RIGHT ARM Fast,188.0,194.0,19.0,,Capped,125.0
-480,Kyle Jamieson,FA9,BOWLER,RHB,RIGHT ARM Fast,19.0,13.0,13.0,9.0,Capped,150.0
-481,Chris Jordan,FA9,BOWLER,RHB,RIGHT ARM Fast,8.0,35.0,95.0,34.0,Capped,200.0
-482,Hasan Mahmud,FA9,BOWLER,RHB,RIGHT ARM Fast Medium,6.0,22.0,18.0,,Capped,75.0
-483,Tymal Mills,FA9,BOWLER,RHB,LEFT ARM Fast,,,16.0,10.0,Capped,200.0
-484,David Payne,FA9,BOWLER,RHB,LEFT ARM Fast Medium,,1.0,,,Capped,100.0
-485,Nahid Rana,FA9,BOWLER,RHB,RIGHT ARM Fast,5.0,,,,Capped,75.0
-486,Prayas Ray Barman,UBA9,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-487,Jafar Jamal,UBA9,BATTER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-488,Ayaz Khan,UBA9,BATTER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-489,Kaushik Maity,UBA9,BATTER,RHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-490,Rituraj Sharma,UBA9,BATTER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-491,Vaibhav Suryavanshi,UBA9,BATTER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-492,Kartik Chadha,UAL9,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-493,Writtick Chatterjee,UAL9,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-494,Prerit Dutta,UAL9,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-495,Rajneesh Gurbani,UAL9,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-496,Shubhang Hegde,UAL9,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-497,Saransh Jain,UAL9,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-498,Ripal Patel,UAL9,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,9.0,Uncapped,30.0
-499,Akash Vashisht,UAL9,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,0.0,Uncapped,30.0
-500,Anirudh Kanwar,UFA9,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-501,Shubham Kapse,UFA9,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-502,Atif Mushtaq,UFA9,BOWLER,LHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-503,Dipesh Parwani,UFA9,BOWLER,LHB,LEFT ARM Fast Medium,,,,,Uncapped,30.0
-504,Manish Reddy,UFA9,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-505,Chetan Sharma,UFA9,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-506,Avinash Singh,UFA9,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-507,Alick Athanaze,AL10,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,9.0,11.0,4.0,,Capped,75.0
-508,Hilton Cartwright,AL10,ALL-ROUNDER,RHB,RIGHT ARM Medium,2.0,2.0,,,Capped,75.0
-509,Dominic Drakes,AL10,ALL-ROUNDER,LHB,LEFT ARM Fast,,3.0,10.0,0.0,Capped,125.0
-510,Daryn Dupavillon,FA10,BOWLER,RHB,RIGHT ARM Fast,,2.0,,,Capped,75.0
-511,Matthew Forde,AL10,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,6.0,6.0,,Capped,125.0
-512,Patrick Kruger,AL10,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,6.0,,Capped,75.0
-513,Lahiru Kumara,FA10,BOWLER,LHB,RIGHT ARM Fast,31.0,31.0,26.0,,Capped,75.0
-514,Michael Neser,AL10,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,1.0,Capped,75.0
-515,Richard Ngarava,FA10,BOWLER,LHB,LEFT ARM Fast Medium,5.0,44.0,60.0,,Capped,75.0
-516,Wayne Parnell,FA10,BOWLER,LHB,LEFT ARM Fast Medium,6.0,73.0,56.0,33.0,Capped,100.0
-517,Keemo Paul,AL10,ALL-ROUNDER,RHB,RIGHT ARM Fast,3.0,30.0,23.0,8.0,Capped,125.0
-518,Odean Smith,AL10,ALL-ROUNDER,RHB,RIGHT ARM Medium,,9.0,27.0,6.0,Capped,75.0
-519,Andrew Tye,FA10,BOWLER,RHB,RIGHT ARM Fast Medium,,7.0,32.0,30.0,Capped,75.0
-520,Ajay Ahlawat,UAL10,ALL-ROUNDER,LHB,LEFT ARM Fast,,,,,Uncapped,40.0
-521,Corbin Bosch,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,0.0,Uncapped,30.0
-522,Mayank Gusain,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-523,Mukhtar Hussain,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-524,Girinath Reddy,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-525,Jalaj Saxena,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,1.0,Uncapped,40.0
-526,Yajas Sharma,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-527,Sanjay Yadav,UAL10,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,1.0,Uncapped,30.0
-528,Vishal Godara,UFA10,BOWLER,LHB,RIGHT ARM Medium,,,,,Uncapped,30.0
-529,Eshan Malinga,UFA10,BOWLER,LHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-530,Samarth Nagraj,UFA10,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-531,Abhishek Saini,UFA10,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-532,Dumindu Sewmina,UFA10,BOWLER,RHB,RIGHT ARM Medium,,,,,Uncapped,30.0
-533,Pradyuman Kumar Singh,UFA10,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-534,Vasu Vats,UFA10,BOWLER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-535,Umang Kumar,UAL11,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-536,Mohamed Ali,UAL11,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-537,Atharva Ankolekar,UAL11,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-538,Vaisakh Chandran,UAL11,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-539,Auqib Dar,UAL11,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-540,Rohit Rayudu,UAL11,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-541,Uday Saharan,UAL11,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-542,Ayush Vartak,UAL11,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-543,Baba Aparajith,UAL12,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-544,Sumit Kumar Beniwal,UAL12,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-545,Nishunk Birla,UAL12,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-546,Digvijay Deshmukh,UAL12,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,0.0,Uncapped,30.0
-547,Lakshay Jain,UAL12,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-548,Duan Jansen,UAL12,ALL-ROUNDER,RHB,LEFT ARM Fast,,,,,Uncapped,30.0
-549,Kritagya Singh,UAL12,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-550,P. Vignesh,UAL12,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-551,Sabhay Chadha,UAL13,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-552,Ben Howell,UAL13,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,0.0,Uncapped,50.0
-553,Hemanth Kumar,UAL13,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-554,Rohan Rana,UAL13,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-555,Bharat Sharma,UAL13,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-556,Pratham Singh,UAL13,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,0.0,Uncapped,30.0
-557,Tripurana Vijay,UAL13,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-558,Ravi Yadav,UAL13,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-559,Arjun Azad,UAL14,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-560,Abhay Choudhary,UAL14,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-561,Gaurav Gambhir,UAL14,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-562,Shubham Garhwal,UAL14,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-563,Tejasvi Jaiswal,UAL14,ALL-ROUNDER,LHB,RIGHT ARM Fast,,,,,Uncapped,30.0
-564,Sairaj Patil,UAL14,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-565,Madhav Tiwari,UAL14,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-566,Kamal Tripathi,UAL14,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-567,Prashant Chauhan,UAL15,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,Uncapped,30.0
-568,Yash Dabas,UAL15,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,Uncapped,30.0
-569,Dhruv Kaushik,UAL15,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
-570,Khrievitso Kense,UAL15,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,,Uncapped,30.0
-571,Akash Parkar,UAL15,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,,Uncapped,30.0
-572,Vignesh Puthur,UAL15,ALL-ROUNDER,RHB,LEFT ARM Slow Unorthodox,,,,,Uncapped,30.0
-573,Tripuresh Singh,UAL15,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,,Uncapped,30.0
-574,Vijay Yadav,UAL15,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,,Uncapped,30.0
+1,Devon Conway,BA1,BATTER,LHB,,29,40,62,29,Capped,200
+2,Jake Fraser-McGurk,BA1,BATTER,RHB,,0,7,8,15,Capped,200
+3,Cameron Green,BA1,BATTER,RHB,RIGHT ARM Fast,33,31,21,29,Capped,200
+4,Sarfaraz Khan,BA1,BATTER,RHB,RIGHT ARM Leg Spin,6,0,0,50,Capped,75
+5,David Miller,BA1,BATTER,LHB,,0,178,130,141,Capped,200
+6,Prithvi Shaw,BA1,BATTER,RHB,,5,6,1,79,Capped,75
+7,Gus Atkinson,AL1,ALL-ROUNDER,RHB,RIGHT ARM Fast,14,11,4,0,Capped,200
+8,Wanindu Hasaranga,AL1,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,4,68,90,37,Capped,200
+9,Deepak Hooda,AL1,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,10,21,125,Capped,75
+10,Venkatesh Iyer,AL1,ALL-ROUNDER,LHB,RIGHT ARM Medium,0,2,9,62,Capped,200
+11,Liam Livingstone,AL1,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,1,39,60,49,Capped,200
+12,Wiaan Mulder,AL1,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,24,30,11,1,Capped,100
+13,Rachin Ravindra,AL1,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,17,39,38,18,Capped,200
+14,Finn Allen,WK1,WICKETKEEPER,RHB,,0,22,52,0,Capped,200
+15,Jonny Bairstow,WK1,WICKETKEEPER,RHB,,100,107,80,52,Capped,100
+16,K.S. Bharat,WK1,WICKETKEEPER,RHB,,7,0,0,10,Capped,75
+17,Quinton De Kock,WK1,WICKETKEEPER,LHB,,54,161,96,115,Capped,100
+18,Ben Duckett,WK1,WICKETKEEPER,LHB,,39,31,20,0,Capped,200
+19,Rahmanullah Gurbaz,WK1,WICKETKEEPER,RHB,,2,52,80,19,Capped,150
+20,Jamie Smith,WK1,WICKETKEEPER,RHB,,16,19,5,0,Capped,200
+21,Gerald Coetzee,FA1,BOWLER,RHB,RIGHT ARM Fast,4,14,13,14,Capped,200
+22,Akash Deep,FA1,BOWLER,RHB,RIGHT ARM Fast,10,0,0,14,Capped,100
+23,Jacob Duffy,FA1,BOWLER,RHB,RIGHT ARM Fast Medium,1,19,38,0,Capped,200
+24,Fazalhaq Farooqi,FA1,BOWLER,RHB,LEFT ARM Fast Medium,0,42,51,12,Capped,100
+25,Matt Henry,FA1,BOWLER,RHB,RIGHT ARM Fast Medium,32,95,31,6,Capped,200
+26,Spencer Johnson,FA1,BOWLER,LHB,LEFT ARM Fast,0,5,8,9,Capped,150
+27,Shivam Mavi,FA1,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,6,32,Capped,75
+28,Anrich Nortje,FA1,BOWLER,RHB,RIGHT ARM Fast,19,22,42,48,Capped,200
+29,Matheesha Pathirana,FA1,BOWLER,RHB,RIGHT ARM Fast,0,12,21,32,Capped,200
+30,Ravi Bishnoi,SP1,BOWLER,RHB,RIGHT ARM Leg Spin,0,1,42,77,Capped,200
+31,Rahul Chahar,SP1,BOWLER,RHB,RIGHT ARM Leg Spin,0,1,6,80,Capped,100
+32,Akeal Hosein,SP1,BOWLER,LHB,LEFT ARM Slow Orthodox,0,40,87,1,Capped,200
+33,Mujeeb Rahman,SP1,BOWLER,RHB,RIGHT ARM Off Spin,1,75,58,20,Capped,200
+34,Maheesh Theekshana,SP1,BOWLER,RHB,RIGHT ARM Off Spin,2,59,71,38,Capped,200
+35,Aarya Desai,UBA1,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+36,Yash Dhull,UBA1,BATTER,RHB,RIGHT ARM Leg Spin,0,0,0,4,Uncapped,30
+37,Abhinav Manohar,UBA1,BATTER,RHB,RIGHT ARM Leg Spin,0,0,0,26,Uncapped,30
+38,Anmolpreet Singh,UBA1,BATTER,RHB,RIGHT ARM Off Spin,0,0,0,9,Uncapped,30
+39,Atharva Taide,UBA1,BATTER,LHB,LEFT ARM Slow Orthodox,0,0,0,10,Uncapped,30
+40,Abhinav Tejrana,UBA1,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+41,Auqib Dar,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+42,Rajvardhan Hangargekar,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,2,Uncapped,40
+43,Tanush Kotian,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,1,Uncapped,30
+44,Shivang Kumar,UAL1,ALL-ROUNDER,RHB,LEFT ARM Slow Unorthodox,0,0,0,0,Uncapped,30
+45,Mahipal Lomror,UAL1,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,40,Uncapped,50
+46,Kamlesh Nagarkoti,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,12,Uncapped,30
+47,Vijay Shankar,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,78,Uncapped,30
+48,Sanvir Singh,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,6,Uncapped,30
+49,Edhen Tom,UAL1,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+50,Prashant Veer,UAL1,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+51,Ruchit Ahir,UWK1,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,30
+52,Vansh Bedi,UWK1,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,30
+53,Mukul Choudhary,UWK1,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,30
+54,Tushar Raheja,UWK1,WICKETKEEPER,LHB,,0,0,0,0,Uncapped,30
+55,Kartik Sharma,UWK1,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,30
+56,Tejasvi Singh,UWK1,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+57,Raj Limbani,UFA1,BOWLER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+58,Akash Madhwal,UFA1,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,15,Uncapped,30
+59,Sushant Mishra,UFA1,BOWLER,LHB,LEFT ARM Fast,0,0,0,0,Uncapped,30
+60,Ashok Sharma,UFA1,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+61,Simarjeet Singh,UFA1,BOWLER,RHB,RIGHT ARM Fast,0,0,0,14,Uncapped,30
+62,Naman Tiwari,UFA1,BOWLER,LHB,LEFT ARM Fast,0,0,0,0,Uncapped,30
+63,Kartik Tyagi,UFA1,BOWLER,RHB,RIGHT ARM Fast,0,0,0,20,Uncapped,30
+64,Yash Raj Punja,USP1,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+65,Vignesh Puthur,USP1,BOWLER,RHB,LEFT ARM Slow Unorthodox,0,0,0,5,Uncapped,30
+66,Karn Sharma,USP1,BOWLER,LHB,RIGHT ARM Leg Spin,0,0,0,90,Uncapped,50
+67,Shivam Shukla,USP1,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+68,Kumar Kartikeya Singh,USP1,BOWLER,RHB,LEFT ARM Slow Orthodox,0,0,0,16,Uncapped,30
+69,Prashant Solanki,USP1,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,2,Uncapped,30
+70,Wahidullah Zadran,USP1,BOWLER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+71,Mayank Agarawal,BA2,BATTER,RHB,RIGHT ARM Off Spin,21,5,0,131,Capped,75
+72,Sediqullah Atal,BA2,BATTER,LHB,,1,12,22,1,Capped,75
+73,Ackeem Auguste,BA2,BATTER,LHB,RIGHT ARM Leg Spin,0,4,9,0,Capped,75
+74,Reeza Hendricks,BA2,BATTER,RHB,RIGHT ARM Off Spin,0,38,87,0,Capped,100
+75,Pathum Nissanka,BA2,BATTER,RHB,,18,74,78,0,Capped,75
+76,Tim Robinson,BA2,BATTER,RHB,RIGHT ARM Medium,0,3,24,0,Capped,75
+77,Steve Smith,BA2,BATTER,RHB,,120,170,67,103,Capped,200
+78,Rahul Tripathi,BA2,BATTER,RHB,RIGHT ARM Medium,0,0,5,100,Capped,75
+79,Sean Abbott,AL2,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,29,28,3,Capped,200
+80,Michael Bracewell,AL2,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,9,40,47,5,Capped,200
+81,Ben Dwarshuis,AL2,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,0,6,13,0,Capped,100
+82,Zak Foulkes,AL2,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,1,6,17,0,Capped,75
+83,Jason Holder,AL2,ALL-ROUNDER,RHB,RIGHT ARM Fast,69,138,86,46,Capped,200
+84,Daryl Mitchell,AL2,ALL-ROUNDER,RHB,RIGHT ARM Medium,33,56,90,15,Capped,200
+85,Daniel Sams,AL2,ALL-ROUNDER,RHB,LEFT ARM Fast Medium,0,0,10,16,Capped,100
+86,Dasun Shanaka,AL2,ALL-ROUNDER,RHB,RIGHT ARM Fast,6,71,118,3,Capped,75
+87,Matthew Short,AL2,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,18,21,6,Capped,150
+88,Tom Banton,WK2,WICKETKEEPER,RHB,,0,7,24,2,Capped,200
+89,Jordan Cox,WK2,WICKETKEEPER,RHB,,0,3,6,0,Capped,75
+90,Shai Hope,WK2,WICKETKEEPER,RHB,,43,148,58,9,Capped,200
+91,Josh Inglis,WK2,WICKETKEEPER,RHB,,3,33,41,11,Capped,200
+92,Benjamin McDermott,WK2,WICKETKEEPER,RHB,,0,5,25,0,Capped,75
+93,Kusal Mendis,WK2,WICKETKEEPER,RHB,,73,151,94,1,Capped,75
+94,Kusal Perera,WK2,WICKETKEEPER,LHB,,22,116,93,2,Capped,100
+95,Tim Seifert,WK2,WICKETKEEPER,RHB,,0,4,77,3,Capped,150
+96,Kyle Jamieson,FA2,BOWLER,RHB,RIGHT ARM Fast,19,20,23,13,Capped,200
+97,Saqib Mahmood,FA2,BOWLER,RHB,RIGHT ARM Fast,2,17,19,0,Capped,150
+98,Adam Milne,FA2,BOWLER,RHB,RIGHT ARM Fast,0,50,56,10,Capped,200
+99,Lungisani Ngidi,FA2,BOWLER,RHB,RIGHT ARM Fast Medium,20,73,52,16,Capped,200
+100,William Orourke,FA2,BOWLER,RHB,RIGHT ARM Fast,11,17,7,3,Capped,200
+101,Mustafizur Rahman,FA2,BOWLER,LHB,LEFT ARM Fast Medium,15,116,124,60,Capped,200
+102,Chetan Sakariya,FA2,BOWLER,LHB,LEFT ARM Medium,0,1,1,20,Capped,75
+103,Kuldeep Sen,FA2,BOWLER,RHB,RIGHT ARM Fast,0,1,0,12,Capped,75
+104,Umesh Yadav,FA2,BOWLER,RHB,RIGHT ARM Fast Medium,57,75,9,148,Capped,150
+105,Qais Ahmad,SP2,BOWLER,RHB,RIGHT ARM Leg Spin,2,3,12,0,Capped,75
+106,Rishad Hossain,SP2,BOWLER,RHB,RIGHT ARM Leg Spin,0,14,54,0,Capped,75
+107,Mohammad Waqar Salamkheil,SP2,BOWLER,RHB,LEFT ARM Slow Unorthodox,1,0,0,0,Capped,100
+108,Viyaskanth Vijayakanth,SP2,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,2,3,Capped,75
+109,Ankit Kumar,UBA2,BATTER,LHB,,0,0,0,0,Uncapped,30
+110,Rohan Kunnummal,UBA2,BATTER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+111,Danish Malewar,UBA2,BATTER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+112,Pukhraj Mann,UBA2,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+113,Salman Nizar,UBA2,BATTER,LHB,,0,0,0,0,Uncapped,30
+114,Aman Rao Perala,UBA2,BATTER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+115,Akshat Raghuwanshi,UBA2,BATTER,RHB,,0,0,0,0,Uncapped,30
+116,Manan Vohra,UBA2,BATTER,RHB,,0,0,0,56,Uncapped,30
+117,Yuvraj Chaudhary,UAL2,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+118,Satvik Deswal,UAL2,ALL-ROUNDER,RHB,LEFT ARM Slow Unorthodox,0,0,0,0,Uncapped,30
+119,Aman Khan,UAL2,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,12,Uncapped,30
+120,Darshan Nalkande,UAL2,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,5,Uncapped,30
+121,Vicky Ostwal,UAL2,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+122,Sairaj Patil,UAL2,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+123,Suyash Prabhudessai,UAL2,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,11,Uncapped,30
+124,Mayank Rawat,UAL2,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+125,Harsh Tyagi,UAL2,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+126,Mangesh Yadav,UAL2,ALL-ROUNDER,LHB,LEFT ARM Fast,0,0,0,0,Uncapped,30
+127,Salil Arora,UWK2,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,30
+128,Ricky Bhui,UWK2,WICKETKEEPER,RHB,,0,0,0,4,Uncapped,30
+129,Rahul Buddhi,UWK2,WICKETKEEPER,LHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+130,Saurav Chuahan,UWK2,WICKETKEEPER,LHB,RIGHT ARM Off Spin,0,0,0,3,Uncapped,30
+131,Yashvardhan Dalal,UWK2,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,30
+132,Abhishek Pathak,UWK2,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,30
+133,Kunal Rathore,UWK2,WICKETKEEPER,LHB,,0,0,0,1,Uncapped,30
+134,Ravi Singh,UWK2,WICKETKEEPER,LHB,,0,0,0,0,Uncapped,30
+135,K.M Asif,UFA2,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,7,Uncapped,40
+136,Sakib Hussain,UFA2,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+137,Mohammad Izhar,UFA2,BOWLER,RHB,LEFT ARM Fast Medium,0,0,0,0,Uncapped,30
+138,Vidwath Kaverappa,UFA2,BOWLER,RHB,RIGHT ARM Fast,0,0,0,1,Uncapped,30
+139,Vijay Kumar,UFA2,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+140,Vidyadhar Patil,UFA2,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+141,PV.Satyanarayana Raju,UFA2,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,2,Uncapped,30
+142,Onkar Tarmale,UFA2,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+143,Prithviraj Yarra,UFA2,BOWLER,LHB,LEFT ARM Fast,0,0,0,2,Uncapped,30
+144,Shubham Agrawal,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,40
+145,Murugan Ashwin,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,44,Uncapped,30
+146,Tejas Baroka,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,1,Uncapped,30
+147,K.C. Cariappa,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,11,Uncapped,30
+148,Kartik Chadha,USP2,BOWLER,LHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+149,Pravin Dubey,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,5,Uncapped,30
+150,Mohit Rathee,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,1,Uncapped,30
+151,Himanshu Sharma,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,2,Uncapped,30
+152,Bailapudi Yeswanth,USP2,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+153,Rehan Ahmed,AL3,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,5,6,12,0,Capped,75
+154,Cooper Connolly,AL3,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,1,8,6,0,Capped,200
+155,Tom Curran,AL3,ALL-ROUNDER,RHB,RIGHT ARM Fast,2,28,30,13,Capped,200
+156,Bevon-John Jacobs,AL3,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,4,0,Capped,75
+157,Daniel Lawrence,AL3,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,14,0,0,0,Capped,200
+158,George Linde,AL3,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,3,4,25,0,Capped,100
+159,Gulbadin Naib,AL3,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,89,78,0,Capped,100
+160,William Sutherland,AL3,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,2,0,0,Capped,100
+161,Beau Webster,AL3,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,7,0,0,0,Capped,125
+162,Taskin Ahmed,FA3,BOWLER,LHB,RIGHT ARM Fast,17,83,86,0,Capped,75
+163,Richard Gleeson,FA3,BOWLER,RHB,RIGHT ARM Fast,0,0,6,3,Capped,75
+164,Alzarri Joseph,FA3,BOWLER,RHB,RIGHT ARM Fast,40,81,45,22,Capped,200
+165,Shamar Joseph,FA3,BOWLER,LHB,RIGHT ARM Fast,11,6,12,1,Capped,75
+166,Riley Meredith,FA3,BOWLER,RHB,RIGHT ARM Fast,0,1,6,18,Capped,150
+167,Jhye Richardson,FA3,BOWLER,RHB,RIGHT ARM Fast,3,15,18,4,Capped,150
+168,Navdeep Saini,FA3,BOWLER,RHB,RIGHT ARM Fast,2,8,11,32,Capped,75
+169,Naveen Ul Haq,FA3,BOWLER,RHB,RIGHT ARM Medium,0,15,48,18,Capped,200
+170,Luke Wood,FA3,BOWLER,LHB,LEFT ARM Fast,0,3,14,2,Capped,75
+171,Kunal Chandela,UBA3,BATTER,RHB,,0,0,0,0,Uncapped,30
+172,Ayush Doseja,UBA3,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+173,Qamran Iqbal,UBA3,BATTER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+174,M.Dheeraj Kumar,UBA3,BATTER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+175,Bhanu Pania,UBA3,BATTER,RHB,,0,0,0,0,Uncapped,30
+176,Sahil Parakh,UBA3,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+177,Arsh Kabir Ranga,UBA3,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+178,Adarsh Singh,UBA3,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+179,Manoj Bhandage,UAL3,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,0,0,0,1,Uncapped,30
+180,Mayank Dagar,UAL3,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,8,Uncapped,30
+181,Raghav Goyal,UAL3,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,0,0,0,1,Uncapped,30
+182,Manvanth Kumar,UAL3,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+183,Abid Mushtaq,UAL3,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+184,Jalaj Saxena,UAL3,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,1,Uncapped,40
+185,Atit Sheth,UAL3,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+186,Hritik Shokeen,UAL3,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,13,Uncapped,30
+187,Jagadeesha Suchith,UAL3,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,22,Uncapped,30
+188,Tanay Thyagarajann,UAL3,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+189,Joe Clarke,UWK3,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,50
+190,Connor Esterhuizen,UWK3,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+191,Ajitesh Guruswamy,UWK3,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,30
+192,Siddharth Joon,UWK3,WICKETKEEPER,LHB,,0,0,0,0,Uncapped,30
+193,Tom Moores,UWK3,WICKETKEEPER,LHB,,0,0,0,0,Uncapped,40
+194,Bipin Saurabh,UWK3,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,30
+195,Vishnu Solanki,UWK3,WICKETKEEPER,RHB,,0,0,0,0,Uncapped,30
+196,Hardik Tamore,UWK3,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+197,Sayan Ghosh,UFA3,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+198,Money Grewal,UFA3,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+199,Arpit Guleria,UFA3,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+200,Sunil Kumar,UFA3,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,0,Uncapped,30
+201,Tristan Luus,UFA3,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+202,Divesh Sharma,UFA3,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+203,Abhilash Shetty,UFA3,BOWLER,LHB,LEFT ARM Fast,0,0,0,0,Uncapped,30
+204,Irfan Umair,UFA3,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,0,Uncapped,30
+205,Kuldip Yadav,UFA3,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,3,Uncapped,30
+206,Manan Bhardwaj,USP3,BOWLER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+207,Shreyas Chavan,USP3,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+208,Parikshit Dhanak,USP3,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+209,Chintal Gandhi,USP3,BOWLER,LHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+210,Dharmendrasinh Jadeja,USP3,BOWLER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+211,Amit Kumar,USP3,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+212,Vishal Nishad,USP3,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+213,Saumy Pandey,USP3,BOWLER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+214,Jhathavedh Subramanyan,USP3,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+215,Muhammad Abbas,AL4,ALL-ROUNDER,RHB,LEFT ARM Fast Medium,0,3,0,0,Capped,75
+216,Charith Asalanka,AL4,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,3,80,70,0,Capped,100
+217,Roston Chase,AL4,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,54,69,49,0,Capped,125
+218,Liam Dawson,AL4,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,4,6,21,0,Capped,200
+219,George Garton,AL4,ALL-ROUNDER,LHB,LEFT ARM Fast,0,0,1,5,Capped,75
+220,Kyle Mayers,AL4,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,18,28,41,13,Capped,125
+221,Dwaine Pretorius,AL4,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,3,27,30,7,Capped,100
+222,Nathan Smith,AL4,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,3,14,0,0,Capped,75
+223,Dunith Wellalage,AL4,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,1,31,6,0,Capped,75
+224,Jason Behrendorff,FA4,BOWLER,RHB,LEFT ARM Fast Medium,0,12,17,17,Capped,150
+225,Tanzim Hasan Sakib,FA4,BOWLER,RHB,RIGHT ARM Fast Medium,1,15,39,0,Capped,75
+226,Matthew Potts,FA4,BOWLER,RHB,RIGHT ARM Fast Medium,10,11,1,0,Capped,75
+227,Nahid Rana,FA4,BOWLER,RHB,RIGHT ARM Fast,10,5,1,0,Capped,75
+228,Olly Stone,FA4,BOWLER,RHB,RIGHT ARM Fast,5,10,1,0,Capped,125
+229,Joshua Tongue,FA4,BOWLER,RHB,RIGHT ARM Fast,6,0,0,0,Capped,100
+230,Sandeep Warrier,FA4,BOWLER,RHB,RIGHT ARM Fast,0,0,0,10,Capped,75
+231,Sachin Dhas,UBA4,BATTER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+232,Miles Hammond,UBA4,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+233,Ahammed Imran,UBA4,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+234,Vishvarajsinh Jadeja,UBA4,BATTER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+235,Ayaz Khan,UBA4,BATTER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+236,Daniel Lategan,UBA4,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+237,Siddhant Rana,UBA4,BATTER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+238,Aaron Varghese,UBA4,BATTER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+239,Atharva Ankolekar,UAL4,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+240,Abdul Bazith,UAL4,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,1,Uncapped,30
+241,Karan Lal,UAL4,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+242,Shams Mulani,UAL4,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,2,Uncapped,30
+243,Ripal Patel,UAL4,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,9,Uncapped,30
+244,Prince Rai,UAL4,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+245,Vivrant Sharma,UAL4,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,0,0,0,2,Uncapped,30
+246,Utkarsh Singh,UAL4,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+247,Ayush Vartak,UAL4,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+248,Sanjay Yadav,UAL4,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,1,Uncapped,30
+249,Sayed Irfan Aftab,UFA4,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+250,Esakkimuthu Ayyakutti,UFA4,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+251,Praful Hinge,UFA4,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+252,Pankaj Jaswal,UFA4,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+253,Kulwant Khejroliya,UFA4,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,8,Uncapped,30
+254,Ravi Kumar,UFA4,BOWLER,LHB,LEFT ARM Medium,0,0,0,0,Uncapped,30
+255,Rajan Kumar,UFA4,BOWLER,LHB,LEFT ARM Fast,0,0,0,0,Uncapped,30
+256,Safvan Patel,UFA4,BOWLER,RHB,LEFT ARM Fast Medium,0,0,0,0,Uncapped,30
+257,Ishan Porel,UFA4,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,1,Uncapped,30
+258,Purav Agarwal,USP4,BOWLER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+259,Jikku Bright,USP4,BOWLER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+260,Yash Dicholkar,USP4,BOWLER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+261,Arab Gul,USP4,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,40
+262,Rakibul Hasan,USP4,BOWLER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+263,Traveen Mathew,USP4,BOWLER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+264,Naman Pushpak,USP4,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+265,Izaz Sawariya,USP4,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+266,Roshan Wagshare,USP4,BOWLER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+267,Wesley Agar,FA5,BOWLER,RHB,RIGHT ARM Fast,0,2,0,0,Capped,75
+268,Binura Fernando,FA5,BOWLER,RHB,LEFT ARM Fast Medium,0,4,25,0,Capped,75
+269,Md Shoriful Islam,FA5,BOWLER,LHB,LEFT ARM Fast Medium,12,40,58,0,Capped,75
+270,Joshua Little,FA5,BOWLER,RHB,LEFT ARM Fast Medium,0,42,74,11,Capped,75
+271,Obed McCoy,FA5,BOWLER,LHB,LEFT ARM Fast,0,2,43,8,Capped,75
+272,Billy Stanlake,FA5,BOWLER,RHB,RIGHT ARM Fast,0,7,19,6,Capped,75
+273,R.S Ambrish,UAL5,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+274,Nikhil Chaudhary,UAL5,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,40
+275,Krains Fuletra,UAL5,ALL-ROUNDER,RHB,LEFT ARM Slow Unorthodox,0,0,0,0,Uncapped,30
+276,Macneil Noronha,UAL5,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+277,R Rajkumar,UAL5,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+278,Ninad Rathva,UAL5,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+279,Sunny Sandhu,UAL5,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+280,Shivalik Sharma,UAL5,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+281,Siddharth Yadav,UAL5,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+282,R.Sonu Yadav,UAL5,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+283,Waseem Khanday,UFA5,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+284,Atif Mushtaq,UFA5,BOWLER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+285,Atal Rai,UFA5,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+286,C.Rakshann Readdi,UFA5,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+287,Manish Reddy,UFA5,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+288,Nishanth Saranu,UFA5,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+289,Deependra Singh,UFA5,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+290,Rajat Verma,UFA5,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+291,Rohit Yadav,UFA5,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+292,Emanjot Chahal,UAL6,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+293,Shubhang Hegde,UAL6,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+294,Bal Krishna,UAL6,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+295,Vihaan Malhotra,UAL6,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+296,Khilan Patel,UAL6,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+297,Delano Potgieter,UAL6,ALL-ROUNDER,LHB,RIGHT ARM Medium,0,0,0,0,Uncapped,30
+298,Hardik Raj,UAL6,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+299,Sarthak Ranjan,UAL6,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+300,Parth Rekhade,UAL6,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+301,Tiaan Van Vuuren,UAL6,ALL-ROUNDER,RHB,LEFT ARM Fast Medium,0,0,0,0,Uncapped,30
+302,Shreevatsha Acharya,UFA6,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+303,Sadek Hussain,UFA6,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+304,Shubham Kapse,UFA6,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+305,Aaqib Khan,UFA6,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+306,Sabir Khan,UFA6,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+307,Bayanda Majola,UFA6,BOWLER,LHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+308,Srihari Nair,UFA6,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+309,Brijesh Sharma,UFA6,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+310,Aman Shekhawat,UFA6,BOWLER,RHB,LEFT ARM Fast Medium,0,0,0,0,Uncapped,30
+311,Himanshu Bisht,UAL7,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+312,Shreyan Chakraborty,UAL7,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+313,Kanishk Chouhan,UAL7,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+314,Mayank Gusain,UAL7,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+315,Akash Pugazhanthi,UAL7,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+316,Abhimanyusingh Rajput,UAL7,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+317,Shubham Rana,UAL7,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,0,0,0,0,Uncapped,30
+318,Arpit Rana,UAL7,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+319,Maramreddy Reddy,UAL7,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+320,Sagar Solanki,UAL7,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+321,Aryaman Singh Dhaliwal,UAL8,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+322,Daksh Kamra,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+323,Vishal Mandwal,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+324,Arfaz Mohammad,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+325,Hemang Patel,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+326,Mridul Surroch,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+327,Anuj Thakral,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+328,Parth Vats,UAL8,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+329,Lalit Yadav,UAL8,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+330,Nitin Sai Yadav,UAL8,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+331,Krish Bhagat,UAL9,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Uncapped,30
+332,Prerit Dutta,UAL9,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+333,Sammar Gajjar,UAL9,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+334,Nasir Lone,UAL9,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+335,Ishan Mulchandani,UAL9,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+336,Akhil Scaria,UAL9,ALL-ROUNDER,LHB,RIGHT ARM Medium,0,0,0,0,Uncapped,30
+337,Muhammed Sharafuddeen,UAL9,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+338,K.Ajay Singh,UAL9,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+339,Ritik Tada,UAL9,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+340,Luckyrajsinh Vaghela,UAL9,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+341,Mohamed Ali,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+342,Madhav Bajaj,UAL10,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+343,Akshu Bajwa,UAL10,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+344,Varun Raj Singh Bisht,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+345,Rishabh Chauhan,UAL10,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+346,Jack Edwards,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,50
+347,Dian Forrester,UAL10,ALL-ROUNDER,LHB,RIGHT ARM Medium,0,0,0,0,Uncapped,30
+348,Dhurmil Matkar,UAL10,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Uncapped,30
+349,Shiva Singh,UAL10,ALL-ROUNDER,RHB,LEFT ARM Slow Unorthodox,0,0,0,0,Uncapped,30
+350,Parikshit Valsangkar,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30
+351,Mani Sankar Mura Singh,UAL10,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+352,Virandeep Singh,UAL10,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Associate,30
+353,Chama Milind,UAL10,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,0,0,0,0,Uncapped,30
+354,K.L. Shrijith,UWK3,WICKETKEEPER,LHB,,0,0,0,0,Uncapped,30
+355,Eathan Bosch,AL4,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,1,0,0,Capped,75
+356,Chris Green,AL4,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,1,0,Capped,75
+357,Swastik Chikara,UBA4,BATTER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+358,Rahul Raj Namala,UBA4,BATTER,RHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+359,Virat Singh,UBA4,BATTER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+360,Abhimanyu Easwaran,UBA4,BATTER,RHB,,0,0,0,0,Uncapped,30
+361,Tripuresh Singh,UAL10,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+362,Kyle Verreynne,WK2,WICKETKEEPER,RHB,RIGHT ARM Off Spin,31,19,0,0,Uncapped,125
+363,Blessing Muzarabani,FA5,BOWLER,RHB,RIGHT ARM Fast,18,57,83,0,Capped,75
+364,Ben Sears,FA5,BOWLER,RHB,RIGHT ARM Fast,1,4,22,0,Capped,150
+365,Rajesh Mohanty,UFA6,BOWLER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Uncapped,30
+366,Swastik Samal,UBA4,BATTER,RHB,RIGHT ARM Medium,0,0,0,0,Uncapped,30
+367,Saransh Jain,UAL10,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,0,0,0,Uncapped,30
+368,Sooraj Sangaraju,UBA4,BATTER,RHB,,0,0,0,0,Uncapped,30
+369,Tanmay Agarwal,UBA4,BATTER,LHB,RIGHT ARM Leg Spin,0,0,0,0,Uncapped,30

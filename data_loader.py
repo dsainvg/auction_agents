@@ -157,10 +157,25 @@ def load_set_order() -> List[str]:
         with open(csv_path, 'r', encoding='utf-8') as file:
             reader = csv.DictReader(file)
             for row in reader:
-                if '2025_Set' in row and row['2025_Set']:
+                # Try different column name variants
+                if '2026 Set' in row and row['2026 Set']:
+                    set_order.append(row['2026 Set'])
+                elif '2025_Set' in row and row['2025_Set']:
                     set_order.append(row['2025_Set'])
+        
+        # If no sets were loaded, use fallback
+        if not set_order:
+            print(f"[DATA_LOADER] Warning: No sets loaded from CSV, using fallback order")
+            set_order = ['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 
+                        'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10',
+                        'SP1', 'SP2', 'SP3', 'WK1', 'WK2', 'WK3', 'WK4',
+                        'UAL1', 'UAL2', 'UAL3', 'UAL4', 'UAL5', 'UAL6', 'UAL7', 'UAL8', 'UAL9', 'UAL10', 'UAL11', 'UAL12', 'UAL13', 'UAL14', 'UAL15',
+                        'UBA1', 'UBA2', 'UBA3', 'UBA4', 'UBA5', 'UBA6', 'UBA7', 'UBA8', 'UBA9',
+                        'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10',
+                        'USP1', 'USP2', 'USP3', 'USP4', 'USP5',
+                        'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6']
     except Exception as e:
-        print(f"Error loading set order: {e}")
+        print(f"[DATA_LOADER] Error loading set order: {e}")
         # Fallback to a default order if file not found
         set_order = ['M1', 'M2', 'AL1', 'AL2', 'AL3', 'AL4', 'AL5', 'AL6', 'AL7', 'AL8', 'AL9', 'AL10', 
                     'BA1', 'BA2', 'BA3', 'BA4', 'BA5', 'FA1', 'FA2', 'FA3', 'FA4', 'FA5', 'FA6', 'FA7', 'FA8', 'FA9', 'FA10',
@@ -170,7 +185,37 @@ def load_set_order() -> List[str]:
                     'UFA1', 'UFA2', 'UFA3', 'UFA4', 'UFA5', 'UFA6', 'UFA7', 'UFA8', 'UFA9', 'UFA10',
                     'USP1', 'USP2', 'USP3', 'USP4', 'USP5',
                     'UWK1', 'UWK2', 'UWK3', 'UWK4', 'UWK5', 'UWK6']
+    
+    print(f"[DATA_LOADER] Loaded set order with {len(set_order)} sets")
     return set_order
+
+def load_team_budgets() -> Dict[Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH'], float]:
+    """Load team budgets from teams_purse.csv."""
+    team_budgets = {}
+    csv_path = os.path.join(os.path.dirname(__file__), "DB", "teams_purse.csv")
+    
+    try:
+        with open(csv_path, 'r', encoding='utf-8') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                team = row['Team'].strip()
+                available = float(row['Available']) if row['Available'] else 0.0
+                team_budgets[team] = available
+        
+        print(f"[DATA_LOADER] Loaded budgets for {len(team_budgets)} teams from teams_purse.csv")
+        for team, budget in team_budgets.items():
+            print(f"[DATA_LOADER] {team}: {budget:.2f} Cr available")
+    
+    except Exception as e:
+        print(f"[DATA_LOADER] Error loading team budgets: {e}")
+        # Fallback to default budgets if file not found
+        print(f"[DATA_LOADER] Using fallback budget of 125.0 Cr for all teams")
+        team_budgets = {
+            'CSK': 125.0, 'DC': 125.0, 'GT': 125.0, 'KKR': 125.0, 'LSG': 125.0,
+            'MI': 125.0, 'PBKS': 125.0, 'RR': 125.0, 'RCB': 125.0, 'SRH': 125.0
+        }
+    
+    return team_budgets
 
 def initialize_auction(state: AgentState) -> AgentState:
     """Initialize auction state by loading all player data and retained players."""
@@ -184,16 +229,7 @@ def initialize_auction(state: AgentState) -> AgentState:
     print("[DATA_LOADER] Loading retained players...")
     retained_by_team = load_retained_players()
     
-    # Calculate budgets after retentions (starting budget is 120 Cr)
-    starting_budget = 120.0
-    budgets = {}
-    
-    for team in ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']:
-        retained_cost = sum(p.sold_price for p in retained_by_team[team])
-        budgets[f"{team}_Budget"] = starting_budget - retained_cost
-        print(f"[DATA_LOADER] {team}: {len(retained_by_team[team])} retained players, {retained_cost:.2f} Cr spent, {budgets[f'{team}_Budget']:.2f} Cr remaining")
-    
-    # Initialize state
+    # Initialize state with base data
     state['RemainingPlayers'] = players_by_set
     state['RemainingSets'] = set_order
     state['CurrentSet'] = None
@@ -207,14 +243,22 @@ def initialize_auction(state: AgentState) -> AgentState:
     # Assign retained players to teams
     for team in ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']:
         state[team] = retained_by_team[team]
+        retained_count = len(retained_by_team[team])
+        retained_cost = sum(p.sold_price for p in retained_by_team[team])
+        print(f"[DATA_LOADER] {team}: {retained_count} retained players, {retained_cost:.2f} Cr spent")
     
     state['UnsoldPlayers'] = []
     
-    # Set budgets
-    for key, value in budgets.items():
-        state[key] = value
+    # Now load team budgets (which already account for retentions)
+    print("[DATA_LOADER] Loading team budgets from teams_purse.csv...")
+    team_budgets = load_team_budgets()
     
-    state['Messages'] = [AIMessage(content="Auction initialized with player data and retained players loaded.")]
+    for team in ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']:
+        available_budget = team_budgets.get(team, 125.0)
+        state[f"{team}_Budget"] = available_budget
+        print(f"[DATA_LOADER] {team}: {available_budget:.2f} Cr available after retentions")
+    
+    state['Messages'] = [AIMessage(content="Auction initialized with player data, retained players, and team budgets loaded.")]
     
     print("[DATA_LOADER] Auction initialization complete")
     
