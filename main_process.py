@@ -1,4 +1,5 @@
 import warnings
+import time
 from langgraph.graph import StateGraph, END
 
 from utils import AgentState, load_api_keys, prettyprint, export_sold_players_to_csv
@@ -99,6 +100,9 @@ with open('graph_visualization.png', 'wb') as f:
 print(f"[MAIN] Invoking graph with recursion_limit=10000, CurrentPlayer={getattr(agent.get('CurrentPlayer'), 'name', None)}", flush=True)
 # Run the graph with increased recursion limit and protect with logging
 print("[MAIN] About to invoke graph.invoke(...)", flush=True)
+
+# Start timing the auction
+start_time = time.time()
 try:
     result = graph.invoke(agent, {"recursion_limit": 10000})
     print("[MAIN] graph.invoke returned normally", flush=True)
@@ -106,7 +110,12 @@ except Exception as e:
     print(f"[MAIN] Exception during graph.invoke: {type(e).__name__}: {e}", flush=True)
     raise
 
+# Calculate total time
+end_time = time.time()
+total_time = end_time - start_time
+
 print("\nAuction completed!")
+print(f"Total time for complete auction: {total_time:.2f} seconds ({total_time/60:.2f} minutes)")
 pickle.dump(result, open("final_agent_state.pkl", "wb"))
 print("Final agent state:")
 prettyprint(result)
