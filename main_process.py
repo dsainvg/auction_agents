@@ -1,7 +1,7 @@
 import warnings
 from langgraph.graph import StateGraph, END
 
-from utils import AgentState, load_api_keys, prettyprint
+from utils import AgentState, load_api_keys, prettyprint, export_sold_players_to_csv
 from model_config import MODEL_NAME
 from data_loader import initialize_auction
 from host import host
@@ -110,3 +110,6 @@ print("\nAuction completed!")
 pickle.dump(result, open("final_agent_state.pkl", "wb"))
 print("Final agent state:")
 prettyprint(result)
+
+# Export all sold players (excluding retained) to CSV
+export_sold_players_to_csv(result)

@@ -17,8 +17,9 @@ Each paragraph must cover the following aspects:
    - Briefly reference their key batting/bowling strengths backed by the detailed `stats` provided.
 
 2 Summary of recent and overall stats:
-   - One tight mini‑summary of their batting and/or bowling record (averages, strike rate, economy, wicket/impact rate, consistency).
-   - Highlight formats or phases (powerplay, middle overs, death) where they excel.
+   - Provide balanced analysis of recent form (last 1-2 seasons/IPL editions) in context of overall career performance. Recent trends matter but don't ignore proven track record.
+   - One tight mini‑summary of their batting and/or bowling record (averages, strike rate, economy, wicket/impact rate, consistency) noting both recent performance and career achievements.
+   - Highlight formats or phases (powerplay, middle overs, death) where they excel, and note if recent form shows any concerns while keeping perspective on overall capability.
 
 3 Fit with the buying team’s current squad and strategy:
    - Explain how they plug a specific hole (e.g., Indian middle‑order, left‑hand option, death bowling, spin backup, pace‑spin balance).

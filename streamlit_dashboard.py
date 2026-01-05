@@ -4,7 +4,7 @@ import pickle
 import os
 from datetime import datetime
 from langgraph.graph import StateGraph, END
-from utils import AgentState, get_raise_amount, Player, load_api_keys
+from utils import AgentState, get_raise_amount, Player, load_api_keys, export_sold_players_to_csv
 from data_loader import load_player_data, initialize_auction
 from host import host
 from host_assistant import host_assistant
@@ -42,6 +42,8 @@ def init_session_state():
         st.session_state.auction_completed = False
     if 'unsold_players' not in st.session_state:
         st.session_state.unsold_players = []
+    if 'csv_generated' not in st.session_state:
+        st.session_state.csv_generated = False
 
 def create_graph():
     """Create and return the LangGraph"""
@@ -179,6 +181,21 @@ def render_ui():
     # Auction completion banner at top
     if st.session_state.auction_completed:
         st.success("🏁 Auction Completed! Teams have been finalized.")
+        
+        # Show CSV download link if available
+        csv_file = "streamlit_auction_sold_players.csv"
+        if os.path.exists(csv_file):
+            with open(csv_file, 'rb') as f:
+                csv_data = f.read()
+            st.download_button(
+                label="📥 Download Sold Players CSV",
+                data=csv_data,
+                file_name="auction_sold_players.csv",
+                mime="text/csv",
+                key="download_csv"
+            )
+        elif st.session_state.csv_generated:
+            st.info("✅ CSV exported to: streamlit_auction_sold_players.csv")
     
     # Host status and auction info - centered
     col1, col2, col3, col4 = st.columns(4)
@@ -487,6 +504,13 @@ def process_next_state():
         st.session_state.auction_running = False
         st.session_state.stream_iterator = None
         st.session_state.auction_completed = True
+        # Auto-generate CSV when auction completes
+        if not st.session_state.csv_generated and st.session_state.current_state:
+            try:
+                export_sold_players_to_csv(st.session_state.current_state, "streamlit_auction_sold_players.csv")
+                st.session_state.csv_generated = True
+            except Exception as e:
+                print(f"[DEBUG] Error exporting CSV: {e}")
         # Force rerun to show completion UI
         st.rerun()
         return False
@@ -515,13 +539,14 @@ def main():
     st.title("🏏 IPL Mock Auction Dashboard")
     
     # Control buttons
-    col1, col2, col3, col4 = st.columns([1, 1, 1, 1])
+    col1, col2, col3, col4, col5 = st.columns([1, 1, 1, 1, 1])
     with col1:
         if st.button("🚀 Start Mock Auction", key="start_btn", disabled=st.session_state.auction_running):
             st.session_state.bid_history = []
             st.session_state.teams = {'CSK': [], 'DC': [], 'GT': [], 'KKR': [], 'LSG': [], 'MI': [], 'PBKS': [], 'RR': [], 'RCB': [], 'SRH': []}
             st.session_state.budgets = {'CSK': 125.0, 'DC': 125.0, 'GT': 125.0, 'KKR': 125.0, 'LSG': 125.0, 'MI': 125.0, 'PBKS': 125.0, 'RR': 125.0, 'RCB': 125.0, 'SRH': 125.0}
             st.session_state.unsold_players = []
+            st.session_state.csv_generated = False
             start_auction()
     
     with col2:
@@ -542,10 +567,22 @@ def main():
             st.rerun()
     
     with col4:
+        # CSV Export button - enabled when auction is completed or current state exists
+        csv_file = "streamlit_auction_sold_players.csv"
+        if st.button("📥 Export CSV", key="export_btn", disabled=st.session_state.current_state is None):
+            if st.session_state.current_state:
+                try:
+                    export_sold_players_to_csv(st.session_state.current_state, csv_file)
+                    st.session_state.csv_generated = True
+                    st.success(f"✅ Exported to {csv_file}")
+                except Exception as e:
+                    st.error(f"Error exporting: {e}")
+    
+    with col5:
         if st.button("🔄 Reset Dashboard", key="reset_btn"):
             st.session_state.auction_running = False
             st.session_state.stream_iterator = None
-            for key in ['bid_history', 'teams', 'budgets', 'current_state', 'auction_error', 'auction_completed', 'unsold_players']:
+            for key in ['bid_history', 'teams', 'budgets', 'current_state', 'auction_error', 'auction_completed', 'unsold_players', 'csv_generated']:
                 if key in st.session_state:
                     del st.session_state[key]
             st.rerun()

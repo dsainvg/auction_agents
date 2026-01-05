@@ -80,7 +80,7 @@ class Player:
     reason_for_purchase: Union[str, None] = None
     # Store all team bid decisions/messages during auction rounds for this player
     # Format: {"CSK": [{"round": 1, "reason": "...", "decision": "raise/pass"}], ...}
-    team_bid_history: Dict[str, List[Dict[str, Union[int, str, float]]]] = field(default_factory=dict)
+    team_bid_history: Union[Dict[str, List[Dict[str, Union[int, str, float]]]], Literal["Retained"]] = field(default_factory=dict)
     
 
 @dataclass
@@ -363,3 +363,70 @@ def get_set_name(set_abbreviation: Union[str, List[str]]) -> Union[str, List[str
     if isinstance(set_abbreviation, list):
         return [SET_ABBREVIATION_MAPPING.get(abbr, "Unknown Set") for abbr in set_abbreviation]
     return SET_ABBREVIATION_MAPPING.get(set_abbreviation, "Unknown Set")
+
+
+def export_sold_players_to_csv(state: AgentState, output_file: str = "auction_sold_players.csv") -> None:
+    """Export all players sold during the auction (excluding retained players) to a CSV file.
+    
+    Args:
+        state: The final AgentState containing all team rosters
+        output_file: Path to the output CSV file (default: auction_sold_players.csv)
+    """
+    import csv
+    import os
+    
+    # List of all teams
+    teams = ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']
+    
+    # Collect all sold players (excluding retained ones)
+    sold_players = []
+    for team in teams:
+        team_players = state.get(team, [])
+        for player in team_players:
+            # Check if player is retained by looking at team_bid_history
+            is_retained = False
+            if player.team_bid_history:
+                # Check if any bid history entry has 'Retained' marker
+                for team_name, history in player.team_bid_history.items():
+                    if history and any(entry.get('decision') == 'Retained' for entry in history):
+                        is_retained = True
+                        break
+            
+            # Only include players sold during auction (not retained)
+            if not is_retained and player.sold_price > 0:
+                sold_players.append({
+                    'Team': team,
+                    'Player_Name': player.name,
+                    'Specialism': player.specialism,
+                    'Batting_Style': player.batting_style,
+                    'Bowling_Style': player.bowling_style,
+                    'Test_Caps': player.test_caps,
+                    'ODI_Caps': player.odi_caps,
+                    'T20_Caps': player.t20_caps,
+                    'IPL_Matches': player.ipl_matches,
+                    'Player_Status': player.player_status,
+                    'Reserve_Price_Lakh': player.reserve_price_lakh,
+                    'Sold_Price_Crore': player.sold_price,
+                    'Set': player.set,
+                    'Reason_for_Purchase': player.reason_for_purchase or 'Purchased in auction'
+                })
+    
+    # Write to CSV
+    if sold_players:
+        fieldnames = ['Team', 'Player_Name', 'Specialism', 'Batting_Style', 'Bowling_Style', 
+                      'Test_Caps', 'ODI_Caps', 'T20_Caps', 'IPL_Matches', 'Player_Status',
+                      'Reserve_Price_Lakh', 'Sold_Price_Crore', 'Set', 'Reason_for_Purchase']
+        
+        with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(sold_players)
+        
+        print(f"\n{'='*60}")
+        print(f"AUCTION SOLD PLAYERS EXPORT")
+        print(f"{'='*60}")
+        print(f"Total players sold (excluding retained): {len(sold_players)}")
+        print(f"Exported to: {output_file}")
+        print(f"{'='*60}\n")
+    else:
+        print("\nNo players were sold during the auction (excluding retained players).\n")

@@ -136,7 +136,15 @@ def load_retained_players() -> Dict[Literal['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI
                     status=True,  # Already sold
                     sold_price=sold_price,
                     sold_team=team,
-                    reason_for_purchase=row['Reason_for_Retention'] if 'Reason_for_Retention' in row else "Retained"
+                    reason_for_purchase=row['Reason_for_Retention'] if 'Reason_for_Retention' in row else "Retained",
+                    team_bid_history={
+                        team: [{
+                            'round': 0,
+                            'decision': 'Retained',
+                            'reason': row['Reason_for_Retention'] if 'Reason_for_Retention' in row else "Retained",
+                            'amount': sold_price
+                        }]
+                    }
                 )
                 
                 if team in retained_by_team:
