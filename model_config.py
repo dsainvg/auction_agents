@@ -2,7 +2,7 @@
 
 Change values here to alter model parameters used across the project.
 """
-MODEL_NAME = "deepseek-ai/deepseek-v3.1-terminus"
+MODEL_NAME = "deepseek-ai/deepseek-v3.1"
 TEMPERATURE = 0.15
 TOP_P = 0.7
 MAX_TOKENS = 8192
